@@ -13,8 +13,11 @@
   "ingredients": [
     {
       "item": "almond_milk",
-      "cup": 1.5,
-      "note": "whisked with 1 tsp ground turmeric"
+      "cup": 1.5
+    },
+    {
+      "item": "turmeric",
+      "tsp": 1
     },
     {
       "item": "coconut_milk",

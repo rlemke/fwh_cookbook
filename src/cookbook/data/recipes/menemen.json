@@ -1,0 +1,39 @@
+{
+  "id": "menemen",
+  "title": "Menemen",
+  "category": "breakfast",
+  "summary": "Turkish soft-scrambled eggs folded through tomatoes and peppers that have been softened slowly in olive oil.",
+  "servings": 2,
+  "serving_size": "about 1 cup",
+  "time": {"prep_min": 10, "cook_min": 15, "rest_min": 0},
+  "ingredients": [
+    {"item": "olive_oil", "tbsp": 2},
+    {"item": "bell_pepper", "each": 0.5, "note": "seeded and thinly sliced"},
+    {"item": "tomato", "g": 250, "note": "about 2 medium, peeled and chopped"},
+    {"item": "salt", "tsp": 0.5},
+    {"item": "cayenne", "tsp": 0.25, "note": "chili flakes are traditional"},
+    {"item": "egg", "each": 4},
+    {"item": "black_pepper", "tsp": 0.125},
+    {"item": "parsley", "tbsp": 1}
+  ],
+  "steps": [
+    "Warm the olive oil in a 20–23 cm (8–9 in) pan over medium heat. Cook the pepper 4–5 minutes until soft.",
+    "Add the tomatoes and salt and cook 6–8 minutes, stirring, until most of the liquid has cooked off and the mixture looks jammy. Stir in the chili.",
+    "Crack in the eggs. Leave them 30 seconds, then stir gently and slowly, folding the tomato through, until the eggs are just set in soft, glossy curds. Take the pan off the heat while they still look slightly underdone.",
+    "Season with black pepper, scatter with parsley and serve at once."
+  ],
+  "swaps": [],
+  "tips": [
+    "Turkish cooks usually use long, mild green peppers (sivri biber); a red bell pepper is sweeter but works.",
+    "Weigh the tomatoes: they are the main source of carbs in the dish."
+  ],
+  "origin": {
+    "family": "Menemen",
+    "place": "Menemen, İzmir",
+    "region": "Middle East & North Africa",
+    "lat": 38.61,
+    "lon": 27.07,
+    "era": "1900s",
+    "history": "Menemen is a staple Turkish breakfast of eggs scrambled with tomatoes, peppers and olive oil. Its name is shared with a town near İzmir on the Aegean coast, and the dish is often said to come from there, though that link is popular tradition rather than documented history. Whether onion belongs in it is a long-running, good-humoured argument in Turkey."
+  }
+}

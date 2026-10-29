@@ -1,0 +1,45 @@
+{
+  "id": "brazilian-lime-mousse",
+  "title": "Brazilian lime mousse (mousse de limão)",
+  "category": "mousses",
+  "summary": "A sharp, airy lime mousse that keeps the tang of the Brazilian classic, made with cream, cream cheese and allulose in place of condensed milk.",
+  "servings": 6,
+  "serving_size": "1/2 cup",
+  "time": {"prep_min": 20, "cook_min": 0, "rest_min": 180},
+  "ingredients": [
+    {"item": "gelatin", "tsp": 1},
+    {"item": "water", "tbsp": 2, "note": "cold"},
+    {"item": "cream_cheese", "g": 115, "note": "softened"},
+    {"item": "powdered_erythritol", "cup": 0.25},
+    {"item": "allulose", "cup": 0.25},
+    {"item": "lime_juice", "cup": 0.33, "note": "from 3–4 limes"},
+    {"item": "lime_zest", "tbsp": 1, "note": "plus extra to serve"},
+    {"item": "salt", "tsp": 0.0625},
+    {"item": "heavy_cream", "cup": 1.25, "note": "cold"}
+  ],
+  "steps": [
+    "Sprinkle the gelatin over the cold water and leave 5 minutes to swell, then melt it by warming 10–15 seconds in the microwave or over hot water. Do not let it boil.",
+    "Beat the cream cheese with the powdered erythritol and allulose until completely smooth. Beat in the lime juice a little at a time, then the zest, salt and melted gelatin.",
+    "In a separate cold bowl whip the cream to soft peaks.",
+    "Stir a third of the cream into the lime mixture to loosen it, then gently fold in the rest until no streaks remain.",
+    "Spoon into six glasses and chill at least 3 hours, until set. Finish with a little grated lime zest."
+  ],
+  "swaps": [
+    {"from": "cream_cheese", "to": "vegan_cream_cheese"},
+    {"from": "heavy_cream", "to": "coconut_cream", "note": "chill the can overnight and whip only the thick part"}
+  ],
+  "dairy_free_notes": "Whipped coconut cream holds less air than dairy cream, so the mousse is denser and the coconut flavour sits alongside the lime; the gelatin is what keeps it set.",
+  "tips": [
+    "In the original, the acid in the lime juice thickens the condensed milk on its own; without condensed milk the gelatin does that job.",
+    "Zest the limes before juicing them, and avoid the bitter white pith."
+  ],
+  "origin": {
+    "family": "Mousse",
+    "place": "Brazil",
+    "region": "Latin America & Caribbean",
+    "lat": -14.24,
+    "lon": -51.93,
+    "era": "1900s",
+    "history": "Mousse de limão is one of Brazil's most familiar home desserts, built on sweetened condensed milk, cream and the juice and zest of limes. Condensed milk became a mainstay of Brazilian sweets during the twentieth century, and this quick, no-bake mousse is a product of that kitchen; it has no single recorded inventor."
+  }
+}

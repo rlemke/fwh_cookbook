@@ -1,0 +1,36 @@
+{
+  "id": "hong-kong-milk-tea",
+  "title": "Hong Kong milk tea",
+  "category": "drinks",
+  "summary": "Black tea brewed hard and strong, then softened with rich cream for the silky, slightly bitter cup of Hong Kong's cafés.",
+  "servings": 2,
+  "serving_size": "1 cup",
+  "time": {"prep_min": 2, "cook_min": 10, "rest_min": 0},
+  "ingredients": [
+    {"item": "black_tea", "cup": 1.5, "note": "4 tea bags or 4 tsp loose black tea (a Ceylon blend is traditional) simmered in 1¾ cups water"},
+    {"item": "heavy_cream", "cup": 0.33},
+    {"item": "allulose", "tbsp": 2, "note": "or to taste"}
+  ],
+  "steps": [
+    "Bring the water to a boil, add the tea, lower the heat and simmer 4–5 minutes. It should be very dark and slightly bitter, much stronger than tea you would drink black.",
+    "Strain the tea through a fine sieve or cloth; for a smoother cup, pour it back and forth between the pan and a jug a few times, as Hong Kong cafés do with a tea 'sock'.",
+    "Divide the cream and allulose between two cups, pour in the hot tea and stir."
+  ],
+  "swaps": [
+    {"from": "heavy_cream", "to": "coconut_milk", "note": "full-fat canned coconut milk"}
+  ],
+  "dairy_free_notes": "Coconut milk gives a similar body but a gentler, slightly nutty flavour; it can separate if boiled, so add it off the heat.",
+  "tips": [
+    "Traditionally the tea is mixed with evaporated milk, or sweetened condensed milk, which is mostly sugar; cream plus allulose gives a similar richness without it.",
+    "Serve over ice for the cold version; make the tea a little stronger so the ice does not water it down."
+  ],
+  "origin": {
+    "family": "Milk tea",
+    "place": "Hong Kong",
+    "region": "East Asia",
+    "lat": 22.32,
+    "lon": 114.17,
+    "era": "1950s",
+    "history": "Milk tea grew out of the British habit of tea with milk during colonial rule, adapted for Hong Kong's working population with strong tea and evaporated milk. It became the signature drink of the cha chaan teng, the inexpensive diner-cafés that spread after the Second World War. Hong Kong-style milk tea is now listed among the city's items of intangible cultural heritage."
+  }
+}

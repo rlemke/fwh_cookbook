@@ -1,0 +1,46 @@
+{
+  "id": "gajar-halwa",
+  "title": "Gajar halwa (carrot pudding)",
+  "category": "fruit",
+  "summary": "Grated carrot slowly simmered in milk and cream until thick and jammy, then fried in ghee-rich butter with cardamom and finished with pistachios — served in small, rich spoonfuls.",
+  "servings": 6,
+  "serving_size": "1/3 cup",
+  "time": {"prep_min": 15, "cook_min": 50, "rest_min": 0},
+  "ingredients": [
+    {"item": "carrot", "g": 300, "note": "finely grated"},
+    {"item": "whole_milk", "cup": 0.5},
+    {"item": "heavy_cream", "cup": 0.75},
+    {"item": "butter", "tbsp": 2, "note": "or ghee"},
+    {"item": "allulose", "cup": 0.25},
+    {"item": "cardamom", "tsp": 0.5},
+    {"item": "salt", "tsp": 0.0625},
+    {"item": "pistachios", "tbsp": 3, "note": "chopped"},
+    {"item": "almonds", "tbsp": 1, "note": "slivered or chopped"}
+  ],
+  "steps": [
+    "Put the grated carrot, milk and cream in a heavy wide pan and bring to a simmer over medium heat.",
+    "Cook, stirring often and scraping the bottom, for 30–35 minutes, until the liquid has almost completely evaporated and the carrot looks thick and glossy.",
+    "Add the butter (or ghee) and fry, stirring constantly, for 8–10 minutes until the carrot deepens in colour and the fat starts to separate at the edges.",
+    "Stir in the allulose, cardamom and salt and cook 3–4 minutes more; allulose catches easily, so keep the heat at medium-low and keep stirring.",
+    "Stir in most of the nuts and serve warm, scattered with the rest."
+  ],
+  "swaps": [
+    {"from": "whole_milk", "to": "coconut_milk"},
+    {"from": "heavy_cream", "to": "coconut_milk"},
+    {"from": "butter", "to": "coconut_oil"}
+  ],
+  "dairy_free_notes": "Coconut milk reduces faster and leaves a clear coconut flavour instead of the caramelised-milk taste of the original; stop reducing a little earlier so it does not turn oily.",
+  "tips": [
+    "Portions are small on purpose: carrot is the main ingredient, and this is where most of the carbohydrate comes from.",
+    "Traditional halwa uses far more carrot and reduced milk solids (khoa); the cream here gives the richness with less milk sugar."
+  ],
+  "origin": {
+    "family": "Halwa",
+    "place": "Punjab",
+    "region": "South Asia",
+    "lat": 31.15,
+    "lon": 75.34,
+    "era": "1900s",
+    "history": "Halwa is a broad family of sweet, dense puddings found from the Middle East to South Asia. Gajar ka halwa, made by slowly cooking grated carrots in milk and finishing them in ghee, is associated with Punjab and northern India, where it is a winter dessert when red carrots are in season and a fixture of festivals such as Diwali."
+  }
+}

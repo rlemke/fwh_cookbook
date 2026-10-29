@@ -2,7 +2,7 @@
   "id": "gingerbread-loaf",
   "title": "Gingerbread loaf",
   "category": "cakes",
-  "summary": "A dark, warmly spiced English-style ginger loaf, deepened with cocoa and coffee in place of treacle.",
+  "summary": "A dark, warmly spiced English-style ginger loaf, with a single spoonful of molasses for the true treacly flavour.",
   "servings": 10,
   "serving_size": "1 slice",
   "time": {
@@ -44,11 +44,6 @@
       "tsp": 0.125
     },
     {
-      "item": "cocoa_powder",
-      "tsp": 2,
-      "note": "for colour"
-    },
-    {
       "item": "baking_powder",
       "tsp": 1.5
     },
@@ -78,9 +73,13 @@
       "each": 3
     },
     {
-      "item": "coffee",
+      "item": "molasses",
+      "tbsp": 1
+    },
+    {
+      "item": "water",
       "cup": 0.25,
-      "note": "cooled"
+      "note": "hot"
     },
     {
       "item": "sour_cream",
@@ -93,8 +92,8 @@
   ],
   "steps": [
     "Heat the oven to 160 °C (325 °F). Grease a 23 × 13 cm (9 × 5 in) loaf pan and line it with a parchment sling.",
-    "Whisk the almond flour, coconut flour, spices, cocoa, baking powder, baking soda and salt together.",
-    "In another bowl whisk the melted butter with the erythritol and allulose, then whisk in the eggs one at a time, followed by the coffee, sour cream and vanilla.",
+    "Whisk the almond flour, coconut flour, spices, baking powder, baking soda and salt together.",
+    "Stir the molasses into the hot water until dissolved. In another bowl whisk the melted butter with the erythritol and allulose, then whisk in the eggs one at a time, followed by the molasses water, sour cream and vanilla.",
     "Stir the dry ingredients into the wet until smooth.",
     "Scrape into the pan and bake 45–50 minutes, until a skewer comes out clean. Allulose browns quickly, so cover the top loosely with foil after 25 minutes.",
     "Cool in the pan for 20 minutes, then lift out and cool completely. Wrap and keep for a day before slicing; like traditional gingerbread it becomes stickier and better."
@@ -113,7 +112,8 @@
   ],
   "dairy_free_notes": "With coconut oil and coconut yogurt the loaf is just as moist; it firms more in the fridge, so keep it at room temperature.",
   "tips": [
-    "The allulose is what gives a slightly sticky, treacly crumb; with erythritol alone the loaf is drier."
+    "The allulose is what gives a slightly sticky, treacly crumb; with erythritol alone the loaf is drier.",
+    "Only 1 tablespoon of molasses goes in: it is sugar, and the limit keeps each slice low-carb. It is there for flavour, not sweetness, so do not increase it; the loaf will be paler than a full treacle gingerbread."
   ],
   "origin": {
     "family": "Gingerbread",
@@ -122,6 +122,6 @@
     "lat": 51.51,
     "lon": -0.13,
     "era": "medieval",
-    "history": "Spiced honey breads were made in medieval Europe, and gingerbread was a popular fair food in England by the late Middle Ages. Once cheap molasses and treacle arrived from the Caribbean sugar trade, English gingerbread developed into the dark, moist, sticky loaf cake known today. This low-carb version cannot use treacle, so cocoa and coffee supply the depth of colour and bitterness."
+    "history": "Spiced honey breads were made in medieval Europe, and gingerbread was a popular fair food in England by the late Middle Ages. Once cheap molasses and treacle arrived from the Caribbean sugar trade, English gingerbread developed into the dark, moist, sticky loaf cake known today. This low-carb version keeps a single spoonful of molasses for that flavour."
   }
 }

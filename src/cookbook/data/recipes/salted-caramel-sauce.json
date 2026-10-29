@@ -31,12 +31,16 @@
     },
     {
       "item": "salt",
-      "tsp": 0.5,
-      "note": "or flaky sea salt to taste"
+      "tsp": 0.5
     },
     {
       "item": "vanilla",
       "tsp": 1
+    },
+    {
+      "item": "flaky_salt",
+      "tsp": 0.5,
+      "note": "to finish"
     }
   ],
   "steps": [
@@ -45,7 +49,7 @@
     "Off the heat, whisk in the butter a piece at a time. It will foam.",
     "Slowly pour in the warm cream, whisking; stand back, as it sputters.",
     "Return to low heat and simmer 2–3 minutes, whisking, until smooth and slightly thickened. Stir in the salt and vanilla.",
-    "Cool 20 minutes before using; it thickens as it cools. Refrigerate up to 2 weeks and warm gently to loosen."
+    "Cool 20 minutes before using; it thickens as it cools. Sprinkle a few flakes of sea salt over the sauce as you serve it. Refrigerate up to 2 weeks and warm gently to loosen."
   ],
   "swaps": [
     {

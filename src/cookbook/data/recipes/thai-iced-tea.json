@@ -1,0 +1,40 @@
+{
+  "id": "thai-iced-tea",
+  "title": "Thai iced tea",
+  "category": "drinks",
+  "summary": "Very strong spiced black tea, sweetened while hot, poured over ice and crowned with a float of cream.",
+  "servings": 2,
+  "serving_size": "1 tall glass",
+  "time": {"prep_min": 5, "cook_min": 5, "rest_min": 30},
+  "ingredients": [
+    {"item": "black_tea", "cup": 2, "note": "brewed double strength (4 tea bags or 4 tsp loose tea per 2 cups water, steeped 5 minutes)"},
+    {"item": "cardamom", "tsp": 0.25},
+    {"item": "cinnamon", "tsp": 0.125},
+    {"item": "vanilla", "tsp": 0.5},
+    {"item": "allulose", "tbsp": 3},
+    {"item": "heavy_cream", "tbsp": 4, "note": "plus ice to fill the glasses"}
+  ],
+  "steps": [
+    "Brew the tea with the cardamom and cinnamon in the hot water, steeping 5 minutes so it is darker than you would drink it plain.",
+    "Strain, then stir in the vanilla and allulose until dissolved. Let cool, then chill at least 30 minutes; hot tea melts the ice and dilutes the drink.",
+    "Fill two tall glasses with ice and pour in the tea, leaving room at the top.",
+    "Spoon 2 tbsp of cream over each glass so it floats and swirls down, and stir just before drinking."
+  ],
+  "swaps": [
+    {"from": "heavy_cream", "to": "coconut_cream", "note": "or full-fat coconut milk for a lighter float"}
+  ],
+  "dairy_free_notes": "Coconut cream floats and swirls the same way and adds a faint coconut flavour that suits the spices.",
+  "tips": [
+    "Commercial Thai tea mixes are usually spiced (often with star anise) and coloured orange; this version approximates the spice with cardamom and cinnamon and will look brown, not orange.",
+    "Allulose dissolves fully in cold drinks, where erythritol can leave grit."
+  ],
+  "origin": {
+    "family": "Thai tea",
+    "place": "Bangkok",
+    "region": "Southeast Asia",
+    "lat": 13.76,
+    "lon": 100.5,
+    "era": "1900s",
+    "history": "Cha yen, iced milk tea, is sold by street vendors and cafés across Thailand. It is made from a strong black tea, typically a spiced, coloured blend, sweetened with sugar or condensed milk and finished with evaporated milk over ice. When and how the drink took its present form is not well documented."
+  }
+}

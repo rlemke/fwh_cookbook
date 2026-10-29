@@ -31,8 +31,12 @@
     },
     {
       "item": "lime_juice",
-      "tbsp": 2,
-      "note": "plus the finely grated zest of 1 lime, if you have it"
+      "tbsp": 2
+    },
+    {
+      "item": "lime_zest",
+      "tsp": 2,
+      "note": "finely grated, from about 1 lime"
     },
     {
       "item": "vanilla",

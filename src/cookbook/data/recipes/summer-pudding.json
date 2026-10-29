@@ -51,13 +51,13 @@
       "g": 250
     },
     {
-      "item": "blackberries",
-      "g": 150
+      "item": "redcurrants",
+      "g": 125,
+      "note": "stripped from their stalks"
     },
     {
-      "item": "strawberries",
-      "g": 150,
-      "note": "hulled and quartered"
+      "item": "blackberries",
+      "g": 125
     },
     {
       "item": "erythritol",

@@ -1,8 +1,8 @@
 {
   "id": "zabaglione",
-  "title": "Zabaglione (wine-free)",
+  "title": "Zabaglione",
   "category": "custards",
-  "summary": "Egg yolks whisked over simmering water into a warm, airy foam, spooned over a few berries; this version swaps the Marsala for rum extract and lemon.",
+  "summary": "Egg yolks and Marsala whisked over simmering water into a warm, airy foam, spooned over a few berries.",
   "servings": 4,
   "serving_size": "1 glass",
   "time": {
@@ -20,20 +20,8 @@
       "tbsp": 3
     },
     {
-      "item": "water",
+      "item": "marsala",
       "tbsp": 4
-    },
-    {
-      "item": "lemon_juice",
-      "tsp": 1
-    },
-    {
-      "item": "rum_extract",
-      "tsp": 0.5
-    },
-    {
-      "item": "vanilla",
-      "tsp": 0.5
     },
     {
       "group": "To serve"
@@ -50,13 +38,13 @@
   "steps": [
     "Divide the berries among four glasses.",
     "Bring a few centimetres of water to a bare simmer in a saucepan. In a heatproof bowl that sits above, not in, the water, whisk the yolks and powdered erythritol until pale.",
-    "Add the water, lemon juice, rum extract and vanilla. Set the bowl over the pan and whisk constantly for 6–8 minutes, until the mixture triples in volume and holds a ribbon; it should reach about 70 °C (160 °F).",
+    "Add the Marsala. Set the bowl over the pan and whisk constantly for 6–8 minutes, until the mixture triples in volume and holds a ribbon; it should reach about 70 °C (160 °F).",
     "Spoon the warm foam over the berries and serve at once."
   ],
   "swaps": [],
   "tips": [
     "If the bowl gets too hot the yolks scramble at the edges; lift it off the heat for a few seconds while you keep whisking.",
-    "A splash of strong brewed coffee in place of half the water makes a good variation."
+    "Not all the alcohol cooks off at this temperature. For an alcohol-free version use 4 tbsp water, 1 tsp lemon juice and ½ tsp rum extract instead of the Marsala."
   ],
   "origin": {
     "family": "Zabaglione",

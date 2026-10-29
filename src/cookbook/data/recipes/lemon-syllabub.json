@@ -2,7 +2,7 @@
   "id": "lemon-syllabub",
   "title": "Lemon syllabub",
   "category": "mousses",
-  "summary": "Cream whipped with lemon and a little nutmeg until it barely holds a trail: an old English dessert that takes ten minutes.",
+  "summary": "Cream whipped with white wine, lemon and a little nutmeg until it barely holds a trail: an old English dessert that takes ten minutes.",
   "servings": 6,
   "serving_size": "1 small glass",
   "time": {
@@ -20,6 +20,10 @@
       "tbsp": 3
     },
     {
+      "item": "white_wine",
+      "cup": 0.25
+    },
+    {
       "item": "powdered_erythritol",
       "cup": 0.25
     },
@@ -35,7 +39,7 @@
     }
   ],
   "steps": [
-    "Stir the lemon zest, lemon juice and powdered erythritol together in a large bowl and leave for 15 minutes so the zest flavours the juice.",
+    "Stir the lemon zest, lemon juice, white wine and powdered erythritol together in a large bowl and leave for 15 minutes so the zest flavours the liquid.",
     "Pour in the cold cream and add the nutmeg.",
     "Whisk slowly, by hand or on low speed, until the cream thickens enough to hold soft folds. Stop before it is stiff: the acid makes it thicken suddenly, and it goes grainy if pushed further.",
     "Spoon into small glasses, grate a little more nutmeg over, and chill for 1–2 hours before serving."
@@ -49,7 +53,7 @@
   ],
   "dairy_free_notes": "Coconut cream gives a thicker, denser syllabub with a coconut note and does not separate on standing the way dairy syllabub can.",
   "tips": [
-    "Traditional syllabubs were made with sweet wine or sherry; it is left out here to keep the carbs down, so add a splash of dry sherry only if that suits you."
+    "Older recipes used sweet wine or sherry; a dry white keeps the carbs down, and dry sherry works the same way."
   ],
   "origin": {
     "family": "Syllabub",

@@ -1,0 +1,47 @@
+{
+  "id": "rote-gruetze",
+  "title": "Rote Grütze (red berry pudding)",
+  "category": "fruit",
+  "summary": "Tart redcurrants and raspberries cooked just until they burst, softly set and served cold with a pour of cream.",
+  "servings": 6,
+  "serving_size": "1/2 cup",
+  "time": {"prep_min": 15, "cook_min": 10, "rest_min": 240},
+  "ingredients": [
+    {"group": "Berries"},
+    {"item": "water", "cup": 0.5},
+    {"item": "allulose", "cup": 0.33},
+    {"item": "redcurrants", "g": 180, "note": "stripped from their stems"},
+    {"item": "raspberries", "g": 150},
+    {"item": "cherries", "g": 50, "note": "pitted and halved"},
+    {"item": "lemon_juice", "tsp": 1},
+    {"item": "gelatin", "tsp": 1.5},
+    {"item": "water", "tbsp": 3, "note": "cold, for the gelatin"},
+    {"group": "To serve"},
+    {"item": "heavy_cream", "cup": 0.5, "note": "lightly whipped or poured"}
+  ],
+  "steps": [
+    "Sprinkle the gelatin over the 3 tablespoons of cold water and leave it to swell for 5 minutes.",
+    "Bring the half cup of water and the allulose to a simmer in a saucepan. Add the redcurrants and cherries and cook 3–4 minutes until the currants start to burst.",
+    "Add the raspberries and lemon juice and simmer 1 minute more, just until they soften; keep some of the fruit whole.",
+    "Take the pan off the heat and stir in the swollen gelatin until it has completely dissolved.",
+    "Divide among six small glasses or bowls and chill at least 4 hours, until softly set.",
+    "Serve cold with a spoonful of cream on top."
+  ],
+  "swaps": [
+    {"from": "heavy_cream", "to": "coconut_cream"}
+  ],
+  "dairy_free_notes": "The pudding itself is dairy-free; chilled coconut cream, stirred smooth, replaces the cream and adds a light coconut note.",
+  "tips": [
+    "The traditional thickener is potato or corn starch; gelatin gives a softer, wobbly set instead of a starchy one. For a looser, sauce-like texture use 1/4 tsp xanthan gum whisked in off the heat.",
+    "Frozen redcurrants and raspberries work well; cook them a minute longer."
+  ],
+  "origin": {
+    "family": "Fruit pudding",
+    "place": "Hamburg, northern Germany",
+    "region": "Northern Europe",
+    "lat": 53.55,
+    "lon": 9.99,
+    "era": "by the 1800s",
+    "history": "Grütze means groats, and the dish began as a grain porridge coloured and flavoured with berry juice before starch-thickened fruit versions took over. Rote Grütze is a regional classic of northern Germany, especially Hamburg and Schleswig-Holstein, and Denmark has a close twin, rødgrød med fløde, served the same way with cream."
+  }
+}

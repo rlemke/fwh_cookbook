@@ -2,7 +2,7 @@
   "id": "mesoamerican-spiced-hot-chocolate",
   "title": "Mesoamerican-style spiced hot chocolate",
   "category": "drinks",
-  "summary": "Dark, frothy, barely sweet chocolate made with water and almond milk and warmed with allspice, vanilla and cinnamon.",
+  "summary": "Dark, frothy, barely sweet chocolate made with water and almond milk and warmed with chilli, allspice, vanilla and cinnamon.",
   "servings": 2,
   "serving_size": "1 mug",
   "time": {
@@ -41,6 +41,11 @@
       "tsp": 0.5
     },
     {
+      "item": "cayenne",
+      "tsp": 0.0625,
+      "note": "a pinch; more if you like it hot"
+    },
+    {
       "item": "vanilla",
       "tsp": 0.5
     },
@@ -51,8 +56,8 @@
   ],
   "steps": [
     "Heat the water and almond milk in a small pan until steaming but not boiling.",
-    "Add the chocolate, cocoa, erythritol, allspice and cinnamon and whisk over low heat until the chocolate has melted and the mixture is smooth, about 3 minutes.",
-    "Take off the heat and stir in the vanilla and salt. Taste and add a pinch of chilli powder if you like the heat of the older drinks.",
+    "Add the chocolate, cocoa, erythritol, allspice, cinnamon and cayenne and whisk over low heat until the chocolate has melted and the mixture is smooth, about 3 minutes.",
+    "Take off the heat and stir in the vanilla and salt. Taste, and add a little more cayenne for the heat of the older drinks.",
     "Whisk hard, or blend for 20 seconds, until a thick foam forms on top, then pour into mugs with plenty of foam."
   ],
   "tips": [

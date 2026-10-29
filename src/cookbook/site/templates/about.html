@@ -42,7 +42,7 @@
 <tbody>
 {% for i in ingredients %}
 <tr><td>{{ i.name }}</td>
-<td>{% if i.source.startswith('usda:') %}FDC {{ i.source[5:] }}<br><span class="small">{{ i.usda }}</span>{% else %}label{% endif %}</td>
+<td>{% if i.source.startswith('usda:') %}FDC {{ i.source[5:] }}<br><span class="small">{{ i.usda }}{% if i.usda_note %} ({{ i.usda_note }}){% endif %}</span>{% else %}label{% endif %}</td>
 <td class="num">{{ i.per100.kcal }}</td><td class="num">{{ i.per100.fat_g }}</td><td class="num">{{ i.per100.protein_g }}</td><td class="num">{{ i.per100.carbs_g }}</td><td class="num">{{ i.per100.fiber_g }}</td><td class="num">{{ i.per100.polyol_g }}</td><td class="num">{{ i.per100.net_carbs_g }}</td><td class="num">{{ i.uses }}</td></tr>
 {% endfor %}
 </tbody></table></div>

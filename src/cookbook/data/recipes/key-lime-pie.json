@@ -54,6 +54,11 @@
       "each": 4
     },
     {
+      "item": "lime_zest",
+      "tbsp": 1,
+      "note": "finely grated, from 2–3 limes"
+    },
+    {
       "item": "lime_juice",
       "cup": 0.5,
       "note": "Key limes if you can find them"
@@ -66,7 +71,7 @@
   "steps": [
     "Simmer the coconut cream and allulose in a wide saucepan over medium-low heat, stirring often, for 20–25 minutes, until reduced to about 1 cup and thick enough to coat a spoon. Cool to lukewarm.",
     "Heat the oven to 175 °C (350 °F). Stir the crust ingredients together, press them into a 23 cm (9 in) pie plate and bake 10 minutes. Lower the oven to 160 °C (325 °F).",
-    "Whisk the yolks until pale, then whisk in the cooled condensed coconut, followed by the lime juice and salt. It will thicken as the acid meets the yolks.",
+    "Whisk the yolks with the lime zest until pale, then whisk in the cooled condensed coconut, followed by the lime juice and salt. It will thicken as the acid meets the yolks.",
     "Pour into the crust and bake 15 minutes, just until the surface is set but still pale.",
     "Cool for 30 minutes, then refrigerate at least 4 hours before slicing."
   ],

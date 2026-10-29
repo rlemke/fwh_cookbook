@@ -1,0 +1,61 @@
+{
+  "id": "american-carrot-cake",
+  "title": "American carrot cake",
+  "category": "cakes",
+  "summary": "A moist, warmly spiced almond-flour layer studded with real grated carrot and toasted walnuts, under a thick tangy cream-cheese frosting.",
+  "servings": 12,
+  "serving_size": "1 slice",
+  "time": {"prep_min": 30, "cook_min": 35, "rest_min": 90},
+  "ingredients": [
+    {"group": "Cake"},
+    {"item": "almond_flour", "cup": 2.5},
+    {"item": "coconut_flour", "tbsp": 2},
+    {"item": "baking_powder", "tsp": 2},
+    {"item": "baking_soda", "tsp": 0.5},
+    {"item": "cinnamon", "tsp": 2},
+    {"item": "ginger_ground", "tsp": 0.5},
+    {"item": "nutmeg", "tsp": 0.5},
+    {"item": "cloves", "tsp": 0.125},
+    {"item": "salt", "tsp": 0.5},
+    {"item": "egg", "each": 4, "note": "at room temperature"},
+    {"item": "erythritol", "cup": 0.5},
+    {"item": "allulose", "cup": 0.25},
+    {"item": "avocado_oil", "cup": 0.33},
+    {"item": "vanilla", "tsp": 2},
+    {"item": "carrot", "g": 150, "note": "finely grated, about 1 heaped cup"},
+    {"item": "walnuts", "cup": 0.5, "note": "toasted and chopped; pecans work equally well"},
+    {"group": "Cream-cheese frosting"},
+    {"item": "cream_cheese", "g": 225, "note": "softened"},
+    {"item": "butter", "tbsp": 4, "note": "softened"},
+    {"item": "powdered_erythritol", "cup": 0.5},
+    {"item": "vanilla", "tsp": 1},
+    {"item": "salt", "tsp": 0.0625}
+  ],
+  "steps": [
+    "Heat the oven to 165 °C (325 °F). Grease a 23 cm (9 in) round cake pan and line the base with parchment.",
+    "Whisk the almond flour, coconut flour, baking powder, baking soda, spices and salt in a bowl, breaking up any lumps.",
+    "In a second bowl beat the eggs with the erythritol and allulose for 2 minutes until pale, then whisk in the oil and vanilla.",
+    "Fold the dry ingredients into the wet, then fold in the grated carrot and walnuts. The batter will be thick.",
+    "Spread into the pan and bake 30–35 minutes, until a skewer comes out clean. Tent with foil after 20 minutes if the top darkens — allulose browns quickly.",
+    "Cool 15 minutes in the pan, then turn out onto a rack and cool completely; the crumb is fragile while warm.",
+    "For the frosting, beat the cream cheese and butter until smooth, then beat in the powdered erythritol, vanilla and salt. Spread thickly over the top of the cold cake and chill 30 minutes before slicing."
+  ],
+  "swaps": [
+    {"from": "cream_cheese", "to": "vegan_cream_cheese"},
+    {"from": "butter", "to": "vegan_butter"}
+  ],
+  "dairy_free_notes": "The cake itself is dairy-free; only the frosting changes. A block-style dairy-free cream cheese gives a softer, slightly less tangy frosting, so keep the cake chilled until serving.",
+  "tips": [
+    "Grate the carrot on the fine side of a box grater: fine shreds melt into the crumb, coarse ones leave wet pockets in a grain-free cake.",
+    "150 g of carrot is deliberate — it is enough to taste and see, and keeps a slice at about 5 g net carbs. Doubling it roughly adds 1 g per slice and makes the crumb soggier."
+  ],
+  "origin": {
+    "family": "Carrot cake",
+    "place": "United States",
+    "region": "North America",
+    "lat": 39.83,
+    "lon": -98.58,
+    "era": "1960s–1970s",
+    "history": "Carrots have sweetened puddings and cakes in Europe for centuries, at times when sugar was scarce or costly, and British wartime rationing again promoted them as a sweet ingredient. The layered, spiced carrot cake with cream-cheese frosting became widely popular in the United States in the 1960s and 1970s, and is now a standard of American bakeries."
+  }
+}

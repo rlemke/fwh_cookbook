@@ -64,12 +64,12 @@
     },
     {
       "from": "parmesan",
-      "to": "almond_flour",
+      "to": "nutritional_yeast",
       "ratio": 0.5,
-      "note": "There is no dairy-free parmesan in this book; a smaller amount of extra almond flour keeps the dough's texture."
+      "note": "¼ cup nutritional yeast for the ½ cup parmesan"
     }
   ],
-  "dairy_free_notes": "The dairy-free version holds together and bakes up the same, but it is honestly a savoury almond puff, not a cheese bread — the parmesan supplies the flavour. Add a pinch more salt and garlic.",
+  "dairy_free_notes": "Nutritional yeast gives the dairy-free puffs a savoury, cheesy flavour, though milder and nuttier than parmesan, and the puffs are a little less rich. Add a pinch more salt.",
   "tips": [
     "Traditional pão de queijo gets its stretch from tapioca starch, which this version leaves out; expect a soft, tender crumb instead."
   ],

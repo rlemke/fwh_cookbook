@@ -12,9 +12,9 @@
   },
   "ingredients": [
     {
-      "item": "water",
+      "item": "black_tea",
       "cup": 1.25,
-      "note": "with 2 tsp loose Assam tea or 2 black tea bags"
+      "note": "freshly brewed and strong; Assam is the usual choice"
     },
     {
       "item": "ginger_ground",
@@ -47,8 +47,7 @@
     }
   ],
   "steps": [
-    "Bring the water to a boil in a small pan with the ginger, cardamom, cinnamon, cloves and pepper. Simmer 3 minutes.",
-    "Add the tea and simmer 2 minutes more, until the liquid is dark.",
+    "Pour the hot tea into a small pan with the ginger, cardamom, cinnamon, cloves and pepper and simmer 4–5 minutes, until dark and fragrant.",
     "Pour in the milk and erythritol and bring back just to a boil, watching closely because it rises fast. Lower the heat and simmer 1–2 minutes.",
     "Strain into cups and serve hot."
   ],
@@ -61,7 +60,8 @@
   ],
   "dairy_free_notes": "Almond milk makes a thinner, less creamy chai and can separate if boiled hard; add it last and only bring it to a gentle simmer.",
   "tips": [
-    "Whole spices (cardamom pods, a cinnamon stick, cloves) crushed lightly give a clearer flavour than ground; strain them out the same way."
+    "Whole spices (cardamom pods, a cinnamon stick, cloves) crushed lightly give a clearer flavour than ground; strain them out the same way.",
+    "Street-stall chai boils the loose leaves with the spices and milk instead of starting from brewed tea; that works too: use 1¼ cups water and 2 tsp loose Assam, and strain at the end."
   ],
   "origin": {
     "family": "Chai",

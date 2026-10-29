@@ -1,0 +1,54 @@
+{
+  "id": "apricot-frangipane-tart",
+  "title": "Apricot frangipane tart",
+  "category": "pies",
+  "summary": "A crisp almond-flour shell filled with soft almond cream and fresh apricot halves that slump and caramelise at the edges in the oven.",
+  "servings": 12,
+  "serving_size": "1 slice",
+  "time": {"prep_min": 35, "cook_min": 50, "rest_min": 60},
+  "ingredients": [
+    {"group": "Crust"},
+    {"item": "almond_flour", "cup": 1.5},
+    {"item": "coconut_flour", "tbsp": 1},
+    {"item": "erythritol", "tbsp": 2},
+    {"item": "salt", "tsp": 0.125},
+    {"item": "butter", "tbsp": 4, "note": "cold, diced"},
+    {"item": "egg_yolk", "each": 1},
+    {"group": "Frangipane"},
+    {"item": "butter", "tbsp": 6, "note": "softened"},
+    {"item": "erythritol", "cup": 0.5},
+    {"item": "egg", "each": 2, "note": "at room temperature"},
+    {"item": "almond_flour", "cup": 1},
+    {"item": "almond_extract", "tsp": 0.5},
+    {"item": "vanilla", "tsp": 1},
+    {"item": "salt", "tsp": 0.0625},
+    {"group": "Topping"},
+    {"item": "apricot", "each": 4, "note": "halved and stoned (about 140 g)"},
+    {"item": "almonds", "tbsp": 2, "note": "flaked"}
+  ],
+  "steps": [
+    "Pulse or rub together the almond flour, coconut flour, erythritol, salt and cold butter until crumbly, then mix in the egg yolk to make a soft dough.",
+    "Press the dough evenly into a 23 cm (9 in) tart tin with a removable base, chill 20 minutes, then prick and bake at 175 °C (350 °F) for 12 minutes until just golden at the edges.",
+    "For the frangipane, beat the butter and erythritol until fluffy, then beat in the eggs one at a time. Fold in the almond flour, extracts and salt.",
+    "Spread the frangipane in the warm shell. Press the apricot halves in, cut side up, in a ring, and scatter the flaked almonds around them.",
+    "Bake 35–40 minutes, until the frangipane is puffed, golden and firm in the centre. Cover the edge with foil if the crust darkens.",
+    "Cool at least an hour in the tin; the filling firms as it cools."
+  ],
+  "swaps": [
+    {"from": "butter", "to": "vegan_butter"}
+  ],
+  "dairy_free_notes": "Use a firm stick-style dairy-free butter; a soft tub spread makes the crust crumbly and the frangipane greasy.",
+  "tips": [
+    "Choose ripe but firm apricots — very soft ones collapse and release juice into the cream.",
+    "Twelve thin slices keep the fruit per serving small; the apricots are the main source of net carbs."
+  ],
+  "origin": {
+    "family": "Frangipane tart",
+    "place": "France",
+    "region": "Western Europe",
+    "lat": 46.6,
+    "lon": 1.89,
+    "era": "by the 1700s",
+    "history": "Almond cream (crème d'amande) was part of French pastry by the 1700s, and its name frangipane is often linked, without firm evidence, to the Frangipani family of Italian nobles. Fruit tarts set on almond cream — with apricots, pears or plums depending on the season — are a staple of French pâtisseries, and apricot is the classic summer version."
+  }
+}

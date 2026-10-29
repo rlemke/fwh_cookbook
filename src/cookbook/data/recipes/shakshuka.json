@@ -1,0 +1,45 @@
+{
+  "id": "shakshuka",
+  "title": "Shakshuka",
+  "category": "breakfast",
+  "summary": "Eggs poached right in a skillet of tomato and red pepper sauce warmed with cumin, paprika and a little heat.",
+  "servings": 4,
+  "serving_size": "2 eggs with sauce",
+  "time": {"prep_min": 10, "cook_min": 30, "rest_min": 0},
+  "ingredients": [
+    {"item": "olive_oil", "tbsp": 3},
+    {"item": "onion", "each": 0.25, "note": "finely chopped"},
+    {"item": "bell_pepper", "each": 1, "note": "seeded and diced"},
+    {"item": "garlic", "each": 3, "note": "thinly sliced"},
+    {"item": "cumin", "tsp": 1},
+    {"item": "paprika", "tsp": 1.5},
+    {"item": "cayenne", "tsp": 0.25, "note": "more or less to taste"},
+    {"item": "canned_tomatoes", "g": 400, "note": "one standard can, with its juice"},
+    {"item": "salt", "tsp": 0.75},
+    {"item": "black_pepper", "tsp": 0.25},
+    {"item": "egg", "each": 8},
+    {"item": "parsley", "tbsp": 3}
+  ],
+  "steps": [
+    "Warm the olive oil in a 25–28 cm (10–11 in) skillet over medium heat. Add the onion and pepper and cook 8–10 minutes, stirring now and then, until the pepper is soft and starting to colour.",
+    "Stir in the garlic, cumin, paprika and cayenne and cook 1 minute, just until fragrant; do not let the spices scorch.",
+    "Add the tomatoes with their juice, the salt and the pepper. Simmer uncovered 10–12 minutes, stirring occasionally, until thick enough that a spoon dragged through leaves a trail. Taste and adjust the seasoning.",
+    "Make 8 hollows in the sauce with the back of a spoon and crack an egg into each. Lower the heat, cover and cook 6–8 minutes, until the whites are set but the yolks still run.",
+    "Scatter with parsley and serve straight from the pan."
+  ],
+  "swaps": [],
+  "tips": [
+    "Simmering the sauce until thick matters: a watery sauce lets the whites spread and turn rubbery before the yolks are done.",
+    "Canned tomatoes carry most of the carbs here; if you swap in fresh tomatoes, weigh them rather than counting by the piece.",
+    "Crumbled feta is a common topping, but it is not part of this dairy-free version."
+  ],
+  "origin": {
+    "family": "Shakshuka",
+    "place": "Tunis",
+    "region": "Middle East & North Africa",
+    "lat": 36.81,
+    "lon": 10.18,
+    "era": "by the 1900s",
+    "history": "Shakshuka is a dish of the Maghreb, eggs cooked in a spiced sauce of tomatoes and peppers, and it is most commonly credited to Tunisia; its exact origin is not documented. Tomatoes and peppers reached North Africa from the Americas only after the 1500s, so the dish in its present form is relatively recent. Jewish immigrants from Tunisia and Libya brought it to Israel, where it was widely adopted and is now a breakfast staple."
+  }
+}

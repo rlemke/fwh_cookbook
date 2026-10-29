@@ -26,6 +26,15 @@
       "note": "sliced"
     },
     {
+      "item": "cumin",
+      "tsp": 1
+    },
+    {
+      "item": "cayenne",
+      "tsp": 0.25,
+      "note": "or chili flakes, to taste"
+    },
+    {
       "item": "zucchini",
       "each": 1,
       "note": "diced"
@@ -68,7 +77,7 @@
   ],
   "steps": [
     "Heat the olive oil in a 25 cm (10 in) skillet over medium heat. Cook the onion 5–6 minutes until soft.",
-    "Add the garlic and zucchini and cook 5 minutes, stirring, until the zucchini is tender.",
+    "Add the garlic, cumin and cayenne and stir 30 seconds until fragrant, then add the zucchini and cook 5 minutes, stirring, until tender.",
     "Add the spinach a handful at a time, letting each wilt. Season with the salt and pepper and stir in the lemon juice.",
     "Make 6 hollows in the greens and crack an egg into each. Cover and cook over low heat 6–8 minutes, until the whites are set and the yolks still soft.",
     "Scatter with mint and basil and serve with spoonfuls of coconut yogurt."

@@ -1,0 +1,36 @@
+{
+  "id": "london-fog",
+  "title": "London fog",
+  "category": "drinks",
+  "summary": "An Earl Grey tea latte: bergamot-scented tea with vanilla and a cap of frothed milk.",
+  "servings": 1,
+  "serving_size": "1 mug",
+  "time": {"prep_min": 2, "cook_min": 5, "rest_min": 0},
+  "ingredients": [
+    {"item": "black_tea", "cup": 0.75, "note": "Earl Grey, brewed strong (1 bag or 1 tsp loose tea, steeped 4–5 minutes)"},
+    {"item": "vanilla", "tsp": 0.5},
+    {"item": "allulose", "tbsp": 1, "note": "or to taste"},
+    {"item": "whole_milk", "cup": 0.33}
+  ],
+  "steps": [
+    "Brew the Earl Grey strong, then remove the bag or strain. Stir in the vanilla and allulose.",
+    "Warm the milk until steaming but not boiling, then froth it with a frother, a whisk, or by shaking it in a lidded jar.",
+    "Pour the milk into the tea, holding back the foam with a spoon, then spoon the foam on top."
+  ],
+  "swaps": [
+    {"from": "whole_milk", "to": "almond_milk", "note": "a 'barista' style almond milk froths best"}
+  ],
+  "dairy_free_notes": "Plain unsweetened almond milk makes thinner, shorter-lived foam than dairy milk; it still tastes right, but the cap is lighter.",
+  "tips": [
+    "Steep no longer than 5 minutes; over-steeped Earl Grey turns bitter and the bergamot gets harsh."
+  ],
+  "origin": {
+    "family": "Tea latte",
+    "place": "Vancouver",
+    "region": "North America",
+    "lat": 49.28,
+    "lon": -123.12,
+    "era": "1990s",
+    "history": "Despite its name, the London fog is generally said to have been created in Vancouver, Canada, in the 1990s. The usual story credits a café customer who asked for Earl Grey with steamed milk and vanilla, but it is anecdotal and the details vary between tellings. The drink then spread through Canadian and American coffee shops."
+  }
+}

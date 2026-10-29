@@ -32,11 +32,16 @@
       "tsp": 0.75
     },
     {
+      "item": "caraway",
+      "tsp": 1.5,
+      "note": "optional, for seed bread"
+    },
+    {
       "item": "almond_milk",
       "cup": 0.5
     },
     {
-      "item": "lemon_juice",
+      "item": "cider_vinegar",
       "tbsp": 1
     },
     {
@@ -51,8 +56,8 @@
   ],
   "steps": [
     "Heat the oven to 175 °C (350 °F) and line a baking sheet with parchment.",
-    "Stir the lemon juice into the almond milk and leave 5 minutes; it stands in for buttermilk, and the acid is what activates the baking soda.",
-    "Whisk the almond flour, coconut flour, psyllium, baking soda and salt.",
+    "Stir the vinegar into the almond milk and leave 5 minutes; it stands in for buttermilk, and the acid is what activates the baking soda.",
+    "Whisk the almond flour, coconut flour, psyllium, baking soda, salt and caraway, if using.",
     "Beat the eggs and melted butter into the soured milk, add to the dry ingredients and mix to a soft dough. Bake promptly — the soda starts working as soon as it is wet.",
     "Shape into a round about 5 cm (2 in) high on the sheet and cut a deep cross in the top.",
     "Bake 40–45 minutes, until deep golden and hollow-sounding underneath. Cool at least 30 minutes before slicing."
@@ -65,7 +70,8 @@
   ],
   "dairy_free_notes": "Dairy-free butter makes almost no difference here; the bread is already made with almond milk.",
   "tips": [
-    "Measure the baking soda exactly — too much tastes soapy in a bread with no wheat to mask it."
+    "Measure the baking soda exactly — too much tastes soapy in a bread with no wheat to mask it.",
+    "With caraway this becomes seed bread, a traditional Irish variation; leave it out for plain soda bread."
   ],
   "origin": {
     "family": "Soda bread",

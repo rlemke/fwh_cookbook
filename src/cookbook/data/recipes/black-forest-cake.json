@@ -65,9 +65,9 @@
       "tbsp": 2
     },
     {
-      "item": "almond_extract",
-      "tsp": 0.25,
-      "note": "in place of kirsch"
+      "item": "kirsch",
+      "tbsp": 2,
+      "note": "omit for an alcohol-free cake, or use ¼ tsp almond extract"
     },
     {
       "group": "Cream"
@@ -109,7 +109,7 @@
     "Whisk the almond flour, cocoa, baking powder and salt together and fold them into the yolks. The batter will be stiff.",
     "Whisk the egg whites to soft peaks, add the remaining erythritol gradually and whisk until firm. Fold into the cocoa batter in three additions.",
     "Divide between the pans and bake 22–25 minutes, until the tops spring back. Cool 10 minutes in the pans, then turn out and cool completely.",
-    "Simmer the cherries, water and erythritol for 5 minutes, then stir in the almond extract. Drain, keeping the juice, and let both cool.",
+    "Simmer the cherries, water and erythritol for 5 minutes, then take off the heat and stir in the kirsch. Drain, keeping the juice, and let both cool.",
     "Sprinkle the gelatin over the 2 tbsp cold water and leave 5 minutes, then warm it gently until just liquid (about 10 seconds in the microwave) and let it cool slightly. Whip the cream with the powdered erythritol and vanilla to soft peaks, then drizzle in the gelatin while whipping and continue to firm peaks.",
     "Brush the cut side of each sponge generously with the cherry juice. Set one layer on a plate, spread with a third of the cream and scatter with most of the cherries.",
     "Top with the second layer and cover the top and sides with the rest of the cream. Decorate with the remaining cherries and the chocolate shavings.",
@@ -128,9 +128,6 @@
     }
   ],
   "dairy_free_notes": "Whipped coconut cream holds well with the gelatin but is softer than dairy cream and tastes of coconut; keep the cake cold and serve it straight from the fridge.",
-  "tips": [
-    "If you have it and do not mind the trace carbs, a tablespoon of real kirsch in the cherry juice is the authentic flavour."
-  ],
   "origin": {
     "family": "Layer cake",
     "place": "Black Forest",

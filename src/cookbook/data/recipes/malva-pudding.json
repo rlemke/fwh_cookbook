@@ -7,10 +7,26 @@
   "serving_size": "1 square",
   "time": {
     "prep_min": 20,
-    "cook_min": 35,
+    "cook_min": 45,
     "rest_min": 15
   },
   "ingredients": [
+    {
+      "group": "Apricot jam"
+    },
+    {
+      "item": "apricot",
+      "each": 2,
+      "note": "stoned and finely chopped"
+    },
+    {
+      "item": "allulose",
+      "tbsp": 1
+    },
+    {
+      "item": "water",
+      "tbsp": 1
+    },
     {
       "group": "Pudding"
     },
@@ -56,10 +72,6 @@
       "tsp": 1
     },
     {
-      "item": "orange_zest",
-      "tsp": 1
-    },
-    {
       "group": "Sauce"
     },
     {
@@ -80,9 +92,10 @@
     }
   ],
   "steps": [
+    "Cook the apricots, allulose and water in a small pan over low heat, stirring and mashing, for 6–8 minutes until thick and jammy. Cool.",
     "Heat the oven to 175 °C (350 °F). Grease a 20 cm (8 in) square baking dish.",
     "Whisk the almond flour, baking powder, baking soda and salt.",
-    "Beat the eggs and erythritol until pale and thick, about 3 minutes. Beat in the melted butter, almond milk, lemon juice, vanilla and orange zest, then fold in the dry ingredients.",
+    "Beat the eggs and erythritol until pale and thick, about 3 minutes. Beat in the apricot jam, melted butter, almond milk, lemon juice and vanilla, then fold in the dry ingredients.",
     "Pour into the dish and bake 25–30 minutes, until well risen, golden and a skewer comes out clean.",
     "In the last 5 minutes, heat the cream, butter, allulose and water in a saucepan until the butter melts and it just simmers.",
     "Prick the hot pudding all over with a skewer and pour the hot sauce slowly over it. Leave 15 minutes to soak before serving warm."
@@ -99,7 +112,7 @@
   ],
   "dairy_free_notes": "With coconut cream and dairy-free butter the sauce soaks in just as well; the flavour is a little less buttery.",
   "tips": [
-    "Traditional malva pudding has apricot jam in the batter; the orange zest gives a fruity note without the sugar."
+    "Two fresh apricots cooked down stand in for the spoonful of apricot jam in a traditional batter; allulose browns fast, so keep the heat low."
   ],
   "origin": {
     "family": "Baked sponge pudding",

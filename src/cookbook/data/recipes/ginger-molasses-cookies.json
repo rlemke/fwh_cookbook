@@ -1,0 +1,53 @@
+{
+  "id": "ginger-molasses-cookies",
+  "title": "Chewy ginger molasses cookies",
+  "category": "cookies",
+  "summary": "Soft, crackle-topped spice cookies with a chewy middle, warm with ginger, cinnamon and cloves and a true molasses flavour from a single spoonful.",
+  "servings": 20,
+  "serving_size": "1 cookie",
+  "time": {"prep_min": 20, "cook_min": 12, "rest_min": 45},
+  "ingredients": [
+    {"item": "almond_flour", "cup": 2.25},
+    {"item": "coconut_flour", "tbsp": 2},
+    {"item": "baking_soda", "tsp": 0.75},
+    {"item": "xanthan_gum", "tsp": 0.25},
+    {"item": "ginger_ground", "tsp": 2},
+    {"item": "cinnamon", "tsp": 1.5},
+    {"item": "cloves", "tsp": 0.25},
+    {"item": "allspice", "tsp": 0.25},
+    {"item": "salt", "tsp": 0.25},
+    {"item": "butter", "cup": 0.5, "note": "softened"},
+    {"item": "allulose", "cup": 0.33},
+    {"item": "erythritol", "cup": 0.25},
+    {"item": "egg", "each": 1},
+    {"item": "molasses", "tbsp": 1},
+    {"item": "vanilla", "tsp": 1},
+    {"item": "erythritol", "tbsp": 2, "note": "for rolling"}
+  ],
+  "steps": [
+    "Whisk together the almond flour, coconut flour, baking soda, xanthan gum, spices and salt.",
+    "Beat the butter with the allulose and the 1/4 cup erythritol until creamy, then beat in the egg, molasses and vanilla.",
+    "Stir in the dry ingredients to a soft dough. Cover and chill 30 minutes so it can be rolled.",
+    "Heat the oven to 165 °C (325 °F) and line two baking sheets with parchment.",
+    "Roll the dough into 20 balls, roll each in the remaining erythritol and set 5 cm (2 in) apart. Press each down slightly.",
+    "Bake 10–12 minutes, until the tops crack and the edges are set but the centres still look soft. Allulose browns fast, so watch the last few minutes.",
+    "Cool 10 minutes on the sheet before moving; they firm up as they cool but stay chewy."
+  ],
+  "swaps": [
+    {"from": "butter", "to": "vegan_butter"}
+  ],
+  "dairy_free_notes": "A stick-style dairy-free butter works one-for-one; the cookies spread a little more, so chill the dough the full time.",
+  "tips": [
+    "Molasses is real sugar (about 15 g of carbohydrate per tablespoon), so the whole batch gets just one tablespoon — under 1 g per cookie. It is there for the dark, slightly bitter flavour that no sweetener copies; don't add more.",
+    "Allulose is what keeps the centres chewy; an all-erythritol version bakes up crisp, more like a gingersnap."
+  ],
+  "origin": {
+    "family": "Molasses cookie",
+    "place": "New England",
+    "region": "North America",
+    "lat": 42.36,
+    "lon": -71.06,
+    "era": "1800s",
+    "history": "Molasses, shipped in from the Caribbean sugar trade, was the everyday sweetener of colonial and nineteenth-century New England, far cheaper than refined sugar. Ginger-spiced molasses cookies and gingerbreads became traditional household baking there and spread across the United States."
+  }
+}

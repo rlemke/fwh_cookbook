@@ -1,0 +1,49 @@
+{
+  "id": "rueblitorte",
+  "title": "Rüeblitorte (Swiss carrot cake)",
+  "category": "cakes",
+  "summary": "A light, nutty Swiss sponge made mostly of ground almonds and grated carrot, lifted by whisked egg whites and finished with a thin lemon glaze.",
+  "servings": 12,
+  "serving_size": "1 slice",
+  "time": {"prep_min": 30, "cook_min": 45, "rest_min": 120},
+  "ingredients": [
+    {"group": "Cake"},
+    {"item": "egg_yolk", "each": 5},
+    {"item": "erythritol", "cup": 0.75},
+    {"item": "lemon_zest", "tsp": 2},
+    {"item": "lemon_juice", "tbsp": 1},
+    {"item": "kirsch", "tbsp": 1, "note": "optional"},
+    {"item": "almond_flour", "g": 250},
+    {"item": "carrot", "g": 200, "note": "finely grated"},
+    {"item": "baking_powder", "tsp": 1.5},
+    {"item": "cinnamon", "tsp": 0.5},
+    {"item": "salt", "tsp": 0.25},
+    {"item": "egg_white", "each": 5},
+    {"group": "Glaze"},
+    {"item": "powdered_erythritol", "cup": 0.5},
+    {"item": "lemon_juice", "tbsp": 1.5}
+  ],
+  "steps": [
+    "Heat the oven to 175 °C (350 °F). Grease a 24 cm (9½ in) springform pan and line the base with parchment.",
+    "Beat the egg yolks with the erythritol for 3–4 minutes until thick and pale. Beat in the lemon zest, lemon juice and kirsch.",
+    "Mix the almond flour, baking powder, cinnamon and salt, then stir them and the grated carrot into the yolk mixture. It will be stiff.",
+    "In a clean bowl whisk the egg whites to firm, glossy peaks. Stir a quarter into the batter to loosen it, then fold in the rest in two additions, keeping as much air as you can.",
+    "Scrape into the pan and bake 40–45 minutes, until risen, golden and a skewer comes out clean. Cover loosely with foil if it browns too fast.",
+    "Cool in the pan 10 minutes, release the side and cool completely.",
+    "Stir the powdered erythritol with the lemon juice to a thick, pourable glaze and spread it over the top. Let it set before slicing."
+  ],
+  "swaps": [],
+  "tips": [
+    "The cake keeps and improves for 2–3 days, well wrapped; the carrot keeps it moist.",
+    "Leave out the kirsch for children or swap it for a few drops of almond extract."
+  ],
+  "origin": {
+    "family": "Carrot cake",
+    "place": "Aargau, Switzerland",
+    "region": "Western Europe",
+    "lat": 47.39,
+    "lon": 8.04,
+    "era": "by the 1900s",
+    "history": "Rüebli is the Swiss German word for carrot, and the almond-and-carrot Rüeblitorte is closely associated with the canton of Aargau, sometimes called the Rüeblikanton. Made with ground nuts and little or no flour, it is a traditional birthday and Easter cake across German-speaking Switzerland, often decorated with small marzipan carrots."
+  }
+}

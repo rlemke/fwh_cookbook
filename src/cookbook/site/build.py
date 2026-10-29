@@ -191,6 +191,7 @@ def build_site(fdc_zip: str, out_dir: str, log=None) -> dict:
             "per100": table.per100[k].as_dict(),
             "uses": used[k],
             "usda": table.ingredients[k].get("usda", ""),
+            "usda_note": table.ingredients[k].get("usda_note", ""),
         }
         for k in sorted(used, key=lambda k: table.ingredients[k]["name"])
     ]
