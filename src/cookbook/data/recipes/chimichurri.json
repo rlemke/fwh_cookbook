@@ -1,0 +1,76 @@
+{
+  "id": "chimichurri",
+  "title": "Chimichurri",
+  "category": "sauces",
+  "summary": "A bright, garlicky parsley and oregano sauce sharpened with vinegar and loosened with olive oil, for grilled meat.",
+  "servings": 10,
+  "serving_size": "2 tbsp",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 0,
+    "rest_min": 30
+  },
+  "ingredients": [
+    {
+      "item": "parsley",
+      "cup": 1,
+      "note": "finely chopped by hand"
+    },
+    {
+      "item": "oregano",
+      "tbsp": 1,
+      "note": "dried, or 3 tbsp chopped fresh"
+    },
+    {
+      "item": "garlic",
+      "each": 4,
+      "note": "minced"
+    },
+    {
+      "item": "cayenne",
+      "tsp": 0.5,
+      "note": "red pepper flakes"
+    },
+    {
+      "item": "salt",
+      "tsp": 1
+    },
+    {
+      "item": "black_pepper",
+      "tsp": 0.5
+    },
+    {
+      "item": "red_wine_vinegar",
+      "cup": 0.25
+    },
+    {
+      "item": "water",
+      "tbsp": 2,
+      "note": "warm"
+    },
+    {
+      "item": "olive_oil",
+      "cup": 0.5
+    }
+  ],
+  "steps": [
+    "Put the garlic, pepper flakes, salt and oregano in a bowl, pour over the vinegar and warm water, and leave 10 minutes so the dried herbs soften and the garlic mellows.",
+    "Stir in the parsley and black pepper, then the olive oil.",
+    "Rest at least 30 minutes before serving. Spoon over grilled steak, sausages or chicken.",
+    "Keeps 3–4 days in the fridge; bring to room temperature and stir before serving."
+  ],
+  "swaps": [],
+  "tips": [
+    "Chop by hand rather than blending: a food processor turns the parsley to paste and the sauce goes murky.",
+    "Flank or sirloin steak grilled to 54–57 °C (130–135 °F) for medium-rare is the classic partner."
+  ],
+  "origin": {
+    "family": "Chimichurri",
+    "place": "Río de la Plata (Argentina and Uruguay)",
+    "region": "Latin America & Caribbean",
+    "lat": -34.6,
+    "lon": -58.38,
+    "era": "1900s",
+    "history": "Chimichurri is the standard sauce of the asado, the open-fire grilling of Argentina and Uruguay. Where the name comes from is uncertain: several colourful stories circulate, involving British or Basque settlers, but none is documented. The parsley, garlic, oregano, vinegar and oil base reflects the Spanish and Italian immigrant cooking of the region."
+  }
+}

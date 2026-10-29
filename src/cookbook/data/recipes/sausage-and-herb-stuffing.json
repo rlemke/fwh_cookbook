@@ -1,0 +1,107 @@
+{
+  "id": "sausage-and-herb-stuffing",
+  "title": "Sausage and herb stuffing",
+  "category": "sides",
+  "summary": "A grain-free stuffing of browned Italian sausage, celery, onion and mushrooms with sage and thyme, bound with almond flour and egg and baked until crusty.",
+  "servings": 8,
+  "serving_size": "about 2/3 cup",
+  "time": {
+    "prep_min": 20,
+    "cook_min": 45,
+    "rest_min": 5
+  },
+  "ingredients": [
+    {
+      "item": "italian_sausage",
+      "g": 450,
+      "note": "casings removed"
+    },
+    {
+      "item": "butter",
+      "tbsp": 2
+    },
+    {
+      "item": "onion",
+      "g": 110,
+      "note": "chopped (1 small onion)"
+    },
+    {
+      "item": "celery",
+      "each": 3,
+      "note": "diced"
+    },
+    {
+      "item": "mushrooms",
+      "g": 225,
+      "note": "chopped"
+    },
+    {
+      "item": "garlic",
+      "each": 2,
+      "note": "minced"
+    },
+    {
+      "item": "sage",
+      "tsp": 1.5
+    },
+    {
+      "item": "thyme",
+      "tsp": 1
+    },
+    {
+      "item": "black_pepper",
+      "tsp": 0.5
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    },
+    {
+      "item": "parsley",
+      "cup": 0.25
+    },
+    {
+      "group": "To bind"
+    },
+    {
+      "item": "almond_flour",
+      "cup": 1
+    },
+    {
+      "item": "egg",
+      "each": 2
+    },
+    {
+      "item": "chicken_stock",
+      "cup": 0.5
+    }
+  ],
+  "steps": [
+    "Heat the oven to 175 °C (350 °F) and grease a 20 × 20 cm (8 × 8 in) baking dish.",
+    "Brown the sausage in a large frying pan over medium-high heat, breaking it into small pieces, for 8–10 minutes. Lift it out with a slotted spoon, leaving the fat.",
+    "Add the butter, onion, celery and mushrooms to the pan and cook 8–10 minutes, until soft and the mushroom liquid has cooked away. Stir in the garlic, sage, thyme, pepper and salt for the last minute.",
+    "Tip everything into a large bowl with the sausage and parsley and let it cool for 5 minutes. Taste before adding more salt; sausage varies a lot.",
+    "Whisk the eggs and stock together. Stir the almond flour into the sausage mixture, then the egg mixture, until evenly moistened.",
+    "Spread in the dish, cover with foil and bake 20 minutes. Uncover and bake 15–20 minutes more, until the top is browned and the centre reaches 71 °C (160 °F). Rest 5 minutes."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter",
+      "note": "or use olive oil"
+    }
+  ],
+  "dairy_free_notes": "Only the butter is dairy; olive oil or dairy-free butter works with no change in texture.",
+  "tips": [
+    "Bake it in a dish rather than inside the bird: it crisps better and you avoid an undercooked centre in a stuffed turkey."
+  ],
+  "origin": {
+    "family": "Stuffing / dressing",
+    "place": "New England",
+    "region": "North America",
+    "lat": 42.36,
+    "lon": -71.06,
+    "era": "1800s",
+    "history": "Filling birds and meats with herbs, bread and chopped meat goes back at least to Roman cookery and runs through medieval European recipes. In the United States a bread-and-herb stuffing became a standard part of Thanksgiving in the 1800s; in the South it is more often baked separately and called dressing. Exact regional origins are hard to pin down, and this grain-free version is a modern adaptation."
+  }
+}

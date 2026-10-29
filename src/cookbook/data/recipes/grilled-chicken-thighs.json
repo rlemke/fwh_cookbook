@@ -1,0 +1,109 @@
+{
+  "id": "grilled-chicken-thighs",
+  "title": "Grilled BBQ chicken thighs",
+  "category": "mains",
+  "summary": "Bone-in thighs with a smoky paprika rub, cooked over indirect heat, then brushed with a sugar-free tomato glaze in the last minutes.",
+  "servings": 4,
+  "serving_size": "2 thighs",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 40,
+    "rest_min": 5
+  },
+  "ingredients": [
+    {
+      "item": "chicken_thighs",
+      "g": 1300,
+      "note": "8 bone-in, skin-on thighs, about 2 kg (4½ lb); about 1.3 kg is meat and skin"
+    },
+    {
+      "group": "Rub"
+    },
+    {
+      "item": "paprika",
+      "tbsp": 1,
+      "note": "smoked"
+    },
+    {
+      "item": "salt",
+      "tsp": 2
+    },
+    {
+      "item": "black_pepper",
+      "tsp": 1
+    },
+    {
+      "item": "garlic_powder",
+      "tsp": 1
+    },
+    {
+      "item": "onion_powder",
+      "tsp": 1
+    },
+    {
+      "item": "cumin",
+      "tsp": 0.5
+    },
+    {
+      "item": "erythritol",
+      "tsp": 1
+    },
+    {
+      "item": "avocado_oil",
+      "tbsp": 1
+    },
+    {
+      "group": "Glaze"
+    },
+    {
+      "item": "tomato_paste",
+      "tbsp": 2
+    },
+    {
+      "item": "cider_vinegar",
+      "tbsp": 2
+    },
+    {
+      "item": "allulose",
+      "tbsp": 1
+    },
+    {
+      "item": "mustard",
+      "tbsp": 1
+    },
+    {
+      "item": "worcestershire",
+      "tsp": 1
+    },
+    {
+      "item": "liquid_smoke",
+      "tsp": 0.25
+    },
+    {
+      "item": "water",
+      "tbsp": 3
+    }
+  ],
+  "steps": [
+    "Pat the thighs dry. Mix the rub spices, toss the thighs with the oil, then with the rub. Rest 20 minutes, or refrigerate up to a day.",
+    "Whisk the glaze ingredients in a small pan and simmer 2 minutes until slightly thickened.",
+    "Set up the grill for two zones: coals or burners on one side only, aiming for about 190 °C (375 °F) under the lid. Lay the thighs skin side up on the cool side.",
+    "Cover and cook 30–35 minutes, until a thermometer next to the bone reads 74 °C (165 °F); thighs are juicier taken to 80–85 °C (175–185 °F).",
+    "Move the thighs skin side down to the hot side for 2–3 minutes to crisp. Turn, brush with glaze and cook 1–2 minutes more; the glaze contains allulose and scorches fast.",
+    "Oven alternative: bake on a rack over a lined tray at 200 °C (400 °F) for 35–40 minutes, brush with glaze and grill under the broiler for 2 minutes."
+  ],
+  "swaps": [],
+  "tips": [
+    "Worcestershire sauce contains anchovy; tamari is a fish-free swap.",
+    "Any of the sugar-free barbecue sauces in the sauces chapter can replace this glaze."
+  ],
+  "origin": {
+    "family": "Barbecued chicken",
+    "place": "United States",
+    "region": "North America",
+    "lat": 41.88,
+    "lon": -87.63,
+    "era": "1950s",
+    "history": "Grilling chicken over coals and brushing it with sauce became a backyard ritual in post-war suburban America, helped along by cheap charcoal briquettes and the domed kettle grill, which was designed near Chicago in the early 1950s. This is a home cook's dish rather than one with a single birthplace; the map pin marks that grill's home."
+  }
+}

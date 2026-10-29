@@ -1,0 +1,18 @@
+{% extends "base.html" %}
+{% block title %}Dinner menus — {{ title }}{% endblock %}
+{% block description %}Low-carb dinner layouts for Thanksgiving, Christmas, a family gathering and an outdoor barbecue, built from the book's recipes.{% endblock %}
+{% block body %}
+<h1>Dinner menus</h1>
+<p class="lede">Sets of the book's recipes for a gathering: what to serve together, how much a full plate adds up to, and a plan for getting it all on the table at once.</p>
+<div class="menu-grid">
+{% for m in menus %}
+  <a class="menu-card" href="menus/{{ m.id }}.html">
+    <span class="chip">{{ m.occasion }} · serves {{ m.guests }}</span>
+    <h3>{{ m.title }}</h3>
+    <p class="small">{{ m.summary }}</p>
+    <p class="sans small"><strong>{{ m.totals.net_carbs_g.per }} g</strong> net carbs for a plate of everything · about {{ m.totals.net_carbs_g.per_conv }} g if made the ordinary way</p>
+  </a>
+{% endfor %}
+</div>
+<p class="small">A “plate of everything” is one serving of every dish on the menu, dessert included, leaving out the alternatives marked <em>or</em>. It is a generous holiday plate; most people take less.</p>
+{% endblock %}

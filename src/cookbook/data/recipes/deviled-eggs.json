@@ -1,0 +1,72 @@
+{
+  "id": "deviled-eggs",
+  "title": "Deviled eggs",
+  "category": "sides",
+  "summary": "Hard-boiled egg halves filled with a tangy yolk, mayonnaise and mustard mixture and dusted with paprika.",
+  "servings": 12,
+  "serving_size": "2 halves",
+  "time": {
+    "prep_min": 20,
+    "cook_min": 12,
+    "rest_min": 15
+  },
+  "ingredients": [
+    {
+      "item": "egg",
+      "each": 12
+    },
+    {
+      "item": "mayonnaise",
+      "cup": 0.33
+    },
+    {
+      "item": "mustard",
+      "tsp": 2
+    },
+    {
+      "item": "cider_vinegar",
+      "tsp": 1
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    },
+    {
+      "item": "black_pepper",
+      "tsp": 0.125
+    },
+    {
+      "item": "hot_sauce",
+      "tsp": 0.5,
+      "note": "optional"
+    },
+    {
+      "item": "paprika",
+      "tsp": 0.5,
+      "note": "to finish"
+    },
+    {
+      "item": "chives",
+      "tbsp": 1
+    }
+  ],
+  "steps": [
+    "Put the eggs in a saucepan, cover with cold water by 2.5 cm (1 in) and bring to a boil. Cover, take off the heat and leave 11 minutes.",
+    "Move the eggs to a bowl of iced water for 15 minutes, then peel under running water.",
+    "Halve the eggs lengthwise and pop the yolks into a bowl. Mash with a fork until fine, then stir in the mayonnaise, mustard, vinegar, salt, pepper and hot sauce until smooth.",
+    "Spoon or pipe the filling into the whites. Dust with paprika and scatter with chives. Serve within a few hours, kept chilled."
+  ],
+  "swaps": [],
+  "tips": [
+    "Eggs a week or so old peel more cleanly than very fresh ones."
+  ],
+  "origin": {
+    "family": "Stuffed eggs",
+    "place": "Rome",
+    "region": "Southern Europe",
+    "lat": 41.9,
+    "lon": 12.5,
+    "era": "ancient",
+    "history": "Boiled eggs served with spiced sauces were eaten in ancient Rome, and recipes for stuffed eggs with the yolk mixed with seasonings appear in medieval cookbooks, including one from 13th-century Andalusia. The word 'devilled', for food made hot with mustard or pepper, appears in English in the late 1700s, and in the United States 'deviled eggs' became a party and picnic staple in the twentieth century."
+  }
+}

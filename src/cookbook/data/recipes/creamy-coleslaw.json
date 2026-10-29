@@ -1,0 +1,75 @@
+{
+  "id": "creamy-coleslaw",
+  "title": "Creamy coleslaw",
+  "category": "sides",
+  "summary": "Crisp shredded green and red cabbage with a little carrot in a tangy mayonnaise and cider-vinegar dressing.",
+  "servings": 8,
+  "serving_size": "about 3/4 cup",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 0,
+    "rest_min": 30
+  },
+  "ingredients": [
+    {
+      "item": "cabbage",
+      "g": 600,
+      "note": "finely shredded"
+    },
+    {
+      "item": "red_cabbage",
+      "g": 150,
+      "note": "finely shredded"
+    },
+    {
+      "item": "carrot",
+      "g": 50,
+      "note": "coarsely grated (about 1 small)"
+    },
+    {
+      "group": "Dressing"
+    },
+    {
+      "item": "mayonnaise",
+      "cup": 0.75
+    },
+    {
+      "item": "cider_vinegar",
+      "tbsp": 2
+    },
+    {
+      "item": "mustard",
+      "tsp": 1
+    },
+    {
+      "item": "erythritol",
+      "tsp": 2
+    },
+    {
+      "item": "salt",
+      "tsp": 0.75
+    },
+    {
+      "item": "black_pepper",
+      "tsp": 0.25
+    }
+  ],
+  "steps": [
+    "Whisk the mayonnaise, vinegar, mustard, erythritol, salt and pepper in a large bowl until the sweetener dissolves.",
+    "Add the green and red cabbage and the carrot and toss until every shred is coated.",
+    "Cover and refrigerate 30 minutes to soften slightly, then toss again and taste for salt and vinegar before serving."
+  ],
+  "swaps": [],
+  "tips": [
+    "Dressed slaw keeps its crunch for about a day; for longer, keep the dressing and cabbage separate."
+  ],
+  "origin": {
+    "family": "Coleslaw",
+    "place": "New York City",
+    "region": "North America",
+    "lat": 40.71,
+    "lon": -74.01,
+    "era": "1700s",
+    "history": "The name comes from the Dutch koolsla, cabbage salad, and the dish is usually traced to the Dutch colonists of New Netherland, later New York, in the 1700s. Early versions were dressed with vinegar and oil or melted butter. Mayonnaise-dressed slaw became the common American style in the twentieth century, once commercial mayonnaise was widely sold."
+  }
+}

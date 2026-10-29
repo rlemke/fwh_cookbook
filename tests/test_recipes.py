@@ -106,7 +106,9 @@ def test_ingredient_line_shows_grams_for_spoons(table):
 def test_site_builds_and_is_deterministic(fdc_zip, tmp_path):
     a = build_site(fdc_zip, str(tmp_path / "a"))
     build_site(fdc_zip, str(tmp_path / "b"))
-    assert a["files"] == len(load_recipes()) + 3
+    from cookbook.site.build import load_menus
+
+    assert a["files"] == len(load_recipes()) + 4 + len(load_menus())
     for rel in a["paths"]:
         assert (tmp_path / "a" / rel).read_bytes() == (tmp_path / "b" / rel).read_bytes(), rel
     index = (tmp_path / "a" / "index.html").read_text()
@@ -184,3 +186,23 @@ def test_conventional_ingredients_are_not_allowed_in_recipes(table):
         assert k in table.ingredients and (rule["to"] is None or rule["to"] in table.ingredients)
     for rid in trad["recipes"]:
         assert rid in {x["id"] for x in load_recipes()}, rid
+
+
+def test_every_menu_names_real_recipes_and_totals_skip_alternatives(table):
+    from cookbook.site.build import load_menus, menu_view, recipe_view
+
+    by_id = {r["id"]: recipe_view(r, table) for r in load_recipes()}
+    for m in load_menus():
+        for c in m["courses"]:
+            assert c["items"], (m["id"], c["name"])
+            assert not c["items"][0].get("alt"), f"{m['id']}: an 'or' item needs one before it"
+            for it in c["items"]:
+                assert it["recipe"] in by_id, (m["id"], it["recipe"])
+        mv = menu_view(m, by_id)
+        want = sum(
+            by_id[it["recipe"]]["per"]["net_carbs_g"]
+            for c in m["courses"]
+            for it in c["items"]
+            if not it.get("alt")
+        )
+        assert mv["totals"]["net_carbs_g"]["per"] == pytest.approx(want, abs=0.1)

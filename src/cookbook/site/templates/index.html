@@ -36,6 +36,9 @@
 </div>
 <p class="note">Every recipe is built on established low-carb baking ratios, and its nutrition is <a href="about.html#nutrition">computed from USDA data</a>, not estimated. None of these recipes has been kitchen-tested, so treat them as a careful starting point, especially the dairy-free versions.</p>
 
+<h2 id="menus">Dinner menus</h2>
+<p>Complete low-carb layouts for a gathering, with a full plate's nutrition and a plan for the day: {% for m in menus %}<a href="menus/{{ m.id }}.html">{{ m.title }}</a>{{ ', ' if not loop.last else '.' }}{% endfor %}</p>
+
 <h2 id="origins">Where these dishes come from</h2>
 <p>Every recipe is placed where its <em>kind</em> of dish took shape: cheesecake in New York, Sachertorte in Vienna, haupia in Hawaii. Click a marker to see its recipes, or pick a region to filter the map and the list below. Origins are often disputed, and each recipe page says so where they are.</p>
 <div class="regions sans" id="regions"><button class="on" data-r="">All regions</button>{% for r in region_names %}<button data-r="{{ r }}">{{ r }}</button>{% endfor %}</div>

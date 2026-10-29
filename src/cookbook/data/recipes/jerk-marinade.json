@@ -1,0 +1,99 @@
+{
+  "id": "jerk-marinade",
+  "title": "Jamaican-style jerk marinade",
+  "category": "sauces",
+  "summary": "A fiery, fragrant wet jerk paste of scallion, thyme, allspice and chillies, with lime and tamari, for chicken or pork.",
+  "servings": 8,
+  "serving_size": "marinade for 200 g of chicken or pork",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 0,
+    "rest_min": 720
+  },
+  "ingredients": [
+    {
+      "item": "scallion",
+      "each": 6,
+      "note": "roughly chopped"
+    },
+    {
+      "item": "jalapeno",
+      "each": 2,
+      "note": "seeds left in for heat"
+    },
+    {
+      "item": "cayenne",
+      "tsp": 1
+    },
+    {
+      "item": "garlic",
+      "each": 3
+    },
+    {
+      "item": "fresh_ginger",
+      "tbsp": 1
+    },
+    {
+      "item": "thyme",
+      "tbsp": 1,
+      "note": "dried, or 3 tbsp fresh leaves"
+    },
+    {
+      "item": "allspice",
+      "tbsp": 1
+    },
+    {
+      "item": "cinnamon",
+      "tsp": 0.5
+    },
+    {
+      "item": "nutmeg",
+      "tsp": 0.5
+    },
+    {
+      "item": "black_pepper",
+      "tsp": 1
+    },
+    {
+      "item": "salt",
+      "tsp": 1.5
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 1
+    },
+    {
+      "item": "lime_juice",
+      "tbsp": 3
+    },
+    {
+      "item": "tamari",
+      "tbsp": 2
+    },
+    {
+      "item": "avocado_oil",
+      "cup": 0.25
+    }
+  ],
+  "steps": [
+    "Blend everything to a coarse paste, scraping down the sides. Wear gloves when handling the chillies.",
+    "Score 1.6 kg of bone-in chicken pieces or pork to the bone in a few places, rub the paste in well and refrigerate overnight (at least 4 hours).",
+    "Grill over medium, indirect heat with the lid down, turning occasionally, until chicken reaches 74 °C (165 °F) or pork 63 °C (145 °F), then char briefly over direct heat. In an oven, roast at 200 °C (400 °F) for 35–45 minutes for chicken pieces.",
+    "Serve with lime wedges."
+  ],
+  "swaps": [],
+  "tips": [
+    "Jerk is made with Scotch bonnet peppers, which bring fruity heat that jalapeño does not; the cayenne is there to make up the heat. Use 1–2 Scotch bonnets instead of both if you can get them.",
+    "Only part of the marinade clings to the meat, so the carbs actually eaten are lower than the per-serving figure, which counts the whole batch.",
+    "Grilling over pimento (allspice) wood is traditional; a handful of whole allspice berries on the coals gives a hint of it."
+  ],
+  "origin": {
+    "family": "Jerk",
+    "place": "Jamaica",
+    "region": "Latin America & Caribbean",
+    "lat": 18.11,
+    "lon": -77.3,
+    "era": "1700s",
+    "history": "Jerk is Jamaica's best-known way of cooking: meat rubbed with a hot, allspice-heavy seasoning and cooked slowly over pimento wood. It is commonly traced to the Maroons, communities of Africans who escaped slavery and lived in the island's mountains, who are thought to have built on smoking and preserving techniques of the island's Taíno people. Boston Bay in Portland Parish is often called the home of jerk."
+  }
+}

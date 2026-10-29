@@ -33,9 +33,20 @@ CATEGORIES = {
     "drinks": "Drinks",
     "breakfast": "Breakfast",
     "breads": "Breads & crackers",
+    "mains": "Main dishes",
+    "sides": "Sides, salads & starters",
+    "sauces": "BBQ sauces, rubs & marinades",
     "basics": "Basics, crusts & sauces",
 }
-DESSERT_CATEGORIES = set(CATEGORIES) - {"breakfast", "breads", "drinks", "basics"}
+DESSERT_CATEGORIES = set(CATEGORIES) - {
+    "breakfast",
+    "breads",
+    "drinks",
+    "basics",
+    "mains",
+    "sides",
+    "sauces",
+}
 UNITS = ("g", "each", "cup", "tbsp", "tsp", "drop")
 ALLERGENS = {
     "dairy": "dairy",
@@ -45,6 +56,8 @@ ALLERGENS = {
     "coconut": "coconut",
     "soy": "soy",
     "sesame": "sesame",
+    "fish": "fish",
+    "shellfish": "shellfish",
 }
 REQUIRED = ("id", "title", "category", "summary", "servings", "ingredients", "steps", "origin")
 ORIGIN_REQUIRED = ("family", "place", "region", "lat", "lon", "era", "history")

@@ -1,0 +1,104 @@
+{
+  "id": "kansas-city-bbq-sauce",
+  "title": "Kansas City barbecue sauce",
+  "category": "sauces",
+  "summary": "A thick, glossy, sweet-and-tangy tomato barbecue sauce built on tomato paste and allulose, with a spoonful of molasses for the brown-sugar note.",
+  "servings": 20,
+  "serving_size": "2 tbsp",
+  "time": {
+    "prep_min": 5,
+    "cook_min": 25,
+    "rest_min": 0
+  },
+  "ingredients": [
+    {
+      "item": "tomato_paste",
+      "g": 170,
+      "note": "one 170 g (6 oz) can"
+    },
+    {
+      "item": "water",
+      "cup": 1
+    },
+    {
+      "item": "cider_vinegar",
+      "cup": 0.33
+    },
+    {
+      "item": "allulose",
+      "cup": 0.33
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 2
+    },
+    {
+      "item": "molasses",
+      "tsp": 2
+    },
+    {
+      "item": "worcestershire",
+      "tbsp": 1
+    },
+    {
+      "item": "mustard",
+      "tbsp": 1
+    },
+    {
+      "item": "paprika",
+      "tsp": 2,
+      "note": "smoked"
+    },
+    {
+      "item": "onion_powder",
+      "tsp": 1
+    },
+    {
+      "item": "garlic_powder",
+      "tsp": 1
+    },
+    {
+      "item": "chili_powder",
+      "tsp": 1
+    },
+    {
+      "item": "black_pepper",
+      "tsp": 0.5
+    },
+    {
+      "item": "salt",
+      "tsp": 1
+    },
+    {
+      "item": "cayenne",
+      "tsp": 0.25
+    },
+    {
+      "item": "liquid_smoke",
+      "tsp": 0.5,
+      "note": "optional"
+    }
+  ],
+  "steps": [
+    "Whisk everything except the liquid smoke in a small saucepan until no streaks of tomato paste remain.",
+    "Bring to a gentle simmer over medium-low heat and cook, uncovered, 20–25 minutes, stirring often and scraping the bottom: allulose scorches faster than sugar.",
+    "When the sauce coats a spoon thickly, take it off the heat and stir in the liquid smoke, if using. Taste and adjust salt, vinegar and heat.",
+    "Brush onto ribs, chicken or pork only in the last 10–15 minutes of cooking so it glazes without burning, and serve the rest on the side.",
+    "Cool and refrigerate in a clean jar for up to 2 weeks."
+  ],
+  "swaps": [],
+  "tips": [
+    "The 2 tsp of molasses is there only for flavour (it is sugar, about 10 g of carbs in the whole batch); leave it out and the sauce is about 0.5 g lower per serving.",
+    "Worcestershire contains anchovy (fish allergen); use 1 tbsp tamari instead if needed.",
+    "The sauce thickens further as it cools; loosen with a spoonful of water when reheating."
+  ],
+  "origin": {
+    "family": "Barbecue sauce",
+    "place": "Kansas City, Missouri",
+    "region": "North America",
+    "lat": 39.1,
+    "lon": -94.58,
+    "era": "1900s",
+    "history": "Kansas City's barbecue tradition is usually traced to Henry Perry, who sold slow-smoked meats in the city from the early 1900s. The city became known for meats served with a thick, sweet, tomato-and-molasses sauce, and bottled sauces in that style spread it across the United States in the later twentieth century, so that for many Americans it is simply what barbecue sauce means."
+  }
+}

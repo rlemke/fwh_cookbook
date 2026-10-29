@@ -1,0 +1,98 @@
+{
+  "id": "creamed-spinach",
+  "title": "Creamed spinach",
+  "category": "sides",
+  "summary": "The steakhouse side: wilted spinach bound in a garlicky cream sauce with a little parmesan and nutmeg.",
+  "servings": 6,
+  "serving_size": "about 1/2 cup",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 15,
+    "rest_min": 0
+  },
+  "ingredients": [
+    {
+      "item": "spinach",
+      "g": 900,
+      "note": "tough stems removed"
+    },
+    {
+      "item": "butter",
+      "tbsp": 2
+    },
+    {
+      "item": "onion",
+      "g": 40,
+      "note": "very finely chopped"
+    },
+    {
+      "item": "garlic",
+      "each": 3,
+      "note": "minced"
+    },
+    {
+      "item": "heavy_cream",
+      "cup": 0.75
+    },
+    {
+      "item": "cream_cheese",
+      "g": 115,
+      "note": "softened"
+    },
+    {
+      "item": "parmesan",
+      "cup": 0.25
+    },
+    {
+      "item": "nutmeg",
+      "tsp": 0.125
+    },
+    {
+      "item": "salt",
+      "tsp": 0.5
+    },
+    {
+      "item": "black_pepper",
+      "tsp": 0.25
+    }
+  ],
+  "steps": [
+    "Wilt the spinach in batches in a large pot with a splash of water over medium-high heat, 2–3 minutes per batch. Drain in a colander.",
+    "When cool enough to handle, squeeze the spinach hard in a clean towel to remove as much water as you can, then chop it coarsely.",
+    "Melt the butter in the dry pot over medium heat and cook the onion for 3–4 minutes until soft. Add the garlic for 30 seconds.",
+    "Add the cream and cream cheese and whisk until smooth, then simmer 2–3 minutes until slightly thickened.",
+    "Stir in the spinach, parmesan, nutmeg, salt and pepper and cook 2 minutes, until hot and creamy. Serve straight away."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter"
+    },
+    {
+      "from": "heavy_cream",
+      "to": "coconut_milk"
+    },
+    {
+      "from": "cream_cheese",
+      "to": "vegan_cream_cheese"
+    },
+    {
+      "from": "parmesan",
+      "to": "nutritional_yeast",
+      "ratio": 0.5
+    }
+  ],
+  "dairy_free_notes": "Coconut milk and dairy-free cream cheese give a looser, slightly sweeter sauce; nutritional yeast stands in for the parmesan's savouriness. Simmer a minute longer to thicken it.",
+  "tips": [
+    "Squeezing the spinach well is the whole trick; leftover water turns the sauce thin and grey-green."
+  ],
+  "origin": {
+    "family": "Creamed spinach",
+    "place": "New York City",
+    "region": "North America",
+    "lat": 40.71,
+    "lon": -74.01,
+    "era": "1900s",
+    "history": "Spinach cooked with cream or a white sauce is an old European preparation, found in French and English cookery of the 1800s. In the United States it became a fixture of the twentieth-century steakhouse menu, served alongside steaks and chops, and New York steakhouses did much to make it the standard pairing."
+  }
+}

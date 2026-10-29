@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% block title %}{{ m.title }} — {{ title }}{% endblock %}
+{% block description %}{{ m.summary }}{% endblock %}
+{% block body %}
+<p class="small noprint"><a href="../menus.html">Dinner menus</a></p>
+<h1>{{ m.title }}</h1>
+<p class="lede">{{ m.summary }}</p>
+<p class="sans"><span class="chip">{{ m.occasion }}</span> <span class="chip">Serves {{ m.guests }}</span> <span class="chip">{{ m.count }} recipes</span></p>
+{% for c in m.courses %}
+<section class="course">
+  <h2>{{ c.name }}</h2>
+  <ul>
+  {% for it in c.dishes %}
+    <li{% if it.alt %} class="alt"{% endif %}><span>{% if it.alt %}<em>or</em> {% endif %}<a href="../recipes/{{ it.r.id }}.html">{{ it.r.title }}</a> <span class="small">· serves {{ it.r.servings }}{% if it.r.serving_size %}, {{ it.r.serving_size }}{% endif %}{% if it.batches > 1 %} · <strong>make {{ it.batches }}×</strong>{% endif %}</span></span>
+      <span class="sans small">{{ it.r.per.net_carbs_g }} g net{% if it.r.dairy != 'dairy-free' %} · dairy-free option{% else %} · dairy-free{% endif %}</span></li>
+  {% endfor %}
+  </ul>
+</section>
+{% endfor %}
+<p class="small">“Make 2×” is how many batches feed {{ m.people }} people; sauces and dressings are counted the same way, which is generous.</p>
+<h2>A plate of everything</h2>
+<p>One serving of every dish above, dessert included, leaving out the alternatives.</p>
+<table class="facts">
+  <thead><tr><th>Per plate</th><th class="num">As written</th><th class="num">Dairy-free</th><th class="num conv">Not low-carb<span class="small">rough estimate</span></th></tr></thead>
+  <tbody>
+  {% for key, label, unit in [('net_carbs_g', 'Net carbs', 'g'), ('carbs_g', 'Total carbohydrate', 'g'), ('fat_g', 'Fat', 'g'), ('protein_g', 'Protein', 'g'), ('kcal', 'Energy', 'kcal')] %}
+    <tr{% if key == 'net_carbs_g' %} style="font-weight:600"{% endif %}><td>{{ label }}</td><td class="num">{{ m.totals[key].per }} {{ unit }}</td><td class="num">{{ m.totals[key].per_df }} {{ unit }}</td><td class="num conv">{{ m.totals[key].per_conv }} {{ unit }}</td></tr>
+  {% endfor %}
+  </tbody>
+</table>
+<p class="small">“Not low-carb” adds each dish's rough conventional estimate, or its as-written figure where it uses no low-carb stand-in, so it understates a traditional dinner (real stuffing is bread, real mashed potatoes are potatoes). Dishes with a dairy-free option are counted with it in the dairy-free column.</p>
+<h2>Plan ahead</h2>
+<dl class="plan">
+{% for p in m.plan %}<dt>{{ p.when }}</dt><dd>{{ p.do }}</dd>{% endfor %}
+</dl>
+{% endblock %}

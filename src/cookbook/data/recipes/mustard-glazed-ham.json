@@ -1,0 +1,83 @@
+{
+  "id": "mustard-glazed-ham",
+  "title": "Mustard-glazed Christmas ham",
+  "category": "mains",
+  "summary": "A fully cooked ham warmed through slowly, then brushed with a mustard, egg-yolk and allulose glaze and browned, in the manner of the Swedish julskinka.",
+  "servings": 16,
+  "serving_size": "about 225 g (8 oz) sliced ham",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 165,
+    "rest_min": 20
+  },
+  "ingredients": [
+    {
+      "item": "ham",
+      "g": 3600,
+      "note": "one 4.5 kg (10 lb) bone-in, fully cooked ham, skin removed; about 3.6 kg is meat. Choose one cured without honey or added sugar where possible"
+    },
+    {
+      "item": "water",
+      "cup": 1
+    },
+    {
+      "item": "bay_leaf",
+      "each": 2
+    },
+    {
+      "group": "Glaze"
+    },
+    {
+      "item": "mustard",
+      "cup": 0.33,
+      "note": "a coarse or Swedish-style mustard"
+    },
+    {
+      "item": "mustard_powder",
+      "tsp": 1
+    },
+    {
+      "item": "egg_yolk",
+      "each": 1
+    },
+    {
+      "item": "allulose",
+      "tbsp": 2
+    },
+    {
+      "item": "cloves",
+      "tsp": 0.25
+    },
+    {
+      "item": "black_pepper",
+      "tsp": 0.5
+    },
+    {
+      "item": "almond_flour",
+      "cup": 0.25,
+      "note": "optional, for a crumb coat"
+    }
+  ],
+  "steps": [
+    "Heat the oven to 160 °C (325 °F). Set the ham fat side up in a roasting pan, add the water and bay leaves and cover the pan tightly with foil.",
+    "Bake until a thermometer in the thickest part (not touching the bone) reads 55 °C (130 °F), about 15 minutes per 450 g (1 lb), roughly 2¼ hours.",
+    "Meanwhile whisk the mustard, mustard powder, egg yolk, allulose, cloves and pepper into a smooth glaze.",
+    "Take the ham out and raise the oven to 200 °C (400 °F). Score the fat in a diamond pattern, brush the glaze thickly over the top and sides and, if using, pat on the almond flour.",
+    "Return the ham uncovered for 15–20 minutes, until the glaze is set and browned and the centre reads 60 °C (140 °F). Allulose browns quickly, so check after 10 minutes and tent with foil if it darkens too fast.",
+    "Rest 20 minutes, then slice. Serve warm, or chill and slice thin for the cold table."
+  ],
+  "swaps": [],
+  "tips": [
+    "A ham labelled 'cook before eating' instead of 'fully cooked' must reach 63 °C (145 °F) and rest 3 minutes.",
+    "Studding the fat with whole cloves is an English and American touch; the Swedish coat is mustard, egg and crumbs."
+  ],
+  "origin": {
+    "family": "Christmas ham",
+    "place": "Sweden",
+    "region": "Northern Europe",
+    "lat": 59.33,
+    "lon": 18.07,
+    "era": "1800s",
+    "history": "Ham has been the centrepiece of the Swedish Christmas table, the julbord, for well over a century. The cured ham is cooked, then brushed with mustard, egg and breadcrumbs and browned in the oven, a step called griljering. Glazed Christmas hams are also traditional in England and across the rest of Scandinavia."
+  }
+}

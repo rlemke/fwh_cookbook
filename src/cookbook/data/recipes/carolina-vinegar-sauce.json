@@ -1,0 +1,65 @@
+{
+  "id": "carolina-vinegar-sauce",
+  "title": "Eastern Carolina vinegar sauce",
+  "category": "sauces",
+  "summary": "A thin, sharp vinegar and pepper sauce for chopped or pulled pork, with no tomato at all.",
+  "servings": 16,
+  "serving_size": "2 tbsp",
+  "time": {
+    "prep_min": 5,
+    "cook_min": 0,
+    "rest_min": 720
+  },
+  "ingredients": [
+    {
+      "item": "cider_vinegar",
+      "cup": 1.5
+    },
+    {
+      "item": "white_vinegar",
+      "cup": 0.5
+    },
+    {
+      "item": "cayenne",
+      "tbsp": 1,
+      "note": "red pepper flakes"
+    },
+    {
+      "item": "black_pepper",
+      "tsp": 2,
+      "note": "coarsely ground"
+    },
+    {
+      "item": "salt",
+      "tsp": 2
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 1
+    },
+    {
+      "item": "hot_sauce",
+      "tsp": 2
+    }
+  ],
+  "steps": [
+    "Shake everything together in a jar until the salt and erythritol dissolve.",
+    "Refrigerate at least overnight so the pepper flakes flavour the vinegar.",
+    "Shake again and sprinkle over pulled pork (see the internal-temperature note in your pork recipe: 93–96 °C / 200–205 °F for pulling), tossing as you go. Serve more at the table.",
+    "Keeps for months in the fridge."
+  ],
+  "swaps": [],
+  "tips": [
+    "Start with about 1/2 cup per 1 kg of pulled pork and add more to taste; the meat soaks it up.",
+    "Many cooks add no sweetener at all; the tablespoon of erythritol only rounds off the edge."
+  ],
+  "origin": {
+    "family": "Barbecue sauce",
+    "place": "Eastern North Carolina",
+    "region": "North America",
+    "lat": 35.61,
+    "lon": -77.37,
+    "era": "1800s",
+    "history": "Eastern North Carolina barbecue means whole hog, chopped and dressed with vinegar seasoned with red and black pepper. Vinegar-and-pepper dressings for pork are generally considered the oldest strand of Carolina barbecue, in use well before tomato-based sauces appeared, though no single starting date is documented. The region's cooks are known for keeping tomato out entirely, unlike the Piedmont (Lexington) style to the west."
+  }
+}

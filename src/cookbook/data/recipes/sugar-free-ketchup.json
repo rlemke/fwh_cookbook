@@ -1,0 +1,76 @@
+{
+  "id": "sugar-free-ketchup",
+  "title": "Sugar-free ketchup",
+  "category": "basics",
+  "summary": "A smooth, tangy tomato ketchup made from tomato paste and allulose, gently spiced like the bottled kind.",
+  "servings": 24,
+  "serving_size": "1 tbsp",
+  "time": {
+    "prep_min": 5,
+    "cook_min": 15,
+    "rest_min": 60
+  },
+  "ingredients": [
+    {
+      "item": "tomato_paste",
+      "g": 170,
+      "note": "one 170 g (6 oz) can"
+    },
+    {
+      "item": "water",
+      "cup": 0.75
+    },
+    {
+      "item": "cider_vinegar",
+      "tbsp": 3
+    },
+    {
+      "item": "allulose",
+      "tbsp": 3
+    },
+    {
+      "item": "onion_powder",
+      "tsp": 0.5
+    },
+    {
+      "item": "garlic_powder",
+      "tsp": 0.25
+    },
+    {
+      "item": "salt",
+      "tsp": 0.75
+    },
+    {
+      "item": "cloves",
+      "tsp": 0.125
+    },
+    {
+      "item": "allspice",
+      "tsp": 0.125
+    },
+    {
+      "item": "cinnamon",
+      "tsp": 0.125
+    }
+  ],
+  "steps": [
+    "Whisk everything in a small saucepan until smooth.",
+    "Simmer over low heat for 10–15 minutes, stirring often, until it is slightly thicker than you want; it thickens more as it cools.",
+    "For a very smooth texture, blend briefly. Cool, then refrigerate at least 1 hour.",
+    "Keeps for 2–3 weeks refrigerated in a clean jar."
+  ],
+  "swaps": [],
+  "tips": [
+    "Allulose keeps the ketchup glossy and pourable in the fridge; erythritol works but can turn grainy.",
+    "Use this anywhere a recipe would otherwise call for ketchup, such as meatloaf glazes or burger sauce."
+  ],
+  "origin": {
+    "family": "Ketchup",
+    "place": "Pittsburgh, Pennsylvania",
+    "region": "North America",
+    "lat": 40.44,
+    "lon": -80.0,
+    "era": "1800s",
+    "history": "The word 'ketchup' is usually traced to a fermented fish sauce from southern China and Southeast Asia, which British traders encountered in the 1600s and 1700s; the exact source word is debated. In England 'ketchup' came to mean a family of savoury sauces made from mushrooms, walnuts or oysters. Tomato versions appeared in the United States in the early 1800s, and H. J. Heinz of Pittsburgh began selling a bottled tomato ketchup in 1876, which helped make the sweet, vinegary style the standard."
+  }
+}

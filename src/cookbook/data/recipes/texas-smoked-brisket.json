@@ -1,0 +1,62 @@
+{
+  "id": "texas-smoked-brisket",
+  "title": "Texas smoked brisket",
+  "category": "mains",
+  "summary": "A whole brisket seasoned with little more than salt and coarse pepper and smoked low for most of a day, with an oven method for those without a smoker.",
+  "servings": 16,
+  "serving_size": "about 170 g (6 oz) sliced brisket",
+  "time": {
+    "prep_min": 30,
+    "cook_min": 720,
+    "rest_min": 120
+  },
+  "ingredients": [
+    {
+      "item": "brisket",
+      "g": 4500,
+      "note": "one whole 'packer' brisket of about 6 kg (13 lb), trimmed to about 4.5 kg with 6 mm (¼ in) of fat left on"
+    },
+    {
+      "item": "black_pepper",
+      "cup": 0.25,
+      "note": "coarsely ground"
+    },
+    {
+      "item": "salt",
+      "tbsp": 3,
+      "note": "coarse kosher salt is traditional"
+    },
+    {
+      "item": "garlic_powder",
+      "tsp": 2,
+      "note": "optional"
+    },
+    {
+      "item": "liquid_smoke",
+      "tsp": 1,
+      "note": "oven method only"
+    }
+  ],
+  "steps": [
+    "Trim hard fat to about 6 mm (¼ in) and round off thin edges that would burn. Mix the pepper, salt and garlic powder and season every surface evenly. Leave at room temperature while the smoker heats, or refrigerate overnight.",
+    "Smoker: heat to 120 °C (250 °F) with post oak or hickory. Smoke the brisket fat side up, thick end toward the heat, until the bark is dark and set and the centre reads about 74 °C (165 °F), 6–8 hours.",
+    "Wrap tightly in unwaxed butcher paper (or foil, which softens the bark) and return it to the smoker until the flat reads 93–96 °C (200–205 °F) and a probe slides in with almost no resistance, 3–5 hours more.",
+    "Oven alternative: heat to 135 °C (275 °F). Brush the brisket with the liquid smoke before seasoning and roast it on a rack in a pan for 4 hours, then wrap in foil and roast until it reaches the same 93–96 °C and probe-tender stage.",
+    "Rest the wrapped brisket in a dry cooler or a 65 °C (150 °F) oven for at least 1 hour and up to 4. Keep the juices.",
+    "Separate the point from the flat. Slice the flat across the grain about as thick as a pencil; slice the point across its own grain, which runs a different way. Spoon a little of the reserved juice over."
+  ],
+  "swaps": [],
+  "tips": [
+    "Every brisket cooks at its own pace — go by probe tenderness, not the clock, and start early.",
+    "Leftovers reheat best sliced thick and warmed in the wrapping juices."
+  ],
+  "origin": {
+    "family": "Barbecue",
+    "place": "Central Texas",
+    "region": "North America",
+    "lat": 29.88,
+    "lon": -97.67,
+    "era": "late 1800s",
+    "history": "Central Texas barbecue grew out of the meat markets run by German and Czech immigrants in the late 1800s, which smoked their unsold cuts and sausage over post oak and sold them on butcher paper. The style is plain — salt, pepper, smoke — and brisket, once a cheap cut, became its signature during the twentieth century."
+  }
+}

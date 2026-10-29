@@ -9,6 +9,7 @@ from __future__ import annotations
 
 import json
 from collections import Counter, defaultdict
+from importlib import resources
 from pathlib import Path
 
 from jinja2 import Environment, PackageLoader, select_autoescape
@@ -124,6 +125,43 @@ def recipe_view(r: dict, table: Table, trad: dict | None = None) -> dict:
     }
 
 
+def load_menus() -> list[dict]:
+    return json.loads(resources.files("cookbook").joinpath("data/menus.json").read_text())["menus"]
+
+
+def menu_view(m: dict, by_id: dict[str, dict]) -> dict:
+    """A menu with each item's recipe view and plate totals: one serving of every
+    dish that is not an alternative, as written, dairy-free and not low-carb."""
+    keys = ("net_carbs_g", "carbs_g", "fat_g", "protein_g", "kcal")
+    totals = {k: {"per": 0.0, "per_df": 0.0, "per_conv": 0.0} for k in keys}
+    courses = []
+    for c in m["courses"]:
+        items = []
+        for it in c["items"]:
+            v = by_id[it["recipe"]]
+            batches = -(-int(m["people"]) // int(v["servings"]))
+            items.append({"alt": bool(it.get("alt")), "r": v, "batches": batches})
+            if it.get("alt"):
+                continue
+            for k in keys:
+                totals[k]["per"] += v["per"][k]
+                totals[k]["per_df"] += v["per_df"][k]
+                totals[k]["per_conv"] += (v["per_conv"] or v["per"])[k]
+        courses.append({"name": c["name"], "dishes": items})
+    totals = {
+        k: {s: round(x) if k == "kcal" else round(x, 1) for s, x in t.items()}
+        for k, t in totals.items()
+    }
+    dishes = [i["r"] for c in courses for i in c["dishes"]]
+    return {
+        **m,
+        "courses": courses,
+        "totals": totals,
+        "dairy_free_as_written": all(d["dairy"] == "dairy-free" for d in dishes),
+        "count": len(dishes),
+    }
+
+
 def _card(v: dict) -> dict:
     """The fields the index's filter script needs, nothing more."""
     return {
@@ -215,8 +253,29 @@ def build_site(fdc_zip: str, out_dir: str, log=None) -> dict:
         {"from": table.ingredients[a]["name"], "to": table.ingredients[b]["name"], "uses": n}
         for (a, b), n in sorted(swap_counts.items(), key=lambda kv: (-kv[1], kv[0]))
     ]
+    by_id = {v["id"]: v for v in views}
+    menus = load_menus()
+    missing = [
+        (m["id"], it["recipe"])
+        for m in menus
+        for c in m["courses"]
+        for it in c["items"]
+        if it["recipe"] not in by_id
+    ]
+    if missing:
+        raise ValueError(f"menus name unknown recipes: {missing}")
+    menu_views = [menu_view(m, by_id) for m in menus]
+    in_menus = defaultdict(list)
+    for mv in menu_views:
+        for c in mv["courses"]:
+            for it in c["dishes"]:
+                if mv not in in_menus[it["r"]["id"]]:
+                    in_menus[it["r"]["id"]].append(mv)
+    for v in views:
+        v["menus"] = [{"id": mv["id"], "title": mv["title"]} for mv in in_menus[v["id"]]]
     env = _env()
     ctx = {
+        "menus": menu_views,
         "title": TITLE,
         "subtitle": SUBTITLE,
         "chapters": chapters,
@@ -235,7 +294,11 @@ def build_site(fdc_zip: str, out_dir: str, log=None) -> dict:
         "index.html": env.get_template("index.html").render(page="index", root="", **ctx),
         "book.html": env.get_template("book.html").render(page="book", root="", **ctx),
         "about.html": env.get_template("about.html").render(page="about", root="", **ctx),
+        "menus.html": env.get_template("menus.html").render(page="menus", root="", **ctx),
     }
+    mtpl = env.get_template("menu.html")
+    for mv in menu_views:
+        pages[f"menus/{mv['id']}.html"] = mtpl.render(page="menus", root="../", m=mv, **ctx)
     tpl = env.get_template("recipe.html")
     for i, v in enumerate(views):
         prev = views[i - 1] if i else None

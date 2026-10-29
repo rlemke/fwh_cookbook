@@ -1,0 +1,68 @@
+{
+  "id": "roasted-garlic-asparagus",
+  "title": "Roasted garlic asparagus",
+  "category": "sides",
+  "summary": "Asparagus roasted hot with olive oil and garlic, finished with lemon zest, juice and flaky salt.",
+  "servings": 4,
+  "serving_size": "6 spears",
+  "time": {
+    "prep_min": 5,
+    "cook_min": 12,
+    "rest_min": 0
+  },
+  "ingredients": [
+    {
+      "item": "asparagus",
+      "each": 24,
+      "note": "woody ends snapped off"
+    },
+    {
+      "item": "olive_oil",
+      "tbsp": 2
+    },
+    {
+      "item": "garlic",
+      "each": 3,
+      "note": "thinly sliced"
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    },
+    {
+      "item": "black_pepper",
+      "tsp": 0.25
+    },
+    {
+      "item": "lemon_zest",
+      "tsp": 1
+    },
+    {
+      "item": "lemon_juice",
+      "tbsp": 1
+    },
+    {
+      "item": "flaky_salt",
+      "tsp": 0.25,
+      "note": "to finish"
+    }
+  ],
+  "steps": [
+    "Heat the oven to 220 °C (425 °F). Toss the asparagus with the oil, salt and pepper on a rimmed sheet pan and spread in one layer.",
+    "Roast 6 minutes, then scatter the garlic over, toss and roast 4–6 minutes more, until the spears are tender-crisp and lightly browned and the garlic is golden. Thick spears need the longer time.",
+    "Move to a platter, grate over the lemon zest, sprinkle with the juice and flaky salt, and serve."
+  ],
+  "swaps": [],
+  "tips": [
+    "Add the garlic partway through: sliced garlic burns and turns bitter if it roasts for the full time."
+  ],
+  "origin": {
+    "family": "Asparagus",
+    "place": "Rome",
+    "region": "Southern Europe",
+    "lat": 41.9,
+    "lon": 12.5,
+    "era": "ancient",
+    "history": "Asparagus was cultivated and prized in ancient Rome; the Roman writer Cato gave instructions for growing it. Its short spring season made it a traditional Easter and spring vegetable across Europe, celebrated especially in Germany's white-asparagus season. Simply roasting it with oil and garlic is a modern home method."
+  }
+}

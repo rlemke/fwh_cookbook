@@ -1,13 +1,17 @@
 # fwh_cookbook — The Low-Carb Kitchen
 
 A [Facetwork](https://github.com/rlemke/facetwork) domain that builds a low-carb cookbook as a static site:
-163 recipes, 112 of them desserts. Every recipe is either dairy-free as written or gives a dairy-free swap
+206 recipes: 112 desserts plus main dishes, sides, and BBQ sauces, rubs and marinades. Every recipe is either dairy-free as written or gives a dairy-free swap
 for each dairy ingredient. Each dish is also placed on a world map at the place its *kind* of dish comes from.
 
 - **Index** (`index.html`): a map of where each dish comes from, plus every recipe with filters for chapter,
   net carbs, dairy-free as written, and nut-, egg- and coconut-free.
 - **Recipe pages** (`recipes/<id>.html`): ingredients in US measures with grams, the method, the dairy-free version,
   nutrition per serving as written, dairy-free, and as a rough estimate of an ordinary (not low-carb) version (`data/traditional.json`), and the dish's history.
+- **Dinner menus** (`menus.html`, `menus/<id>.html`, from `data/menus.json`): Thanksgiving, Christmas, a family
+  Sunday dinner and an outdoor barbecue — the dishes by course, how many batches feed the guests, a plate-of-everything
+  nutrition total (as written, dairy-free, not low-carb) and a plan-ahead timeline. The build fails if a menu names a
+  recipe that does not exist.
 - **The whole book** (`book.html`): every recipe on one page, laid out so a browser's *Save as PDF* starts each
   recipe on a new page.
 - **Method & guides** (`about.html`): how the nutrition is worked out, a sweetener guide, how the dairy-free swaps

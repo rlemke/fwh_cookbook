@@ -1,0 +1,65 @@
+{
+  "id": "roasted-brussels-sprouts-with-bacon",
+  "title": "Roasted Brussels sprouts with bacon",
+  "category": "sides",
+  "summary": "Halved sprouts roasted hot until their cut sides char, tossed with crisp bacon and a splash of cider vinegar.",
+  "servings": 6,
+  "serving_size": "about 3/4 cup",
+  "time": {
+    "prep_min": 10,
+    "cook_min": 30,
+    "rest_min": 0
+  },
+  "ingredients": [
+    {
+      "item": "bacon",
+      "each": 6,
+      "note": "cut into 1 cm (1/2 in) pieces"
+    },
+    {
+      "item": "brussels_sprouts",
+      "g": 680,
+      "note": "trimmed and halved"
+    },
+    {
+      "item": "olive_oil",
+      "tbsp": 1
+    },
+    {
+      "item": "salt",
+      "tsp": 0.5
+    },
+    {
+      "item": "black_pepper",
+      "tsp": 0.25
+    },
+    {
+      "item": "garlic",
+      "each": 2,
+      "note": "thinly sliced"
+    },
+    {
+      "item": "cider_vinegar",
+      "tbsp": 1
+    }
+  ],
+  "steps": [
+    "Heat the oven to 220 °C (425 °F). Cook the bacon in a cold, ovenproof frying pan or on a rimmed sheet pan in the oven for 8–10 minutes, until the fat runs and the bacon begins to crisp. Lift the bacon out and keep the fat.",
+    "Toss the sprouts with the bacon fat, olive oil, salt and pepper on a large rimmed sheet pan and turn them cut side down in a single layer.",
+    "Roast 15 minutes without stirring, until the cut sides are deep brown. Scatter over the garlic and bacon, toss and roast 5–8 minutes more, until the sprouts are tender and the bacon is crisp.",
+    "Sprinkle with the cider vinegar, toss and serve hot."
+  ],
+  "swaps": [],
+  "tips": [
+    "Leave space between the sprouts; crowded on the pan they steam instead of browning."
+  ],
+  "origin": {
+    "family": "Brussels sprouts",
+    "place": "Brussels",
+    "region": "Western Europe",
+    "lat": 50.85,
+    "lon": 4.35,
+    "era": "1700s",
+    "history": "Brussels sprouts take their name from the area around Brussels, where they were grown in quantity by the 1700s; claims of a much earlier origin there are uncertain. They spread through northern Europe and became a common winter vegetable in Britain and North America. Roasting them hot with bacon is a modern restaurant and home-cooking favourite."
+  }
+}

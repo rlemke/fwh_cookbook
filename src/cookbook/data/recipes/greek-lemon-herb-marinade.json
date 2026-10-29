@@ -1,0 +1,69 @@
+{
+  "id": "greek-lemon-herb-marinade",
+  "title": "Greek lemon and oregano marinade",
+  "category": "sauces",
+  "summary": "The souvlaki-style marinade of olive oil, lemon, dried oregano and garlic, for pork, chicken or lamb on skewers.",
+  "servings": 6,
+  "serving_size": "marinade for 150 g of meat",
+  "time": {
+    "prep_min": 10,
+    "cook_min": 0,
+    "rest_min": 120
+  },
+  "ingredients": [
+    {
+      "item": "olive_oil",
+      "cup": 0.33
+    },
+    {
+      "item": "lemon_juice",
+      "cup": 0.25
+    },
+    {
+      "item": "lemon_zest",
+      "tsp": 1
+    },
+    {
+      "item": "red_wine_vinegar",
+      "tbsp": 1
+    },
+    {
+      "item": "oregano",
+      "tbsp": 1,
+      "note": "dried Greek oregano"
+    },
+    {
+      "item": "garlic",
+      "each": 4,
+      "note": "minced"
+    },
+    {
+      "item": "salt",
+      "tsp": 1.5
+    },
+    {
+      "item": "black_pepper",
+      "tsp": 1
+    }
+  ],
+  "steps": [
+    "Whisk everything together.",
+    "Cut 900 g (2 lb) of pork shoulder or loin, boneless chicken thighs or lamb leg into 3 cm (1 1/4 in) cubes and toss with the marinade. Refrigerate 2–8 hours (chicken no more than 8, or the lemon turns it mealy).",
+    "Thread onto skewers (soak wooden ones 30 minutes) and grill over medium-high heat, turning, 8–12 minutes, until pork reaches 63 °C (145 °F) and chicken 74 °C (165 °F). Or cook under a hot broiler, turning once.",
+    "Finish with a squeeze of lemon and a pinch of oregano."
+  ],
+  "swaps": [],
+  "tips": [
+    "Only part of the marinade clings to the meat, so the carbs eaten are lower than the per-serving figure, which counts the whole batch.",
+    "Serve with tzatziki made with coconut yogurt for a dairy-free plate."
+  ],
+  "origin": {
+    "family": "Souvlaki",
+    "place": "Athens",
+    "region": "Southern Europe",
+    "lat": 37.98,
+    "lon": 23.73,
+    "era": "ancient",
+    "history": "Meat roasted on spits is described in Homer's epics, and small skewers were sold in ancient Greek cities. The modern souvlaki, cubed pork or chicken marinated in oil, lemon and oregano and grilled on skewers, became Greek street food in the twentieth century, spreading with Greek emigrants abroad."
+  }
+}

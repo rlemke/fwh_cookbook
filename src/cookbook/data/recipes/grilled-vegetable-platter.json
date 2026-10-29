@@ -1,0 +1,101 @@
+{
+  "id": "grilled-vegetable-platter",
+  "title": "Grilled vegetable platter",
+  "category": "sides",
+  "summary": "Zucchini, summer squash, eggplant, red pepper and red onion grilled until charred and soft, then dressed with garlic, herbs and olive oil.",
+  "servings": 8,
+  "serving_size": "about 1 cup",
+  "time": {
+    "prep_min": 20,
+    "cook_min": 25,
+    "rest_min": 10
+  },
+  "ingredients": [
+    {
+      "item": "zucchini",
+      "each": 2,
+      "note": "sliced lengthwise 1 cm (1/2 in) thick"
+    },
+    {
+      "item": "summer_squash",
+      "each": 2,
+      "note": "sliced lengthwise 1 cm (1/2 in) thick"
+    },
+    {
+      "item": "eggplant",
+      "each": 1,
+      "note": "sliced into 1 cm (1/2 in) rounds"
+    },
+    {
+      "item": "bell_pepper",
+      "each": 1,
+      "note": "cut into wide strips"
+    },
+    {
+      "item": "onion",
+      "g": 110,
+      "note": "red onion, cut into wedges through the root"
+    },
+    {
+      "item": "olive_oil",
+      "cup": 0.25,
+      "note": "for brushing"
+    },
+    {
+      "item": "salt",
+      "tsp": 1
+    },
+    {
+      "item": "black_pepper",
+      "tsp": 0.5
+    },
+    {
+      "group": "Dressing"
+    },
+    {
+      "item": "olive_oil",
+      "tbsp": 3
+    },
+    {
+      "item": "red_wine_vinegar",
+      "tbsp": 1
+    },
+    {
+      "item": "garlic",
+      "each": 1,
+      "note": "grated"
+    },
+    {
+      "item": "oregano",
+      "tsp": 0.5
+    },
+    {
+      "item": "basil",
+      "cup": 0.25,
+      "note": "torn"
+    },
+    {
+      "item": "parsley",
+      "tbsp": 2
+    }
+  ],
+  "steps": [
+    "Heat a grill to medium-high, about 200–230 °C (400–450 °F), and clean and oil the grates. Brush the vegetables on both sides with oil and season with the salt and pepper.",
+    "Grill in batches with the lid closed: zucchini and squash 3–4 minutes a side, eggplant 4–5 minutes a side, pepper and onion 5–6 minutes a side, until marked and tender. Oven alternative: roast on two oiled sheet pans at 220 °C (425 °F) for 20–25 minutes, turning once.",
+    "Whisk the dressing oil, vinegar, garlic and oregano together.",
+    "Arrange the vegetables on a platter, spoon the dressing over and rest 10 minutes so they soak it up. Scatter with basil and parsley. Serve warm or at room temperature."
+  ],
+  "swaps": [],
+  "tips": [
+    "Eggplant drinks oil; brush it rather than pouring, and it will still soften fully on the grill."
+  ],
+  "origin": {
+    "family": "Grilled vegetables (verdure grigliate)",
+    "place": "Italy",
+    "region": "Southern Europe",
+    "lat": 41.9,
+    "lon": 12.5,
+    "era": "1800s",
+    "history": "Grilling vegetables over coals is an old Mediterranean habit, but this mix is relatively recent: peppers and summer squash came from the Americas after 1500, and the zucchini as we know it was developed in Italy around the 1800s. Platters of grilled vegetables dressed with oil and herbs are now a standard antipasto and side across Italy and the wider Mediterranean."
+  }
+}

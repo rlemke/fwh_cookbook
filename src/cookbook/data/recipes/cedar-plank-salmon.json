@@ -1,0 +1,90 @@
+{
+  "id": "cedar-plank-salmon",
+  "title": "Cedar-plank salmon with dill-mustard sauce",
+  "category": "mains",
+  "summary": "Salmon grilled on a soaked cedar plank, which steams and lightly smokes it, served with a cool dill and mustard sauce; an oven method is included.",
+  "servings": 4,
+  "serving_size": "about 225 g (8 oz) fillet + 2 tbsp sauce",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 20,
+    "rest_min": 60
+  },
+  "ingredients": [
+    {
+      "group": "Salmon"
+    },
+    {
+      "item": "salmon",
+      "g": 900,
+      "note": "one skin-on fillet or four portions"
+    },
+    {
+      "item": "olive_oil",
+      "tbsp": 1
+    },
+    {
+      "item": "salt",
+      "tsp": 1
+    },
+    {
+      "item": "black_pepper",
+      "tsp": 0.5
+    },
+    {
+      "item": "lemon_zest",
+      "tsp": 1
+    },
+    {
+      "item": "lemon",
+      "each": 1,
+      "note": "thinly sliced"
+    },
+    {
+      "group": "Dill-mustard sauce"
+    },
+    {
+      "item": "mayonnaise",
+      "cup": 0.33
+    },
+    {
+      "item": "mustard",
+      "tbsp": 2,
+      "note": "Dijon"
+    },
+    {
+      "item": "dill",
+      "tbsp": 3
+    },
+    {
+      "item": "lemon_juice",
+      "tbsp": 1
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    }
+  ],
+  "steps": [
+    "Soak an untreated cedar plank (sold for cooking) in water for at least 1 hour, weighted down so it stays submerged.",
+    "Stir the sauce ingredients together and chill.",
+    "Pat the salmon dry, brush with the oil and season with the salt, pepper and lemon zest. Lay the lemon slices on the soaked plank and the salmon skin side down on top.",
+    "Heat the grill to medium, about 190–200 °C (375–400 °F) under the lid. Set the plank on the grate, close the lid and cook 15–20 minutes, until the salmon flakes and the centre reads 63 °C (145 °F); many cooks prefer to stop at 52–55 °C (125–130 °F) for moist, just-opaque fish. Keep a spray bottle of water handy in case the plank edges flare.",
+    "Oven alternative: heat the oven to 200 °C (400 °F) and bake the salmon on the soaked plank set on a tray, or on a parchment-lined tray without one, for 12–15 minutes.",
+    "Serve straight from the plank with the dill-mustard sauce."
+  ],
+  "swaps": [],
+  "tips": [
+    "A plank can usually be used two or three times if it is only charred at the edges; scrub it with water, not soap.",
+    "Without a plank the salmon will not taste of cedar, but the sauce carries the dish."
+  ],
+  "origin": {
+    "family": "Plank-cooked salmon",
+    "place": "Pacific Northwest",
+    "region": "North America",
+    "lat": 47.61,
+    "lon": -122.33,
+    "era": "ancient",
+    "history": "Salmon is central to the food and culture of the Indigenous peoples of the Pacific Northwest coast, including the Coast Salish nations around Puget Sound. Many of these communities have long cooked salmon split open and fastened to wooden frames or stakes set beside an open fire, a practice that continues at gatherings today. Grilling a fillet on a cedar plank is a modern backyard adaptation inspired by those traditions, not a reproduction of them."
+  }
+}

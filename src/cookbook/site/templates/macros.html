@@ -71,6 +71,7 @@
 <ol class="steps">{% for s in r.steps %}<li>{{ s }}</li>{% endfor %}</ol>
 {{ dairy_free_block(r) }}
 {% if r.tips %}<h2>Tips</h2><ul>{% for t in r.tips %}<li>{{ t }}</li>{% endfor %}</ul>{% endif %}
+{% if r.menus %}<p class="sans noprint">On the menu for: {% for mm in r.menus %}<a href="{{ root }}menus/{{ mm.id }}.html">{{ mm.title }}</a>{{ ', ' if not loop.last }}{% endfor %}.</p>{% endif %}
 <aside class="origin">
   <h2>Where it comes from</h2>
   <p class="sans"><strong>{{ r.origin.family }}</strong> · {{ r.origin.place }} · {{ r.origin.region }} · {{ r.origin.era }}</p>

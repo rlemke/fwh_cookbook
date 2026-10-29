@@ -1,0 +1,111 @@
+{
+  "id": "caesar-salad",
+  "title": "Caesar salad",
+  "category": "sides",
+  "summary": "Crisp romaine in an egg-yolk, lemon and garlic dressing seasoned with Worcestershire and parmesan, scattered with almond-flour crisps in place of croutons.",
+  "servings": 6,
+  "serving_size": "about 2 cups",
+  "time": {
+    "prep_min": 20,
+    "cook_min": 12,
+    "rest_min": 0
+  },
+  "ingredients": [
+    {
+      "group": "Almond crisps"
+    },
+    {
+      "item": "almond_flour",
+      "cup": 0.5
+    },
+    {
+      "item": "egg_white",
+      "each": 1
+    },
+    {
+      "item": "olive_oil",
+      "tbsp": 1
+    },
+    {
+      "item": "garlic_powder",
+      "tsp": 0.25
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "group": "Dressing"
+    },
+    {
+      "item": "egg_yolk",
+      "each": 1,
+      "note": "pasteurised if serving the young, elderly or pregnant"
+    },
+    {
+      "item": "garlic",
+      "each": 1,
+      "note": "grated"
+    },
+    {
+      "item": "lemon_juice",
+      "tbsp": 2
+    },
+    {
+      "item": "worcestershire",
+      "tsp": 2
+    },
+    {
+      "item": "mustard",
+      "tsp": 1,
+      "note": "Dijon"
+    },
+    {
+      "item": "olive_oil",
+      "cup": 0.5
+    },
+    {
+      "item": "parmesan",
+      "cup": 0.5,
+      "note": "divided"
+    },
+    {
+      "item": "black_pepper",
+      "tsp": 0.5
+    },
+    {
+      "group": "Salad"
+    },
+    {
+      "item": "romaine",
+      "g": 600,
+      "note": "two large hearts, torn or chopped"
+    }
+  ],
+  "steps": [
+    "Heat the oven to 165 °C (325 °F) and line a baking sheet with parchment. Mix the almond flour, egg white, olive oil, garlic powder and salt into a stiff paste. Spread it thinly, about 3 mm (1/8 in), on the parchment and bake 10–12 minutes, until golden. Cool, then break into crouton-size pieces.",
+    "Whisk the egg yolk, garlic, lemon juice, Worcestershire and mustard in a bowl. Whisk in the olive oil a few drops at a time, then in a thin stream, until thick and glossy. Stir in half the parmesan and the pepper. Thin with a teaspoon of water if needed.",
+    "Toss the romaine with the dressing until every leaf is coated. Top with the crisps and the remaining parmesan and serve at once."
+  ],
+  "swaps": [
+    {
+      "from": "parmesan",
+      "to": "nutritional_yeast",
+      "ratio": 0.5
+    }
+  ],
+  "dairy_free_notes": "Nutritional yeast gives the dressing a savoury, nutty depth but not parmesan's saltiness; add a pinch of salt and another dash of Worcestershire.",
+  "tips": [
+    "Worcestershire contains anchovy, so this dressing is not fish-free; it supplies the umami that whole anchovies usually do.",
+    "The crisps keep a week in an airtight jar."
+  ],
+  "origin": {
+    "family": "Caesar salad",
+    "place": "Tijuana",
+    "region": "Latin America & Caribbean",
+    "lat": 32.51,
+    "lon": -117.04,
+    "era": "1920s",
+    "history": "The salad is usually credited to Caesar Cardini, an Italian-born restaurateur who ran a restaurant in Tijuana, Mexico, in the 1920s and is said to have improvised it from what was in his kitchen; the exact year and the details of the story vary, and other people have claimed it. Cardini's own version reportedly relied on Worcestershire sauce rather than whole anchovies."
+  }
+}

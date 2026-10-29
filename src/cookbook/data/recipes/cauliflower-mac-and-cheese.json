@@ -1,0 +1,98 @@
+{
+  "id": "cauliflower-mac-and-cheese",
+  "title": "Cauliflower mac and cheese",
+  "category": "sides",
+  "summary": "Tender cauliflower florets folded into a sharp cheddar sauce and baked until bubbling and browned on top.",
+  "servings": 6,
+  "serving_size": "about 1 cup",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 35,
+    "rest_min": 5
+  },
+  "ingredients": [
+    {
+      "item": "cauliflower",
+      "g": 900,
+      "note": "cut into bite-size florets"
+    },
+    {
+      "item": "salt",
+      "tsp": 1,
+      "note": "for the cooking water"
+    },
+    {
+      "group": "Cheese sauce"
+    },
+    {
+      "item": "heavy_cream",
+      "cup": 0.75
+    },
+    {
+      "item": "cream_cheese",
+      "g": 60,
+      "note": "softened"
+    },
+    {
+      "item": "cheddar",
+      "cup": 2,
+      "note": "divided"
+    },
+    {
+      "item": "mustard_powder",
+      "tsp": 1
+    },
+    {
+      "item": "garlic_powder",
+      "tsp": 0.5
+    },
+    {
+      "item": "paprika",
+      "tsp": 0.25
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    },
+    {
+      "item": "black_pepper",
+      "tsp": 0.25
+    }
+  ],
+  "steps": [
+    "Heat the oven to 190 °C (375 °F) and butter or oil a 20 × 20 cm (8 × 8 in) baking dish.",
+    "Boil the florets in salted water for 4–5 minutes, until just tender but not soft. Drain well, spread on a towel and pat dry.",
+    "Warm the cream in a saucepan over medium-low heat until steaming. Whisk in the cream cheese until smooth, then remove from the heat and stir in 1.5 cups of the cheddar a handful at a time with the mustard powder, garlic powder, paprika, salt and pepper.",
+    "Fold the cauliflower into the sauce and spread it in the dish. Scatter the remaining cheddar over the top.",
+    "Bake 20–25 minutes, until bubbling at the edges and browned. Rest 5 minutes before serving."
+  ],
+  "swaps": [
+    {
+      "from": "heavy_cream",
+      "to": "coconut_milk"
+    },
+    {
+      "from": "cream_cheese",
+      "to": "vegan_cream_cheese"
+    },
+    {
+      "from": "cheddar",
+      "to": "nutritional_yeast",
+      "ratio": 0.25,
+      "note": "whisk into the hot coconut milk with an extra 1/2 tsp mustard powder; skip the cheese topping"
+    }
+  ],
+  "dairy_free_notes": "The dairy-free sauce is a nutritional-yeast and coconut-milk sauce, not a cheese: it tastes savoury and cheese-like but does not stretch, and it browns only lightly, so finish it under the grill for a minute if you want colour.",
+  "tips": [
+    "Dry the florets thoroughly; any water left on them thins the sauce in the oven."
+  ],
+  "origin": {
+    "family": "Macaroni and cheese",
+    "place": "Virginia",
+    "region": "North America",
+    "lat": 38.03,
+    "lon": -78.48,
+    "era": "1800s",
+    "history": "Baked macaroni with cheese was known in English cookery by the 1700s. In the United States, Thomas Jefferson is often credited with popularising macaroni after his time in Europe, though the story is part legend; a recipe for macaroni baked with cheese appears in Mary Randolph's The Virginia House-Wife (1824). Using cauliflower in place of pasta is a modern low-carb adaptation."
+  }
+}

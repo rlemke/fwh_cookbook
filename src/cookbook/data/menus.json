@@ -1,0 +1,121 @@
+{
+ "_about": "Dinner layouts: sets of the book's recipes for an occasion. Each course lists recipe ids; an item with \"alt\": true is an alternative to the item before it and is left out of the plate totals. 'people' is the guest count each dish is scaled to (how many batches to make). Plate totals add ONE serving of every non-alternative dish, which is a generous plate; the build fails if a menu names a recipe that does not exist.",
+ "menus": [
+  {
+   "id": "thanksgiving",
+   "people": 12,
+   "title": "Thanksgiving dinner",
+   "occasion": "Holiday",
+   "guests": "10–12",
+   "summary": "The full American spread: a roast turkey with pan gravy, the casseroles and the cranberry sauce, then two pies. Every dish that is usually bread, potato or sugar has a low-carb stand-in, so the table looks the way it always does.",
+   "courses": [
+    {"name": "While the turkey rests", "items": [{"recipe": "deviled-eggs"}]},
+    {"name": "Main", "items": [{"recipe": "herb-roast-turkey"}, {"recipe": "turkey-pan-gravy"}]},
+    {"name": "Sides", "items": [
+      {"recipe": "mashed-cauliflower"},
+      {"recipe": "sausage-and-herb-stuffing"},
+      {"recipe": "green-bean-casserole"},
+      {"recipe": "roasted-brussels-sprouts-with-bacon"},
+      {"recipe": "sugar-free-cranberry-sauce"}
+    ]},
+    {"name": "Bread", "items": [{"recipe": "southern-style-cornbread"}, {"recipe": "cheese-bread-puffs", "alt": true}]},
+    {"name": "Dessert", "items": [{"recipe": "pumpkin-pie"}, {"recipe": "pecan-pie", "alt": true}, {"recipe": "chantilly-whipped-cream"}]}
+   ],
+   "plan": [
+    {"when": "3–4 days before", "do": "Thaw a frozen turkey in the fridge, allowing about a day per 2 kg (4–5 lb). Make the cranberry sauce; it keeps a week."},
+    {"when": "The day before", "do": "Bake the pies and the cornbread. Make the stuffing up to the point of baking and refrigerate it. Hard-boil and fill the eggs. Trim the green beans and sprouts."},
+    {"when": "Morning", "do": "Take the turkey out of the fridge an hour before roasting and work out its finishing time: it needs to rest 30–45 minutes, which is when the oven is free for the sides."},
+    {"when": "While the turkey roasts", "do": "Assemble the green bean casserole. Cook and mash the cauliflower; it reheats well."},
+    {"when": "While the turkey rests", "do": "Raise the oven to roast the sprouts and bake the stuffing and casserole together. Make the gravy from the drippings. Whip the cream last."}
+   ]
+  },
+  {
+   "id": "christmas",
+   "people": 8,
+   "title": "Christmas dinner",
+   "occasion": "Holiday",
+   "guests": "8",
+   "summary": "A standing rib roast with horseradish sauce, or a glazed ham, served with winter vegetables in the British and northern European style, and a cookie plate with the eggnog.",
+   "courses": [
+    {"name": "Starter", "items": [{"recipe": "caesar-salad"}]},
+    {"name": "Main", "items": [{"recipe": "standing-rib-roast"}, {"recipe": "mustard-glazed-ham", "alt": true}]},
+    {"name": "Sides", "items": [
+      {"recipe": "celeriac-mash"},
+      {"recipe": "roasted-brussels-sprouts-with-bacon"},
+      {"recipe": "creamed-spinach"}
+    ]},
+    {"name": "Bread", "items": [{"recipe": "rosemary-focaccia"}]},
+    {"name": "Dessert", "items": [{"recipe": "sticky-toffee-pudding"}, {"recipe": "black-forest-cake", "alt": true}]},
+    {"name": "With coffee", "items": [{"recipe": "vanillekipferl"}, {"recipe": "speculoos", "alt": true}, {"recipe": "eggnog"}]}
+   ],
+   "plan": [
+    {"when": "A week before", "do": "Bake the cookies; vanillekipferl and speculoos keep two weeks in a tin. Order the roast: allow about one rib for two people."},
+    {"when": "The day before", "do": "Salt the roast and leave it uncovered in the fridge overnight, which dries the surface for a better crust. Make the eggnog so it has a night to chill."},
+    {"when": "Morning", "do": "Take the roast out two hours before it goes in. Bake the focaccia and the pudding; both reheat."},
+    {"when": "While the roast cooks", "do": "Make the celeriac mash and the creamed spinach, and dress the salad leaves just before sitting down."},
+    {"when": "While the roast rests", "do": "Roast the sprouts at high heat and warm the pudding. Rest the beef at least 20 minutes before carving."}
+   ]
+  },
+  {
+   "id": "family-gathering",
+   "people": 6,
+   "title": "Family Sunday dinner",
+   "occasion": "Gathering",
+   "guests": "6",
+   "summary": "An easy, crowd-pleasing dinner for a family table: roast chicken, or a meatloaf for the children, with the comfort sides and a warm crumble.",
+   "courses": [
+    {"name": "Main", "items": [{"recipe": "lemon-thyme-roast-chicken"}, {"recipe": "bacon-wrapped-meatloaf", "alt": true}]},
+    {"name": "Sides", "items": [
+      {"recipe": "cauliflower-mac-and-cheese"},
+      {"recipe": "roasted-garlic-asparagus"},
+      {"recipe": "creamy-coleslaw"}
+    ]},
+    {"name": "Bread", "items": [{"recipe": "irish-soda-bread"}]},
+    {"name": "Dessert", "items": [{"recipe": "berry-crumble"}, {"recipe": "vanilla-ice-cream"}]}
+   ],
+   "plan": [
+    {"when": "The day before", "do": "Make the ice cream and the coleslaw dressing. Bake the soda bread."},
+    {"when": "Two hours before", "do": "Assemble the crumble and the mac and cheese, ready to bake."},
+    {"when": "While the chicken roasts", "do": "Bake the mac and cheese on the shelf below. Dress the coleslaw."},
+    {"when": "While the chicken rests", "do": "Roast the asparagus at high heat, then put the crumble in as you sit down so it is warm for dessert."}
+   ]
+  },
+  {
+   "id": "outdoor-bbq",
+   "people": 15,
+   "title": "Outdoor barbecue",
+   "occasion": "Summer",
+   "guests": "12–15",
+   "summary": "A backyard cookout across America's barbecue regions: Carolina pulled pork, Memphis ribs and grilled chicken, with three regional sauces, the classic cold sides and frozen desserts for a hot day.",
+   "courses": [
+    {"name": "To start", "items": [{"recipe": "deviled-eggs"}]},
+    {"name": "From the grill and smoker", "items": [
+      {"recipe": "pulled-pork"},
+      {"recipe": "memphis-dry-rub-ribs"},
+      {"recipe": "grilled-chicken-thighs"},
+      {"recipe": "texas-smoked-brisket", "alt": true},
+      {"recipe": "lettuce-wrap-burgers", "alt": true}
+    ]},
+    {"name": "Sauces", "items": [
+      {"recipe": "kansas-city-bbq-sauce"},
+      {"recipe": "carolina-vinegar-sauce"},
+      {"recipe": "alabama-white-sauce"}
+    ]},
+    {"name": "Sides", "items": [
+      {"recipe": "creamy-coleslaw"},
+      {"recipe": "cauliflower-potato-salad"},
+      {"recipe": "grilled-vegetable-platter"}
+    ]},
+    {"name": "Bread", "items": [{"recipe": "southern-style-cornbread"}]},
+    {"name": "Dessert", "items": [{"recipe": "key-lime-pie"}, {"recipe": "coconut-strawberry-paletas", "alt": true}]}
+   ],
+   "plan": [
+    {"when": "Two days before", "do": "Make the three sauces and the rubs; the sauces taste better after a day. Freeze the paletas."},
+    {"when": "The day before", "do": "Rub the pork shoulder and ribs. Make the coleslaw dressing, the cauliflower salad and the key lime pie. Hard-boil the eggs."},
+    {"when": "Early morning", "do": "Start the pork shoulder: it needs 8–10 hours at low heat. The ribs go on about 5 hours before serving."},
+    {"when": "An hour before", "do": "Grill the vegetables and fill the eggs. Let the pork rest wrapped while the chicken thighs go on the hot side of the grill."},
+    {"when": "Serving", "do": "Pull the pork and set the sauces out in bowls so guests choose their region. Keep the cold sides in the shade or over ice."}
+   ]
+  }
+ ]
+}

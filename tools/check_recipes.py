@@ -40,11 +40,10 @@ def main() -> int:
             continue
         v, df = version(r, table), version(r, table, dairy_free=True)
         p, q = v.per_serving, df.per_serving
-        flag = (
-            "  HIGH"
-            if r["category"] in DESSERT_CATEGORIES and (p.net_carbs_g > 8 or q.net_carbs_g > 10)
-            else ""
+        limit = {"sauces": (3, 4), "mains": (10, 12), "sides": (10, 12)}.get(
+            r["category"], (8, 10) if r["category"] in DESSERT_CATEGORIES else None
         )
+        flag = "  HIGH" if limit and (p.net_carbs_g > limit[0] or q.net_carbs_g > limit[1]) else ""
         print(
             f"{r['id']:<40} net {p.net_carbs_g:4.1f} g (dairy-free {q.net_carbs_g:4.1f}) "
             f"{round(p.kcal):4d} kcal  polyol {p.polyol_g:4.1f}  [{dairy_status(r, table)}]{flag}"

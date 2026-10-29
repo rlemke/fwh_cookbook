@@ -1,0 +1,115 @@
+{
+  "id": "bacon-wrapped-meatloaf",
+  "title": "Bacon-wrapped meatloaf",
+  "category": "mains",
+  "summary": "A beef meatloaf bound with almond flour and egg instead of breadcrumbs, wrapped in bacon and finished with a tangy sugar-free tomato glaze.",
+  "servings": 8,
+  "serving_size": "1 thick slice",
+  "time": {
+    "prep_min": 20,
+    "cook_min": 70,
+    "rest_min": 10
+  },
+  "ingredients": [
+    {
+      "group": "Meatloaf"
+    },
+    {
+      "item": "ground_beef",
+      "g": 900,
+      "note": "80% lean"
+    },
+    {
+      "item": "almond_flour",
+      "cup": 0.5
+    },
+    {
+      "item": "egg",
+      "each": 2
+    },
+    {
+      "item": "onion",
+      "g": 60,
+      "note": "finely chopped"
+    },
+    {
+      "item": "garlic",
+      "each": 2,
+      "note": "grated"
+    },
+    {
+      "item": "worcestershire",
+      "tbsp": 1
+    },
+    {
+      "item": "mustard",
+      "tbsp": 1
+    },
+    {
+      "item": "parsley",
+      "tbsp": 2
+    },
+    {
+      "item": "thyme",
+      "tsp": 1
+    },
+    {
+      "item": "salt",
+      "tsp": 1.5
+    },
+    {
+      "item": "black_pepper",
+      "tsp": 0.5
+    },
+    {
+      "item": "bacon",
+      "each": 8,
+      "note": "thin slices"
+    },
+    {
+      "group": "Glaze"
+    },
+    {
+      "item": "tomato_paste",
+      "tbsp": 3
+    },
+    {
+      "item": "cider_vinegar",
+      "tbsp": 1
+    },
+    {
+      "item": "allulose",
+      "tbsp": 1
+    },
+    {
+      "item": "mustard",
+      "tsp": 1
+    },
+    {
+      "item": "water",
+      "tbsp": 2
+    }
+  ],
+  "steps": [
+    "Heat the oven to 180 °C (350 °F). Line a rimmed baking tray with foil and set a rack on it.",
+    "In a large bowl beat the eggs, then stir in the almond flour, onion, garlic, Worcestershire, mustard, parsley, thyme, salt and pepper. Add the beef and mix with your hands just until even; overworking makes it tough.",
+    "Lay the bacon slices side by side, slightly overlapping, on a sheet of parchment. Shape the meat into a loaf about 23 × 12 cm (9 × 5 in) across the middle of them, then use the parchment to fold the slices up over the top. Roll the loaf seam side down onto the rack.",
+    "Bake 45 minutes. Meanwhile whisk the glaze ingredients together.",
+    "Brush the glaze over the top and bake 15–25 minutes more, until the bacon is browned and a thermometer in the centre reads 71 °C (160 °F). Tent with foil if the glaze darkens too fast.",
+    "Rest 10 minutes before slicing."
+  ],
+  "swaps": [],
+  "tips": [
+    "Worcestershire sauce contains anchovy; use tamari for a fish-free loaf.",
+    "Baking on a rack lets the fat drain and the bacon crisp; in a loaf pan it stews."
+  ],
+  "origin": {
+    "family": "Meatloaf",
+    "place": "United States",
+    "region": "North America",
+    "lat": 39.83,
+    "lon": -98.58,
+    "era": "late 1800s",
+    "history": "Minced meat shaped and baked into a loaf has European forebears, among them German Hackbraten and similar dishes elsewhere, and recipes for chopped-meat loaves appear in American cookbooks by the late 1800s. Meatloaf became an American staple in the first half of the twentieth century, when it was valued as a way to stretch cheap meat; wrapping it in bacon is a later, richer variation."
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "id": "celeriac-mash",
+  "title": "Celeriac mash",
+  "category": "sides",
+  "summary": "Celeriac and cauliflower simmered until soft and mashed with butter, cream, thyme and nutmeg: earthy, faintly celery-sweet and good with a roast.",
+  "servings": 8,
+  "serving_size": "about 1/2 cup",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 25,
+    "rest_min": 0
+  },
+  "ingredients": [
+    {
+      "item": "celeriac",
+      "g": 600,
+      "note": "peeled and cut into 2 cm (3/4 in) cubes"
+    },
+    {
+      "item": "cauliflower",
+      "g": 400,
+      "note": "florets"
+    },
+    {
+      "item": "garlic",
+      "each": 2,
+      "note": "peeled"
+    },
+    {
+      "item": "salt",
+      "tsp": 1,
+      "note": "for the cooking water"
+    },
+    {
+      "item": "butter",
+      "tbsp": 3
+    },
+    {
+      "item": "heavy_cream",
+      "cup": 0.25,
+      "note": "warmed"
+    },
+    {
+      "item": "thyme",
+      "tsp": 0.5
+    },
+    {
+      "item": "nutmeg",
+      "tsp": 0.125
+    },
+    {
+      "item": "salt",
+      "tsp": 0.5
+    },
+    {
+      "item": "black_pepper",
+      "tsp": 0.25
+    },
+    {
+      "item": "chives",
+      "tbsp": 1,
+      "note": "to finish"
+    }
+  ],
+  "steps": [
+    "Put the celeriac and garlic in a pan, cover with cold water, add the salt and bring to a boil. Simmer 10 minutes, then add the cauliflower and simmer 10–12 minutes more, until everything is very tender.",
+    "Drain well and return to the hot pan over low heat for 1–2 minutes, shaking, to drive off excess water.",
+    "Mash or blend with the butter, warm cream, thyme, nutmeg, salt and pepper until smooth. Taste for seasoning and finish with chives."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter"
+    },
+    {
+      "from": "heavy_cream",
+      "to": "coconut_milk"
+    }
+  ],
+  "dairy_free_notes": "Dairy-free butter and coconut milk make a slightly looser mash with a hint of coconut sweetness; it pairs well with the nutmeg.",
+  "tips": [
+    "Peel celeriac with a knife, not a peeler: cut off the knobbly skin and roots generously."
+  ],
+  "origin": {
+    "family": "Celeriac purée",
+    "place": "Paris",
+    "region": "Western Europe",
+    "lat": 48.86,
+    "lon": 2.35,
+    "era": "1800s",
+    "history": "Celeriac is a form of wild celery bred for its swollen root, grown in Europe from around the 1600s and especially popular in France, Germany and Central and Northern Europe as a winter vegetable that stores well. Purée of celeriac, often mixed with potato, became a classic French accompaniment to roast meat and game, and is now a common Christmas side."
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "carolina-gold-mustard-sauce",
+  "title": "Carolina Gold mustard sauce",
+  "category": "sauces",
+  "summary": "A tangy yellow mustard barbecue sauce from South Carolina's Midlands, sharpened with cider vinegar and gently sweetened.",
+  "servings": 12,
+  "serving_size": "2 tbsp",
+  "time": {
+    "prep_min": 5,
+    "cook_min": 10,
+    "rest_min": 0
+  },
+  "ingredients": [
+    {
+      "item": "mustard",
+      "cup": 1,
+      "note": "yellow"
+    },
+    {
+      "item": "cider_vinegar",
+      "cup": 0.33
+    },
+    {
+      "item": "allulose",
+      "tbsp": 3
+    },
+    {
+      "item": "tomato_paste",
+      "tbsp": 1
+    },
+    {
+      "item": "worcestershire",
+      "tsp": 1
+    },
+    {
+      "item": "hot_sauce",
+      "tsp": 1
+    },
+    {
+      "item": "garlic_powder",
+      "tsp": 0.5
+    },
+    {
+      "item": "black_pepper",
+      "tsp": 1
+    },
+    {
+      "item": "cayenne",
+      "tsp": 0.25
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    }
+  ],
+  "steps": [
+    "Whisk everything together in a small saucepan.",
+    "Warm over low heat for 8–10 minutes, stirring, just until it simmers at the edges; mustard turns bitter if boiled hard.",
+    "Cool. Use as a mop in the last minutes of cooking or toss with pulled pork, and serve extra on the side.",
+    "Refrigerate in a jar for up to 3 weeks."
+  ],
+  "swaps": [],
+  "tips": [
+    "Worcestershire contains anchovy (fish allergen); omit it or use 1 tsp tamari.",
+    "A tablespoon of melted butter is sometimes stirred in at the end; this version leaves it out so it stays dairy-free."
+  ],
+  "origin": {
+    "family": "Barbecue sauce",
+    "place": "Columbia, South Carolina (the Midlands)",
+    "region": "North America",
+    "lat": 34.0,
+    "lon": -81.03,
+    "era": "1900s",
+    "history": "Mustard-based barbecue sauce is the signature of central South Carolina, the belt between Columbia and Charleston. Its origin is often linked to the German families who settled the area in the eighteenth century, though that link is a widely repeated explanation rather than a documented one. By the twentieth century local barbecue restaurants had made the style a regional identity."
+  }
+}

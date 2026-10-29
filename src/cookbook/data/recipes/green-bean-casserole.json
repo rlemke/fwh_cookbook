@@ -1,0 +1,118 @@
+{
+  "id": "green-bean-casserole",
+  "title": "Green bean casserole",
+  "category": "sides",
+  "summary": "Fresh green beans baked in a from-scratch mushroom cream sauce under a crisp, savoury almond and parmesan crumb.",
+  "servings": 8,
+  "serving_size": "about 3/4 cup",
+  "time": {
+    "prep_min": 20,
+    "cook_min": 35,
+    "rest_min": 0
+  },
+  "ingredients": [
+    {
+      "item": "green_beans",
+      "g": 680,
+      "note": "cut into 5 cm (2 in) pieces"
+    },
+    {
+      "group": "Mushroom sauce"
+    },
+    {
+      "item": "butter",
+      "tbsp": 2
+    },
+    {
+      "item": "mushrooms",
+      "g": 225
+    },
+    {
+      "item": "onion",
+      "g": 55,
+      "note": "finely chopped (about 1/2 small onion)"
+    },
+    {
+      "item": "garlic",
+      "each": 2,
+      "note": "minced"
+    },
+    {
+      "item": "chicken_stock",
+      "cup": 0.5
+    },
+    {
+      "item": "heavy_cream",
+      "cup": 0.75
+    },
+    {
+      "item": "xanthan_gum",
+      "tsp": 0.25
+    },
+    {
+      "item": "salt",
+      "tsp": 0.5
+    },
+    {
+      "item": "black_pepper",
+      "tsp": 0.25
+    },
+    {
+      "group": "Crisp topping"
+    },
+    {
+      "item": "almond_flour",
+      "cup": 0.5
+    },
+    {
+      "item": "parmesan",
+      "cup": 0.25
+    },
+    {
+      "item": "onion_powder",
+      "tsp": 0.5
+    },
+    {
+      "item": "butter",
+      "tbsp": 2,
+      "note": "melted"
+    }
+  ],
+  "steps": [
+    "Heat the oven to 190 °C (375 °F). Blanch the beans in boiling salted water for 4 minutes, then drain and plunge into iced water to keep them green. Drain well.",
+    "Melt the butter in a large frying pan over medium-high heat. Cook the mushrooms and onion for 8–10 minutes, until the mushrooms have given up their liquid and browned. Add the garlic for the last minute.",
+    "Pour in the stock and cream and bring to a simmer. Sprinkle the xanthan gum over the surface while whisking and simmer 2–3 minutes, until the sauce coats a spoon. Season with the salt and pepper.",
+    "Fold in the beans and spread in a 20 × 30 cm (8 × 12 in) baking dish.",
+    "Rub the almond flour, parmesan, onion powder and melted butter together with your fingers until crumbly, and scatter evenly over the beans.",
+    "Bake 20–25 minutes, until the sauce bubbles and the topping is golden. Cover loosely with foil if the topping browns before the sauce bubbles."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter"
+    },
+    {
+      "from": "heavy_cream",
+      "to": "coconut_milk"
+    },
+    {
+      "from": "parmesan",
+      "to": "nutritional_yeast",
+      "ratio": 0.5
+    }
+  ],
+  "dairy_free_notes": "With coconut milk the sauce is slightly thinner and a touch sweet, and the topping crisps but browns less without parmesan; add a pinch more salt to both.",
+  "tips": [
+    "Xanthan gum clumps if it lands in one spot: shake it from a fine sieve while whisking.",
+    "Assemble up to a day ahead and add the topping just before baking."
+  ],
+  "origin": {
+    "family": "Green bean casserole",
+    "place": "Camden, New Jersey",
+    "region": "North America",
+    "lat": 39.93,
+    "lon": -75.12,
+    "era": "1955",
+    "history": "The casserole of green beans, condensed cream of mushroom soup and fried onions was developed in 1955 in the Campbell Soup Company's test kitchen in Camden, New Jersey, and is credited to the home economist Dorcas Reilly. It was printed on soup can labels and became a fixture of the American Thanksgiving table. This version replaces the canned soup and fried onions with a scratch sauce and a nut crumb."
+  }
+}

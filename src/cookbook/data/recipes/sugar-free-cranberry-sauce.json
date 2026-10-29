@@ -1,0 +1,65 @@
+{
+  "id": "sugar-free-cranberry-sauce",
+  "title": "Sugar-free cranberry sauce",
+  "category": "sides",
+  "summary": "Whole cranberries simmered with allulose and orange zest until they burst into a glossy, tart-sweet sauce.",
+  "servings": 8,
+  "serving_size": "1/4 cup",
+  "time": {
+    "prep_min": 5,
+    "cook_min": 15,
+    "rest_min": 120
+  },
+  "ingredients": [
+    {
+      "item": "cranberries",
+      "g": 340,
+      "note": "one 12 oz bag, rinsed and picked over"
+    },
+    {
+      "item": "allulose",
+      "cup": 0.75
+    },
+    {
+      "item": "water",
+      "cup": 0.5
+    },
+    {
+      "item": "orange_juice",
+      "tbsp": 2
+    },
+    {
+      "item": "orange_zest",
+      "tsp": 2
+    },
+    {
+      "item": "cinnamon",
+      "tsp": 0.125,
+      "note": "optional"
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    }
+  ],
+  "steps": [
+    "Stir the allulose, water and orange juice in a medium saucepan over medium heat until the allulose dissolves.",
+    "Add the cranberries, zest, cinnamon and salt. Bring to a boil, then lower to a steady simmer.",
+    "Cook 10–12 minutes, stirring often, until most of the berries have burst and the sauce has thickened. Allulose catches more easily than sugar, so keep the heat moderate and scrape the bottom as you stir.",
+    "Taste and add a spoonful more allulose if it is too sharp. Cool, then refrigerate at least 2 hours; it thickens further as it chills."
+  ],
+  "swaps": [],
+  "tips": [
+    "Cranberries carry their own pectin, but allulose sets more softly than sugar; for a firmer, sliceable sauce simmer 3–4 minutes longer.",
+    "Keeps a week covered in the fridge."
+  ],
+  "origin": {
+    "family": "Cranberry sauce",
+    "place": "Boston",
+    "region": "North America",
+    "lat": 42.36,
+    "lon": -71.06,
+    "era": "1700s",
+    "history": "Cranberries are native to the bogs of northeastern North America, where Indigenous peoples gathered them long before European settlement. Colonists in New England cooked them with sugar into a sauce for meat, and an early printed reference to cranberry sauce served with roast turkey is often cited from Amelia Simmons's American Cookery (1796). It became a standard Thanksgiving side in the 1800s."
+  }
+}

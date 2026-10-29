@@ -1,0 +1,49 @@
+{
+  "id": "texas-brisket-rub",
+  "title": "Central Texas brisket rub",
+  "category": "sauces",
+  "summary": "The spare Central Texas 'Dalmatian' rub: coarse black pepper and salt, with garlic as an option, so the smoke and beef do the talking.",
+  "servings": 13,
+  "serving_size": "1 tbsp (for about 225 g of meat)",
+  "time": {
+    "prep_min": 5,
+    "cook_min": 0,
+    "rest_min": 0
+  },
+  "ingredients": [
+    {
+      "item": "black_pepper",
+      "cup": 0.5,
+      "note": "coarsely ground (16-mesh 'butcher' grind if you can find it)"
+    },
+    {
+      "item": "salt",
+      "tbsp": 3
+    },
+    {
+      "item": "garlic_powder",
+      "tbsp": 1,
+      "note": "optional; granulated garlic is better if you have it"
+    }
+  ],
+  "steps": [
+    "Mix the pepper, salt and garlic, if using, in a jar or shaker.",
+    "Pat the brisket dry. Sprinkle the rub evenly from about 30 cm (12 in) above so it lands in a light, even coat on every side, about 1 tbsp per 225 g (1/2 lb) of trimmed meat.",
+    "Smoke at 110–125 °C (225–260 °F) until the thickest part of the flat reaches 93–96 °C (200–205 °F) and a probe slides in like soft butter. In an oven, cook on a rack at 120 °C (250 °F), wrapped in foil or butcher paper once the bark has set.",
+    "Rest the wrapped brisket at least 1 hour before slicing across the grain."
+  ],
+  "swaps": [],
+  "tips": [
+    "This uses fine salt. With kosher salt, use about twice the volume (Diamond Crystal) or 1.5 times (Morton) for the same saltiness.",
+    "Almost all the carbohydrate is in the pepper and garlic; leave out the garlic to drop to about 1.5 g per serving."
+  ],
+  "origin": {
+    "family": "Barbecue rub",
+    "place": "Central Texas (Lockhart, Luling and nearby towns)",
+    "region": "North America",
+    "lat": 29.88,
+    "lon": -97.67,
+    "era": "late 1800s",
+    "history": "Central Texas barbecue grew out of the meat markets run by German and Czech immigrants in the late nineteenth and early twentieth centuries, who smoked unsold cuts and sold them on butcher paper. Seasoning stayed minimal, often just salt and pepper, and brisket became the defining cut in the second half of the twentieth century. The salt-and-pepper mix earned its 'Dalmatian' nickname from the spotted look it gives the meat."
+  }
+}

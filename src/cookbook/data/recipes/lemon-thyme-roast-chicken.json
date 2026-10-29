@@ -1,0 +1,81 @@
+{
+  "id": "lemon-thyme-roast-chicken",
+  "title": "Lemon-thyme roast chicken",
+  "category": "mains",
+  "summary": "A whole chicken roasted hot over onions with lemon, garlic and thyme, for a crisp skin and a ready-made pan sauce.",
+  "servings": 4,
+  "serving_size": "a quarter of the bird",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 75,
+    "rest_min": 15
+  },
+  "ingredients": [
+    {
+      "item": "whole_chicken",
+      "g": 1500,
+      "note": "one 2.1 kg (4½ lb) chicken; about 1.5 kg is meat and skin"
+    },
+    {
+      "item": "salt",
+      "tsp": 2
+    },
+    {
+      "item": "black_pepper",
+      "tsp": 0.5
+    },
+    {
+      "item": "thyme",
+      "tsp": 2
+    },
+    {
+      "item": "lemon_zest",
+      "tsp": 2
+    },
+    {
+      "item": "olive_oil",
+      "tbsp": 3
+    },
+    {
+      "item": "lemon",
+      "each": 1,
+      "note": "zested first, then halved"
+    },
+    {
+      "item": "garlic",
+      "each": 6,
+      "note": "lightly crushed in their skins"
+    },
+    {
+      "item": "onion",
+      "each": 1,
+      "note": "thickly sliced"
+    },
+    {
+      "item": "chicken_stock",
+      "cup": 0.5
+    }
+  ],
+  "steps": [
+    "If you have time, salt the chicken inside and out the night before and leave it uncovered in the fridge. Otherwise salt it an hour before roasting.",
+    "Heat the oven to 220 °C (425 °F). Pat the chicken very dry.",
+    "Mix the pepper, thyme, lemon zest and 2 tablespoons of the oil and rub it over the bird and under the breast skin. Push the lemon halves and three of the garlic cloves into the cavity.",
+    "Spread the onion and the remaining garlic in a 23 × 33 cm (9 × 13 in) pan or a large ovenproof skillet, drizzle with the last tablespoon of oil and set the chicken on top, breast up.",
+    "Roast 65–80 minutes, until the skin is deep golden and a thermometer in the thickest part of the thigh reads 74 °C (165 °F) and the juices run clear.",
+    "Rest the chicken 15 minutes. Meanwhile set the pan over medium heat, add the stock and scrape up the browned bits; squeeze in the juice from the roasted lemon and simmer 2 minutes for a thin pan sauce."
+  ],
+  "swaps": [],
+  "tips": [
+    "Fresh thyme is better if you have it: use about a tablespoon of leaves.",
+    "Most of the onion's carbs stay in the pan; eat it or not as your count allows."
+  ],
+  "origin": {
+    "family": "Roast chicken",
+    "place": "France",
+    "region": "Western Europe",
+    "lat": 46.6,
+    "lon": 2.2,
+    "era": "1800s",
+    "history": "Roast chicken has no single birthplace: birds were spit-roasted across Europe from the Middle Ages onward. This version follows French home cooking, where the Sunday poulet rôti, roasted with butter or oil, garlic and herbs and served with its pan juices, became a standard family meal; the British Sunday roast is its close cousin."
+  }
+}

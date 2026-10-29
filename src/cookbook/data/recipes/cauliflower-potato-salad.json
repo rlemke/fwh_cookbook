@@ -1,0 +1,91 @@
+{
+  "id": "cauliflower-potato-salad",
+  "title": "Cauliflower 'potato' salad",
+  "category": "sides",
+  "summary": "A picnic-style faux potato salad: tender cauliflower with chopped egg, celery and dill pickle in a mustardy mayonnaise dressing.",
+  "servings": 8,
+  "serving_size": "about 3/4 cup",
+  "time": {
+    "prep_min": 20,
+    "cook_min": 10,
+    "rest_min": 60
+  },
+  "ingredients": [
+    {
+      "item": "cauliflower",
+      "g": 900,
+      "note": "cut into 2 cm (3/4 in) florets"
+    },
+    {
+      "item": "egg",
+      "each": 4,
+      "note": "hard-boiled, peeled and chopped"
+    },
+    {
+      "item": "celery",
+      "each": 2,
+      "note": "finely diced"
+    },
+    {
+      "item": "dill_pickle",
+      "cup": 0.33,
+      "note": "finely chopped"
+    },
+    {
+      "item": "onion",
+      "g": 40,
+      "note": "finely chopped red onion"
+    },
+    {
+      "group": "Dressing"
+    },
+    {
+      "item": "mayonnaise",
+      "cup": 0.75
+    },
+    {
+      "item": "mustard",
+      "tbsp": 1
+    },
+    {
+      "item": "cider_vinegar",
+      "tbsp": 1
+    },
+    {
+      "item": "salt",
+      "tsp": 0.75
+    },
+    {
+      "item": "black_pepper",
+      "tsp": 0.25
+    },
+    {
+      "item": "dill",
+      "tbsp": 2
+    },
+    {
+      "item": "paprika",
+      "tsp": 0.5,
+      "note": "to finish"
+    }
+  ],
+  "steps": [
+    "Boil the florets in salted water for 5–6 minutes, until tender but still holding their shape. Drain, spread on a tray and cool completely; warm cauliflower thins the dressing.",
+    "Whisk the mayonnaise, mustard, vinegar, salt, pepper and dill in a large bowl.",
+    "Pat the cauliflower dry and fold it into the dressing with the eggs, celery, pickle and onion.",
+    "Cover and refrigerate at least 1 hour. Stir, taste for salt, and dust with paprika before serving."
+  ],
+  "swaps": [],
+  "tips": [
+    "Slightly overcooking a few of the florets gives the creamy, broken-edged texture of real potato salad."
+  ],
+  "origin": {
+    "family": "Potato salad",
+    "place": "United States",
+    "region": "North America",
+    "lat": 39.83,
+    "lon": -98.58,
+    "era": "1900s",
+    "history": "Potato salad came to the United States largely with German immigrants in the 1800s, whose versions were dressed warm with vinegar and bacon. The cold, mayonnaise-dressed style with egg and pickle became an American picnic and barbecue staple in the twentieth century. Using cauliflower in place of potato is a modern low-carb adaptation."
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "id": "pulled-pork",
+  "title": "Pulled pork with vinegar-pepper sauce",
+  "category": "mains",
+  "summary": "A pork shoulder rubbed with spices and smoked or slow-roasted until it falls apart, then dressed with a thin, sharp cider-vinegar and pepper sauce.",
+  "servings": 12,
+  "serving_size": "about 170 g (6 oz) pulled pork + 2 tbsp sauce",
+  "time": {
+    "prep_min": 20,
+    "cook_min": 660,
+    "rest_min": 60
+  },
+  "ingredients": [
+    {
+      "group": "Pork and rub"
+    },
+    {
+      "item": "pork_shoulder",
+      "g": 3000,
+      "note": "one 3.4 kg (7½ lb) bone-in Boston butt; about 3 kg is meat"
+    },
+    {
+      "item": "mustard",
+      "tbsp": 2,
+      "note": "yellow, a thin coat to hold the rub"
+    },
+    {
+      "item": "paprika",
+      "tbsp": 2
+    },
+    {
+      "item": "salt",
+      "tbsp": 1.5
+    },
+    {
+      "item": "black_pepper",
+      "tbsp": 1
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 1
+    },
+    {
+      "item": "garlic_powder",
+      "tsp": 2
+    },
+    {
+      "item": "onion_powder",
+      "tsp": 2
+    },
+    {
+      "item": "mustard_powder",
+      "tsp": 1
+    },
+    {
+      "item": "cayenne",
+      "tsp": 0.5
+    },
+    {
+      "group": "Vinegar-pepper sauce"
+    },
+    {
+      "item": "cider_vinegar",
+      "cup": 1
+    },
+    {
+      "item": "white_vinegar",
+      "cup": 0.25
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 1
+    },
+    {
+      "item": "cayenne",
+      "tsp": 1,
+      "note": "chili flakes"
+    },
+    {
+      "item": "black_pepper",
+      "tsp": 1
+    },
+    {
+      "item": "salt",
+      "tsp": 1
+    },
+    {
+      "item": "hot_sauce",
+      "tsp": 1
+    },
+    {
+      "item": "liquid_smoke",
+      "tsp": 0.5,
+      "note": "oven method only"
+    }
+  ],
+  "steps": [
+    "The night before, pat the pork dry and brush it all over with the mustard. Mix the rub spices and press them on in an even coat. Refrigerate uncovered.",
+    "Stir the sauce ingredients (except the liquid smoke) together until the erythritol dissolves, and leave at room temperature to blend.",
+    "Smoker: heat it to 110–120 °C (225–250 °F) using hickory or oak. Smoke the pork fat side up until a thermometer reads 93–96 °C (200–205 °F) and the bone wiggles loose, 10–12 hours. If the bark is dark and the temperature stalls around 70 °C (160 °F), wrap it in butcher paper or foil to push through.",
+    "Oven: heat to 135 °C (275 °F). Set the pork in a roasting pan, add ½ cup water mixed with the liquid smoke, cover tightly with foil and roast 6 hours; uncover and roast until it reaches 93–96 °C (200–205 °F), 1–2 hours more.",
+    "Rest the pork, loosely wrapped, at least 1 hour. Pull out the bone, shred the meat with two forks, discarding any large lumps of fat, and mix in the crisp bark.",
+    "Toss the meat with about half the sauce and serve the rest at the table."
+  ],
+  "swaps": [],
+  "tips": [
+    "Pork is safe at 63 °C (145 °F) but does not pull until the collagen melts at 93–96 °C.",
+    "Serve with coleslaw on lettuce leaves; the Carolina vinegar sauce from the sauces chapter works here too."
+  ],
+  "origin": {
+    "family": "Barbecue",
+    "place": "Eastern North Carolina",
+    "region": "North America",
+    "lat": 35.61,
+    "lon": -77.37,
+    "era": "1700s",
+    "history": "Eastern North Carolina is known for whole-hog barbecue: the entire pig cooked slowly over wood coals, then chopped and dressed with vinegar and pepper, with no tomato. The tradition is usually traced to the colonial South, drawing on Caribbean and Indigenous cooking over coals, and much of the labour and skill came from enslaved African Americans. A shoulder is the home-scale stand-in for the whole hog."
+  }
+}

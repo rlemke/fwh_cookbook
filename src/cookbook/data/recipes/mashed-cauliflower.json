@@ -1,0 +1,76 @@
+{
+  "id": "mashed-cauliflower",
+  "title": "Mashed cauliflower",
+  "category": "sides",
+  "summary": "Steamed cauliflower whipped with butter, cream and garlic until smooth enough to stand in for mashed potatoes.",
+  "servings": 6,
+  "serving_size": "about 2/3 cup",
+  "time": {
+    "prep_min": 10,
+    "cook_min": 15,
+    "rest_min": 0
+  },
+  "ingredients": [
+    {
+      "item": "cauliflower",
+      "g": 900,
+      "note": "one large head, cut into florets"
+    },
+    {
+      "item": "garlic",
+      "each": 3,
+      "note": "peeled"
+    },
+    {
+      "item": "butter",
+      "tbsp": 3
+    },
+    {
+      "item": "heavy_cream",
+      "cup": 0.25,
+      "note": "warmed"
+    },
+    {
+      "item": "salt",
+      "tsp": 0.75
+    },
+    {
+      "item": "black_pepper",
+      "tsp": 0.25
+    },
+    {
+      "item": "chives",
+      "tbsp": 2
+    }
+  ],
+  "steps": [
+    "Steam the cauliflower and garlic over boiling water for 12–15 minutes, until a knife slides through the thickest stem with no resistance.",
+    "Tip into a colander and let it steam-dry for 5 minutes; wet cauliflower makes a runny mash. Press gently with a clean towel to remove more water.",
+    "Blend or process the hot cauliflower and garlic with the butter, warm cream, salt and pepper until smooth, scraping down once. For a rougher texture use a potato masher instead.",
+    "Taste for salt, spoon into a warm dish and scatter the chives over the top."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter"
+    },
+    {
+      "from": "heavy_cream",
+      "to": "coconut_milk",
+      "note": "use the thick part from the top of the can"
+    }
+  ],
+  "dairy_free_notes": "Coconut milk gives a faintly sweet note that the garlic mostly hides; a little extra salt and pepper balances it.",
+  "tips": [
+    "Make it ahead and reheat in a covered dish at 175 °C (350 °F) for 20 minutes, stirring once."
+  ],
+  "origin": {
+    "family": "Mashed potatoes (low-carb imitation)",
+    "place": "London",
+    "region": "Western Europe",
+    "lat": 51.51,
+    "lon": -0.13,
+    "era": "1700s",
+    "history": "Recipes for mashing boiled potatoes with butter and milk appear in English cookbooks by the mid-1700s, and the dish spread with the potato across Europe and North America. Mashing cauliflower in its place is a modern idea, taken up by low-carb home cooks in the United States from the late 1990s onward."
+  }
+}

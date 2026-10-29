@@ -1,0 +1,80 @@
+{
+  "id": "memphis-dry-rub",
+  "title": "Memphis dry rub",
+  "category": "sauces",
+  "summary": "A paprika-forward rib rub with garlic, onion, mustard and a little heat, for ribs served 'dry' with no sauce.",
+  "servings": 17,
+  "serving_size": "1 tbsp (for about 225 g of meat)",
+  "time": {
+    "prep_min": 5,
+    "cook_min": 0,
+    "rest_min": 0
+  },
+  "ingredients": [
+    {
+      "item": "paprika",
+      "cup": 0.5,
+      "note": "half sweet, half smoked if you have both"
+    },
+    {
+      "item": "salt",
+      "tbsp": 2
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 2
+    },
+    {
+      "item": "chili_powder",
+      "tbsp": 1
+    },
+    {
+      "item": "garlic_powder",
+      "tbsp": 1
+    },
+    {
+      "item": "onion_powder",
+      "tbsp": 1
+    },
+    {
+      "item": "black_pepper",
+      "tbsp": 1
+    },
+    {
+      "item": "mustard_powder",
+      "tsp": 1
+    },
+    {
+      "item": "cumin",
+      "tsp": 1
+    },
+    {
+      "item": "thyme",
+      "tsp": 1
+    },
+    {
+      "item": "cayenne",
+      "tsp": 0.5
+    }
+  ],
+  "steps": [
+    "Mix everything together, breaking up lumps with a fork. Store airtight away from light for up to 3 months.",
+    "Pat ribs dry, remove the membrane from the bone side and coat with the rub, about 1 tbsp per 225 g of meat (roughly half a rack of baby backs). Refrigerate 1–12 hours if you have time.",
+    "Smoke at 110–125 °C (225–260 °F) for 4–5 hours for baby backs or 5–6 for spareribs, until the meat has pulled back from the bones and a rack bends easily when lifted. In an oven, bake on a rack at 135 °C (275 °F), covered with foil for the first two-thirds of the time.",
+    "Dust with a little more rub just before serving."
+  ],
+  "swaps": [],
+  "tips": [
+    "Erythritol does not caramelise like brown sugar; the bark will be less sticky, which suits the 'dry' style.",
+    "For 'wet' ribs, brush with Kansas City barbecue sauce in the last 15 minutes."
+  ],
+  "origin": {
+    "family": "Barbecue rub",
+    "place": "Memphis, Tennessee",
+    "region": "North America",
+    "lat": 35.15,
+    "lon": -90.05,
+    "era": "1940s",
+    "history": "Memphis is famous for pork ribs, served either 'wet' with sauce or 'dry' with only a spice rub. The dry style is often credited to Charlie Vergos's Rendezvous restaurant, which opened in 1948 and dusted its charcoal-grilled ribs with a paprika-heavy seasoning. The city's barbecue identity was later reinforced by its annual barbecue cooking contest, held since the late 1970s."
+  }
+}

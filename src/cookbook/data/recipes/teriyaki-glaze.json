@@ -1,0 +1,69 @@
+{
+  "id": "teriyaki-glaze",
+  "title": "Teriyaki-style glaze",
+  "category": "sauces",
+  "summary": "A glossy tamari and ginger glaze sweetened with allulose and thickened with a pinch of xanthan, for salmon, chicken or beef.",
+  "servings": 14,
+  "serving_size": "1 tbsp",
+  "time": {
+    "prep_min": 5,
+    "cook_min": 8,
+    "rest_min": 0
+  },
+  "ingredients": [
+    {
+      "item": "tamari",
+      "cup": 0.5
+    },
+    {
+      "item": "water",
+      "cup": 0.25
+    },
+    {
+      "item": "allulose",
+      "cup": 0.25
+    },
+    {
+      "item": "white_wine",
+      "tbsp": 1,
+      "note": "optional, stands in for sake"
+    },
+    {
+      "item": "fresh_ginger",
+      "tsp": 2
+    },
+    {
+      "item": "garlic",
+      "each": 1,
+      "note": "grated"
+    },
+    {
+      "item": "sesame_oil",
+      "tsp": 1
+    },
+    {
+      "item": "xanthan_gum",
+      "tsp": 0.25
+    }
+  ],
+  "steps": [
+    "Combine everything except the xanthan in a small saucepan and bring to a simmer over medium-low heat.",
+    "Simmer 3–4 minutes. Sprinkle the xanthan over the surface while whisking hard, then simmer 1 minute more until it coats a spoon.",
+    "Brush onto salmon, chicken or beef in the last 2–3 minutes of grilling or broiling, turning once; allulose browns fast, so watch it. Cook chicken to 74 °C (165 °F).",
+    "Refrigerate leftover glaze for up to 2 weeks."
+  ],
+  "swaps": [],
+  "tips": [
+    "Real teriyaki gets its sweetness and shine from mirin and sugar. Both are left out here; mirin is mostly sugar. The splash of dry white wine adds some of sake's acidity and is optional.",
+    "Too much xanthan turns the glaze slimy; add it a pinch at a time."
+  ],
+  "origin": {
+    "family": "Teriyaki",
+    "place": "Japan",
+    "region": "East Asia",
+    "lat": 35.68,
+    "lon": 139.69,
+    "era": "1600s–1800s",
+    "history": "Teriyaki names a technique rather than a sauce: 'teri' is the shine and 'yaki' the grilling, with fish or meat brushed with soy, mirin and sugar as it cooks. It is generally dated to the Edo period, though no precise origin is recorded. The thick, sweet bottled teriyaki sauce is a later development, often associated with Japanese immigrant cooking in Hawaii and the US mainland."
+  }
+}

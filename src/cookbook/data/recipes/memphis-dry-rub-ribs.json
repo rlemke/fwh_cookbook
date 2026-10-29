@@ -1,0 +1,100 @@
+{
+  "id": "memphis-dry-rub-ribs",
+  "title": "Memphis dry-rub ribs",
+  "category": "mains",
+  "summary": "Baby back ribs coated in a paprika-heavy spice rub, cooked slowly until tender and finished with a dusting of more rub instead of sauce.",
+  "servings": 4,
+  "serving_size": "half a rack",
+  "time": {
+    "prep_min": 20,
+    "cook_min": 210,
+    "rest_min": 10
+  },
+  "ingredients": [
+    {
+      "item": "baby_back_ribs",
+      "g": 1100,
+      "note": "two racks, about 2 kg (4½ lb) total; about 1.1 kg is meat"
+    },
+    {
+      "group": "Rub"
+    },
+    {
+      "item": "paprika",
+      "tbsp": 2
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 1
+    },
+    {
+      "item": "salt",
+      "tbsp": 1
+    },
+    {
+      "item": "black_pepper",
+      "tsp": 2
+    },
+    {
+      "item": "garlic_powder",
+      "tsp": 2
+    },
+    {
+      "item": "onion_powder",
+      "tsp": 2
+    },
+    {
+      "item": "chili_powder",
+      "tsp": 1
+    },
+    {
+      "item": "mustard_powder",
+      "tsp": 1
+    },
+    {
+      "item": "oregano",
+      "tsp": 1
+    },
+    {
+      "item": "thyme",
+      "tsp": 0.5
+    },
+    {
+      "item": "cayenne",
+      "tsp": 0.5
+    },
+    {
+      "group": "Mop"
+    },
+    {
+      "item": "cider_vinegar",
+      "cup": 0.5
+    },
+    {
+      "item": "water",
+      "cup": 0.25
+    }
+  ],
+  "steps": [
+    "Pull the thin membrane off the bone side of each rack: lift a corner with a knife and peel it away with a paper towel. Pat the ribs dry.",
+    "Mix the rub. Set aside about 2 tablespoons for finishing and season both sides of the racks with the rest. Rest 30 minutes, or refrigerate overnight.",
+    "Smoker: heat to 120 °C (250 °F). Smoke the ribs bone side down, mopping with the vinegar and water every hour, until the meat has pulled back from the bones and a rack bends easily when lifted from one end, 4–5 hours.",
+    "Oven: heat to 150 °C (300 °F). Wrap each rack tightly in foil with 2 tablespoons of the mop and bake on a tray for 2 hours. Unwrap, mop and bake uncovered 30–45 minutes more, until the surface is dry and dark.",
+    "Ribs are done at 88–93 °C (190–200 °F) between the bones, well past the 63 °C (145 °F) safe point. Mop once more and dust with the reserved rub.",
+    "Rest 10 minutes and cut between the bones."
+  ],
+  "swaps": [],
+  "tips": [
+    "In Memphis, 'dry' ribs come with sauce on the side if you ask; serve a sugar-free sauce separately rather than brushing it on.",
+    "The Memphis dry rub in the sauces chapter can replace this rub."
+  ],
+  "origin": {
+    "family": "Barbecue",
+    "place": "Memphis",
+    "region": "North America",
+    "lat": 35.15,
+    "lon": -90.05,
+    "era": "mid-1900s",
+    "history": "Memphis barbecue centres on pork, especially ribs and chopped shoulder, and the city's pitmasters have long served them either 'wet' with a tomato sauce or 'dry' with only a spice rub. The dry-rub rib is often credited to the Rendezvous, a downtown restaurant that opened in 1948, though rubs were in use before it."
+  }
+}

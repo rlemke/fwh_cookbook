@@ -1,0 +1,75 @@
+{
+  "id": "bulgogi-marinade",
+  "title": "Bulgogi-style marinade",
+  "category": "sauces",
+  "summary": "A savoury-sweet Korean-style marinade of tamari, sesame oil, garlic, ginger and scallion for thinly sliced beef.",
+  "servings": 6,
+  "serving_size": "marinade for 150 g of beef",
+  "time": {
+    "prep_min": 10,
+    "cook_min": 0,
+    "rest_min": 60
+  },
+  "ingredients": [
+    {
+      "item": "tamari",
+      "cup": 0.33
+    },
+    {
+      "item": "water",
+      "tbsp": 3
+    },
+    {
+      "item": "sesame_oil",
+      "tbsp": 2
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 2
+    },
+    {
+      "item": "garlic",
+      "each": 4,
+      "note": "grated"
+    },
+    {
+      "item": "fresh_ginger",
+      "tbsp": 1
+    },
+    {
+      "item": "scallion",
+      "each": 2,
+      "note": "thinly sliced"
+    },
+    {
+      "item": "black_pepper",
+      "tsp": 0.5
+    },
+    {
+      "item": "sesame_seeds",
+      "tbsp": 1,
+      "note": "toasted"
+    }
+  ],
+  "steps": [
+    "Stir everything together until the erythritol dissolves.",
+    "Slice 900 g (2 lb) of ribeye or sirloin as thinly as you can across the grain (partly freezing it for 30 minutes makes this easy).",
+    "Toss the beef with the marinade and refrigerate 1–4 hours.",
+    "Cook in batches in a very hot, lightly oiled pan or over a hot grill, 1–2 minutes per side, so it sears rather than stews. Scatter with more scallion and sesame seeds."
+  ],
+  "swaps": [],
+  "tips": [
+    "Traditional bulgogi marinade includes grated Asian pear, which also tenderises; it is left out here for its sugar.",
+    "For a soy-free version use coconut aminos instead of tamari, but it carries about 20 g of carbs per 100 g, so use 3 tbsp plus 2 tbsp water and skip the erythritol.",
+    "The carbs shown count the whole batch; only what clings to the meat is eaten, so the real figure per serving is lower."
+  ],
+  "origin": {
+    "family": "Bulgogi",
+    "place": "Seoul",
+    "region": "East Asia",
+    "lat": 37.57,
+    "lon": 126.98,
+    "era": "1900s",
+    "history": "Bulgogi, 'fire meat', is thinly sliced marinated beef grilled quickly over high heat. Korean writers often trace it to older grilled-meat dishes such as maekjeok, said to date back to the Goguryeo kingdom, though that lineage is a tradition rather than a documented line. The name bulgogi itself is a twentieth-century term, and the dish became one of the best-known Korean foods abroad in the late 1900s."
+  }
+}

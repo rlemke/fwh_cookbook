@@ -1,0 +1,110 @@
+{
+  "id": "herb-roast-turkey",
+  "title": "Herb roast turkey",
+  "category": "mains",
+  "summary": "A whole bird rubbed under the skin with sage, thyme and garlic butter, roasted hot at the start and gently after, so the breast stays moist.",
+  "servings": 12,
+  "serving_size": "about 375 g (13 oz) carved meat and skin",
+  "time": {
+    "prep_min": 30,
+    "cook_min": 210,
+    "rest_min": 40
+  },
+  "ingredients": [
+    {
+      "item": "turkey",
+      "g": 4500,
+      "note": "one 6.3 kg (14 lb) bird, thawed, giblets removed; about 4.5 kg is meat and skin"
+    },
+    {
+      "item": "salt",
+      "tbsp": 1.5,
+      "note": "for dry-brining the day before"
+    },
+    {
+      "group": "Herb butter"
+    },
+    {
+      "item": "butter",
+      "cup": 0.5,
+      "note": "softened"
+    },
+    {
+      "item": "sage",
+      "tbsp": 1
+    },
+    {
+      "item": "thyme",
+      "tsp": 2
+    },
+    {
+      "item": "rosemary",
+      "tbsp": 1
+    },
+    {
+      "item": "garlic",
+      "each": 4,
+      "note": "finely grated"
+    },
+    {
+      "item": "lemon_zest",
+      "tsp": 2
+    },
+    {
+      "item": "black_pepper",
+      "tsp": 1
+    },
+    {
+      "group": "For the cavity and pan"
+    },
+    {
+      "item": "onion",
+      "each": 1,
+      "note": "quartered"
+    },
+    {
+      "item": "lemon",
+      "each": 1,
+      "note": "halved; zested first for the butter"
+    },
+    {
+      "item": "celery",
+      "each": 2,
+      "note": "stalks, cut in chunks"
+    },
+    {
+      "item": "chicken_stock",
+      "cup": 2
+    }
+  ],
+  "steps": [
+    "The day before, pat the turkey dry, rub the salt all over and inside, and refrigerate it uncovered on a rack. This dry brine seasons the meat and dries the skin so it browns.",
+    "Take the bird out of the fridge an hour before roasting. Heat the oven to 220 °C (425 °F) with a rack in the lower third.",
+    "Mash the butter with the sage, thyme, rosemary, garlic, lemon zest and pepper. Loosen the breast and thigh skin with your fingers and push about two thirds of the butter underneath; rub the rest over the outside.",
+    "Put the onion, lemon halves and celery in the cavity. Tuck the wing tips under, tie the legs loosely and set the bird breast up on a rack in a roasting pan. Pour the stock into the pan.",
+    "Roast 30 minutes, then turn the oven down to 165 °C (325 °F). Keep roasting, adding a splash of water if the pan runs dry, until a thermometer in the thickest part of the thigh (not touching bone) reads 74 °C (165 °F), about 2½–3 hours more for this size. Tent the breast with foil if it browns before the thighs are done.",
+    "Lift the turkey onto a board, tent loosely with foil and rest 30–40 minutes before carving. Keep the pan and its drippings for the gravy."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter",
+      "note": "or use 6 tbsp olive oil, rubbed under the skin"
+    }
+  ],
+  "dairy_free_notes": "Dairy-free butter rubs and browns much like butter; olive oil works too but runs off faster, so baste once or twice during the low-heat stage.",
+  "tips": [
+    "Allow about 24 hours in the fridge to thaw every 2 kg (4–5 lb) of frozen turkey.",
+    "Serve with the turkey pan gravy, made in the same roasting pan.",
+    "Stuffing cooked inside the bird must also reach 74 °C (165 °F); roasting the aromatics only is simpler and safer."
+  ],
+  "origin": {
+    "family": "Roast turkey",
+    "place": "New England",
+    "region": "North America",
+    "lat": 41.96,
+    "lon": -70.67,
+    "era": "1800s",
+    "history": "The 1621 harvest gathering of the Plymouth colonists and the Wampanoag is often called the first Thanksgiving, but the surviving account mentions wild fowl and deer rather than turkey by name, and the event was not a holiday tradition. Roast turkey became the centre of the meal in New England during the 1800s, and Thanksgiving was proclaimed a national holiday in 1863. Turkeys themselves are native to the Americas and were domesticated in Mexico long before Europeans arrived."
+  }
+}

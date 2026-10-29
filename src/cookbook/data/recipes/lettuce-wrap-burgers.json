@@ -1,0 +1,78 @@
+{
+  "id": "lettuce-wrap-burgers",
+  "title": "Lettuce-wrap burgers",
+  "category": "mains",
+  "summary": "Thick 80/20 beef patties seasoned at the last minute and served in crisp romaine leaves with pickles, mustard and raw onion.",
+  "servings": 4,
+  "serving_size": "1 burger",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 10,
+    "rest_min": 0
+  },
+  "ingredients": [
+    {
+      "item": "ground_beef",
+      "g": 680,
+      "note": "80% lean, cold"
+    },
+    {
+      "item": "salt",
+      "tsp": 1
+    },
+    {
+      "item": "black_pepper",
+      "tsp": 0.5
+    },
+    {
+      "item": "romaine",
+      "g": 200,
+      "note": "8 large inner leaves, washed and dried"
+    },
+    {
+      "item": "dill_pickle",
+      "each": 2,
+      "note": "sliced"
+    },
+    {
+      "item": "mustard",
+      "tbsp": 4
+    },
+    {
+      "item": "onion",
+      "g": 60,
+      "note": "half a small onion, thinly sliced"
+    },
+    {
+      "item": "tomato",
+      "each": 1,
+      "note": "sliced, optional"
+    },
+    {
+      "item": "mayonnaise",
+      "tbsp": 2,
+      "note": "optional"
+    }
+  ],
+  "steps": [
+    "Divide the beef into 4 portions and shape each loosely into a patty about 2 cm (¾ in) thick and a little wider than your leaves. Press a shallow dimple into the centre so it stays flat as it cooks. Keep cold until cooking.",
+    "Heat a grill to high, or a cast-iron pan over medium-high heat until it smokes lightly.",
+    "Season the patties on both sides with the salt and pepper just before cooking (salting early makes them dense).",
+    "Cook 3–4 minutes a side without pressing down, until a thermometer in the centre reads 71 °C (160 °F), the safe point for ground beef.",
+    "Nest two romaine leaves per burger, spread with mustard and mayonnaise, add the patty and top with pickle, onion and tomato. Wrap the leaves up around it and eat from paper or foil."
+  ],
+  "swaps": [],
+  "tips": [
+    "Iceberg or butter-lettuce leaves hold together better than romaine if you prefer a rounder 'bun'.",
+    "Check the pickle label: some dill pickles are sweetened."
+  ],
+  "origin": {
+    "family": "Hamburger",
+    "place": "New Haven, Connecticut",
+    "region": "North America",
+    "lat": 41.31,
+    "lon": -72.92,
+    "era": "1880s–1900s",
+    "history": "Who first put a ground-beef patty in bread is genuinely disputed: claims come from New Haven, Connecticut; Seymour, Wisconsin; Hamburg, New York; and Athens, Texas, all for the 1880s to early 1900s, and the name points to the 'Hamburg steak' known to German immigrants. The pin marks one of these claims, not a settled answer. Serving the patty in lettuce instead of a bun is a modern low-carb habit."
+  }
+}

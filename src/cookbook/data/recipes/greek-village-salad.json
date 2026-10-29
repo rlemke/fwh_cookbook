@@ -1,0 +1,87 @@
+{
+  "id": "greek-village-salad",
+  "title": "Greek village salad (horiatiki)",
+  "category": "sides",
+  "summary": "Chunks of tomato, cucumber, green pepper and red onion with olives, oregano and good olive oil, topped with a slab of feta.",
+  "servings": 6,
+  "serving_size": "1 side bowl",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 0,
+    "rest_min": 0
+  },
+  "ingredients": [
+    {
+      "item": "tomato",
+      "g": 400,
+      "note": "ripe, cut into wedges"
+    },
+    {
+      "item": "cucumber",
+      "g": 250,
+      "note": "halved lengthwise and thickly sliced"
+    },
+    {
+      "item": "green_pepper",
+      "each": 1,
+      "note": "sliced into rings"
+    },
+    {
+      "item": "onion",
+      "g": 40,
+      "note": "red onion, thinly sliced"
+    },
+    {
+      "item": "olives",
+      "each": 16,
+      "note": "Kalamata if you can"
+    },
+    {
+      "item": "salt",
+      "tsp": 0.5
+    },
+    {
+      "item": "olive_oil",
+      "cup": 0.33
+    },
+    {
+      "item": "red_wine_vinegar",
+      "tbsp": 1
+    },
+    {
+      "item": "oregano",
+      "tsp": 1
+    },
+    {
+      "item": "feta",
+      "g": 200,
+      "note": "one block"
+    }
+  ],
+  "steps": [
+    "Put the tomato, cucumber, green pepper, onion and olives in a wide, shallow bowl and sprinkle with the salt. Leave 5 minutes so the tomatoes release a little juice.",
+    "Pour over the olive oil and vinegar and toss gently.",
+    "Lay the feta on top in one piece, sprinkle the oregano over it, and drizzle with a little more oil. Break the feta up at the table."
+  ],
+  "swaps": [
+    {
+      "from": "feta",
+      "to": "olives",
+      "ratio": 0.5,
+      "note": "leave out the feta, add about 100 g more olives and an extra 2 tbsp olive oil"
+    }
+  ],
+  "dairy_free_notes": "Without feta the salad loses its salty, creamy centre; extra olives and oil keep it rich and briny, but it is a different, lighter salad.",
+  "tips": [
+    "Don't refrigerate the tomatoes; cold dulls their flavour."
+  ],
+  "origin": {
+    "family": "Greek salad",
+    "place": "Athens",
+    "region": "Southern Europe",
+    "lat": 37.98,
+    "lon": 23.73,
+    "era": "1900s",
+    "history": "Horiatiki, 'village salad', combines vegetables that have long been eaten across Greece, but as a fixed dish with a slab of feta it seems to have become popular in Greek tavernas in the mid-twentieth century. It spread worldwide with tourism from the 1960s and 1970s. Traditional versions contain no lettuce."
+  }
+}

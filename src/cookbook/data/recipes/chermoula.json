@@ -1,0 +1,79 @@
+{
+  "id": "chermoula",
+  "title": "Chermoula",
+  "category": "sauces",
+  "summary": "A North African herb sauce of cilantro, parsley, cumin, paprika, lemon and garlic, used both to marinate fish and to spoon over it.",
+  "servings": 8,
+  "serving_size": "2 tbsp",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 0,
+    "rest_min": 30
+  },
+  "ingredients": [
+    {
+      "item": "cilantro",
+      "cup": 1
+    },
+    {
+      "item": "parsley",
+      "cup": 0.5
+    },
+    {
+      "item": "garlic",
+      "each": 3
+    },
+    {
+      "item": "cumin",
+      "tsp": 2
+    },
+    {
+      "item": "coriander",
+      "tsp": 1
+    },
+    {
+      "item": "paprika",
+      "tsp": 2
+    },
+    {
+      "item": "cayenne",
+      "tsp": 0.25
+    },
+    {
+      "item": "salt",
+      "tsp": 1
+    },
+    {
+      "item": "lemon_juice",
+      "cup": 0.25
+    },
+    {
+      "item": "lemon_zest",
+      "tsp": 1
+    },
+    {
+      "item": "olive_oil",
+      "cup": 0.5
+    }
+  ],
+  "steps": [
+    "Toast the cumin, coriander and paprika in a dry pan over low heat for 30–60 seconds, just until fragrant. Tip out at once so they do not scorch.",
+    "Finely chop the herbs and garlic (or pulse briefly in a processor), then stir in the spices, salt, lemon juice and zest.",
+    "Stir in the olive oil and rest 30 minutes.",
+    "Use half to marinate fish or chicken for 30 minutes to 2 hours (fish no longer, or the lemon starts to 'cook' it), and serve the rest at the table."
+  ],
+  "swaps": [],
+  "tips": [
+    "Fish is done when it flakes and reaches 63 °C (145 °F); chicken needs 74 °C (165 °F).",
+    "Keeps 3 days in the fridge, though the herbs darken."
+  ],
+  "origin": {
+    "family": "Chermoula",
+    "place": "Morocco",
+    "region": "Middle East & North Africa",
+    "lat": 31.79,
+    "lon": -7.09,
+    "era": "traditional",
+    "history": "Chermoula is a herb, spice and lemon marinade from the Maghreb, made in Morocco, Algeria and Tunisia, and best known in Morocco as the seasoning for fish. Recipes vary widely from family to family and region to region; some add preserved lemon, saffron or onion. No date of origin is recorded."
+  }
+}

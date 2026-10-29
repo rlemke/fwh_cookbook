@@ -1,0 +1,72 @@
+{
+  "id": "alabama-white-sauce",
+  "title": "Alabama white sauce",
+  "category": "sauces",
+  "summary": "A peppery mayonnaise, vinegar and horseradish sauce for smoked chicken, dairy-free as written.",
+  "servings": 11,
+  "serving_size": "2 tbsp",
+  "time": {
+    "prep_min": 5,
+    "cook_min": 0,
+    "rest_min": 60
+  },
+  "ingredients": [
+    {
+      "item": "mayonnaise",
+      "cup": 1
+    },
+    {
+      "item": "cider_vinegar",
+      "cup": 0.25
+    },
+    {
+      "item": "horseradish",
+      "tbsp": 1
+    },
+    {
+      "item": "lemon_juice",
+      "tbsp": 1
+    },
+    {
+      "item": "mustard",
+      "tsp": 1
+    },
+    {
+      "item": "black_pepper",
+      "tsp": 2,
+      "note": "coarsely ground"
+    },
+    {
+      "item": "garlic_powder",
+      "tsp": 0.5
+    },
+    {
+      "item": "cayenne",
+      "tsp": 0.25
+    },
+    {
+      "item": "salt",
+      "tsp": 0.5
+    }
+  ],
+  "steps": [
+    "Whisk everything together until smooth; it should be thin enough to pour.",
+    "Refrigerate at least 1 hour for the pepper and horseradish to come through.",
+    "Dip whole smoked or grilled chicken pieces (cooked to 74 °C / 165 °F) in the sauce, or brush it on in the last few minutes, and serve the rest for dipping.",
+    "Keep refrigerated and use within 1 week."
+  ],
+  "swaps": [],
+  "tips": [
+    "Check the mayonnaise label: many contain sugar. An avocado- or olive-oil mayonnaise with no added sugar keeps this near zero.",
+    "Thin with another tablespoon of vinegar for basting; keep it thicker for dipping."
+  ],
+  "origin": {
+    "family": "Barbecue sauce",
+    "place": "Decatur, Alabama",
+    "region": "North America",
+    "lat": 34.61,
+    "lon": -86.98,
+    "era": "1920s",
+    "history": "White sauce is credited to Robert 'Big Bob' Gibson, who began cooking barbecue in Decatur, Alabama, in the 1920s and dipped his smoked chickens in a mayonnaise-and-vinegar sauce. The restaurant bearing his name still serves it, and the sauce has become a North Alabama speciality rarely seen elsewhere until recent decades."
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "standing-rib-roast",
+  "title": "Standing rib roast with horseradish cream",
+  "category": "mains",
+  "summary": "A bone-in beef rib roast cooked low until pink to the edge, then seared in a very hot oven, with a sharp horseradish and sour cream sauce.",
+  "servings": 8,
+  "serving_size": "about 300 g (10½ oz) sliced beef + 2 tbsp sauce",
+  "time": {
+    "prep_min": 20,
+    "cook_min": 200,
+    "rest_min": 720
+  },
+  "ingredients": [
+    {
+      "group": "Roast"
+    },
+    {
+      "item": "rib_roast",
+      "g": 2400,
+      "note": "one 3-rib roast, about 3 kg (6½ lb) bone-in; about 2.4 kg is meat"
+    },
+    {
+      "item": "salt",
+      "tbsp": 1
+    },
+    {
+      "item": "black_pepper",
+      "tbsp": 1,
+      "note": "coarsely ground"
+    },
+    {
+      "item": "garlic",
+      "each": 4,
+      "note": "finely grated"
+    },
+    {
+      "item": "rosemary",
+      "tbsp": 1
+    },
+    {
+      "item": "thyme",
+      "tsp": 1
+    },
+    {
+      "item": "olive_oil",
+      "tbsp": 2
+    },
+    {
+      "group": "Horseradish cream"
+    },
+    {
+      "item": "sour_cream",
+      "cup": 0.75
+    },
+    {
+      "item": "horseradish",
+      "tbsp": 3
+    },
+    {
+      "item": "mustard",
+      "tsp": 1,
+      "note": "Dijon"
+    },
+    {
+      "item": "lemon_juice",
+      "tsp": 1
+    },
+    {
+      "item": "chives",
+      "tbsp": 1
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    }
+  ],
+  "steps": [
+    "The day before, rub the roast all over with the salt and refrigerate uncovered on a rack. Mix the horseradish cream ingredients, cover and chill so the flavours settle.",
+    "Two hours before cooking, take the roast out of the fridge. Heat the oven to 110 °C (225 °F).",
+    "Mix the pepper, garlic, rosemary, thyme and oil and rub it over the fat and cut ends. Stand the roast bone side down in a roasting pan (the bones are the rack).",
+    "Roast until a thermometer in the centre reads 50 °C (122 °F), about 3–3½ hours; start checking after 2½. Lift out and rest, loosely tented, 30–60 minutes. Meanwhile heat the oven as high as it goes, 260–290 °C (500–550 °F).",
+    "Return the roast to the hot oven for 8–10 minutes, until the outside is deep brown. It will finish at 54–57 °C (130–135 °F), medium-rare.",
+    "Cut the meat away from the bones in one piece, then slice across the grain. Serve with the horseradish cream."
+  ],
+  "swaps": [
+    {
+      "from": "sour_cream",
+      "to": "coconut_yogurt",
+      "note": "or mayonnaise for a richer sauce"
+    }
+  ],
+  "dairy_free_notes": "Coconut yogurt makes a looser, slightly sweeter sauce with a faint coconut note; mayonnaise is thicker and richer and hides the coconut question entirely.",
+  "tips": [
+    "Because the meat rested before the final sear, it can be carved straight away.",
+    "Freshly grated horseradish root is much hotter than the jar; start with half as much."
+  ],
+  "origin": {
+    "family": "Roast beef",
+    "place": "England",
+    "region": "Northern Europe",
+    "lat": 51.51,
+    "lon": -0.13,
+    "era": "1700s",
+    "history": "Roast beef was a symbol of English prosperity by the 1700s; 'The Roast Beef of Old England', a patriotic song first written by Henry Fielding in the 1730s, made the point in its title. Horseradish sauce with beef is an English pairing of long standing, and the Sunday joint of roast beef remains a fixture of British home cooking."
+  }
+}

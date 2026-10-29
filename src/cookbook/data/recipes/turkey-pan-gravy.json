@@ -1,0 +1,79 @@
+{
+  "id": "turkey-pan-gravy",
+  "title": "Turkey pan gravy",
+  "category": "basics",
+  "summary": "Roasting-pan drippings and stock simmered with herbs and thickened with a pinch of xanthan gum instead of a flour roux.",
+  "servings": 12,
+  "serving_size": "¼ cup",
+  "time": {
+    "prep_min": 5,
+    "cook_min": 15,
+    "rest_min": 0
+  },
+  "ingredients": [
+    {
+      "item": "white_wine",
+      "cup": 0.25,
+      "note": "or more stock; plus the drippings left in the turkey roasting pan"
+    },
+    {
+      "item": "chicken_stock",
+      "cup": 3,
+      "note": "ideally homemade from the turkey neck"
+    },
+    {
+      "item": "thyme",
+      "tsp": 0.5
+    },
+    {
+      "item": "sage",
+      "tsp": 0.5
+    },
+    {
+      "item": "xanthan_gum",
+      "tsp": 0.5
+    },
+    {
+      "item": "butter",
+      "tbsp": 2,
+      "note": "cold, to finish"
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25,
+      "note": "to taste; drippings from a dry-brined bird are already salty"
+    },
+    {
+      "item": "black_pepper",
+      "tsp": 0.25
+    }
+  ],
+  "steps": [
+    "Pour the drippings from the roasting pan into a heatproof jug and let the fat rise for 5 minutes. Spoon off all but about 2 tablespoons of fat and return the juices to the pan.",
+    "Set the pan over medium heat (across two burners if needed). Add the wine and scrape up the browned bits, then let it bubble until reduced by half.",
+    "Add the stock, thyme and sage and simmer 5 minutes. Strain into a small saucepan if you want it smooth.",
+    "With the gravy at a simmer, sprinkle the xanthan gum over the surface while whisking hard, a little at a time, so it does not clump. Simmer 1–2 minutes; it thickens as it heats. Add a few more pinches only if it is still thin — too much turns it slippery.",
+    "Off the heat, whisk in the cold butter. Taste, then season with salt and pepper."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter",
+      "note": "or simply leave it out"
+    }
+  ],
+  "dairy_free_notes": "Dairy-free butter gives the same gloss; without any butter the gravy is a little thinner and less rich but still good.",
+  "tips": [
+    "An immersion blender is the easiest way to disperse xanthan gum without lumps.",
+    "Drippings carry very few carbs, but skip any pan juices that have sugar from a sweet glaze."
+  ],
+  "origin": {
+    "family": "Gravy",
+    "place": "England",
+    "region": "Northern Europe",
+    "lat": 52.36,
+    "lon": -1.17,
+    "era": "1700s",
+    "history": "Serving roast meat with a sauce made from its own juices is an old English habit; by the 1700s English cookery books routinely described gravy made from pan juices and stock. The thickened brown gravy that accompanies roast turkey carried over into American cooking and became a fixed part of the Thanksgiving table in the 1800s."
+  }
+}

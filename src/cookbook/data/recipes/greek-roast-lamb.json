@@ -1,0 +1,82 @@
+{
+  "id": "greek-roast-lamb",
+  "title": "Greek roast leg of lamb",
+  "category": "mains",
+  "summary": "A leg of lamb studded with garlic, rubbed with lemon, oregano and olive oil and roasted until tender, with the pan juices spooned over.",
+  "servings": 8,
+  "serving_size": "about 275 g (9½ oz) carved lamb",
+  "time": {
+    "prep_min": 20,
+    "cook_min": 120,
+    "rest_min": 260
+  },
+  "ingredients": [
+    {
+      "item": "lamb_leg",
+      "g": 2200,
+      "note": "one 2.8 kg (6 lb) bone-in leg; about 2.2 kg is meat"
+    },
+    {
+      "item": "garlic",
+      "each": 8,
+      "note": "4 cut in slivers, 4 grated"
+    },
+    {
+      "item": "lemon_juice",
+      "cup": 0.33
+    },
+    {
+      "item": "lemon_zest",
+      "tbsp": 1
+    },
+    {
+      "item": "olive_oil",
+      "cup": 0.33
+    },
+    {
+      "item": "oregano",
+      "tbsp": 2,
+      "note": "Greek, if you can find it"
+    },
+    {
+      "item": "rosemary",
+      "tbsp": 1
+    },
+    {
+      "item": "salt",
+      "tbsp": 1
+    },
+    {
+      "item": "black_pepper",
+      "tsp": 1
+    },
+    {
+      "item": "white_wine",
+      "cup": 0.5
+    },
+    {
+      "item": "water",
+      "cup": 0.5
+    }
+  ],
+  "steps": [
+    "Make about 16 small, deep cuts all over the lamb with a thin knife and push a garlic sliver into each.",
+    "Whisk the grated garlic, lemon juice, zest, oil, oregano, rosemary, salt and pepper. Rub it all over the lamb in a roasting pan, cover and refrigerate 4 hours or overnight. Bring it to room temperature for the last hour.",
+    "Heat the oven to 220 °C (425 °F). Roast the lamb 20 minutes, then pour the wine and water into the pan and lower the oven to 165 °C (325 °F).",
+    "For pink lamb, roast until the thickest part reads 57 °C (135 °F), about 1–1¼ hours more; for medium, 63 °C (145 °F). For the traditional Greek way, cover the pan with foil and keep roasting until the meat pulls easily from the bone, about 3 hours in total.",
+    "Rest 20 minutes, tented with foil. Skim the fat from the pan juices, taste for salt and lemon, and spoon them over the carved lamb."
+  ],
+  "swaps": [],
+  "tips": [
+    "Roast trimmed green beans or celeriac in the pan for the last 40 minutes; they soak up the juices."
+  ],
+  "origin": {
+    "family": "Roast lamb",
+    "place": "Greece",
+    "region": "Southern Europe",
+    "lat": 37.98,
+    "lon": 23.73,
+    "era": "medieval",
+    "history": "Lamb is the meat of Greek Orthodox Easter, the feast that ends the long Lenten fast, and in much of the countryside a whole lamb is still spit-roasted outdoors on Easter Sunday. The custom is centuries old. At home and in town the oven-roasted leg with lemon, garlic and oregano, arni sto fourno, is the everyday form of the same celebration."
+  }
+}

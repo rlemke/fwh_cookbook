@@ -1,0 +1,57 @@
+{
+  "id": "grilled-flank-steak",
+  "title": "Asado-style grilled flank steak",
+  "category": "mains",
+  "summary": "Flank steak salted generously with coarse salt and cooked over a hot wood or charcoal fire, sliced thin across the grain.",
+  "servings": 4,
+  "serving_size": "about 225 g (8 oz) raw weight",
+  "time": {
+    "prep_min": 5,
+    "cook_min": 15,
+    "rest_min": 40
+  },
+  "ingredients": [
+    {
+      "item": "flank_steak",
+      "g": 900,
+      "note": "one or two steaks, about 2.5 cm (1 in) at the thickest"
+    },
+    {
+      "item": "flaky_salt",
+      "tsp": 2,
+      "note": "or coarse salt"
+    },
+    {
+      "item": "black_pepper",
+      "tsp": 0.5,
+      "note": "optional; many asadores use salt alone"
+    },
+    {
+      "item": "lemon",
+      "each": 1,
+      "note": "cut in wedges"
+    }
+  ],
+  "steps": [
+    "Take the steak out of the fridge 30 minutes before cooking and pat it dry.",
+    "Build a hot fire of hardwood charcoal or wood embers and let it burn down until the coals are covered in white ash; you should be able to hold your hand above the grate for only 2–3 seconds.",
+    "Salt the steak on both sides just before it goes on the fire.",
+    "Grill 5–7 minutes a side, turning once, until a thermometer in the thickest part reads 54–57 °C (130–135 °F) for medium-rare. Move it to a cooler part of the grill if the outside chars before the centre is ready.",
+    "Rest 10 minutes, then slice thinly across the grain at an angle. Season with pepper if using and serve with lemon wedges.",
+    "Indoors, use a smoking-hot cast-iron pan or grill pan with the same timings and the fan on."
+  ],
+  "swaps": [],
+  "tips": [
+    "Slicing across the grain matters more with flank than with any other steak: with the grain it chews like rope.",
+    "Serve with chimichurri from the sauces chapter."
+  ],
+  "origin": {
+    "family": "Asado",
+    "place": "Argentina",
+    "region": "Latin America & Caribbean",
+    "lat": -34.6,
+    "lon": -58.38,
+    "era": "1700s",
+    "history": "Asado grew out of the cattle culture of the gauchos on the Pampas, who roasted beef over open fires from the 1700s onward. It is now a social occasion as much as a method: an asador tends a parrilla of embers, and the meat is seasoned with little but coarse salt. Vacío, a cut from the flank, is a staple of the grill, and flank steak is its nearest supermarket match."
+  }
+}
