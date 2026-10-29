@@ -4,13 +4,16 @@
 
 {% macro facts_table(r) -%}
 <table class="facts">
-  <thead><tr><th>Per serving</th><th class="num">As written</th>{% if r.dairy != 'dairy-free' %}<th class="num">Dairy-free</th>{% endif %}</tr></thead>
+  <thead><tr><th>Per serving</th><th class="num">As written</th>{% if r.dairy != 'dairy-free' %}<th class="num">Dairy-free</th>{% endif %}{% if r.per_conv %}<th class="num conv">Not low-carb<span class="small">rough estimate</span></th>{% endif %}</tr></thead>
   <tbody>
   {% for key, label, unit in [('net_carbs_g', 'Net carbs', 'g'), ('carbs_g', 'Total carbohydrate', 'g'), ('fiber_g', 'Fibre', 'g'), ('polyol_g', 'Sugar alcohols & allulose', 'g'), ('sugars_g', 'Sugars', 'g'), ('fat_g', 'Fat', 'g'), ('protein_g', 'Protein', 'g'), ('kcal', 'Energy', 'kcal')] %}
-    <tr{% if key == 'net_carbs_g' %} style="font-weight:600"{% endif %}><td>{{ label }}</td><td class="num">{{ r.per[key] }} {{ unit }}</td>{% if r.dairy != 'dairy-free' %}<td class="num">{{ r.per_df[key] }} {{ unit }}</td>{% endif %}</tr>
+    <tr{% if key == 'net_carbs_g' %} style="font-weight:600"{% endif %}><td>{{ label }}</td><td class="num">{{ r.per[key] }} {{ unit }}</td>{% if r.dairy != 'dairy-free' %}<td class="num">{{ r.per_df[key] }} {{ unit }}</td>{% endif %}{% if r.per_conv %}<td class="num conv">{{ r.per_conv[key] }} {{ unit }}</td>{% endif %}</tr>
   {% endfor %}
   </tbody>
 </table>
+{% if r.per_conv %}<p class="small"><strong>Not low-carb</strong> is a rough estimate of a conventional version, not a tested recipe: {% for s in r.conv_swaps %}{% if s.to %}{{ s.to }} for {{ s.from }}{% if s.ratio != 1.0 %} ({{ '%g'|format(s.ratio) }} × by weight){% endif %}{% else %}no {{ s.from }}{% endif %}{{ '; ' if not loop.last else '.' }}{% endfor %} Everything else is as written. Sweeteners are matched for sweetness, and ordinary recipes are often sweeter, so the real difference is usually larger. {{ r.conv_note }}</p>
+{% elif r.conv_note %}<p class="small">{{ r.conv_note }}</p>
+{% else %}<p class="small">Nothing here is a low-carb stand-in, so a conventional version would be much the same.</p>{% endif %}
 {%- endmacro %}
 
 {% macro ingredients(r) -%}

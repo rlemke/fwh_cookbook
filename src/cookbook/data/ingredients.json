@@ -1,5 +1,5 @@
 {
- "_about": "Every ingredient a recipe may name. 'usda' is the exact SR Legacy description (FoodData Central, public domain); nutrition is read from that release at build time. 'label' entries are foods SR Legacy does not carry (low-carb sweeteners, specialty flours, dairy-free products): typical per-100 g values from US product labels, which vary by brand. 'polyol_g' is sugar alcohol or allulose, which is counted separately from net carbs. 'each_g' is the weight of one piece. 'contains' lists the allergen groups the ingredient belongs to.",
+ "_about": "Every ingredient a recipe may name. 'usda' is the exact SR Legacy description (FoodData Central, public domain); nutrition is read from that release at build time. 'label' entries are foods SR Legacy does not carry (low-carb sweeteners, specialty flours, dairy-free products): typical per-100 g values from US product labels, which vary by brand. 'polyol_g' is sugar alcohol or allulose, which is counted separately from net carbs. 'each_g' is the weight of one piece. 'contains' lists the allergen groups the ingredient belongs to. 'conventional' marks an ingredient no recipe may use: it exists only for the rough conventional (not low-carb) comparison in traditional.json.",
  "almond_flour":        {"name": "almond flour (blanched, finely ground)", "usda": "Nuts, almonds, blanched", "contains": ["tree_nuts"], "cup_g": 96},
  "almonds":             {"name": "almonds", "usda": "Nuts, almonds", "contains": ["tree_nuts"], "cup_g": 143},
  "almond_butter":       {"name": "almond butter, unsalted", "usda": "Nuts, almond butter, plain, without salt added", "contains": ["tree_nuts"], "tbsp_g": 16},
@@ -143,5 +143,12 @@
  "nutritional_yeast": {"name": "nutritional yeast flakes", "label": {"kcal": 400, "fat_g": 3.3, "protein_g": 53, "carbs_g": 33, "fiber_g": 20, "sugars_g": 0, "polyol_g": 0}, "contains": [], "tbsp_g": 4, "cup_g": 60},
  "maple_extract":     {"name": "maple extract", "label": {"kcal": 0, "fat_g": 0, "protein_g": 0, "carbs_g": 0, "fiber_g": 0, "sugars_g": 0, "polyol_g": 0}, "contains": [], "tsp_g": 4.2},
  "flaky_salt":        {"name": "flaky sea salt", "usda": "Salt, table", "contains": [], "tsp_g": 3},
+ "wheat_flour":       {"name": "all-purpose wheat flour", "usda": "Wheat flour, white, all-purpose, enriched, bleached", "contains": [], "conventional": true, "cup_g": 125},
+ "sugar":             {"name": "sugar", "usda": "Sugars, granulated", "contains": [], "conventional": true, "cup_g": 200},
+ "powdered_sugar":    {"name": "powdered sugar", "usda": "Sugars, powdered", "contains": [], "conventional": true, "cup_g": 120},
+ "semisweet_chocolate":{"name": "semisweet chocolate", "usda": "Chocolate, dark, 45- 59% cacao solids", "contains": [], "conventional": true},
+ "white_rice":        {"name": "white rice", "usda": "Rice, white, long-grain, regular, raw, enriched", "contains": [], "conventional": true, "cup_g": 185},
+ "rolled_oats":       {"name": "rolled oats", "usda": "Cereals, oats, regular and quick, not fortified, dry", "contains": [], "conventional": true, "cup_g": 81},
+ "maple_syrup":       {"name": "maple syrup", "usda": "Syrups, maple", "contains": [], "conventional": true, "tbsp_g": 20},
  "water":               {"name": "water", "label": {"kcal": 0, "fat_g": 0, "protein_g": 0, "carbs_g": 0, "fiber_g": 0, "sugars_g": 0, "polyol_g": 0}, "contains": [], "cup_g": 237, "tbsp_g": 15}
 }

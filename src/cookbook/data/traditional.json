@@ -1,0 +1,102 @@
+{
+ "_about": "A ROUGH conventional (not low-carb) version of each recipe, for comparison only. Each low-carb stand-in is replaced by what a conventional recipe would use, at a weight ratio that gives about the same result: sweeteners become sugar at the same sweetness (erythritol and allulose are about 70% as sweet as sugar), almond flour becomes wheat flour by weight, coconut flour becomes three times its weight in wheat flour (it absorbs far more liquid), and binders that only stand in for gluten are dropped. 'to': null drops an ingredient. Everything else, including dairy, stays as written. 'recipes' adjusts single dishes: 'keep' leaves an ingredient that the traditional dish uses too, 'swaps' adds or overrides swaps, and 'note' explains a dish with no conventional twin.",
+ "swaps": {
+  "almond_flour": {
+   "to": "wheat_flour",
+   "ratio": 1.0
+  },
+  "coconut_flour": {
+   "to": "wheat_flour",
+   "ratio": 3.0
+  },
+  "erythritol": {
+   "to": "sugar",
+   "ratio": 0.7
+  },
+  "allulose": {
+   "to": "sugar",
+   "ratio": 0.7
+  },
+  "powdered_erythritol": {
+   "to": "powdered_sugar",
+   "ratio": 0.7
+  },
+  "monk_fruit_blend": {
+   "to": "sugar",
+   "ratio": 1.0
+  },
+  "stevia_drops": {
+   "to": "sugar",
+   "ratio": 13.0
+  },
+  "sf_chocolate_chips": {
+   "to": "semisweet_chocolate",
+   "ratio": 1.0
+  },
+  "psyllium_husk": {
+   "to": null
+  },
+  "xanthan_gum": {
+   "to": null
+  }
+ },
+ "recipes": {
+  "amaretti": {
+   "keep": [
+    "almond_flour"
+   ]
+  },
+  "marzipan": {
+   "keep": [
+    "almond_flour"
+   ]
+  },
+  "tarta-de-santiago": {
+   "keep": [
+    "almond_flour"
+   ]
+  },
+  "rueblitorte": {
+   "keep": [
+    "almond_flour"
+   ]
+  },
+  "cauliflower-kheer": {
+   "swaps": {
+    "cauliflower": {
+     "to": "white_rice",
+     "ratio": 0.3
+    }
+   }
+  },
+  "noatmeal": {
+   "swaps": {
+    "hemp_hearts": {
+     "to": "rolled_oats",
+     "ratio": 1.0
+    },
+    "flaxseed_meal": {
+     "to": "rolled_oats",
+     "ratio": 1.0
+    }
+   }
+  },
+  "sugar-free-maple-syrup": {
+   "swaps": {
+    "allulose": {
+     "to": "maple_syrup",
+     "ratio": 1.4
+    },
+    "water": {
+     "to": null
+    }
+   }
+  },
+  "cloud-bread": {
+   "note": "Cloud bread stands in for a slice of bread, and a slice of white bread has roughly 12 g net carbs."
+  },
+  "flax-crackers": {
+   "note": "Flax crackers stand in for ordinary crackers, which are made mostly of wheat flour and are far higher in carbs."
+  }
+ }
+}

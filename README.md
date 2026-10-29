@@ -7,7 +7,7 @@ for each dairy ingredient. Each dish is also placed on a world map at the place 
 - **Index** (`index.html`): a map of where each dish comes from, plus every recipe with filters for chapter,
   net carbs, dairy-free as written, and nut-, egg- and coconut-free.
 - **Recipe pages** (`recipes/<id>.html`): ingredients in US measures with grams, the method, the dairy-free version,
-  nutrition per serving both as written and dairy-free, and the dish's history.
+  nutrition per serving as written, dairy-free, and as a rough estimate of an ordinary (not low-carb) version (`data/traditional.json`), and the dish's history.
 - **The whole book** (`book.html`): every recipe on one page, laid out so a browser's *Save as PDF* starts each
   recipe on a new page.
 - **Method & guides** (`about.html`): how the nutrition is worked out, a sweetener guide, how the dairy-free swaps

@@ -6,7 +6,14 @@ import pytest
 
 from cookbook.fmt import amount, line, minutes
 from cookbook.nutrition import build_table
-from cookbook.recipes import grams, load_recipes, validate, version
+from cookbook.recipes import (
+    conventional,
+    grams,
+    load_recipes,
+    load_traditional,
+    validate,
+    version,
+)
 from cookbook.site.build import REGIONS, build_site
 
 
@@ -117,3 +124,63 @@ def test_no_unknown_description_is_silently_zero(tmp_path):
         z.writestr("food_nutrient.csv", '"fdc_id","nutrient_id","amount"\n')
     with pytest.raises(ValueError, match="not in SR Legacy"):
         read_sr_legacy(str(p), {"Butter, salted", "Nonexistent food"})
+
+
+def test_conventional_estimate_swaps_stand_ins_back(table):
+    trad = load_traditional()
+    r = {
+        "id": "t",
+        "servings": 1,
+        "ingredients": [
+            {"item": "almond_flour", "g": 100},
+            {"item": "erythritol", "g": 100},
+            {"item": "xanthan_gum", "g": 2},
+            {"item": "egg", "each": 1},
+        ],
+    }
+    c = conventional(r, table, trad)
+    want = table.facts("wheat_flour", 100) + table.facts("sugar", 70) + table.facts("egg", 50)
+    assert c.version.per_serving.net_carbs_g == pytest.approx(want.net_carbs_g)
+    assert c.version.per_serving.polyol_g == 0
+    assert ("xanthan_gum", None, 1.0) in c.swaps
+    # nothing to swap -> no estimate
+    assert (
+        conventional(
+            {"id": "t", "servings": 1, "ingredients": [{"item": "egg", "each": 2}]}, table, trad
+        ).version
+        is None
+    )
+    # a dish may keep an ingredient its traditional form uses too
+    kept = conventional(
+        {"id": "marzipan", "servings": 1, "ingredients": [{"item": "almond_flour", "g": 100}]},
+        table,
+        trad,
+    )
+    assert kept.version is None
+
+
+def test_conventional_ingredients_are_not_allowed_in_recipes(table):
+    r = {
+        "id": "t",
+        "title": "T",
+        "category": "cakes",
+        "summary": "s",
+        "servings": 1,
+        "steps": ["x"],
+        "origin": {
+            "family": "f",
+            "place": "p",
+            "region": "Oceania",
+            "lat": 0,
+            "lon": 0,
+            "era": "e",
+            "history": "h",
+        },
+        "ingredients": [{"item": "sugar", "g": 10}],
+    }
+    assert any("not a low-carb ingredient" in e for e in validate(r, table))
+    trad = load_traditional()
+    for k, rule in trad["swaps"].items():
+        assert k in table.ingredients and (rule["to"] is None or rule["to"] in table.ingredients)
+    for rid in trad["recipes"]:
+        assert rid in {x["id"] for x in load_recipes()}, rid

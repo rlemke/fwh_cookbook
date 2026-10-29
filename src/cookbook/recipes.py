@@ -112,6 +112,8 @@ def validate(recipe: dict, table: Table) -> list[str]:
         if ln["item"] not in ing:
             errs.append(f"{rid}: unknown ingredient {ln['item']}")
             continue
+        if ing[ln["item"]].get("conventional"):
+            errs.append(f"{rid}: {ln['item']} is not a low-carb ingredient")
         try:
             grams(ln, ing[ln["item"]])
         except ValueError as e:
@@ -120,6 +122,8 @@ def validate(recipe: dict, table: Table) -> list[str]:
         for side in ("from", "to"):
             if s.get(side) not in ing:
                 errs.append(f"{rid}: swap {side} unknown ingredient {s.get(side)}")
+            elif ing[s[side]].get("conventional"):
+                errs.append(f"{rid}: swap {side} {s[side]} is not a low-carb ingredient")
     if not errs:
         dairy = {ln["item"] for ln in lines(recipe) if "dairy" in ing[ln["item"]]["contains"]}
         swapped = {s["from"] for s in recipe.get("swaps", [])}
@@ -154,6 +158,48 @@ def version(recipe: dict, table: Table, dairy_free: bool = False) -> Version:
         contains |= set(ing[item]["contains"])
     n = recipe["servings"]
     return Version(total=total, per_serving=total.scaled(1 / n), contains=sorted(contains))
+
+
+def load_traditional() -> dict:
+    return json.loads(resources.files("cookbook").joinpath("data/traditional.json").read_text())
+
+
+@dataclass
+class Conventional:
+    """A rough conventional (not low-carb) version: the low-carb stand-ins
+    swapped back to what an ordinary recipe uses. ``version`` is None when
+    nothing in the recipe is a stand-in."""
+
+    version: Version | None
+    swaps: list[tuple[str, str | None, float]]  # (from, to or None = dropped, ratio)
+    note: str
+
+
+def conventional(recipe: dict, table: Table, trad: dict) -> Conventional:
+    """Swap each low-carb stand-in for its conventional counterpart (as written
+    otherwise, dairy included). An estimate for comparison, never a recipe."""
+    over = trad.get("recipes", {}).get(recipe["id"], {})
+    rules = {k: v for k, v in trad["swaps"].items() if k not in over.get("keep", [])}
+    rules.update(over.get("swaps", {}))
+    ing = table.ingredients
+    total = Facts()
+    applied: dict[str, tuple[str | None, float]] = {}
+    for ln in lines(recipe):
+        item, g = ln["item"], grams(ln, ing[ln["item"]])
+        rule = rules.get(item)
+        if rule is not None:
+            ratio = float(rule.get("ratio", 1.0))
+            applied[item] = (rule["to"], ratio)
+            if rule["to"] is None:
+                continue
+            item, g = rule["to"], g * ratio
+        total = total + table.facts(item, g)
+    note = over.get("note", "")
+    if not applied:
+        return Conventional(None, [], note)
+    n = recipe["servings"]
+    v = Version(total=total, per_serving=total.scaled(1 / n), contains=[])
+    return Conventional(v, [(k, t, r) for k, (t, r) in applied.items()], note)
 
 
 def dairy_status(recipe: dict, table: Table) -> str:

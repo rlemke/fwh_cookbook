@@ -20,9 +20,11 @@ from ..recipes import (
     ALLERGENS,
     CATEGORIES,
     DESSERT_CATEGORIES,
+    conventional,
     dairy_status,
     lines,
     load_recipes,
+    load_traditional,
     validate,
     version,
 )
@@ -63,9 +65,18 @@ def _env() -> Environment:
     return env
 
 
-def recipe_view(r: dict, table: Table) -> dict:
+def recipe_view(r: dict, table: Table, trad: dict | None = None) -> dict:
     ing = table.ingredients
     written, df = version(r, table), version(r, table, dairy_free=True)
+    conv = conventional(r, table, trad if trad is not None else load_traditional())
+    conv_swaps = [
+        {
+            "from": ing[a]["name"],
+            "to": ing[b]["name"] if b else None,
+            "ratio": ratio,
+        }
+        for a, b, ratio in conv.swaps
+    ]
     groups: list[dict] = []
     for ln in r["ingredients"]:
         if "group" in ln:
@@ -100,6 +111,9 @@ def recipe_view(r: dict, table: Table) -> dict:
         "dairy": dairy_status(r, table),
         "per": written.per_serving.as_dict(),
         "per_df": df.per_serving.as_dict(),
+        "per_conv": conv.version.per_serving.as_dict() if conv.version else None,
+        "conv_swaps": conv_swaps,
+        "conv_note": conv.note,
         "contains": [ALLERGENS[a] for a in written.contains],
         "contains_df": [ALLERGENS[a] for a in df.contains],
         "free_of": sorted({ALLERGENS[a] for a in ALLERGENS} - {ALLERGENS[a] for a in df.contains}),
@@ -152,7 +166,8 @@ def build_site(fdc_zip: str, out_dir: str, log=None) -> dict:
     for r in recipes:
         if r["origin"]["region"] not in REGIONS:
             raise ValueError(f"{r['id']}: unknown region {r['origin']['region']}")
-    views = [recipe_view(r, table) for r in recipes]
+    trad = load_traditional()
+    views = [recipe_view(r, table, trad) for r in recipes]
     order = list(CATEGORIES)
     views.sort(key=lambda v: (order.index(v["category"]), v["title"].lower()))
     chapters = [
