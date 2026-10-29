@@ -1,0 +1,64 @@
+{
+  "id": "golden-milk",
+  "title": "Golden milk (haldi doodh)",
+  "category": "drinks",
+  "summary": "Warm almond and coconut milk whisked with turmeric, ginger, cinnamon and black pepper; soothing and mildly sweet.",
+  "servings": 2,
+  "serving_size": "1 mug",
+  "time": {
+    "prep_min": 3,
+    "cook_min": 7,
+    "rest_min": 0
+  },
+  "ingredients": [
+    {
+      "item": "almond_milk",
+      "cup": 1.5,
+      "note": "whisked with 1 tsp ground turmeric"
+    },
+    {
+      "item": "coconut_milk",
+      "cup": 0.5
+    },
+    {
+      "item": "ginger_ground",
+      "tsp": 0.25,
+      "note": "or a few slices of fresh ginger"
+    },
+    {
+      "item": "cinnamon",
+      "tsp": 0.25
+    },
+    {
+      "item": "cardamom",
+      "tsp": 0.125
+    },
+    {
+      "item": "black_pepper",
+      "tsp": 0.0625
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 1
+    }
+  ],
+  "steps": [
+    "Whisk the almond milk, turmeric and coconut milk in a small pan with the ginger, cinnamon, cardamom and black pepper.",
+    "Warm over medium-low heat, whisking often, until it steams and small bubbles appear at the edge. Simmer gently 3–4 minutes; do not let it boil over.",
+    "Whisk in the erythritol until dissolved.",
+    "Strain if you used fresh ginger, then pour into mugs and serve hot."
+  ],
+  "tips": [
+    "Traditionally it is made with cow's milk; this version is dairy-free as written, and the coconut milk gives it body.",
+    "Turmeric stains; rinse the pan and whisk straight away."
+  ],
+  "origin": {
+    "family": "Haldi doodh",
+    "place": "India",
+    "region": "South Asia",
+    "lat": 20.59,
+    "lon": 78.96,
+    "era": "traditional",
+    "history": "Haldi doodh, milk boiled with turmeric, is a long-standing home remedy across the Indian subcontinent, given especially at bedtime or for colds. Turmeric has been used in South Asian cooking and traditional medicine for a very long time. The English name golden milk and the drink's popularity in Western cafés date only from the 2010s."
+  }
+}

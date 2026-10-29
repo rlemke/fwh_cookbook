@@ -1,0 +1,84 @@
+{
+  "id": "cream-scones",
+  "title": "Cream scones",
+  "category": "breakfast",
+  "summary": "Tender, lightly sweet scones from almond flour, cold butter and cream, cut in wedges and baked until golden.",
+  "servings": 8,
+  "serving_size": "1 scone",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 20,
+    "rest_min": 10
+  },
+  "ingredients": [
+    {
+      "item": "almond_flour",
+      "cup": 2
+    },
+    {
+      "item": "coconut_flour",
+      "tbsp": 2
+    },
+    {
+      "item": "baking_powder",
+      "tsp": 2
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.25
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    },
+    {
+      "item": "butter",
+      "tbsp": 4,
+      "note": "cold, cubed"
+    },
+    {
+      "item": "egg",
+      "each": 1
+    },
+    {
+      "item": "heavy_cream",
+      "cup": 0.33,
+      "note": "plus 1 tbsp for brushing"
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    }
+  ],
+  "steps": [
+    "Heat the oven to 175 °C (350 °F) and line a baking sheet with parchment.",
+    "Mix the almond flour, coconut flour, baking powder, erythritol and salt. Rub in the cold butter with your fingertips until it looks like coarse crumbs.",
+    "Whisk the egg, cream and vanilla, add to the bowl and stir with a fork until it comes together into a soft dough.",
+    "Pat into a 18 cm (7 in) round about 2.5 cm (1 in) thick and cut into 8 wedges. Chill 10 minutes so they hold their shape.",
+    "Separate the wedges on the sheet, brush with a little cream and bake 18–20 minutes, until golden.",
+    "Cool on the sheet 5 minutes before moving; they firm up as they cool."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter"
+    },
+    {
+      "from": "heavy_cream",
+      "to": "coconut_cream"
+    }
+  ],
+  "dairy_free_notes": "Coconut cream gives a slightly denser scone with a faint coconut note; dairy-free butter should be very cold, as it softens faster than butter.",
+  "tips": [
+    "Serve with whipped cream and a spoonful of crushed berries."
+  ],
+  "origin": {
+    "family": "Scone",
+    "place": "Edinburgh",
+    "region": "Northern Europe",
+    "lat": 55.95,
+    "lon": -3.19,
+    "era": "1500s",
+    "history": "The scone is Scottish: the word appears in Scottish writing in the early 1500s. Early scones were flat rounds of oats or barley cooked on a griddle and cut into wedges; the oven-baked, risen scone came with baking powder in the 1800s and became part of the British afternoon tea."
+  }
+}

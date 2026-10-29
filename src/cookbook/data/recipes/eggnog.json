@@ -1,0 +1,84 @@
+{
+  "id": "eggnog",
+  "title": "Eggnog",
+  "category": "drinks",
+  "summary": "Thick, nutmeg-scented cooked egg custard drink, gently heated for safety and served cold.",
+  "servings": 6,
+  "serving_size": "⅔ cup",
+  "time": {
+    "prep_min": 10,
+    "cook_min": 10,
+    "rest_min": 180
+  },
+  "ingredients": [
+    {
+      "item": "egg_yolk",
+      "each": 4
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.33
+    },
+    {
+      "item": "whole_milk",
+      "cup": 2
+    },
+    {
+      "item": "heavy_cream",
+      "cup": 1
+    },
+    {
+      "item": "nutmeg",
+      "tsp": 0.5,
+      "note": "freshly grated if possible, plus extra to serve"
+    },
+    {
+      "item": "cinnamon",
+      "tsp": 0.125
+    },
+    {
+      "item": "salt",
+      "tsp": 0.0625
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "rum_extract",
+      "tsp": 1,
+      "note": "or 60–90 ml (¼–⅓ cup) dark rum or brandy"
+    }
+  ],
+  "steps": [
+    "Whisk the egg yolks and erythritol in a bowl until pale and thick.",
+    "Heat the milk, cream, nutmeg, cinnamon and salt in a pan until steaming.",
+    "Pour the hot milk into the yolks in a thin stream, whisking all the time, then return everything to the pan.",
+    "Cook over low heat, stirring constantly with a spatula, until the mixture thickens slightly and reaches 71 °C (160 °F) on a thermometer. Do not let it boil or it will curdle.",
+    "Strain into a jug, stir in the vanilla and rum extract (or spirit), cool, then refrigerate at least 3 hours.",
+    "Whisk before serving and grate a little nutmeg over each glass."
+  ],
+  "swaps": [
+    {
+      "from": "whole_milk",
+      "to": "almond_milk"
+    },
+    {
+      "from": "heavy_cream",
+      "to": "coconut_cream"
+    }
+  ],
+  "dairy_free_notes": "With almond milk and coconut cream the eggnog is a little thinner and tastes of coconut; nutmeg and rum carry it well.",
+  "tips": [
+    "Erythritol can crystallise in the cold drink; allulose or a powdered sweetener stays dissolved."
+  ],
+  "origin": {
+    "family": "Eggnog",
+    "place": "Britain and colonial America",
+    "region": "Northern Europe",
+    "lat": 51.51,
+    "lon": -0.13,
+    "era": "1700s",
+    "history": "Eggnog descends from British posset, a medieval drink of hot milk curdled with wine or ale and sometimes thickened with eggs. In the American colonies, where milk, eggs and rum were plentiful, a cold egg-and-milk punch made with rum became a holiday favourite, and the name eggnog was in use by the eighteenth century. The origin of the word nog itself is uncertain."
+  }
+}

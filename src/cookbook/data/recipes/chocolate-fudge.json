@@ -1,0 +1,79 @@
+{
+  "id": "chocolate-fudge",
+  "title": "Chocolate fudge",
+  "category": "candy",
+  "summary": "Soft, dense chocolate fudge made by reducing cream and allulose, then beating in unsweetened chocolate.",
+  "servings": 25,
+  "serving_size": "1 square",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 20,
+    "rest_min": 240
+  },
+  "ingredients": [
+    {
+      "item": "heavy_cream",
+      "cup": 1
+    },
+    {
+      "item": "butter",
+      "tbsp": 4
+    },
+    {
+      "item": "allulose",
+      "cup": 0.67
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "unsweetened_chocolate",
+      "g": 115,
+      "note": "finely chopped"
+    },
+    {
+      "item": "powdered_erythritol",
+      "cup": 0.25
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1.5
+    },
+    {
+      "item": "walnuts",
+      "cup": 0.5,
+      "note": "chopped, optional"
+    }
+  ],
+  "steps": [
+    "Line a 20 cm (8 in) square pan with parchment, leaving an overhang.",
+    "Bring the cream, butter, allulose and salt to the boil in a heavy saucepan, then simmer, stirring often, until reduced by about half and thick enough to coat a spoon, 12–15 minutes. Watch it closely: allulose browns faster than sugar.",
+    "Take off the heat and add the chocolate. Leave 1 minute, then stir until smooth.",
+    "Beat in the powdered erythritol and vanilla with a wooden spoon for a minute or two, until the mixture thickens and loses some of its shine. Stir in the walnuts.",
+    "Spread in the pan, cool, then refrigerate at least 4 hours. Lift out and cut into 25 squares."
+  ],
+  "swaps": [
+    {
+      "from": "heavy_cream",
+      "to": "coconut_cream"
+    },
+    {
+      "from": "butter",
+      "to": "vegan_butter"
+    }
+  ],
+  "dairy_free_notes": "Coconut cream reduces to a slightly softer fudge with a faint coconut flavour; keep it chilled and serve straight from the fridge.",
+  "tips": [
+    "Allulose keeps the fudge soft; this is a creamy refrigerator fudge, not the crumbly crystallised kind."
+  ],
+  "origin": {
+    "family": "Fudge",
+    "place": "Poughkeepsie, New York",
+    "region": "North America",
+    "lat": 41.7,
+    "lon": -73.92,
+    "era": "1880s",
+    "history": "Fudge is an American sweet of the late nineteenth century. One of the earliest accounts links it to students at Vassar College in Poughkeepsie, who made it in the 1880s, and fudge-making soon spread through other women's colleges and seaside resorts. How it got its name is uncertain."
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "id": "magic-bars",
+  "title": "Seven-layer magic bars",
+  "category": "bars",
+  "summary": "Layers of almond crumb, chocolate, coconut and pecans glued together with a homemade sugar-free coconut condensed milk.",
+  "servings": 16,
+  "serving_size": "1 square",
+  "time": {
+    "prep_min": 20,
+    "cook_min": 55,
+    "rest_min": 120
+  },
+  "ingredients": [
+    {
+      "group": "Condensed coconut milk"
+    },
+    {
+      "item": "coconut_milk",
+      "cup": 1
+    },
+    {
+      "item": "allulose",
+      "cup": 0.33
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "group": "Crust"
+    },
+    {
+      "item": "almond_flour",
+      "cup": 1.25
+    },
+    {
+      "item": "cinnamon",
+      "tsp": 0.5
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 2
+    },
+    {
+      "item": "coconut_oil",
+      "cup": 0.25,
+      "note": "melted"
+    },
+    {
+      "group": "Layers"
+    },
+    {
+      "item": "sf_chocolate_chips",
+      "cup": 0.33
+    },
+    {
+      "item": "coconut_shredded",
+      "cup": 0.75
+    },
+    {
+      "item": "pecans",
+      "cup": 0.5,
+      "note": "chopped"
+    },
+    {
+      "item": "walnuts",
+      "cup": 0.25,
+      "note": "chopped"
+    }
+  ],
+  "steps": [
+    "Simmer the coconut milk, allulose and salt in a wide pan, stirring often, for 25–30 minutes, until reduced by about half and thick enough to coat a spoon. Stir in the vanilla and cool a little.",
+    "Heat the oven to 165 °C (325 °F). Line a 20 cm (8 in) square pan with parchment.",
+    "Mix the crust ingredients, press into the pan and bake 10 minutes.",
+    "Scatter the chocolate chips over the crust, then the coconut, then the pecans and walnuts. Pour the condensed coconut milk evenly over everything and press down lightly with a spatula.",
+    "Bake 20–25 minutes, until the coconut on top is golden and the edges bubble.",
+    "Cool completely, then chill 2 hours before cutting into 16 squares."
+  ],
+  "tips": [
+    "The classic version has butterscotch chips as a seventh layer; there's no good sugar-free one, so a second nut stands in.",
+    "Allulose is what keeps the condensed milk soft and sticky; erythritol would crystallise."
+  ],
+  "origin": {
+    "family": "Magic bar",
+    "place": "United States",
+    "region": "North America",
+    "lat": 39.83,
+    "lon": -98.58,
+    "era": "1950s",
+    "history": "Layered bars of graham-cracker crumbs, chocolate, coconut and nuts bound with sweetened condensed milk spread through American kitchens in the 1950s and 1960s, helped by condensed-milk advertising. They go by many names, including magic bars, seven-layer bars and Hello Dollies."
+  }
+}

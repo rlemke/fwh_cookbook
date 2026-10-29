@@ -1,0 +1,81 @@
+{
+  "id": "crema-catalana",
+  "title": "Crema catalana",
+  "category": "custards",
+  "summary": "A stovetop custard infused with lemon zest and cinnamon, chilled in shallow dishes and burnt on top to a thin crackling crust.",
+  "servings": 6,
+  "serving_size": "1 dish",
+  "time": {
+    "prep_min": 20,
+    "cook_min": 15,
+    "rest_min": 240
+  },
+  "ingredients": [
+    {
+      "item": "almond_milk",
+      "cup": 1.5
+    },
+    {
+      "item": "heavy_cream",
+      "cup": 1
+    },
+    {
+      "item": "lemon_zest",
+      "tsp": 2,
+      "note": "pared in strips if you can"
+    },
+    {
+      "item": "cinnamon",
+      "tsp": 0.5
+    },
+    {
+      "item": "egg_yolk",
+      "each": 6
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.33
+    },
+    {
+      "item": "xanthan_gum",
+      "tsp": 0.25
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "group": "Topping"
+    },
+    {
+      "item": "allulose",
+      "tbsp": 3
+    }
+  ],
+  "steps": [
+    "Heat the almond milk, cream, lemon zest and cinnamon until steaming. Cover and leave 15 minutes to infuse, then strain.",
+    "Whisk the yolks, erythritol, xanthan gum and salt in a saucepan until smooth. Gradually whisk in the warm milk.",
+    "Cook over low heat, stirring constantly with a spatula, until the custard thickens and coats the spatula, about 80 °C (176 °F). Do not let it boil.",
+    "Pour into six shallow dishes, cool, then refrigerate at least 4 hours.",
+    "Just before serving, sprinkle each evenly with allulose and burn the top with a torch until amber."
+  ],
+  "swaps": [
+    {
+      "from": "heavy_cream",
+      "to": "coconut_cream"
+    }
+  ],
+  "dairy_free_notes": "Coconut cream sets a little firmer and adds a coconut note that sits alongside the lemon and cinnamon.",
+  "tips": [
+    "Unlike crème brûlée, this custard is cooked on the stove, not baked, and is traditionally flavoured with lemon and cinnamon instead of vanilla."
+  ],
+  "origin": {
+    "family": "Stirred custard",
+    "place": "Catalonia, Spain",
+    "region": "Southern Europe",
+    "lat": 41.39,
+    "lon": 2.17,
+    "era": "medieval (claimed)",
+    "history": "Crema catalana is a stirred custard of Catalonia, flavoured with lemon and cinnamon and caramelised with a hot iron. Catalans claim it as one of Europe's oldest custard desserts and a forerunner of crème brûlée, though its exact age is debated. It is traditionally eaten on St Joseph's Day, 19 March, and is also called crema de Sant Josep."
+  }
+}

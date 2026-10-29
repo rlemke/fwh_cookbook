@@ -1,0 +1,93 @@
+{
+  "id": "lemon-bars",
+  "title": "Lemon bars",
+  "category": "bars",
+  "summary": "A sharp, silky lemon custard baked over a crisp almond shortbread base, dairy-free as written.",
+  "servings": 16,
+  "serving_size": "1 square",
+  "time": {
+    "prep_min": 20,
+    "cook_min": 40,
+    "rest_min": 180
+  },
+  "ingredients": [
+    {
+      "group": "Crust"
+    },
+    {
+      "item": "almond_flour",
+      "cup": 1.5
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 3
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "coconut_oil",
+      "cup": 0.25,
+      "note": "melted"
+    },
+    {
+      "group": "Filling"
+    },
+    {
+      "item": "egg",
+      "each": 4
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.5
+    },
+    {
+      "item": "allulose",
+      "tbsp": 2
+    },
+    {
+      "item": "lemon_juice",
+      "cup": 0.5,
+      "note": "from about 3 lemons"
+    },
+    {
+      "item": "lemon_zest",
+      "tbsp": 1
+    },
+    {
+      "item": "coconut_flour",
+      "tbsp": 2
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "group": "To finish"
+    },
+    {
+      "item": "powdered_erythritol",
+      "tbsp": 1
+    }
+  ],
+  "steps": [
+    "Heat the oven to 175 °C (350 °F). Line a 20 cm (8 in) square pan with parchment, leaving an overhang.",
+    "Mix the crust ingredients, press evenly into the pan and bake 12–15 minutes, until golden. Lower the oven to 160 °C (325 °F).",
+    "Whisk the eggs, erythritol and allulose until smooth. Whisk in the lemon juice, zest, coconut flour and salt, then leave 5 minutes for the coconut flour to hydrate and whisk again.",
+    "Pour over the warm crust and bake 20–25 minutes, until the filling is set at the edges with only a slight wobble in the centre.",
+    "Cool to room temperature, then chill at least 3 hours. Dust with powdered erythritol and cut into 16 squares with a clean, wet knife."
+  ],
+  "tips": [
+    "Strain the filling for the smoothest top; coconut flour can leave a few specks."
+  ],
+  "origin": {
+    "family": "Lemon bar",
+    "place": "United States",
+    "region": "North America",
+    "lat": 39.83,
+    "lon": -98.58,
+    "era": "mid-1900s",
+    "history": "Lemon bars, also called lemon squares, became common in American community cookbooks in the mid-twentieth century. They descend from older English lemon curd and lemon tarts, pressed into a sheet pan with a shortbread base so they could be cut into squares."
+  }
+}

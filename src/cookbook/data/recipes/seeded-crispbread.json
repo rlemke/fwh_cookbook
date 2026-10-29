@@ -1,0 +1,81 @@
+{
+  "id": "seeded-crispbread",
+  "title": "Swedish-style seeded crispbread",
+  "category": "breads",
+  "summary": "Thin, shattering sheets of whole sunflower, pumpkin and sesame seeds, in the spirit of Swedish knäckebröd.",
+  "servings": 10,
+  "serving_size": "1 piece",
+  "time": {
+    "prep_min": 10,
+    "cook_min": 60,
+    "rest_min": 30
+  },
+  "ingredients": [
+    {
+      "item": "sunflower_seeds",
+      "cup": 0.5
+    },
+    {
+      "item": "pumpkin_seeds",
+      "cup": 0.5
+    },
+    {
+      "item": "sesame_seeds",
+      "cup": 0.33
+    },
+    {
+      "item": "flaxseed_meal",
+      "cup": 0.25
+    },
+    {
+      "item": "chia_seeds",
+      "tbsp": 2
+    },
+    {
+      "item": "almond_flour",
+      "cup": 0.25
+    },
+    {
+      "item": "psyllium_husk",
+      "tbsp": 1
+    },
+    {
+      "item": "salt",
+      "tsp": 0.75
+    },
+    {
+      "item": "anise",
+      "tsp": 0.5,
+      "note": "optional, lightly crushed"
+    },
+    {
+      "item": "olive_oil",
+      "tbsp": 2
+    },
+    {
+      "item": "water",
+      "cup": 1,
+      "note": "boiling"
+    }
+  ],
+  "steps": [
+    "Heat the oven to 150 °C (300 °F).",
+    "Mix the seeds, flaxseed meal, almond flour, psyllium, salt and anise. Stir in the olive oil and boiling water and rest 10 minutes until thick.",
+    "Spread thinly and evenly between two sheets of parchment, about 3 mm (⅛ in), to fill a large baking sheet. Remove the top sheet.",
+    "Bake 20 minutes, then cut into 10 pieces with a pizza cutter and bake 35–40 minutes more, until dry, crisp and lightly golden.",
+    "Leave in the turned-off oven 30 minutes, then cool on a rack. Store airtight."
+  ],
+  "swaps": [],
+  "tips": [
+    "Traditional knäckebröd is often flavoured with caraway or fennel seed if you have them."
+  ],
+  "origin": {
+    "family": "Knäckebröd",
+    "place": "Sweden",
+    "region": "Northern Europe",
+    "lat": 60.13,
+    "lon": 18.64,
+    "era": "by the 1800s",
+    "history": "Knäckebröd, Swedish crispbread, has been baked in Sweden for centuries, traditionally from rye. It was made in large rounds with a hole in the middle so it could be threaded on poles under the ceiling and kept dry for months. This grain-free version keeps the thin, crackling texture but builds it from seeds."
+  }
+}

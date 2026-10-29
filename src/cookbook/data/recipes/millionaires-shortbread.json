@@ -1,0 +1,106 @@
+{
+  "id": "millionaires-shortbread",
+  "title": "Millionaire's shortbread",
+  "category": "bars",
+  "summary": "Almond shortbread, a soft allulose caramel and a snap of dark chocolate, stacked and cut into small squares.",
+  "servings": 16,
+  "serving_size": "1 square",
+  "time": {
+    "prep_min": 30,
+    "cook_min": 35,
+    "rest_min": 150
+  },
+  "ingredients": [
+    {
+      "group": "Shortbread"
+    },
+    {
+      "item": "almond_flour",
+      "cup": 1.5
+    },
+    {
+      "item": "coconut_flour",
+      "tbsp": 1
+    },
+    {
+      "item": "powdered_erythritol",
+      "cup": 0.25
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "butter",
+      "cup": 0.25,
+      "note": "melted"
+    },
+    {
+      "group": "Caramel"
+    },
+    {
+      "item": "butter",
+      "cup": 0.25
+    },
+    {
+      "item": "allulose",
+      "cup": 0.33
+    },
+    {
+      "item": "heavy_cream",
+      "cup": 0.33
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    },
+    {
+      "group": "Chocolate"
+    },
+    {
+      "item": "dark_chocolate_85",
+      "g": 100,
+      "note": "chopped"
+    },
+    {
+      "item": "coconut_oil",
+      "tsp": 2
+    }
+  ],
+  "steps": [
+    "Heat the oven to 165 °C (325 °F). Line a 20 cm (8 in) square pan with parchment, leaving an overhang.",
+    "Mix the shortbread ingredients, press firmly into the pan and bake 15–18 minutes, until golden. Cool completely.",
+    "For the caramel, melt the butter with the allulose in a heavy pan and simmer, stirring, until it turns amber, 4–6 minutes. Pour in the cream carefully (it bubbles) and simmer 5–8 minutes more, stirring, until thick enough to coat a spoon. Stir in the vanilla and salt.",
+    "Pour the caramel over the cooled shortbread and chill 1 hour, until firm.",
+    "Melt the chocolate with the coconut oil, spread over the caramel and chill 1 hour more.",
+    "Let stand 10 minutes, then cut into 16 squares with a hot knife."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter",
+      "note": "use a firm stick-style one"
+    },
+    {
+      "from": "heavy_cream",
+      "to": "coconut_cream"
+    }
+  ],
+  "dairy_free_notes": "The coconut-cream caramel is softer and tastes faintly of coconut; simmer it a few minutes longer and keep the bars in the fridge.",
+  "tips": [
+    "Allulose caramel stays soft and chewy; erythritol would set gritty and hard."
+  ],
+  "origin": {
+    "family": "Shortbread",
+    "place": "Scotland",
+    "region": "Northern Europe",
+    "lat": 55.86,
+    "lon": -4.25,
+    "era": "1900s",
+    "history": "Caramel shortbread, a layer of caramel and chocolate on a shortbread base, is closely associated with Scotland, though when and where it was first made is not documented. The name millionaire's shortbread, a nod to its richness, became common in Britain in the later twentieth century."
+  }
+}

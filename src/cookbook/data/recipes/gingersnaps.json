@@ -1,0 +1,94 @@
+{
+  "id": "gingersnaps",
+  "title": "Gingersnaps",
+  "category": "cookies",
+  "summary": "Crisp, deeply spiced ginger cookies with crackled tops, made dairy-free with coconut oil.",
+  "servings": 24,
+  "serving_size": "1 cookie",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 14,
+    "rest_min": 30
+  },
+  "ingredients": [
+    {
+      "item": "coconut_oil",
+      "cup": 0.33,
+      "note": "softened, not melted"
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.5
+    },
+    {
+      "item": "allulose",
+      "tbsp": 2,
+      "note": "for colour and snap"
+    },
+    {
+      "item": "egg",
+      "each": 1
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "almond_flour",
+      "cup": 2
+    },
+    {
+      "item": "coconut_flour",
+      "tbsp": 2
+    },
+    {
+      "item": "ginger_ground",
+      "tsp": 2
+    },
+    {
+      "item": "cinnamon",
+      "tsp": 1
+    },
+    {
+      "item": "cloves",
+      "tsp": 0.25
+    },
+    {
+      "item": "black_pepper",
+      "tsp": 0.125
+    },
+    {
+      "item": "baking_soda",
+      "tsp": 0.75
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 2,
+      "note": "for rolling"
+    }
+  ],
+  "steps": [
+    "Beat the coconut oil, erythritol and allulose together, then beat in the egg and vanilla.",
+    "Whisk the almond flour, coconut flour, spices, baking soda and salt, and stir into the wet mixture. Chill 30 minutes.",
+    "Heat the oven to 165 °C (325 °F) and line two baking sheets with parchment.",
+    "Roll into 24 small balls, roll in erythritol and set 5 cm (2 in) apart. Flatten each to about 6 mm (¼ in).",
+    "Bake 12–14 minutes, until browned at the edges. Cool on the sheet; they snap once completely cool."
+  ],
+  "tips": [
+    "For extra crispness, return the cooled cookies to a 120 °C (250 °F) oven for 10 minutes.",
+    "Traditional gingersnaps use molasses; a drop of blackstrap is optional but adds sugar."
+  ],
+  "origin": {
+    "family": "Gingerbread",
+    "place": "England",
+    "region": "Northern Europe",
+    "lat": 51.51,
+    "lon": -0.13,
+    "era": "by the 1800s",
+    "history": "Ginger-spiced breads and biscuits have been baked in Europe since the Middle Ages. Crisp ginger biscuits were popular in Britain, where they are often called ginger nuts, and travelled to North America, where the name gingersnap was in common use by the nineteenth century."
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "raspberry-sorbet",
+  "title": "Raspberry sorbet",
+  "category": "frozen",
+  "summary": "Bright, seedless raspberry sorbet with a little lemon; nothing in it but fruit, water and sweetener.",
+  "servings": 6,
+  "serving_size": "1/2 cup",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 5,
+    "rest_min": 360
+  },
+  "ingredients": [
+    {
+      "item": "raspberries",
+      "g": 450,
+      "note": "fresh or frozen"
+    },
+    {
+      "item": "water",
+      "cup": 0.75
+    },
+    {
+      "item": "allulose",
+      "cup": 0.5
+    },
+    {
+      "item": "lemon_juice",
+      "tbsp": 1
+    },
+    {
+      "item": "salt",
+      "tsp": 0.0625
+    }
+  ],
+  "steps": [
+    "Warm the water and allulose until dissolved, then cool.",
+    "Blend the raspberries with the syrup, lemon juice and salt until smooth.",
+    "Press through a fine sieve with the back of a spoon to remove the seeds.",
+    "Refrigerate until very cold, about 2 hours, then churn in an ice-cream maker. Freeze 3–4 hours before serving."
+  ],
+  "tips": [
+    "With no machine, freeze in a shallow dish and blend the frozen chunks in a food processor until smooth, then refreeze briefly."
+  ],
+  "origin": {
+    "family": "Sorbet",
+    "place": "Naples",
+    "region": "Southern Europe",
+    "lat": 40.85,
+    "lon": 14.27,
+    "era": "1600s",
+    "history": "The word sorbet comes, through Italian sorbetto, from the Turkish şerbet and Arabic sharbat, sweet cooling drinks of the Islamic world. Frozen versions made with ice and salt were developed in Italy in the seventeenth century and quickly taken up in France, where fruit sorbets became a fixture of fine dining."
+  }
+}

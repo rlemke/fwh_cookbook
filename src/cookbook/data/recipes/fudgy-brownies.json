@@ -1,0 +1,95 @@
+{
+  "id": "fudgy-brownies",
+  "title": "Fudgy brownies",
+  "category": "bars",
+  "summary": "Dense, crackle-topped chocolate brownies built on unsweetened chocolate and just enough almond flour to hold them together.",
+  "servings": 16,
+  "serving_size": "1 square",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 25,
+    "rest_min": 60
+  },
+  "ingredients": [
+    {
+      "item": "butter",
+      "cup": 0.5
+    },
+    {
+      "item": "unsweetened_chocolate",
+      "g": 85,
+      "note": "chopped"
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.5
+    },
+    {
+      "item": "allulose",
+      "cup": 0.25,
+      "note": "keeps the centre fudgy"
+    },
+    {
+      "item": "egg",
+      "each": 3,
+      "note": "at room temperature"
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "almond_flour",
+      "cup": 0.5
+    },
+    {
+      "item": "cocoa_powder",
+      "cup": 0.25
+    },
+    {
+      "item": "espresso_powder",
+      "tsp": 1
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    },
+    {
+      "item": "baking_powder",
+      "tsp": 0.25
+    },
+    {
+      "item": "sf_chocolate_chips",
+      "cup": 0.25,
+      "note": "optional"
+    }
+  ],
+  "steps": [
+    "Heat the oven to 165 °C (325 °F). Line a 20 cm (8 in) square pan with parchment, leaving an overhang.",
+    "Melt the butter and chocolate together over low heat, stirring until smooth. Cool slightly.",
+    "Whisk the erythritol, allulose and eggs hard for 2 minutes, until pale; this makes the shiny, crackled top. Whisk in the chocolate mixture and vanilla.",
+    "Fold in the almond flour, cocoa, espresso powder, salt and baking powder, then the chocolate chips.",
+    "Spread in the pan and bake 22–26 minutes, until the edges are set and a skewer in the centre comes out with moist crumbs.",
+    "Cool completely in the pan, then chill 1 hour before cutting into 16 squares."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "coconut_oil",
+      "ratio": 0.85
+    }
+  ],
+  "dairy_free_notes": "Coconut oil makes a firmer, more truffle-like brownie when chilled; serve at room temperature for the fudgiest texture.",
+  "tips": [
+    "Cut with a hot, dry knife, wiping between cuts."
+  ],
+  "origin": {
+    "family": "Brownie",
+    "place": "Chicago",
+    "region": "North America",
+    "lat": 41.88,
+    "lon": -87.63,
+    "era": "1890s",
+    "history": "The brownie is often credited to the kitchen of Chicago's Palmer House hotel, which is said to have created a chocolate-nut bar for the 1893 World's Columbian Exposition, though that account is hard to document. Recipes called brownies appear in American cookbooks by the early 1900s and became fudgier and richer in chocolate over the following decades."
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "bavarian-cream",
+  "title": "Bavarian cream (bavarois)",
+  "category": "mousses",
+  "summary": "A vanilla custard set with gelatin and lightened with whipped cream, turned out of a mould and served cold.",
+  "servings": 8,
+  "serving_size": "1 slice or small mould",
+  "time": {
+    "prep_min": 30,
+    "cook_min": 10,
+    "rest_min": 360
+  },
+  "ingredients": [
+    {
+      "item": "water",
+      "tbsp": 3,
+      "note": "cold"
+    },
+    {
+      "item": "gelatin",
+      "tbsp": 1
+    },
+    {
+      "item": "whole_milk",
+      "cup": 1
+    },
+    {
+      "item": "vanilla",
+      "tsp": 2
+    },
+    {
+      "item": "egg_yolk",
+      "each": 4
+    },
+    {
+      "item": "allulose",
+      "cup": 0.5
+    },
+    {
+      "item": "salt",
+      "tsp": 0.0625
+    },
+    {
+      "item": "heavy_cream",
+      "cup": 1.25,
+      "note": "cold"
+    }
+  ],
+  "steps": [
+    "Pour the cold water into a small bowl, sprinkle the gelatin over it and leave it to swell for 5 minutes. Lightly oil a 1-litre (1 quart) mould or eight small ramekins.",
+    "Heat the milk until steaming. Whisk the yolks, allulose and salt in a bowl, then slowly whisk in the hot milk.",
+    "Return to the pan and cook over low heat, stirring constantly, until the custard coats the back of a spoon and reads 80 °C (176 °F). Do not let it boil.",
+    "Take it off the heat, stir in the softened gelatin until dissolved, then the vanilla. Strain into a bowl.",
+    "Set the bowl in a larger bowl of iced water and stir now and then until the custard is cool and just beginning to thicken, like raw egg white.",
+    "Whip the cream to soft peaks and fold it into the thickening custard. Pour into the mould and refrigerate at least 6 hours.",
+    "To unmould, dip the mould in hot water for 5–10 seconds, run a knife round the edge and turn out onto a plate."
+  ],
+  "swaps": [
+    {
+      "from": "whole_milk",
+      "to": "almond_milk"
+    },
+    {
+      "from": "heavy_cream",
+      "to": "coconut_cream",
+      "note": "chill the can overnight and whip only the solid part"
+    }
+  ],
+  "dairy_free_notes": "With almond milk and coconut cream the set is just as firm, since the gelatin does the work, but the flavour leans towards coconut and the texture is slightly denser.",
+  "tips": [
+    "Fold in the cream at the moment the custard starts to set: too early and it separates into layers, too late and it sets in lumps.",
+    "Serve with a few raspberries crushed with a pinch of sweetener."
+  ],
+  "origin": {
+    "family": "Bavarian cream",
+    "place": "Paris",
+    "region": "Western Europe",
+    "lat": 48.86,
+    "lon": 2.35,
+    "era": "early 1800s",
+    "history": "Despite the name, the bavarois belongs to French classical cookery, and how it came to be named after Bavaria is not known. Versions appear in French cookbooks by the early nineteenth century, and the great Parisian chefs of that period, Antonin Carême among them, made it a standard of the cold dessert repertoire."
+  }
+}

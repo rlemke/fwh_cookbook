@@ -1,0 +1,56 @@
+{% extends "base.html" %}
+{% block title %}Method &amp; guides — {{ title }}{% endblock %}
+{% block body %}
+<h1>Method &amp; guides</h1>
+<p class="lede">How the numbers are worked out, how to choose a sweetener, how the dairy-free versions work, and what this book cannot promise.</p>
+
+<h2>What has and has not been checked</h2>
+<p>The recipes follow established low-carb ratios: almond flour does not absorb like wheat flour, coconut flour absorbs about four times as much liquid, and eggs, psyllium, xanthan or gelatin supply the structure that gluten and sugar would. <strong>None has been made in a test kitchen.</strong> Expect to adjust baking times to your oven and the texture of the dairy-free versions to the brands you buy. What <em>has</em> been checked by the build itself: every ingredient is a known food with known nutrition, every amount converts to grams, every dairy ingredient has a dairy-free swap, and every dessert's carbs are computed rather than claimed.</p>
+
+<h2 id="nutrition">How the nutrition is computed</h2>
+<p>Each ingredient is matched to one food in the <a href="https://fdc.nal.usda.gov/">USDA FoodData Central</a> <em>SR Legacy</em> release (public domain), read straight from USDA's download at build time. Cups and spoons are converted to grams with each ingredient's own weight: a cup of almond flour weighs about 96 g, a cup of cream cheese about 232 g. The recipe's total is divided by its servings.</p>
+<p><strong>Net carbs</strong> = total carbohydrate − fibre − sugar alcohols and allulose. That is the usual low-carb convention, not a regulatory one, so every recipe also shows the sugar-alcohol grams separately; if you count them, add them back. Low-carb sweeteners, coconut flour, psyllium and the dairy-free products are not in SR Legacy, so they use typical US label values, which vary by brand; each recipe lists which of its ingredients those are.</p>
+<p>The figures are computed, but they are not lab measurements. Expect differences of 10–20% from brand to brand, and more for fruit.</p>
+
+<h2 id="sweeteners">Choosing a sweetener</h2>
+<div class="scroll"><table>
+<thead><tr><th>Sweetener</th><th>Sweetness vs sugar</th><th>Good for</th><th>Watch out for</th></tr></thead>
+<tbody>
+<tr><td>Erythritol</td><td>about 70%</td><td>baking, cookies, cakes; the default in this book</td><td>a cooling aftertaste, and it recrystallises when cold (gritty cheesecake, crunchy ice cream). A 2023 observational study linked high blood erythritol to cardiovascular events; it does not show cause, but if that worries you use allulose.</td></tr>
+<tr><td>Allulose</td><td>about 70%</td><td>ice cream, caramel, sauces, anything that should stay soft</td><td>it browns faster than sugar, so bake 10–15 °C lower or tent with foil. Large amounts can upset digestion.</td></tr>
+<tr><td>Monk fruit blend (1:1)</td><td>about 100% (usually erythritol plus monk fruit extract)</td><td>swapping cup for cup with erythritol</td><td>it behaves like erythritol, because it mostly is.</td></tr>
+<tr><td>Liquid stevia</td><td>hundreds of times</td><td>drinks, puddings, topping up sweetness</td><td>bitter if overdone; it adds no bulk, so it cannot replace sugar in a cake on its own.</td></tr>
+<tr><td>Maltitol (avoid)</td><td>about 90%</td><td>—</td><td>it raises blood glucose far more than the others and is not used anywhere in this book.</td></tr>
+</tbody></table></div>
+<p>Powdered (confectioners') erythritol dissolves better in frostings and no-bake fillings; grind granulated erythritol in a blender if you have none.</p>
+
+<h2 id="dairy-free">How the dairy-free versions work</h2>
+<p>{{ stats.dairy_free }} recipes contain no dairy at all. The other {{ stats.dairy_option }} list a swap for every dairy ingredient, and their dairy-free nutrition is computed from the swapped ingredients, not assumed to be the same. The swaps used across the book:</p>
+<div class="scroll"><table>
+<thead><tr><th>Instead of</th><th>Use</th><th class="num">Recipes</th></tr></thead>
+<tbody>{% for s in swap_rows %}<tr><td>{{ s.from }}</td><td>{{ s.to }}</td><td class="num">{{ s.uses }}</td></tr>{% endfor %}</tbody>
+</table></div>
+<p>Dairy-free is not the same as vegan: many recipes use eggs. Check chocolate labels, because some dark and sugar-free chocolate contains milk. Dairy-free cream cheeses are usually made from cashews or almonds, so the dairy-free version of a recipe can contain nuts when the original did not; each recipe lists what both versions contain.</p>
+
+<h2 id="origins">How dishes are placed on the map</h2>
+<p>Each recipe is pinned to where its <em>kind</em> of dish took shape — a city where one is documented, otherwise a region — with the period it dates from. Food history is full of competing claims: where a dish is disputed (pavlova, tiramisu, brownies, crème brûlée), the recipe page says so rather than picking a winner. Low-carb inventions such as fat bombs and cloud bread are placed where they first appeared and are marked as modern.</p>
+
+<h2 id="ingredients">Every ingredient and its source</h2>
+<p class="small">Per 100 g. “FDC” is the food's FoodData Central ID and its exact USDA name, searchable at <a href="https://fdc.nal.usda.gov/">fdc.nal.usda.gov</a>; “label” means typical US product-label values.</p>
+<div class="scroll"><table>
+<thead><tr><th>Ingredient</th><th>Source</th><th class="num">kcal</th><th class="num">Fat</th><th class="num">Protein</th><th class="num">Carbs</th><th class="num">Fibre</th><th class="num">Polyol</th><th class="num">Net</th><th class="num">Recipes</th></tr></thead>
+<tbody>
+{% for i in ingredients %}
+<tr><td>{{ i.name }}</td>
+<td>{% if i.source.startswith('usda:') %}FDC {{ i.source[5:] }}<br><span class="small">{{ i.usda }}</span>{% else %}label{% endif %}</td>
+<td class="num">{{ i.per100.kcal }}</td><td class="num">{{ i.per100.fat_g }}</td><td class="num">{{ i.per100.protein_g }}</td><td class="num">{{ i.per100.carbs_g }}</td><td class="num">{{ i.per100.fiber_g }}</td><td class="num">{{ i.per100.polyol_g }}</td><td class="num">{{ i.per100.net_carbs_g }}</td><td class="num">{{ i.uses }}</td></tr>
+{% endfor %}
+</tbody></table></div>
+
+<h2>Sources and licence</h2>
+<ul>
+<li>U.S. Department of Agriculture, Agricultural Research Service. <em>FoodData Central: SR Legacy</em>, April 2018. Public domain.</li>
+<li>Map tiles © OpenStreetMap contributors (ODbL). Map library: Leaflet.</li>
+<li>Recipes and histories written for this book. The book is built and published by <a href="https://github.com/rlemke/fwh_cookbook">fwh_cookbook</a>, a Facetwork domain.</li>
+</ul>
+{% endblock %}

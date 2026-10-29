@@ -1,0 +1,70 @@
+{
+  "id": "creme-brulee",
+  "title": "Crème brûlée",
+  "category": "custards",
+  "summary": "A rich vanilla cream custard baked gently in a water bath and finished with a thin, crackly layer of torched allulose.",
+  "servings": 6,
+  "serving_size": "1 ramekin",
+  "time": {
+    "prep_min": 20,
+    "cook_min": 40,
+    "rest_min": 240
+  },
+  "ingredients": [
+    {
+      "item": "heavy_cream",
+      "cup": 2
+    },
+    {
+      "item": "vanilla",
+      "tsp": 2
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "egg_yolk",
+      "each": 5
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.33
+    },
+    {
+      "group": "Topping"
+    },
+    {
+      "item": "allulose",
+      "tbsp": 3
+    }
+  ],
+  "steps": [
+    "Heat the oven to 150 °C (300 °F). Set six 120 ml (4 oz) ramekins in a roasting tin.",
+    "Heat the cream with the vanilla and salt until steaming, but not boiling.",
+    "Whisk the yolks and erythritol until smooth. Pour in the hot cream in a thin stream, whisking gently so you do not beat in air. Strain into a jug.",
+    "Divide among the ramekins. Pour hot water into the tin to come halfway up the ramekins.",
+    "Bake 30–40 minutes, until the edges are set and the centres wobble like jelly. Lift out of the water, cool, then refrigerate at least 4 hours.",
+    "Just before serving, blot any moisture off the tops, sprinkle each evenly with allulose and torch until amber. Let it harden for a minute."
+  ],
+  "swaps": [
+    {
+      "from": "heavy_cream",
+      "to": "coconut_cream"
+    }
+  ],
+  "dairy_free_notes": "Coconut cream sets a little softer and tastes of coconut; add a pinch more salt and an extra yolk if you want a firmer set.",
+  "tips": [
+    "Allulose caramelises fast and burns fast; keep the torch moving and stop at amber.",
+    "Erythritol will not melt into a proper crust, which is why the topping uses allulose."
+  ],
+  "origin": {
+    "family": "Baked custard",
+    "place": "France (disputed with England)",
+    "region": "Western Europe",
+    "lat": 48.86,
+    "lon": 2.35,
+    "era": "1600s",
+    "history": "Where crème brûlée began is disputed. A burnt-cream recipe under the French name appears in a cookbook by the French chef François Massialot at the end of the 1600s, while England claims a 'burnt cream' long associated with Trinity College, Cambridge, and Catalonia has its own crema catalana. The dessert became a restaurant standard worldwide in the 1980s."
+  }
+}

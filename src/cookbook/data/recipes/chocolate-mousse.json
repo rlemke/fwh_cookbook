@@ -1,0 +1,81 @@
+{
+  "id": "chocolate-mousse",
+  "title": "Chocolate mousse",
+  "category": "mousses",
+  "summary": "The bistro mousse made the old way: melted chocolate, egg yolks and beaten whites, nothing else to hide behind.",
+  "servings": 6,
+  "serving_size": "1 small glass (about 1/2 cup)",
+  "time": {
+    "prep_min": 25,
+    "cook_min": 5,
+    "rest_min": 240
+  },
+  "ingredients": [
+    {
+      "item": "unsweetened_chocolate",
+      "g": 115,
+      "note": "chopped"
+    },
+    {
+      "item": "coconut_oil",
+      "tbsp": 2
+    },
+    {
+      "item": "coffee",
+      "tbsp": 3,
+      "note": "hot"
+    },
+    {
+      "item": "powdered_erythritol",
+      "cup": 0.5
+    },
+    {
+      "item": "egg_yolk",
+      "each": 4,
+      "note": "at room temperature"
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "egg_white",
+      "each": 4,
+      "note": "at room temperature"
+    },
+    {
+      "item": "cream_of_tartar",
+      "tsp": 0.25
+    },
+    {
+      "item": "stevia_drops",
+      "drop": 10,
+      "note": "optional, to taste"
+    }
+  ],
+  "steps": [
+    "Melt the chocolate and coconut oil together in a heatproof bowl set over barely simmering water, stirring until smooth. Take the bowl off the heat.",
+    "Whisk in the hot coffee and all but 2 tbsp of the powdered erythritol. The mixture will tighten, then loosen again as you keep whisking.",
+    "Let it cool for 5 minutes, then whisk in the yolks one at a time, followed by the vanilla, salt and stevia. Taste: unsweetened chocolate needs the sweetener adjusted to your liking now, before the whites go in.",
+    "In a clean bowl, whip the whites with the cream of tartar to soft peaks, then add the remaining 2 tbsp erythritol and whip to firm, glossy peaks.",
+    "Stir a quarter of the whites into the chocolate to lighten it, then fold in the rest in two additions with a large spatula, stopping as soon as no white streaks remain.",
+    "Spoon into six small glasses and refrigerate at least 4 hours, until set."
+  ],
+  "tips": [
+    "The eggs are not cooked; use very fresh eggs, or pasteurised eggs if serving anyone vulnerable.",
+    "The chocolate must be warm but not hot when the yolks go in, or they will scramble; just warm to the lip is right."
+  ],
+  "origin": {
+    "family": "Chocolate mousse",
+    "place": "Paris",
+    "region": "Western Europe",
+    "lat": 48.86,
+    "lon": 2.35,
+    "era": "1700s",
+    "history": "French cookery books of the 1700s already describe light, whipped chocolate preparations under the name mousse. The plain version of chocolate folded with beaten eggs became a fixture of French home and bistro cooking in the twentieth century, and from there spread worldwide."
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "id": "sachertorte",
+  "title": "Sachertorte",
+  "category": "cakes",
+  "summary": "A dense, dark almond-and-chocolate cake split and spread with a thin layer of fruit jam, then sealed under a glossy chocolate glaze.",
+  "servings": 12,
+  "serving_size": "1 slice",
+  "time": {
+    "prep_min": 40,
+    "cook_min": 45,
+    "rest_min": 120
+  },
+  "ingredients": [
+    {
+      "group": "Cake"
+    },
+    {
+      "item": "unsweetened_chocolate",
+      "g": 115,
+      "note": "chopped"
+    },
+    {
+      "item": "butter",
+      "cup": 0.5,
+      "note": "softened"
+    },
+    {
+      "item": "powdered_erythritol",
+      "cup": 0.5
+    },
+    {
+      "item": "egg_yolk",
+      "each": 6
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "egg_white",
+      "each": 6
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.25
+    },
+    {
+      "item": "almond_flour",
+      "cup": 1.25
+    },
+    {
+      "item": "cocoa_powder",
+      "tbsp": 2
+    },
+    {
+      "item": "baking_powder",
+      "tsp": 1
+    },
+    {
+      "group": "Jam"
+    },
+    {
+      "item": "peach",
+      "g": 150,
+      "note": "peeled and finely chopped; stands in for the traditional apricot"
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 2
+    },
+    {
+      "item": "lemon_juice",
+      "tsp": 2
+    },
+    {
+      "item": "chia_seeds",
+      "tbsp": 1
+    },
+    {
+      "group": "Glaze"
+    },
+    {
+      "item": "unsweetened_chocolate",
+      "g": 85,
+      "note": "finely chopped"
+    },
+    {
+      "item": "heavy_cream",
+      "cup": 0.5
+    },
+    {
+      "item": "powdered_erythritol",
+      "cup": 0.33
+    },
+    {
+      "item": "coconut_oil",
+      "tsp": 1
+    }
+  ],
+  "steps": [
+    "Heat the oven to 170 °C (340 °F). Grease a 23 cm (9 in) springform pan and line the base with parchment.",
+    "Melt the chocolate gently over barely simmering water and let it cool until just warm.",
+    "Beat the butter and powdered erythritol until pale, then beat in the yolks one at a time, followed by the vanilla and the melted chocolate.",
+    "In a clean bowl whisk the egg whites with the salt to soft peaks, then add the granulated erythritol a spoonful at a time and whisk to firm, glossy peaks.",
+    "Whisk the almond flour, cocoa and baking powder together. Fold a third of the whites into the chocolate mixture to loosen it, then fold in the dry mix and the rest of the whites in two additions, keeping as much air as you can.",
+    "Spread into the pan and bake 40–45 minutes, until a skewer comes out with a few moist crumbs. Cool in the pan for 15 minutes, then turn out onto a rack and cool completely.",
+    "For the jam, simmer the peach, erythritol and lemon juice for 8–10 minutes, mashing as it softens. Stir in the chia seeds and let it thicken for 10 minutes off the heat.",
+    "Split the cake horizontally into two layers. Spread the jam on the bottom layer, replace the top, and brush any remaining jam thinly over the top and sides.",
+    "For the glaze, heat the cream until steaming, pour it over the chocolate, wait 2 minutes, then stir in the powdered erythritol and coconut oil until smooth.",
+    "Let the glaze cool until it coats a spoon thickly, then pour it over the centre of the cake and use a palette knife to push it over the edges in one or two strokes. Leave at room temperature for 2 hours to set before slicing."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter"
+    },
+    {
+      "from": "heavy_cream",
+      "to": "coconut_cream"
+    }
+  ],
+  "dairy_free_notes": "With dairy-free butter and coconut cream the cake is indistinguishable, but the glaze sets a little softer and tastes faintly of coconut; chill it 20 minutes if the kitchen is warm.",
+  "tips": [
+    "A thin jam layer is the point: too much makes the layers slide.",
+    "Serve with unsweetened whipped cream, as is done in Vienna, to offset the richness."
+  ],
+  "origin": {
+    "family": "Chocolate torte",
+    "place": "Vienna",
+    "region": "Western Europe",
+    "lat": 48.21,
+    "lon": 16.37,
+    "era": "1832",
+    "history": "The cake is generally dated to 1832, when the young apprentice Franz Sacher is said to have made a dessert for the household of the Austrian statesman Metternich. His son Eduard later refined it, and it became the signature of the Hotel Sacher in Vienna. A long court dispute in the twentieth century between the hotel and the Demel bakery over who could call theirs the original ended with the hotel keeping the name 'Original Sacher-Torte'."
+  }
+}

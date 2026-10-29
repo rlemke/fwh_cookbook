@@ -1,0 +1,76 @@
+{
+  "id": "spinach-frittata",
+  "title": "Spinach and zucchini frittata",
+  "category": "breakfast",
+  "summary": "A thick Italian-style omelette, started on the stove and finished in the oven, packed with greens and basil.",
+  "servings": 6,
+  "serving_size": "1 wedge",
+  "time": {
+    "prep_min": 10,
+    "cook_min": 25,
+    "rest_min": 5
+  },
+  "ingredients": [
+    {
+      "item": "olive_oil",
+      "tbsp": 2
+    },
+    {
+      "item": "onion",
+      "each": 0.5,
+      "note": "thinly sliced"
+    },
+    {
+      "item": "zucchini",
+      "each": 1,
+      "note": "thinly sliced"
+    },
+    {
+      "item": "garlic",
+      "each": 1,
+      "note": "minced"
+    },
+    {
+      "item": "spinach",
+      "g": 150
+    },
+    {
+      "item": "egg",
+      "each": 8
+    },
+    {
+      "item": "salt",
+      "tsp": 0.75
+    },
+    {
+      "item": "black_pepper",
+      "tsp": 0.25
+    },
+    {
+      "item": "basil",
+      "cup": 0.25,
+      "note": "torn"
+    }
+  ],
+  "steps": [
+    "Heat the oven to 190 °C (375 °F).",
+    "Heat the olive oil in a 25 cm (10 in) ovenproof non-stick skillet over medium heat. Cook the onion and zucchini 6–8 minutes until soft and lightly coloured.",
+    "Add the garlic and spinach and cook until the spinach wilts and the pan is fairly dry.",
+    "Beat the eggs with the salt, pepper and basil. Pour into the pan and stir gently once to spread the vegetables.",
+    "Cook over medium-low heat without stirring for 4–5 minutes, until the edge is set.",
+    "Move to the oven and bake 10–12 minutes, until the centre is just set. Rest 5 minutes, then loosen and cut into wedges."
+  ],
+  "swaps": [],
+  "tips": [
+    "Good at room temperature, which is how it is often eaten in Italy."
+  ],
+  "origin": {
+    "family": "Frittata",
+    "place": "Rome",
+    "region": "Southern Europe",
+    "lat": 41.9,
+    "lon": 12.5,
+    "era": "by the 1800s",
+    "history": "Frittata is the Italian word for a flat egg dish fried in a pan, cooked through rather than folded like a French omelette, and often filled with whatever vegetables are in season. It appears in Italian household cookbooks of the 1800s and was eaten long before."
+  }
+}

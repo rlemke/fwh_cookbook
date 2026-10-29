@@ -1,0 +1,60 @@
+{
+  "id": "haupia",
+  "title": "Haupia",
+  "category": "custards",
+  "summary": "Firm squares of lightly sweet coconut pudding, set with agar instead of starch; dairy-free as written.",
+  "servings": 12,
+  "serving_size": "1 square",
+  "time": {
+    "prep_min": 10,
+    "cook_min": 10,
+    "rest_min": 180
+  },
+  "ingredients": [
+    {
+      "item": "coconut_milk",
+      "cup": 2.5
+    },
+    {
+      "item": "water",
+      "cup": 0.5
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.33
+    },
+    {
+      "item": "agar",
+      "tsp": 1.5
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "vanilla",
+      "tsp": 0.5
+    }
+  ],
+  "steps": [
+    "Lightly oil a 20 cm (8 in) square pan.",
+    "Whisk the agar into the cold water in a saucepan until there are no lumps. Whisk in the coconut milk, erythritol and salt.",
+    "Bring to a boil over medium heat, whisking, and simmer 2 minutes so the agar fully dissolves.",
+    "Off the heat, stir in the vanilla and pour into the pan.",
+    "Cool to room temperature; it sets as it cools. Refrigerate at least 2 hours, then cut into 12 squares."
+  ],
+  "swaps": [],
+  "tips": [
+    "Agar must boil to work; simply warming it leaves the pudding liquid.",
+    "For a softer, spoonable version reduce the agar to 1 teaspoon."
+  ],
+  "origin": {
+    "family": "Coconut pudding",
+    "place": "Hawaii",
+    "region": "Oceania",
+    "lat": 21.31,
+    "lon": -157.86,
+    "era": "traditional (pre-1800s)",
+    "history": "Haupia is a traditional Hawaiian dessert of coconut cream thickened with pia, the starch of Polynesian arrowroot. As pia became scarce in the 1900s, cooks switched to cornstarch, which is how most haupia is made today. It is a fixture of the lūʻau table and is often served alongside kūlolo, a taro pudding."
+  }
+}

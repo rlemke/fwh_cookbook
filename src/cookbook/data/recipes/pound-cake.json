@@ -1,0 +1,88 @@
+{
+  "id": "pound-cake",
+  "title": "Pound cake",
+  "category": "cakes",
+  "summary": "A plain, close-textured butter loaf built on the old equal-weights idea, with almond flour carrying the structure.",
+  "servings": 12,
+  "serving_size": "1 slice",
+  "time": {
+    "prep_min": 20,
+    "cook_min": 60,
+    "rest_min": 30
+  },
+  "ingredients": [
+    {
+      "item": "butter",
+      "g": 225,
+      "note": "softened"
+    },
+    {
+      "item": "erythritol",
+      "g": 200
+    },
+    {
+      "item": "egg",
+      "each": 4,
+      "note": "at room temperature"
+    },
+    {
+      "item": "vanilla",
+      "tsp": 2
+    },
+    {
+      "item": "lemon_zest",
+      "tsp": 1
+    },
+    {
+      "item": "almond_flour",
+      "g": 225
+    },
+    {
+      "item": "coconut_flour",
+      "g": 20
+    },
+    {
+      "item": "baking_powder",
+      "tsp": 1.5
+    },
+    {
+      "item": "salt",
+      "tsp": 0.5
+    },
+    {
+      "item": "sour_cream",
+      "cup": 0.25
+    }
+  ],
+  "steps": [
+    "Heat the oven to 165 °C (325 °F). Grease a 23 × 13 cm (9 × 5 in) loaf pan and line it with a parchment sling.",
+    "Beat the butter and erythritol for 4–5 minutes, until very pale and fluffy; this creaming is what lifts the cake.",
+    "Beat in the eggs one at a time, scraping the bowl after each, then the vanilla and lemon zest.",
+    "Whisk the almond flour, coconut flour, baking powder and salt together. Fold half into the batter, then the sour cream, then the rest.",
+    "Scrape into the pan, level, and bake 55–60 minutes, until golden and a skewer comes out clean. Cover with foil for the last 20 minutes if it browns quickly.",
+    "Cool in the pan 20 minutes, then lift out and cool completely before slicing."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter"
+    },
+    {
+      "from": "sour_cream",
+      "to": "coconut_yogurt"
+    }
+  ],
+  "dairy_free_notes": "Use a firm stick-style dairy-free butter; a soft tub spread will not cream and the loaf turns dense and greasy.",
+  "tips": [
+    "Erythritol can recrystallise on standing; a powdered sweetener in the batter gives a smoother crumb the next day."
+  ],
+  "origin": {
+    "family": "Butter cake",
+    "place": "England",
+    "region": "Northern Europe",
+    "lat": 51.51,
+    "lon": -0.13,
+    "era": "1700s",
+    "history": "Pound cake is named for its original proportions: a pound each of flour, butter, sugar and eggs. Recipes appear in English cookbooks by the eighteenth century, and the cake travelled to the American colonies, where it became a Southern classic. Later versions lightened it with chemical leaveners and changed the proportions, but the name stuck."
+  }
+}

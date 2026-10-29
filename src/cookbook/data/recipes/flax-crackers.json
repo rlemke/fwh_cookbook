@@ -1,0 +1,71 @@
+{
+  "id": "flax-crackers",
+  "title": "Flax crackers",
+  "category": "breads",
+  "summary": "Crisp, savoury crackers of flaxseed meal, chia and sesame with garlic and rosemary — no flour at all.",
+  "servings": 8,
+  "serving_size": "6 crackers",
+  "time": {
+    "prep_min": 10,
+    "cook_min": 35,
+    "rest_min": 30
+  },
+  "ingredients": [
+    {
+      "item": "flaxseed_meal",
+      "cup": 1
+    },
+    {
+      "item": "chia_seeds",
+      "tbsp": 2
+    },
+    {
+      "item": "sesame_seeds",
+      "tbsp": 2
+    },
+    {
+      "item": "salt",
+      "tsp": 0.5
+    },
+    {
+      "item": "rosemary",
+      "tsp": 2,
+      "note": "very finely chopped"
+    },
+    {
+      "item": "garlic",
+      "each": 1,
+      "note": "grated"
+    },
+    {
+      "item": "water",
+      "cup": 0.5
+    },
+    {
+      "item": "olive_oil",
+      "tbsp": 1
+    }
+  ],
+  "steps": [
+    "Heat the oven to 160 °C (325 °F).",
+    "Mix all the ingredients and let stand 10 minutes, until the flax and chia absorb the water into a thick, spreadable paste.",
+    "Spread between two sheets of parchment and roll as thin as you can, about 3 mm (⅛ in), into a rectangle roughly 25 × 35 cm (10 × 14 in). Peel off the top sheet.",
+    "Score into 48 small crackers with a knife and slide the parchment onto a baking sheet.",
+    "Bake 30–35 minutes, until dry and firm. Turn off the oven and leave them inside 30 minutes to crisp.",
+    "Break along the scores and store airtight up to a week."
+  ],
+  "swaps": [],
+  "tips": [
+    "Thin edges brown first; if the middle is still soft, break off the edges and bake the centre a little longer.",
+    "If they soften in storage, re-crisp 5 minutes in a warm oven."
+  ],
+  "origin": {
+    "family": "Seed cracker",
+    "place": "United States",
+    "region": "North America",
+    "lat": 39.83,
+    "lon": -98.58,
+    "era": "late 1900s",
+    "history": "Flax crackers are a modern health-food invention rather than a traditional dish, made popular by raw-food and low-carb cooks because flaxseed binds into a sheet when soaked. Flax itself is one of the oldest cultivated crops, domesticated in the ancient Near East."
+  }
+}

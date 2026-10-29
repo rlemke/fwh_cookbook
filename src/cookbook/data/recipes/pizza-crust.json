@@ -1,0 +1,70 @@
+{
+  "id": "pizza-crust",
+  "title": "Pizza crust",
+  "category": "breads",
+  "summary": "A thin, crisp-bottomed pizza base from almond flour and psyllium, pre-baked so it holds any topping.",
+  "servings": 4,
+  "serving_size": "¼ pizza (crust only)",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 20,
+    "rest_min": 10
+  },
+  "ingredients": [
+    {
+      "item": "almond_flour",
+      "cup": 1.5
+    },
+    {
+      "item": "psyllium_husk",
+      "tbsp": 2
+    },
+    {
+      "item": "baking_powder",
+      "tsp": 1
+    },
+    {
+      "item": "salt",
+      "tsp": 0.5
+    },
+    {
+      "item": "egg",
+      "each": 1
+    },
+    {
+      "item": "olive_oil",
+      "tbsp": 2
+    },
+    {
+      "item": "water",
+      "cup": 0.33,
+      "note": "warm"
+    },
+    {
+      "item": "garlic",
+      "each": 1,
+      "note": "grated, optional"
+    }
+  ],
+  "steps": [
+    "Heat the oven to 200 °C (400 °F) with a baking sheet or pizza stone inside.",
+    "Whisk the almond flour, psyllium, baking powder and salt. Add the egg, olive oil, warm water and garlic and mix to a firm dough. Rest 10 minutes.",
+    "Roll between two sheets of parchment into a 30 cm (12 in) round, about 5 mm (¼ in) thick. Remove the top sheet and prick all over with a fork.",
+    "Slide the crust on its parchment onto the hot sheet or stone and bake 10–12 minutes, until set and lightly golden.",
+    "Add toppings and bake 6–8 minutes more, until hot and browned at the edge."
+  ],
+  "swaps": [],
+  "tips": [
+    "Keep toppings light and not too wet; a grain-free crust softens under a heavy, watery sauce.",
+    "Carbs shown are for the crust only — add your toppings' carbs."
+  ],
+  "origin": {
+    "family": "Pizza",
+    "place": "Naples",
+    "region": "Southern Europe",
+    "lat": 40.85,
+    "lon": 14.27,
+    "era": "1700s",
+    "history": "Flatbreads with toppings are ancient around the Mediterranean, but pizza as we know it took shape in Naples in the 1700s and 1800s, sold as cheap street food. A popular story says the Margherita was named for Queen Margherita's visit in 1889, though the details are disputed. Italian emigrants carried pizza worldwide in the twentieth century."
+  }
+}

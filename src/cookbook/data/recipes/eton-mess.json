@@ -1,0 +1,91 @@
+{
+  "id": "eton-mess",
+  "title": "Eton mess",
+  "category": "mousses",
+  "summary": "Broken crisp meringue, softly whipped cream and lightly sweetened strawberries, folded together just before serving.",
+  "servings": 6,
+  "serving_size": "1 glass",
+  "time": {
+    "prep_min": 20,
+    "cook_min": 90,
+    "rest_min": 60
+  },
+  "ingredients": [
+    {
+      "group": "Meringue"
+    },
+    {
+      "item": "egg_white",
+      "each": 2,
+      "note": "at room temperature"
+    },
+    {
+      "item": "cream_of_tartar",
+      "tsp": 0.25
+    },
+    {
+      "item": "powdered_erythritol",
+      "cup": 0.33
+    },
+    {
+      "item": "vanilla",
+      "tsp": 0.5
+    },
+    {
+      "group": "Strawberries"
+    },
+    {
+      "item": "strawberries",
+      "g": 250,
+      "note": "hulled and quartered"
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 1
+    },
+    {
+      "item": "lemon_juice",
+      "tsp": 1
+    },
+    {
+      "group": "Cream"
+    },
+    {
+      "item": "heavy_cream",
+      "cup": 1.25,
+      "note": "cold"
+    },
+    {
+      "item": "powdered_erythritol",
+      "tbsp": 1
+    }
+  ],
+  "steps": [
+    "Heat the oven to 110 °C (225 °F) and line a baking sheet with parchment.",
+    "Whip the whites with the cream of tartar to soft peaks. Add the powdered erythritol a spoonful at a time, whipping until the meringue is stiff and glossy, then beat in the vanilla.",
+    "Spread in rough mounds on the sheet and bake 90 minutes. Turn off the oven and leave the meringue inside to dry for an hour.",
+    "Meanwhile, toss the strawberries with the erythritol and lemon juice and leave for 20 minutes to draw out their juice. Crush about a quarter of them with a fork.",
+    "Whip the cream with the powdered erythritol to soft peaks.",
+    "Just before serving, break the meringue into bite-sized pieces and fold it loosely through the cream with the berries and their juice. Spoon into glasses and serve at once."
+  ],
+  "swaps": [
+    {
+      "from": "heavy_cream",
+      "to": "coconut_cream",
+      "note": "chill the can overnight and whip only the solid part"
+    }
+  ],
+  "dairy_free_notes": "Whipped coconut cream is heavier than dairy cream and tastes of coconut, which suits the strawberries; fold more gently, as it deflates if overworked.",
+  "tips": [
+    "Erythritol meringue stays crisp only for a day or two and softens fast in humid weather; store it airtight and assemble at the last minute."
+  ],
+  "origin": {
+    "family": "Eton mess",
+    "place": "Eton",
+    "region": "Northern Europe",
+    "lat": 51.49,
+    "lon": -0.61,
+    "era": "1800s",
+    "history": "Eton mess takes its name from Eton College, where it has long been served at the school's summer events, including the annual cricket match against Harrow. A dish under that name was recorded by the late nineteenth century, though early versions were simply strawberries or bananas with cream; meringue appears to have become standard later."
+  }
+}

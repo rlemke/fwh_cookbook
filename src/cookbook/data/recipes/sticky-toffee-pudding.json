@@ -1,0 +1,113 @@
+{
+  "id": "sticky-toffee-pudding",
+  "title": "Sticky toffee pudding",
+  "category": "custards",
+  "summary": "A soft, coffee-dark almond sponge soaked in a buttery allulose toffee sauce; no dates, so the toffee carries the flavour.",
+  "servings": 9,
+  "serving_size": "1 square",
+  "time": {
+    "prep_min": 25,
+    "cook_min": 35,
+    "rest_min": 10
+  },
+  "ingredients": [
+    {
+      "group": "Sponge"
+    },
+    {
+      "item": "almond_flour",
+      "cup": 1.5
+    },
+    {
+      "item": "coconut_flour",
+      "tbsp": 2
+    },
+    {
+      "item": "baking_powder",
+      "tsp": 2
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    },
+    {
+      "item": "espresso_powder",
+      "tsp": 1
+    },
+    {
+      "item": "cinnamon",
+      "tsp": 0.25
+    },
+    {
+      "item": "butter",
+      "tbsp": 4,
+      "note": "softened"
+    },
+    {
+      "item": "allulose",
+      "cup": 0.33
+    },
+    {
+      "item": "egg",
+      "each": 3
+    },
+    {
+      "item": "almond_milk",
+      "cup": 0.25
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1.5
+    },
+    {
+      "group": "Toffee sauce"
+    },
+    {
+      "item": "butter",
+      "tbsp": 4
+    },
+    {
+      "item": "allulose",
+      "cup": 0.33
+    },
+    {
+      "item": "heavy_cream",
+      "cup": 0.5
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    }
+  ],
+  "steps": [
+    "Heat the oven to 165 °C (325 °F). Grease a 20 cm (8 in) square pan and line the base with parchment.",
+    "Whisk the almond flour, coconut flour, baking powder, salt, espresso powder and cinnamon.",
+    "Beat the butter and allulose until creamy, then the eggs one at a time, then the almond milk and vanilla. Fold in the dry ingredients.",
+    "Spread in the pan and bake 25–30 minutes, until springy and a skewer comes out clean. Allulose browns fast, so cover loosely with foil after 15 minutes.",
+    "Meanwhile, melt the butter and allulose for the sauce, then simmer gently for 3–4 minutes, until deep golden. Whisk in the cream and salt and simmer 2 minutes more.",
+    "Poke holes all over the warm sponge with a skewer and pour over half the sauce. Let it soak for 10 minutes, cut into 9 squares and serve with the rest of the sauce."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter"
+    },
+    {
+      "from": "heavy_cream",
+      "to": "coconut_cream"
+    }
+  ],
+  "dairy_free_notes": "With dairy-free butter and coconut cream the sauce is a little thinner and tastes faintly of coconut, but it still caramelises well.",
+  "tips": [
+    "The sponge reheats well: warm it with the sauce poured over, covered, at 150 °C (300 °F) for 10 minutes."
+  ],
+  "origin": {
+    "family": "Steamed and baked sponge pudding",
+    "place": "Cumbria, England",
+    "region": "Northern Europe",
+    "lat": 54.58,
+    "lon": -2.88,
+    "era": "1970s",
+    "history": "Sticky toffee pudding, a date sponge drenched in toffee sauce, is usually credited to the Sharrow Bay hotel on Ullswater in the Lake District, which made it famous in the 1970s. The hotel's own account was that the recipe came to it from elsewhere, so the true origin is uncertain. It belongs to the long British tradition of sponge puddings with sauce."
+  }
+}

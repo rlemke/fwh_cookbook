@@ -1,0 +1,84 @@
+{
+  "id": "belgian-waffles",
+  "title": "Belgian waffles",
+  "category": "breakfast",
+  "summary": "Crisp-edged, deep-pocketed waffles made light with whipped egg whites folded into an almond-flour batter.",
+  "servings": 6,
+  "serving_size": "1 waffle",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 25,
+    "rest_min": 0
+  },
+  "ingredients": [
+    {
+      "item": "almond_flour",
+      "cup": 1.5
+    },
+    {
+      "item": "coconut_flour",
+      "tbsp": 2
+    },
+    {
+      "item": "baking_powder",
+      "tsp": 2
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 2
+    },
+    {
+      "item": "egg",
+      "each": 4,
+      "note": "separated"
+    },
+    {
+      "item": "almond_milk",
+      "cup": 0.5
+    },
+    {
+      "item": "butter",
+      "tbsp": 4,
+      "note": "melted"
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "cream_of_tartar",
+      "tsp": 0.25
+    }
+  ],
+  "steps": [
+    "Heat a Belgian (deep-grid) waffle iron and grease it well.",
+    "Whisk the almond flour, coconut flour, baking powder, salt and erythritol together.",
+    "Whisk the egg yolks, almond milk, melted butter and vanilla, then stir into the dry ingredients to make a thick batter. Let it stand 5 minutes so the coconut flour absorbs the liquid.",
+    "Whip the egg whites with the cream of tartar to firm peaks. Stir a third into the batter to loosen it, then fold in the rest gently.",
+    "Spoon about ½ cup of batter into the iron, close and cook 4–5 minutes, until steam stops and the waffle releases easily. Grain-free waffles stick if opened early.",
+    "Cool on a rack for a minute, not on a plate, so the outside stays crisp."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter"
+    }
+  ],
+  "dairy_free_notes": "With dairy-free butter the waffles are a little less browned; cook them 30 seconds longer.",
+  "tips": [
+    "They freeze well; re-crisp straight from frozen in a toaster."
+  ],
+  "origin": {
+    "family": "Waffle",
+    "place": "Brussels",
+    "region": "Western Europe",
+    "lat": 50.85,
+    "lon": 4.35,
+    "era": "medieval",
+    "history": "Waffles descend from the thin wafers baked between hinged iron plates in medieval Europe, especially in the Low Countries. The light, deep-grid Brussels waffle became a Belgian speciality in the 1800s, and the name \"Belgian waffle\" was popularised in the United States after world's fairs in the 1960s."
+  }
+}

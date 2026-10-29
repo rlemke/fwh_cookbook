@@ -1,0 +1,121 @@
+{
+  "id": "victoria-sponge",
+  "title": "Victoria sponge",
+  "category": "cakes",
+  "summary": "Two buttery almond sponges sandwiched with a quick raspberry chia jam and softly whipped cream, dusted on top.",
+  "servings": 10,
+  "serving_size": "1 slice",
+  "time": {
+    "prep_min": 30,
+    "cook_min": 25,
+    "rest_min": 30
+  },
+  "ingredients": [
+    {
+      "group": "Sponges"
+    },
+    {
+      "item": "butter",
+      "cup": 0.5,
+      "note": "softened"
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.5
+    },
+    {
+      "item": "egg",
+      "each": 4,
+      "note": "at room temperature"
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1.5
+    },
+    {
+      "item": "almond_flour",
+      "cup": 2
+    },
+    {
+      "item": "coconut_flour",
+      "tbsp": 2
+    },
+    {
+      "item": "baking_powder",
+      "tsp": 2
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    },
+    {
+      "item": "almond_milk",
+      "tbsp": 3
+    },
+    {
+      "group": "Raspberry jam"
+    },
+    {
+      "item": "raspberries",
+      "g": 150
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 2
+    },
+    {
+      "item": "chia_seeds",
+      "tbsp": 1
+    },
+    {
+      "group": "Filling"
+    },
+    {
+      "item": "heavy_cream",
+      "cup": 0.67,
+      "note": "cold"
+    },
+    {
+      "item": "powdered_erythritol",
+      "tbsp": 1
+    },
+    {
+      "item": "powdered_erythritol",
+      "tbsp": 1,
+      "note": "for dusting"
+    }
+  ],
+  "steps": [
+    "Heat the oven to 175 °C (350 °F). Grease two 20 cm (8 in) round pans and line the bases with parchment.",
+    "Simmer the raspberries and erythritol for 5 minutes, mashing them, then stir in the chia seeds and leave to thicken while you make the cake.",
+    "Beat the butter and erythritol for 3 minutes until light. Beat in the eggs one at a time, then the vanilla.",
+    "Whisk the almond flour, coconut flour, baking powder and salt together and fold them in, then fold in the almond milk to a soft dropping consistency.",
+    "Divide between the pans, level, and bake 20–25 minutes, until golden and springy. Cool 10 minutes, then turn out onto a rack and cool completely; almond sponges are fragile while warm.",
+    "Whip the cream with 1 tbsp powdered erythritol to soft peaks.",
+    "Spread the jam over one sponge, then the cream, and set the second sponge on top. Dust with the remaining powdered erythritol."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter"
+    },
+    {
+      "from": "heavy_cream",
+      "to": "coconut_cream",
+      "note": "chilled, firm part only"
+    }
+  ],
+  "dairy_free_notes": "Dairy-free butter gives a slightly less rich crumb, and whipped coconut cream is softer, so fill the cake shortly before serving.",
+  "tips": [
+    "For the classic jam-only version, leave out the cream and use a little more jam."
+  ],
+  "origin": {
+    "family": "Sponge cake",
+    "place": "England",
+    "region": "Northern Europe",
+    "lat": 51.51,
+    "lon": -0.13,
+    "era": "1800s",
+    "history": "The cake is named after Queen Victoria, who is said to have enjoyed sponge cake with her afternoon tea; the link to the queen herself is traditional rather than documented. Reliable baking powder from the mid-nineteenth century made a light, raised butter sponge practical, and a jam-filled sandwich of two such layers became a fixture of the English tea table."
+  }
+}

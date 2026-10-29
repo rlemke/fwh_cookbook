@@ -1,0 +1,102 @@
+{
+  "id": "pavlova-with-berries",
+  "title": "Pavlova with berries",
+  "category": "fruit",
+  "summary": "A crisp-shelled, soft-centred sugar-free meringue piled with whipped cream and fresh berries.",
+  "servings": 8,
+  "serving_size": "1 wedge",
+  "time": {
+    "prep_min": 30,
+    "cook_min": 90,
+    "rest_min": 120
+  },
+  "ingredients": [
+    {
+      "group": "Meringue"
+    },
+    {
+      "item": "egg_white",
+      "each": 4,
+      "note": "at room temperature"
+    },
+    {
+      "item": "cream_of_tartar",
+      "tsp": 0.5
+    },
+    {
+      "item": "salt",
+      "tsp": 0.0625
+    },
+    {
+      "item": "powdered_erythritol",
+      "cup": 0.75
+    },
+    {
+      "item": "lemon_juice",
+      "tsp": 1
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "group": "Topping"
+    },
+    {
+      "item": "heavy_cream",
+      "cup": 1,
+      "note": "cold"
+    },
+    {
+      "item": "powdered_erythritol",
+      "tbsp": 2
+    },
+    {
+      "item": "strawberries",
+      "g": 150,
+      "note": "hulled and sliced"
+    },
+    {
+      "item": "raspberries",
+      "g": 100
+    },
+    {
+      "item": "blueberries",
+      "g": 50
+    },
+    {
+      "item": "mint",
+      "tbsp": 1,
+      "note": "small leaves, to garnish"
+    }
+  ],
+  "steps": [
+    "Heat the oven to 120 °C (250 °F). Draw a 20 cm (8 in) circle on a sheet of parchment, turn it over and lay it on a baking sheet.",
+    "In a very clean, grease-free bowl, whisk the egg whites with the cream of tartar and salt on medium speed until soft peaks form.",
+    "Raise the speed to high and add the powdered erythritol a tablespoon at a time, beating about 15 seconds after each, until the meringue is thick, glossy and holds stiff peaks. Beat in the lemon juice and vanilla.",
+    "Spread the meringue within the circle, building the sides higher than the middle to make a shallow nest.",
+    "Bake 75–90 minutes, until the outside is dry and crisp and lifts cleanly off the paper. Turn the oven off and leave the meringue inside with the door ajar for at least 2 hours to cool slowly.",
+    "Just before serving, whip the cream with the powdered erythritol to soft peaks, spoon it into the nest and pile the berries on top. Scatter with mint and serve at once."
+  ],
+  "swaps": [
+    {
+      "from": "heavy_cream",
+      "to": "coconut_cream",
+      "note": "use the solid part of a can chilled overnight"
+    }
+  ],
+  "dairy_free_notes": "Chilled coconut cream whips softer than dairy cream and melts faster, so top the pavlova at the very last minute and serve it straight away.",
+  "tips": [
+    "Erythritol meringue is more fragile than sugar meringue and weeps in humid weather; make the shell on a dry day and fill it only when serving.",
+    "The meringue shell keeps 2 days in an airtight tin at room temperature."
+  ],
+  "origin": {
+    "family": "Pavlova",
+    "place": "New Zealand or Australia (disputed)",
+    "region": "Oceania",
+    "lat": -41.29,
+    "lon": 174.78,
+    "era": "1920s–1930s",
+    "history": "The pavlova is named after the Russian ballerina Anna Pavlova, who toured Australia and New Zealand in the 1920s. Both countries claim to have invented it, and the question remains disputed; recipe research has generally found earlier printed versions in New Zealand, while Australia has its own well-known origin story. Large baked meringues with cream were also made in Europe before then. The map marker sits in Wellington only as a placeholder for this shared, contested origin."
+  }
+}

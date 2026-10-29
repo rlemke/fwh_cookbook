@@ -1,0 +1,78 @@
+{
+  "id": "rhubarb-fool",
+  "title": "Rhubarb fool",
+  "category": "fruit",
+  "summary": "Sharp, softly stewed rhubarb folded through lightly whipped cream, in pink ripples.",
+  "servings": 6,
+  "serving_size": "1 glass",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 15,
+    "rest_min": 90
+  },
+  "ingredients": [
+    {
+      "group": "Rhubarb"
+    },
+    {
+      "item": "rhubarb",
+      "g": 400,
+      "note": "trimmed and cut into 2 cm (¾ in) pieces"
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.33
+    },
+    {
+      "item": "orange_zest",
+      "tsp": 1
+    },
+    {
+      "item": "water",
+      "tbsp": 2
+    },
+    {
+      "group": "Cream"
+    },
+    {
+      "item": "heavy_cream",
+      "cup": 1,
+      "note": "cold"
+    },
+    {
+      "item": "powdered_erythritol",
+      "tbsp": 1
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    }
+  ],
+  "steps": [
+    "Put the rhubarb, erythritol, orange zest and water in a pan, cover and cook over low heat for 8–10 minutes, stirring once or twice, until the rhubarb collapses.",
+    "Uncover and simmer 3–5 minutes more to drive off some liquid; you want a thick purée, not a sauce. Taste and add more sweetener if it is too sharp.",
+    "Cool, then chill until cold, at least 1 hour.",
+    "Whip the cream with the powdered erythritol and vanilla to soft peaks.",
+    "Fold in three-quarters of the rhubarb with just a few strokes so it stays rippled. Spoon into glasses, top with the remaining rhubarb and chill 30 minutes before serving."
+  ],
+  "swaps": [
+    {
+      "from": "heavy_cream",
+      "to": "coconut_cream",
+      "note": "use the solid part of a can chilled overnight"
+    }
+  ],
+  "dairy_free_notes": "Coconut cream gives a softer, slightly looser fool with a coconut note that sits well with rhubarb; serve it soon after making.",
+  "tips": [
+    "Rhubarb leaves are poisonous; use only the stalks."
+  ],
+  "origin": {
+    "family": "Fool",
+    "place": "England",
+    "region": "Northern Europe",
+    "lat": 52.36,
+    "lon": -1.17,
+    "era": "1600s",
+    "history": "Fools, puréed fruit folded into cream or custard, have been made in England since at least the sixteenth and seventeenth centuries, when gooseberry fool was the classic. The origin of the name is uncertain. Rhubarb came into wide use as a dessert ingredient in Britain in the nineteenth century, and rhubarb fool became one of the best-loved versions."
+  }
+}

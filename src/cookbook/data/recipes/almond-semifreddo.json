@@ -1,0 +1,74 @@
+{
+  "id": "almond-semifreddo",
+  "title": "Almond semifreddo",
+  "category": "frozen",
+  "summary": "A no-churn frozen mousse of cooked yolks and whipped cream with toasted almonds, sliced like a cake.",
+  "servings": 10,
+  "serving_size": "1 slice",
+  "time": {
+    "prep_min": 35,
+    "cook_min": 10,
+    "rest_min": 480
+  },
+  "ingredients": [
+    {
+      "item": "almonds",
+      "cup": 0.5,
+      "note": "chopped"
+    },
+    {
+      "item": "egg_yolk",
+      "each": 4
+    },
+    {
+      "item": "allulose",
+      "cup": 0.5
+    },
+    {
+      "item": "water",
+      "tbsp": 2
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "almond_extract",
+      "tsp": 0.5
+    },
+    {
+      "item": "salt",
+      "tsp": 0.0625
+    },
+    {
+      "item": "heavy_cream",
+      "cup": 1.5,
+      "note": "cold"
+    }
+  ],
+  "steps": [
+    "Line a 23 x 13 cm (9 x 5 in) loaf pan with plastic film, leaving an overhang.",
+    "Toast the almonds in a dry pan until fragrant and lightly golden. Cool.",
+    "Whisk the yolks, allulose and water in a heatproof bowl over simmering water until thick, pale and 71 °C (160 °F), about 6 minutes. Take off the heat and beat until cool and doubled in volume, then beat in the vanilla, almond extract and salt.",
+    "Whip the cream to soft peaks. Fold it into the yolk mixture with three quarters of the almonds.",
+    "Pour into the pan, scatter the remaining almonds over, cover with the overhanging film and freeze at least 8 hours.",
+    "Turn out and slice with a knife dipped in hot water. Let slices soften 5 minutes before serving."
+  ],
+  "swaps": [
+    {
+      "from": "heavy_cream",
+      "to": "coconut_cream",
+      "note": "chill the can overnight and whip only the solid part"
+    }
+  ],
+  "dairy_free_notes": "Whipped coconut cream gives a firmer, slightly icier semifreddo; take it out of the freezer 10–15 minutes before slicing.",
+  "origin": {
+    "family": "Semifreddo",
+    "place": "Italy",
+    "region": "Southern Europe",
+    "lat": 42.5,
+    "lon": 12.5,
+    "era": "1900s",
+    "history": "Semifreddo, Italian for 'half-cold', is a family of still-frozen desserts made from a cooked egg foam folded with whipped cream, which freezes soft without churning. It has relatives in the French parfait and frozen mousses, and was well established in Italian cookery by the twentieth century."
+  }
+}

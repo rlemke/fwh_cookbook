@@ -1,0 +1,87 @@
+{
+  "id": "key-lime-pie",
+  "title": "Key lime pie",
+  "category": "pies",
+  "summary": "A sharp, pale lime custard set in a cinnamon-almond crust, with a homemade coconut condensed milk taking the place of the canned kind; dairy-free as written.",
+  "servings": 10,
+  "serving_size": "1 slice",
+  "time": {
+    "prep_min": 30,
+    "cook_min": 45,
+    "rest_min": 240
+  },
+  "ingredients": [
+    {
+      "group": "Crust"
+    },
+    {
+      "item": "almond_flour",
+      "cup": 1.5
+    },
+    {
+      "item": "coconut_oil",
+      "tbsp": 4,
+      "note": "melted"
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 2
+    },
+    {
+      "item": "cinnamon",
+      "tsp": 0.5
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "group": "Coconut condensed milk"
+    },
+    {
+      "item": "coconut_cream",
+      "cup": 1.5
+    },
+    {
+      "item": "allulose",
+      "cup": 0.5
+    },
+    {
+      "group": "Filling"
+    },
+    {
+      "item": "egg_yolk",
+      "each": 4
+    },
+    {
+      "item": "lime_juice",
+      "cup": 0.5,
+      "note": "Key limes if you can find them"
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    }
+  ],
+  "steps": [
+    "Simmer the coconut cream and allulose in a wide saucepan over medium-low heat, stirring often, for 20–25 minutes, until reduced to about 1 cup and thick enough to coat a spoon. Cool to lukewarm.",
+    "Heat the oven to 175 °C (350 °F). Stir the crust ingredients together, press them into a 23 cm (9 in) pie plate and bake 10 minutes. Lower the oven to 160 °C (325 °F).",
+    "Whisk the yolks until pale, then whisk in the cooled condensed coconut, followed by the lime juice and salt. It will thicken as the acid meets the yolks.",
+    "Pour into the crust and bake 15 minutes, just until the surface is set but still pale.",
+    "Cool for 30 minutes, then refrigerate at least 4 hours before slicing."
+  ],
+  "swaps": [],
+  "tips": [
+    "Do not boil the coconut cream hard; a gentle simmer keeps it from splitting into oil.",
+    "Persian limes are fine; the filling will just be a touch less floral than with Key limes."
+  ],
+  "origin": {
+    "family": "Key lime pie",
+    "place": "Key West, Florida",
+    "region": "North America",
+    "lat": 24.56,
+    "lon": -81.78,
+    "era": "late 1800s",
+    "history": "Key limes grew in the Florida Keys, where fresh milk was scarce before refrigeration and the arrival of a mainland road. Canned sweetened condensed milk, available from the later 1800s, made a custard that sets with lime juice alone. Who first made the pie is unknown, and the stories naming an inventor are local legend; Florida made it the official state pie in 2006."
+  }
+}

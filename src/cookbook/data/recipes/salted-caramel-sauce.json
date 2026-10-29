@@ -1,0 +1,75 @@
+{
+  "id": "salted-caramel-sauce",
+  "title": "Salted caramel sauce",
+  "category": "basics",
+  "summary": "A glossy, buttery salted caramel made with allulose, which browns like sugar and stays smooth instead of recrystallising.",
+  "servings": 16,
+  "serving_size": "1 tbsp",
+  "time": {
+    "prep_min": 5,
+    "cook_min": 12,
+    "rest_min": 20
+  },
+  "ingredients": [
+    {
+      "item": "allulose",
+      "cup": 0.5
+    },
+    {
+      "item": "water",
+      "tbsp": 2
+    },
+    {
+      "item": "butter",
+      "tbsp": 4,
+      "note": "cut into pieces"
+    },
+    {
+      "item": "heavy_cream",
+      "cup": 0.5,
+      "note": "warmed"
+    },
+    {
+      "item": "salt",
+      "tsp": 0.5,
+      "note": "or flaky sea salt to taste"
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    }
+  ],
+  "steps": [
+    "Put the allulose and water in a heavy, light-coloured saucepan so you can see the colour change. Stir once to wet it, then cook over medium-low heat without stirring.",
+    "Let it bubble until it turns a deep amber, 6–10 minutes. Allulose browns faster and at a lower temperature than sugar, so stay with it and swirl the pan rather than stirring; pull it off the heat the moment it smells toasty.",
+    "Off the heat, whisk in the butter a piece at a time. It will foam.",
+    "Slowly pour in the warm cream, whisking; stand back, as it sputters.",
+    "Return to low heat and simmer 2–3 minutes, whisking, until smooth and slightly thickened. Stir in the salt and vanilla.",
+    "Cool 20 minutes before using; it thickens as it cools. Refrigerate up to 2 weeks and warm gently to loosen."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter"
+    },
+    {
+      "from": "heavy_cream",
+      "to": "coconut_cream",
+      "note": "warmed"
+    }
+  ],
+  "dairy_free_notes": "With coconut cream the sauce is a little thinner and tastes faintly of coconut; simmer it a minute longer to thicken.",
+  "tips": [
+    "Erythritol does not caramelise and crystallises as it cools, so it is not a substitute here.",
+    "Add the salt in stages and taste: the Breton style is noticeably salty."
+  ],
+  "origin": {
+    "family": "Caramel",
+    "place": "Quiberon, Brittany",
+    "region": "Western Europe",
+    "lat": 47.48,
+    "lon": -3.12,
+    "era": "1970s",
+    "history": "Brittany has long been known for salted butter, and caramel made with it is a regional speciality. The modern fame of salted-butter caramel is often credited to the Quiberon confectioner Henri Le Roux, whose salted-butter caramels of the 1970s were widely copied. The salty-sweet sauce has since spread far beyond France."
+  }
+}

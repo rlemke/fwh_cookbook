@@ -1,0 +1,77 @@
+{
+  "id": "peanut-butter-cups",
+  "title": "Peanut butter cups",
+  "category": "candy",
+  "summary": "Dark chocolate shells around a salty, sweetened peanut butter centre, made in a muffin tin.",
+  "servings": 12,
+  "serving_size": "1 cup",
+  "time": {
+    "prep_min": 30,
+    "cook_min": 5,
+    "rest_min": 60
+  },
+  "ingredients": [
+    {
+      "group": "Chocolate"
+    },
+    {
+      "item": "sf_chocolate_chips",
+      "g": 120
+    },
+    {
+      "item": "unsweetened_chocolate",
+      "g": 60
+    },
+    {
+      "item": "coconut_oil",
+      "tbsp": 1.5
+    },
+    {
+      "item": "powdered_erythritol",
+      "tbsp": 3
+    },
+    {
+      "group": "Filling"
+    },
+    {
+      "item": "peanut_butter",
+      "cup": 0.5
+    },
+    {
+      "item": "powdered_erythritol",
+      "tbsp": 3
+    },
+    {
+      "item": "coconut_oil",
+      "tsp": 2,
+      "note": "melted"
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "vanilla",
+      "tsp": 0.5
+    }
+  ],
+  "steps": [
+    "Line a 12-hole mini or standard muffin tin with paper cases.",
+    "Melt both chocolates with the coconut oil over barely simmering water, then whisk in the powdered erythritol until smooth.",
+    "Spoon about 2 tsp chocolate into each case and tilt to coat the base and a little way up the sides. Freeze 10 minutes.",
+    "Stir the filling ingredients together until smooth and thick. Roll into 12 balls, flatten each into a disc slightly smaller than the cases, and press one onto each chocolate base.",
+    "Cover with the rest of the chocolate, tapping the tin to level it. Refrigerate 1 hour, until firm. Keep chilled."
+  ],
+  "tips": [
+    "Check the chocolate chips are dairy-free: many sugar-free brands contain milk fat."
+  ],
+  "origin": {
+    "family": "Peanut butter cup",
+    "place": "Hershey, Pennsylvania",
+    "region": "North America",
+    "lat": 40.29,
+    "lon": -76.65,
+    "era": "1928",
+    "history": "The chocolate peanut butter cup was created in 1928 in Hershey, Pennsylvania, by H. B. Reese, a former employee of the Hershey company who had started his own candy business. It became one of the best-selling sweets in the United States."
+  }
+}

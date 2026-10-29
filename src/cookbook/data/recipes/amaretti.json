@@ -1,0 +1,66 @@
+{
+  "id": "amaretti",
+  "title": "Soft amaretti",
+  "category": "cookies",
+  "summary": "Chewy almond and egg-white cookies with crackled, sweetener-dusted tops, naturally flourless and dairy-free.",
+  "servings": 20,
+  "serving_size": "1 cookie",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 20,
+    "rest_min": 15
+  },
+  "ingredients": [
+    {
+      "item": "almond_flour",
+      "cup": 2
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.5
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "egg_white",
+      "each": 2,
+      "note": "at room temperature"
+    },
+    {
+      "item": "almond_extract",
+      "tsp": 1
+    },
+    {
+      "item": "lemon_zest",
+      "tsp": 0.5
+    },
+    {
+      "item": "powdered_erythritol",
+      "cup": 0.25,
+      "note": "for rolling"
+    }
+  ],
+  "steps": [
+    "Heat the oven to 165 °C (325 °F) and line a baking sheet with parchment.",
+    "Mix the almond flour, erythritol and salt in a bowl.",
+    "Whisk the egg whites to soft peaks, then fold them into the almond mixture with the almond extract and lemon zest to make a sticky paste.",
+    "With damp hands, roll the paste into 20 balls. Roll each in powdered erythritol and set 3 cm (1 in) apart.",
+    "Bake 18–20 minutes, until the tops crack and the bottoms are lightly golden; the centres should stay soft.",
+    "Cool completely on the sheet; they firm up as they cool."
+  ],
+  "tips": [
+    "Traditional amaretti get their bitter note from apricot kernels; the almond extract stands in for it.",
+    "Stored airtight, they stay chewy for about a week."
+  ],
+  "origin": {
+    "family": "Macaroon",
+    "place": "Saronno",
+    "region": "Southern Europe",
+    "lat": 45.63,
+    "lon": 9.04,
+    "era": "by the 1800s",
+    "history": "Almond-and-egg-white cookies have been baked across Italy for centuries, and many towns have their own amaretti. Saronno, near Milan, became the best known for the crisp kind, and by the nineteenth century they were sold commercially there. The popular story of a young couple baking them for a visiting cardinal in the 1700s is a legend."
+  }
+}

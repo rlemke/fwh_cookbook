@@ -1,0 +1,73 @@
+{
+  "id": "scottish-shortbread",
+  "title": "Scottish shortbread",
+  "category": "cookies",
+  "summary": "A buttery almond-flour shortbread round, scored into petticoat-tail wedges and baked low until sandy and pale.",
+  "servings": 12,
+  "serving_size": "1 wedge",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 30,
+    "rest_min": 30
+  },
+  "ingredients": [
+    {
+      "item": "butter",
+      "cup": 0.5,
+      "note": "softened"
+    },
+    {
+      "item": "powdered_erythritol",
+      "cup": 0.33
+    },
+    {
+      "item": "vanilla",
+      "tsp": 0.5
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    },
+    {
+      "item": "almond_flour",
+      "cup": 2
+    },
+    {
+      "item": "coconut_flour",
+      "tbsp": 1
+    },
+    {
+      "item": "erythritol",
+      "tsp": 2,
+      "note": "for sprinkling"
+    }
+  ],
+  "steps": [
+    "Heat the oven to 150 °C (300 °F). Line the base of a 20 cm (8 in) round tin with parchment.",
+    "Beat the butter, powdered erythritol, vanilla and salt until smooth. Stir in the almond flour and coconut flour to a soft dough; don't overwork it.",
+    "Press evenly into the tin. Crimp the edge with your fingers, score into 12 wedges and prick all over with a fork.",
+    "Chill 30 minutes so the butter firms and the shortbread keeps its sandy texture.",
+    "Bake 28–32 minutes, until firm and pale golden at the edges. Sprinkle with the erythritol and re-cut along the scores while warm.",
+    "Cool completely in the tin before lifting out; it is crumbly until cold."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter",
+      "note": "use a firm stick-style one"
+    }
+  ],
+  "dairy_free_notes": "Shortbread is mostly butter, so the dairy-free version tastes noticeably different; choose a dairy-free butter you like on its own, and add a pinch more salt.",
+  "tips": [
+    "Low heat is the point: shortbread should be pale, not browned."
+  ],
+  "origin": {
+    "family": "Shortbread",
+    "place": "Scotland",
+    "region": "Northern Europe",
+    "lat": 55.95,
+    "lon": -3.19,
+    "era": "1500s",
+    "history": "Shortbread grew out of medieval 'biscuit bread', twice-baked dough that bakers enriched with butter in place of yeast. By the sixteenth century it was a Scottish luxury for festivals such as Hogmanay. The story that Mary, Queen of Scots, favoured the thin wedges called petticoat tails is popular but unproven."
+  }
+}

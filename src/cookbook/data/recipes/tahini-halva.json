@@ -1,0 +1,64 @@
+{
+  "id": "tahini-halva",
+  "title": "Tahini halva",
+  "category": "candy",
+  "summary": "A dense sesame confection of tahini beaten with hot syrup, studded with pistachios and set in a loaf tin.",
+  "servings": 16,
+  "serving_size": "1 slice",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 10,
+    "rest_min": 720
+  },
+  "ingredients": [
+    {
+      "item": "tahini",
+      "cup": 1,
+      "note": "well stirred"
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.33
+    },
+    {
+      "item": "allulose",
+      "cup": 0.25
+    },
+    {
+      "item": "water",
+      "cup": 0.25
+    },
+    {
+      "item": "pistachios",
+      "cup": 0.33,
+      "note": "roughly chopped"
+    }
+  ],
+  "steps": [
+    "Line a 20 x 10 cm (8 x 4 in) loaf tin with parchment. Put the tahini, vanilla and salt in a bowl.",
+    "Heat the erythritol, allulose and water in a small pan, stirring until dissolved, then boil without stirring until it reaches 120 °C (250 °F).",
+    "Pour the hot syrup into the tahini and stir hard with a wooden spoon. Within a minute it will seize and thicken; keep stirring until it pulls away from the bowl, then fold in the pistachios.",
+    "Press firmly into the tin and smooth the top. Cool, then cover and leave 12 hours at room temperature or in the fridge before slicing."
+  ],
+  "tips": [
+    "Real halva's flaky strands come from sugar crystallising as it is beaten; erythritol crystallises too and gives some of that texture, but expect something closer to a firm fudge.",
+    "Stop stirring as soon as it pulls together; overworking makes it oily."
+  ],
+  "origin": {
+    "family": "Halva",
+    "place": "Istanbul",
+    "region": "Middle East & North Africa",
+    "lat": 41.01,
+    "lon": 28.98,
+    "era": "Ottoman era",
+    "history": "Halva is an old Arabic word for a sweet, applied across the Middle East, South Asia and the Balkans to many different confections. The tahini-based kind, made by beating sesame paste with a hot sugar syrup, became widespread across the Ottoman lands and remains the classic halva of Turkey, the Levant, Greece and the Balkans."
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "id": "naan-style-flatbread",
+  "title": "Naan-style flatbread",
+  "category": "breads",
+  "summary": "Soft, blistered skillet flatbreads made with yogurt, brushed with garlic butter.",
+  "servings": 6,
+  "serving_size": "1 flatbread",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 20,
+    "rest_min": 10
+  },
+  "ingredients": [
+    {
+      "item": "almond_flour",
+      "cup": 1
+    },
+    {
+      "item": "coconut_flour",
+      "tbsp": 2
+    },
+    {
+      "item": "psyllium_husk",
+      "tbsp": 2
+    },
+    {
+      "item": "baking_powder",
+      "tsp": 1
+    },
+    {
+      "item": "salt",
+      "tsp": 0.5
+    },
+    {
+      "item": "greek_yogurt",
+      "cup": 0.5
+    },
+    {
+      "item": "water",
+      "cup": 0.33,
+      "note": "warm"
+    },
+    {
+      "item": "olive_oil",
+      "tbsp": 1
+    },
+    {
+      "group": "Garlic butter"
+    },
+    {
+      "item": "butter",
+      "tbsp": 2,
+      "note": "melted"
+    },
+    {
+      "item": "garlic",
+      "each": 1,
+      "note": "minced"
+    }
+  ],
+  "steps": [
+    "Whisk the almond flour, coconut flour, psyllium, baking powder and salt.",
+    "Stir in the yogurt, warm water and olive oil and knead briefly into a soft dough. Cover and rest 10 minutes.",
+    "Divide into 6 and roll each between two sheets of parchment into an oval about 3 mm (⅛ in) thick.",
+    "Heat a dry cast-iron pan over medium-high heat. Peel off the top sheet, flip a flatbread into the pan and peel off the second sheet.",
+    "Cook 1½–2 minutes per side, until blistered and spotted brown.",
+    "Mix the melted butter with the garlic and brush over the hot flatbreads."
+  ],
+  "swaps": [
+    {
+      "from": "greek_yogurt",
+      "to": "coconut_yogurt"
+    },
+    {
+      "from": "butter",
+      "to": "vegan_butter"
+    }
+  ],
+  "dairy_free_notes": "Coconut yogurt is thinner than Greek yogurt; hold back a tablespoon of the water and add it only if the dough feels stiff.",
+  "tips": [
+    "Psyllium gives this dough a bread-like chew; brands differ, and some darken the crumb purple-grey — it is harmless."
+  ],
+  "origin": {
+    "family": "Naan",
+    "place": "Delhi",
+    "region": "South Asia",
+    "lat": 28.61,
+    "lon": 77.21,
+    "era": "medieval",
+    "history": "Naan is a leavened flatbread of South and Central Asia, traditionally slapped onto the wall of a clay tandoor oven. It is recorded at the courts of medieval Delhi, and today is closely associated with the cooking of northern India and Pakistan."
+  }
+}

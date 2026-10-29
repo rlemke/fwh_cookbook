@@ -1,0 +1,78 @@
+{
+  "id": "cream-cheese-frosting",
+  "title": "Cream cheese frosting",
+  "category": "basics",
+  "summary": "Tangy, spreadable cream cheese frosting sweetened with powdered erythritol, for carrot cake, spice cakes and cupcakes.",
+  "servings": 12,
+  "serving_size": "about 2 tbsp",
+  "time": {
+    "prep_min": 10,
+    "cook_min": 0,
+    "rest_min": 0
+  },
+  "ingredients": [
+    {
+      "item": "cream_cheese",
+      "g": 225,
+      "note": "softened, block style"
+    },
+    {
+      "item": "butter",
+      "tbsp": 4,
+      "note": "softened"
+    },
+    {
+      "item": "powdered_erythritol",
+      "cup": 0.66
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "heavy_cream",
+      "tbsp": 1,
+      "note": "only if needed to loosen"
+    }
+  ],
+  "steps": [
+    "Beat the butter on medium speed until creamy, about 1 minute.",
+    "Add the cream cheese and beat just until smooth and combined. Over-beating cream cheese makes the frosting runny.",
+    "Add the powdered erythritol, vanilla and salt and beat on low until incorporated, then on medium for 30 seconds.",
+    "If it is too stiff to spread, beat in the cream a teaspoon at a time.",
+    "Frost a cooled cake. Keep frosted cakes refrigerated."
+  ],
+  "swaps": [
+    {
+      "from": "cream_cheese",
+      "to": "vegan_cream_cheese",
+      "note": "firm block style"
+    },
+    {
+      "from": "butter",
+      "to": "vegan_butter"
+    },
+    {
+      "from": "heavy_cream",
+      "to": "coconut_cream"
+    }
+  ],
+  "dairy_free_notes": "Dairy-free cream cheese gives a softer, less tangy frosting; chill it 20–30 minutes before spreading and add a squeeze of lemon juice for tang.",
+  "tips": [
+    "Both cream cheese and butter should be soft but still cool; warm ingredients make a loose frosting.",
+    "Erythritol can taste slightly cooling here; replacing a quarter of it with allulose softens that."
+  ],
+  "origin": {
+    "family": "Cream cheese frosting",
+    "place": "United States",
+    "region": "North America",
+    "lat": 39.83,
+    "lon": -98.58,
+    "era": "mid-1900s",
+    "history": "Cream cheese was first sold commercially in New York State in the 1870s. Frostings made by beating it with butter and sugar became an American staple in the mid-1900s, closely tied to carrot cake and, later, red velvet cake. It remains the classic topping for both."
+  }
+}

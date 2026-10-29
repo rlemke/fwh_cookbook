@@ -1,0 +1,112 @@
+{
+  "id": "strawberry-rhubarb-pie",
+  "title": "Strawberry-rhubarb pie",
+  "category": "pies",
+  "summary": "Mostly rhubarb with a smaller share of strawberries, lightly set with xanthan gum under an almond-pastry lattice.",
+  "servings": 10,
+  "serving_size": "1 slice",
+  "time": {
+    "prep_min": 45,
+    "cook_min": 50,
+    "rest_min": 180
+  },
+  "ingredients": [
+    {
+      "group": "Pastry"
+    },
+    {
+      "item": "almond_flour",
+      "cup": 2.5
+    },
+    {
+      "item": "psyllium_husk",
+      "tbsp": 1
+    },
+    {
+      "item": "xanthan_gum",
+      "tsp": 0.5
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 2
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    },
+    {
+      "item": "butter",
+      "tbsp": 6,
+      "note": "cold, cubed"
+    },
+    {
+      "item": "egg",
+      "each": 1
+    },
+    {
+      "group": "Filling"
+    },
+    {
+      "item": "rhubarb",
+      "g": 300,
+      "note": "cut in 1 cm (1/2 in) pieces"
+    },
+    {
+      "item": "strawberries",
+      "g": 150,
+      "note": "hulled and quartered"
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.5
+    },
+    {
+      "item": "xanthan_gum",
+      "tsp": 0.75
+    },
+    {
+      "item": "lemon_juice",
+      "tbsp": 1
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "group": "Glaze"
+    },
+    {
+      "item": "egg",
+      "each": 1,
+      "note": "beaten"
+    }
+  ],
+  "steps": [
+    "Pulse the almond flour, psyllium, xanthan gum, erythritol and salt in a food processor. Add the butter and egg and pulse until the dough comes together. Divide into two-thirds and one-third, flatten each into a disc and chill 30 minutes.",
+    "Roll the larger piece between two sheets of parchment to a 28 cm (11 in) round and flip it into a 23 cm (9 in) pie plate. Patch any cracks with your fingers. Roll the smaller piece to a rectangle and cut 2 cm (3/4 in) strips.",
+    "Heat the oven to 190 °C (375 °F). Toss the rhubarb and strawberries with the lemon juice and vanilla. Whisk the erythritol and xanthan gum together and sprinkle over the fruit, tossing so no clumps remain.",
+    "Pile the fruit into the crust. Lay the strips over it in a lattice, pressing the ends onto the rim, and brush with beaten egg.",
+    "Bake 15 minutes, then lower to 175 °C (350 °F) and bake 30–35 minutes more, until the filling bubbles in the centre. Cover the edge with foil if it darkens.",
+    "Cool at least 3 hours so the juices set before slicing."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter"
+    }
+  ],
+  "dairy_free_notes": "Dairy-free butter makes a slightly softer pastry; keep the lattice strips well chilled so they hold their shape.",
+  "tips": [
+    "Whisking the xanthan gum into the sweetener first is the only way to keep it from forming slimy lumps.",
+    "Rhubarb is the low-carb backbone here; adding more strawberries raises the carbs quickly."
+  ],
+  "origin": {
+    "family": "Fruit pie",
+    "place": "American Midwest",
+    "region": "North America",
+    "lat": 41.59,
+    "lon": -93.62,
+    "era": "1800s",
+    "history": "Rhubarb was grown for centuries as a medicinal root before its stalks became a common food in Britain and North America in the 1800s. Americans baked it so often that it was nicknamed 'pie plant'. Strawberries ripen in the same late-spring weeks, and the two became a classic pairing of American home baking in the 1900s."
+  }
+}

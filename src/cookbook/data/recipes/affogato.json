@@ -1,0 +1,68 @@
+{
+  "id": "affogato",
+  "title": "Affogato",
+  "category": "frozen",
+  "summary": "A scoop of quick vanilla ice cream 'drowned' in a shot of hot espresso at the table.",
+  "servings": 4,
+  "serving_size": "1 scoop with 1 espresso",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 10,
+    "rest_min": 360
+  },
+  "ingredients": [
+    {
+      "group": "Quick vanilla ice cream"
+    },
+    {
+      "item": "heavy_cream",
+      "cup": 1
+    },
+    {
+      "item": "egg_yolk",
+      "each": 2
+    },
+    {
+      "item": "allulose",
+      "cup": 0.33
+    },
+    {
+      "item": "salt",
+      "tsp": 0.0625
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1.5
+    },
+    {
+      "group": "To serve"
+    },
+    {
+      "item": "coffee",
+      "cup": 0.5,
+      "note": "4 freshly made espresso shots"
+    }
+  ],
+  "steps": [
+    "Heat the cream until steaming. Whisk the yolks, allulose and salt, then slowly whisk in the hot cream.",
+    "Return to the pan and stir over low heat until it coats a spatula and reaches 80 °C (176 °F). Strain, stir in the vanilla and chill until cold.",
+    "Churn in an ice-cream maker, or pour into a shallow container and freeze, stirring hard every 30 minutes for 3 hours. Freeze until firm.",
+    "To serve, put a firm scoop into each of four small, chilled cups and pour a hot espresso over it at the table."
+  ],
+  "swaps": [
+    {
+      "from": "heavy_cream",
+      "to": "coconut_cream"
+    }
+  ],
+  "dairy_free_notes": "Coconut ice cream melts faster under hot coffee and gives a creamier, coconut-flavoured pool; scoop it straight from a very cold freezer.",
+  "origin": {
+    "family": "Affogato",
+    "place": "Italy",
+    "region": "Southern Europe",
+    "lat": 42.5,
+    "lon": 12.5,
+    "era": "1900s",
+    "history": "Affogato, Italian for 'drowned', is a scoop of gelato with espresso poured over it. It belongs to Italy's twentieth-century espresso-bar culture; no single inventor or date is documented, and it became widely known outside Italy only from the late twentieth century."
+  }
+}

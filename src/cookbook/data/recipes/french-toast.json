@@ -1,0 +1,109 @@
+{
+  "id": "french-toast",
+  "title": "French toast",
+  "category": "breakfast",
+  "summary": "Slices of a quick almond-flour loaf soaked in cinnamon custard and fried in butter until crisp outside and soft inside.",
+  "servings": 4,
+  "serving_size": "2 slices",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 40,
+    "rest_min": 20
+  },
+  "ingredients": [
+    {
+      "group": "Quick loaf"
+    },
+    {
+      "item": "almond_flour",
+      "cup": 1
+    },
+    {
+      "item": "psyllium_husk",
+      "tbsp": 1
+    },
+    {
+      "item": "baking_powder",
+      "tsp": 1
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "egg",
+      "each": 3
+    },
+    {
+      "item": "butter",
+      "tbsp": 2,
+      "note": "melted"
+    },
+    {
+      "item": "almond_milk",
+      "tbsp": 2
+    },
+    {
+      "group": "Custard"
+    },
+    {
+      "item": "egg",
+      "each": 2
+    },
+    {
+      "item": "heavy_cream",
+      "cup": 0.25
+    },
+    {
+      "item": "cinnamon",
+      "tsp": 0.5
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "erythritol",
+      "tsp": 2
+    },
+    {
+      "group": "To cook"
+    },
+    {
+      "item": "butter",
+      "tbsp": 2
+    }
+  ],
+  "steps": [
+    "Heat the oven to 175 °C (350 °F) and line a 20 × 20 cm (8 × 8 in) pan with parchment.",
+    "Whisk the loaf's dry ingredients, then beat in the eggs, melted butter and almond milk. Spread in the pan and bake 20–25 minutes, until firm and golden.",
+    "Cool completely — at least 20 minutes — then cut into 8 slices. Warm bread falls apart in the custard.",
+    "Whisk the custard ingredients in a shallow dish.",
+    "Melt half the butter in a large frying pan over medium-low heat. Dip each slice briefly, about 5 seconds a side; it absorbs fast.",
+    "Fry 2–3 minutes per side until golden, adding the rest of the butter for the second batch. Serve hot."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter"
+    },
+    {
+      "from": "heavy_cream",
+      "to": "coconut_milk"
+    }
+  ],
+  "dairy_free_notes": "With dairy-free butter and coconut milk the slices brown a little less; fry them over slightly lower heat for longer.",
+  "tips": [
+    "Day-old slices of the almond-flour sandwich loaf work just as well and skip the first step.",
+    "Top with a few berries and powdered sweetener."
+  ],
+  "origin": {
+    "family": "French toast",
+    "place": "Rome",
+    "region": "Southern Europe",
+    "lat": 41.9,
+    "lon": 12.5,
+    "era": "ancient",
+    "history": "Bread soaked in milk and egg and fried is very old: a Roman recipe collection attributed to Apicius describes it. Medieval Europe knew it by names such as pain perdu, \"lost bread\", because it rescued stale loaves. \"French toast\" is an English-language name; the dish itself is common to much of Europe."
+  }
+}

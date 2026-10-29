@@ -1,0 +1,126 @@
+{
+  "id": "pumpkin-cheesecake",
+  "title": "Pumpkin cheesecake",
+  "category": "cheesecakes",
+  "summary": "A spiced pumpkin cheesecake on a pecan crust, the American autumn pie and cheesecake rolled into one.",
+  "servings": 12,
+  "serving_size": "1 slice",
+  "time": {
+    "prep_min": 30,
+    "cook_min": 75,
+    "rest_min": 480
+  },
+  "ingredients": [
+    {
+      "group": "Crust"
+    },
+    {
+      "item": "pecans",
+      "cup": 1,
+      "note": "finely ground"
+    },
+    {
+      "item": "almond_flour",
+      "cup": 0.5
+    },
+    {
+      "item": "butter",
+      "tbsp": 4,
+      "note": "melted"
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 2
+    },
+    {
+      "item": "cinnamon",
+      "tsp": 0.5
+    },
+    {
+      "group": "Filling"
+    },
+    {
+      "item": "cream_cheese",
+      "g": 680,
+      "note": "at room temperature"
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.75
+    },
+    {
+      "item": "pumpkin_puree",
+      "cup": 1
+    },
+    {
+      "item": "egg",
+      "each": 4
+    },
+    {
+      "item": "sour_cream",
+      "cup": 0.25
+    },
+    {
+      "item": "vanilla",
+      "tsp": 2
+    },
+    {
+      "item": "cinnamon",
+      "tsp": 1.5
+    },
+    {
+      "item": "ginger_ground",
+      "tsp": 0.75
+    },
+    {
+      "item": "nutmeg",
+      "tsp": 0.25
+    },
+    {
+      "item": "cloves",
+      "tsp": 0.125
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    }
+  ],
+  "steps": [
+    "Heat the oven to 160 °C (325 °F). Line the base of a 23 cm (9 in) springform pan with parchment.",
+    "Mix the crust ingredients, press firmly over the base and bake 10 minutes. Let it cool.",
+    "Beat the cream cheese and erythritol on low speed until smooth. Beat in the pumpkin, then the eggs one at a time, then the sour cream, vanilla, spices and salt, mixing only until combined.",
+    "Pour onto the crust. Wrap the outside of the pan in foil, set it in a roasting tin and pour in hot water to come halfway up the side.",
+    "Bake 65–75 minutes, until the edge is set and the centre wobbles slightly. Turn off the oven and leave the cake inside with the door ajar for an hour.",
+    "Cool to room temperature, then refrigerate at least 8 hours before slicing."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "coconut_oil",
+      "ratio": 0.85,
+      "note": "melted"
+    },
+    {
+      "from": "cream_cheese",
+      "to": "vegan_cream_cheese",
+      "note": "block-style"
+    },
+    {
+      "from": "sour_cream",
+      "to": "coconut_yogurt"
+    }
+  ],
+  "dairy_free_notes": "The pumpkin helps the dairy-free version hold together well, but it is softer; chill it overnight and slice with a hot knife.",
+  "tips": [
+    "Blot the pumpkin purée between paper towels if it looks wet; excess water makes the filling weep."
+  ],
+  "origin": {
+    "family": "Cheesecake",
+    "place": "New England",
+    "region": "North America",
+    "lat": 42.36,
+    "lon": -71.06,
+    "era": "late 1900s",
+    "history": "Pumpkin pie has been an American autumn dessert since colonial New England and a Thanksgiving fixture since the nineteenth century. Combining its spiced pumpkin custard with cream-cheese cheesecake is a twentieth-century American idea, and by the late 1900s pumpkin cheesecake was a common holiday alternative to the pie."
+  }
+}

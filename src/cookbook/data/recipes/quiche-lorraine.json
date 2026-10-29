@@ -1,0 +1,101 @@
+{
+  "id": "quiche-lorraine",
+  "title": "Quiche Lorraine",
+  "category": "breakfast",
+  "summary": "Smoky bacon set in a nutmeg-scented egg custard in a crisp almond-flour crust — made, as in Lorraine, without cheese.",
+  "servings": 6,
+  "serving_size": "1 slice",
+  "time": {
+    "prep_min": 25,
+    "cook_min": 50,
+    "rest_min": 15
+  },
+  "ingredients": [
+    {
+      "group": "Crust"
+    },
+    {
+      "item": "almond_flour",
+      "cup": 1.5
+    },
+    {
+      "item": "coconut_flour",
+      "tbsp": 1
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    },
+    {
+      "item": "butter",
+      "tbsp": 4,
+      "note": "cold, cubed"
+    },
+    {
+      "item": "egg",
+      "each": 1
+    },
+    {
+      "group": "Filling"
+    },
+    {
+      "item": "bacon",
+      "each": 6
+    },
+    {
+      "item": "egg",
+      "each": 4
+    },
+    {
+      "item": "egg_yolk",
+      "each": 1
+    },
+    {
+      "item": "heavy_cream",
+      "cup": 1.25
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    },
+    {
+      "item": "black_pepper",
+      "tsp": 0.25
+    },
+    {
+      "item": "nutmeg",
+      "tsp": 0.125
+    }
+  ],
+  "steps": [
+    "Heat the oven to 175 °C (350 °F).",
+    "Pulse the almond flour, coconut flour, salt and butter in a food processor until crumbly, add the egg and pulse to a dough. Press evenly into a 23 cm (9 in) tart or pie pan, prick all over and bake 12–15 minutes until lightly golden.",
+    "While the crust bakes, cut the bacon into 1 cm (½ in) strips and fry until crisp. Drain on paper towels.",
+    "Whisk the eggs, yolk, cream, salt, pepper and nutmeg until smooth but not frothy.",
+    "Scatter the bacon over the warm crust and pour in the custard.",
+    "Bake 30–35 minutes, until the edge is set and the centre wobbles slightly. Rest 15 minutes before slicing."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter"
+    },
+    {
+      "from": "heavy_cream",
+      "to": "coconut_milk"
+    }
+  ],
+  "dairy_free_notes": "Coconut milk sets a softer custard with a gentle coconut note that the bacon mostly covers; rest it 30 minutes before slicing.",
+  "tips": [
+    "Cover the crust edge with foil if it browns before the filling sets."
+  ],
+  "origin": {
+    "family": "Quiche",
+    "place": "Nancy, Lorraine",
+    "region": "Western Europe",
+    "lat": 48.69,
+    "lon": 6.18,
+    "era": "by the 1500s",
+    "history": "Quiche Lorraine comes from the Lorraine region of north-eastern France, where an open tart of eggs, cream and smoked bacon was originally baked in a bread-dough base; its history is often traced to the 1500s. Cheese, now commonly added, is not part of the traditional recipe. The dish became widely fashionable in Britain and the United States after the Second World War."
+  }
+}

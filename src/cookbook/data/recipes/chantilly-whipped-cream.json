@@ -1,0 +1,55 @@
+{
+  "id": "chantilly-whipped-cream",
+  "title": "Chantilly whipped cream",
+  "category": "basics",
+  "summary": "Softly whipped, lightly sweetened vanilla cream, the classic French finish for tarts, fruit and cakes.",
+  "servings": 8,
+  "serving_size": "1/4 cup",
+  "time": {
+    "prep_min": 5,
+    "cook_min": 0,
+    "rest_min": 15
+  },
+  "ingredients": [
+    {
+      "item": "heavy_cream",
+      "cup": 1,
+      "note": "very cold"
+    },
+    {
+      "item": "powdered_erythritol",
+      "tbsp": 2
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    }
+  ],
+  "steps": [
+    "Chill the bowl and whisk (or beaters) in the freezer for 15 minutes.",
+    "Pour in the cold cream and whip on medium speed until it starts to thicken and leaves trails.",
+    "Add the powdered erythritol and vanilla and keep whipping until the cream holds soft peaks that droop at the tips. Stop for stiff peaks only if you are piping.",
+    "Use straight away, or cover and refrigerate for up to a few hours; whisk briefly by hand before serving if it has loosened."
+  ],
+  "swaps": [
+    {
+      "from": "heavy_cream",
+      "to": "coconut_cream",
+      "note": "chill the can overnight and whip only the firm solids"
+    }
+  ],
+  "dairy_free_notes": "Coconut cream whips to a denser, less airy foam with a clear coconut taste, and it softens faster at room temperature.",
+  "tips": [
+    "Powdered erythritol dissolves; granulated stays gritty in cold cream.",
+    "If you over-whip and it turns grainy, fold in a few tablespoons of unwhipped cream by hand."
+  ],
+  "origin": {
+    "family": "Whipped cream",
+    "place": "Chantilly",
+    "region": "Western Europe",
+    "lat": 49.19,
+    "lon": 2.47,
+    "era": "1600s",
+    "history": "Crème Chantilly takes its name from the Château de Chantilly, north of Paris. A popular legend credits François Vatel, steward there in the 1600s, with inventing it, but that is legend rather than record: cooks across Europe were already whipping cream before his time. The name for sweetened whipped cream became standard in French cookery later."
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "sugar-free-maple-syrup",
+  "title": "Sugar-free maple-style syrup",
+  "category": "basics",
+  "summary": "A pourable pancake syrup made with lightly caramelised allulose to imitate the colour and roasted sweetness of maple syrup, without any maple sugar.",
+  "servings": 10,
+  "serving_size": "2 tbsp",
+  "time": {
+    "prep_min": 2,
+    "cook_min": 12,
+    "rest_min": 15
+  },
+  "ingredients": [
+    {
+      "item": "allulose",
+      "cup": 1,
+      "note": "divided"
+    },
+    {
+      "item": "water",
+      "cup": 0.75,
+      "note": "divided"
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "xanthan_gum",
+      "tsp": 0.125
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "cinnamon",
+      "tsp": 0.125,
+      "note": "optional, a tiny pinch"
+    }
+  ],
+  "steps": [
+    "Put a third of the allulose and 1 tbsp of the water in a heavy saucepan and cook over medium-low heat, swirling rather than stirring, until it turns a deep amber, 5–8 minutes. Allulose browns quickly, so watch it closely.",
+    "Take the pan off the heat and very carefully pour in the rest of the water; it will spit and seize.",
+    "Return to low heat, add the remaining allulose and the salt, and stir until the hardened caramel has dissolved and the syrup is clear, 3–4 minutes.",
+    "Sprinkle the xanthan gum over the surface while whisking hard so it does not clump, then simmer 1 minute more.",
+    "Off the heat, stir in the vanilla and the cinnamon, if using. Cool 15 minutes; it thickens as it cools. Refrigerate up to 1 month and warm before serving."
+  ],
+  "swaps": [],
+  "tips": [
+    "This is an imitation: the caramel and vanilla suggest maple but do not reproduce it. A few drops of maple flavouring, if you have it, bring it much closer.",
+    "Too thick when cold? Stir in a spoonful of hot water."
+  ],
+  "origin": {
+    "family": "Maple syrup (imitation)",
+    "place": "Quebec",
+    "region": "North America",
+    "lat": 46.81,
+    "lon": -71.21,
+    "era": "pre-colonial",
+    "history": "This sugar-free syrup imitates maple syrup; it contains no maple. Indigenous peoples of northeastern North America were boiling maple sap into syrup and sugar before Europeans arrived, and European settlers learned the practice from them. Quebec is today by far the largest producer of maple syrup."
+  }
+}

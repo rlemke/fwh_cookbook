@@ -1,0 +1,86 @@
+{
+  "id": "blondies",
+  "title": "Blondies",
+  "category": "bars",
+  "summary": "Chewy brown-butter bars with toasted pecans and sugar-free chocolate chips, the vanilla cousin of the brownie.",
+  "servings": 16,
+  "serving_size": "1 square",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 25,
+    "rest_min": 30
+  },
+  "ingredients": [
+    {
+      "item": "butter",
+      "cup": 0.5
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.5
+    },
+    {
+      "item": "allulose",
+      "cup": 0.25,
+      "note": "gives the butterscotch flavour"
+    },
+    {
+      "item": "egg",
+      "each": 2
+    },
+    {
+      "item": "vanilla",
+      "tsp": 2
+    },
+    {
+      "item": "almond_flour",
+      "cup": 1.5
+    },
+    {
+      "item": "coconut_flour",
+      "tbsp": 1
+    },
+    {
+      "item": "baking_powder",
+      "tsp": 0.5
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    },
+    {
+      "item": "pecans",
+      "cup": 0.33,
+      "note": "toasted and chopped"
+    },
+    {
+      "item": "sf_chocolate_chips",
+      "cup": 0.33
+    }
+  ],
+  "steps": [
+    "Heat the oven to 165 °C (325 °F). Line a 20 cm (8 in) square pan with parchment.",
+    "Melt the butter in a light-coloured pan and keep cooking, swirling, until it smells nutty and the solids turn brown. Pour into a bowl and cool 10 minutes.",
+    "Whisk in the erythritol and allulose, then the eggs and vanilla.",
+    "Stir in the almond flour, coconut flour, baking powder and salt, then the pecans and chocolate chips.",
+    "Spread in the pan and bake 22–26 minutes, until golden and just set in the centre. Allulose browns fast; tent with foil if the top darkens early.",
+    "Cool completely, then chill 30 minutes before cutting."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter",
+      "note": "melt it but don't try to brown it"
+    }
+  ],
+  "dairy_free_notes": "Dairy-free butter can't be browned, so the bars lose the toffee note; add an extra ½ teaspoon of vanilla and toast the pecans well.",
+  "origin": {
+    "family": "Brownie",
+    "place": "United States",
+    "region": "North America",
+    "lat": 39.83,
+    "lon": -98.58,
+    "era": "1900s",
+    "history": "Butterscotch bars made with brown sugar and no chocolate appeared in American cookbooks in the first half of the twentieth century, sometimes as 'butterscotch brownies'. The name blondie came into wide use later in the century as the bar became a bake-sale staple alongside the brownie."
+  }
+}

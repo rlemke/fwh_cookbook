@@ -1,0 +1,90 @@
+{
+  "id": "pecan-pie",
+  "title": "Pecan pie",
+  "category": "pies",
+  "summary": "Toasted pecans set in a glossy, caramel-flavoured custard; allulose stands in for corn syrup because it stays liquid and browns like sugar.",
+  "servings": 10,
+  "serving_size": "1 slice",
+  "time": {
+    "prep_min": 20,
+    "cook_min": 55,
+    "rest_min": 180
+  },
+  "ingredients": [
+    {
+      "group": "Crust"
+    },
+    {
+      "item": "almond_flour",
+      "cup": 1.5
+    },
+    {
+      "item": "butter",
+      "tbsp": 4,
+      "note": "melted"
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 2
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "group": "Filling"
+    },
+    {
+      "item": "pecans",
+      "cup": 1.5,
+      "note": "halves, plus a few for the top"
+    },
+    {
+      "item": "butter",
+      "tbsp": 4,
+      "note": "melted"
+    },
+    {
+      "item": "allulose",
+      "cup": 0.75
+    },
+    {
+      "item": "egg",
+      "each": 3
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1.5
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    }
+  ],
+  "steps": [
+    "Heat the oven to 175 °C (350 °F). Press the crust ingredients over the base and sides of a 23 cm (9 in) pie plate and bake 10 minutes. Lower the oven to 160 °C (325 °F).",
+    "Toast the pecans on a tray for 6–8 minutes while the crust bakes, then chop about two-thirds of them roughly.",
+    "Whisk the melted butter, allulose, eggs, vanilla and salt until smooth. Stir in the chopped pecans.",
+    "Pour into the crust and arrange the whole halves on top. Bake 40–45 minutes, until the filling is puffed at the edge and only slightly loose in the centre.",
+    "Allulose browns quickly: lay foil loosely over the pie after 20 minutes. Cool completely, at least 3 hours, so the filling sets."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter"
+    }
+  ],
+  "dairy_free_notes": "Dairy-free butter works in both crust and filling; the filling tastes slightly less of brown butter but sets the same.",
+  "tips": [
+    "Erythritol would recrystallise into a gritty layer here; allulose is the sweetener that behaves like syrup."
+  ],
+  "origin": {
+    "family": "Pecan pie",
+    "place": "Texas and the American South",
+    "region": "North America",
+    "lat": 30.27,
+    "lon": -97.74,
+    "era": "late 1800s",
+    "history": "Pecans are native to the river valleys of the southern United States and northern Mexico. Recipes for pecan pies and custards appear in print by the late 1800s, especially in Texas. The pie became a national fixture in the 1930s, when corn-syrup makers promoted a version built on their product."
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "basque-burnt-cheesecake",
+  "title": "Basque burnt cheesecake",
+  "category": "cheesecakes",
+  "summary": "A crustless cheesecake baked very hot so the outside caramelises nearly black while the middle stays soft and creamy.",
+  "servings": 12,
+  "serving_size": "1 slice",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 40,
+    "rest_min": 240
+  },
+  "ingredients": [
+    {
+      "item": "cream_cheese",
+      "g": 900,
+      "note": "at room temperature"
+    },
+    {
+      "item": "allulose",
+      "cup": 0.5
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.5
+    },
+    {
+      "item": "salt",
+      "tsp": 0.5
+    },
+    {
+      "item": "egg",
+      "each": 5,
+      "note": "at room temperature"
+    },
+    {
+      "item": "heavy_cream",
+      "cup": 1.5
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "coconut_flour",
+      "tbsp": 1
+    }
+  ],
+  "steps": [
+    "Heat the oven to 220 °C (425 °F). Crumple two large sheets of parchment, flatten them out and use them to line a 23 cm (9 in) springform pan, pleating them so they rise 5 cm (2 in) above the rim.",
+    "Beat the cream cheese, allulose, erythritol and salt on low speed until completely smooth.",
+    "Beat in the eggs one at a time, then the cream and vanilla. Sift the coconut flour over and mix until just smooth.",
+    "Pour into the pan and bake 35–40 minutes, until the top is deep brown, almost black in places, and the centre wobbles a lot when you nudge the pan.",
+    "Cool to room temperature in the pan; it will sink and crack, which is expected. Refrigerate at least 4 hours, then bring back to room temperature for 30 minutes before serving."
+  ],
+  "swaps": [
+    {
+      "from": "cream_cheese",
+      "to": "vegan_cream_cheese",
+      "note": "block-style"
+    },
+    {
+      "from": "heavy_cream",
+      "to": "coconut_cream"
+    }
+  ],
+  "dairy_free_notes": "The dairy-free version browns and sets well but is softer and less tangy; chill it overnight and serve it cold rather than at room temperature.",
+  "tips": [
+    "Allulose caramelises like sugar and gives the dark top; with erythritol alone the cake stays pale.",
+    "Do not use a water bath and do not wait for the centre to set; it firms as it cools."
+  ],
+  "origin": {
+    "family": "Cheesecake",
+    "place": "San Sebastián",
+    "region": "Southern Europe",
+    "lat": 43.32,
+    "lon": -1.98,
+    "era": "1990",
+    "history": "The burnt cheesecake comes from La Viña, a bar in the old town of San Sebastián in the Spanish Basque Country, where it was first served in 1990. Baked crustless in a very hot oven, it was deliberately rustic. It spread worldwide in the late 2010s and is now often called 'Basque cheesecake'."
+  }
+}

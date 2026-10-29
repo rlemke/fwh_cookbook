@@ -1,0 +1,90 @@
+{
+  "id": "tarte-au-citron",
+  "title": "Tarte au citron",
+  "category": "pies",
+  "summary": "A crisp, sweet almond pastry shell filled with a bright, smooth lemon cream, finished with butter blended in after cooking.",
+  "servings": 10,
+  "serving_size": "1 slice",
+  "time": {
+    "prep_min": 40,
+    "cook_min": 30,
+    "rest_min": 240
+  },
+  "ingredients": [
+    {
+      "group": "Sweet pastry"
+    },
+    {
+      "item": "almond_flour",
+      "cup": 1.75
+    },
+    {
+      "item": "powdered_erythritol",
+      "tbsp": 3
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "butter",
+      "tbsp": 4,
+      "note": "cold, cubed"
+    },
+    {
+      "item": "egg_yolk",
+      "each": 1
+    },
+    {
+      "group": "Lemon cream"
+    },
+    {
+      "item": "egg",
+      "each": 3
+    },
+    {
+      "item": "powdered_erythritol",
+      "cup": 0.5
+    },
+    {
+      "item": "lemon_juice",
+      "cup": 0.5
+    },
+    {
+      "item": "lemon_zest",
+      "tbsp": 1
+    },
+    {
+      "item": "butter",
+      "tbsp": 6,
+      "note": "soft, cubed"
+    }
+  ],
+  "steps": [
+    "Pulse the almond flour, powdered erythritol and salt in a food processor. Add the cold butter and yolk and pulse until the dough clumps. Press it evenly into a 23 cm (9 in) tart tin with a removable base and chill 20 minutes.",
+    "Heat the oven to 175 °C (350 °F). Prick the base, bake 12–15 minutes until evenly golden, and cool. Cover the edge with foil if it darkens.",
+    "Whisk the eggs, powdered erythritol, lemon juice and zest in a heatproof bowl set over simmering water. Whisk constantly until the cream thickens and reaches about 80 °C (176 °F), 8–10 minutes.",
+    "Let it cool to about 60 °C (140 °F), then blend in the soft butter with a stick blender until glossy. Strain out the zest if you want it perfectly smooth.",
+    "Pour into the cooled shell, smooth the top and refrigerate at least 4 hours."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter"
+    }
+  ],
+  "dairy_free_notes": "Dairy-free butter gives a slightly lighter, more lemony cream; the pastry is a little more fragile, so chill it well before baking.",
+  "tips": [
+    "Blending the butter in at 60 °C, rather than cooking it in, is what makes the cream dense and silky.",
+    "Almond pastry tears easily: press it into the tin rather than rolling it."
+  ],
+  "origin": {
+    "family": "Lemon tart",
+    "place": "France",
+    "region": "Western Europe",
+    "lat": 48.86,
+    "lon": 2.35,
+    "era": "by the 1900s",
+    "history": "Lemons have been grown along the Mediterranean since the Middle Ages, and lemon creams in pastry were made in both French and English kitchens long before anyone recorded who first made them. The tarte au citron, a crisp sweet pastry with a tart lemon cream, is now a fixture of French pâtisseries; no single town or baker can be credited with it."
+  }
+}

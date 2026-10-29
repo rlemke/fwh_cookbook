@@ -1,0 +1,93 @@
+{
+  "id": "summer-pudding",
+  "title": "Summer pudding",
+  "category": "fruit",
+  "summary": "A dome of juice-soaked low-carb sponge packed with lightly cooked summer berries, pressed overnight.",
+  "servings": 8,
+  "serving_size": "1 wedge",
+  "time": {
+    "prep_min": 40,
+    "cook_min": 25,
+    "rest_min": 480
+  },
+  "ingredients": [
+    {
+      "group": "Low-carb sponge (in place of bread)"
+    },
+    {
+      "item": "egg",
+      "each": 4
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.25
+    },
+    {
+      "item": "almond_flour",
+      "cup": 1
+    },
+    {
+      "item": "psyllium_husk",
+      "tbsp": 1
+    },
+    {
+      "item": "baking_powder",
+      "tsp": 1
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "coconut_oil",
+      "tbsp": 2,
+      "note": "melted, plus a little for the tin"
+    },
+    {
+      "group": "Fruit"
+    },
+    {
+      "item": "raspberries",
+      "g": 250
+    },
+    {
+      "item": "blackberries",
+      "g": 150
+    },
+    {
+      "item": "strawberries",
+      "g": 150,
+      "note": "hulled and quartered"
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.33
+    },
+    {
+      "item": "water",
+      "tbsp": 3
+    }
+  ],
+  "steps": [
+    "Heat the oven to 175 °C (350 °F). Oil a 23 × 33 cm (9 × 13 in) baking tin and line it with parchment.",
+    "Whisk the eggs and erythritol until pale and thick, about 3 minutes. Whisk the almond flour, psyllium, baking powder and salt together, then fold them in with the melted coconut oil.",
+    "Spread thinly and evenly in the tin and bake 15–18 minutes, until springy and lightly golden. Cool completely; this thin sheet stands in for the white bread of the classic pudding.",
+    "Put the berries, erythritol and water in a pan and warm over medium-low heat for 3–4 minutes, just until the juices run and the sweetener dissolves. The fruit should keep its shape. Cool slightly.",
+    "Line a 1-litre (1-quart) pudding basin with cling film. Cut a round of sponge for the base and strips for the sides, overlapping them slightly. Brush the sponge generously with the berry juice.",
+    "Spoon in the fruit with most of the remaining juice, keeping 3–4 tablespoons back. Cover with a lid of sponge.",
+    "Fold the film over, set a saucer on top and weigh it down with a couple of cans. Refrigerate at least 8 hours.",
+    "Turn out onto a plate and spoon the reserved juice over any pale patches. Cut into wedges."
+  ],
+  "tips": [
+    "Almond sponge is softer than stale white bread; pressing it overnight with a weight is what makes it hold its shape, so do not skip it."
+  ],
+  "origin": {
+    "family": "Summer pudding",
+    "place": "England",
+    "region": "Northern Europe",
+    "lat": 52.36,
+    "lon": -1.17,
+    "era": "late 1800s",
+    "history": "Summer pudding is an English dessert of stale white bread soaked in the juice of lightly stewed soft fruit and pressed in a basin. It is often said to have begun as a lighter alternative to pastry puddings for health-conscious diners in the late nineteenth century, and it became a classic of the English summer by the early twentieth. The low-carb sponge here replaces the bread."
+  }
+}

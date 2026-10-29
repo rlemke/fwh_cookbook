@@ -1,0 +1,84 @@
+{
+  "id": "rosemary-focaccia",
+  "title": "Rosemary focaccia",
+  "category": "breads",
+  "summary": "A dimpled, olive-oil-rich flatbread from a psyllium-bound almond dough, topped with rosemary and flaky salt.",
+  "servings": 8,
+  "serving_size": "1 square",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 30,
+    "rest_min": 10
+  },
+  "ingredients": [
+    {
+      "item": "almond_flour",
+      "cup": 2
+    },
+    {
+      "item": "psyllium_husk",
+      "tbsp": 5
+    },
+    {
+      "item": "coconut_flour",
+      "tbsp": 1
+    },
+    {
+      "item": "baking_powder",
+      "tsp": 2
+    },
+    {
+      "item": "salt",
+      "tsp": 1
+    },
+    {
+      "item": "egg_white",
+      "each": 3
+    },
+    {
+      "item": "lemon_juice",
+      "tsp": 2
+    },
+    {
+      "item": "water",
+      "cup": 1,
+      "note": "boiling"
+    },
+    {
+      "item": "olive_oil",
+      "tbsp": 4,
+      "note": "divided"
+    },
+    {
+      "item": "rosemary",
+      "tbsp": 2
+    },
+    {
+      "item": "garlic",
+      "each": 1,
+      "note": "thinly sliced"
+    }
+  ],
+  "steps": [
+    "Heat the oven to 175 °C (350 °F). Pour 2 tablespoons of the olive oil into a 20 × 30 cm (8 × 12 in) baking pan and tilt to coat.",
+    "Whisk the almond flour, psyllium, coconut flour, baking powder and half the salt.",
+    "Add the egg whites and lemon juice, then pour in the boiling water and mix quickly with a spatula until a soft dough forms. Rest 10 minutes; it firms up as the psyllium sets.",
+    "With oiled hands, press the dough into the pan to the edges.",
+    "Press deep dimples all over with your fingertips. Drizzle with the remaining oil and scatter with rosemary, garlic and the remaining salt.",
+    "Bake 28–32 minutes, until golden and firm. Cool 10 minutes in the pan, then cut into 8 squares."
+  ],
+  "swaps": [],
+  "tips": [
+    "Psyllium gives this dough a bread-like chew; brands differ, and some darken the crumb purple-grey — it is harmless.",
+    "Use powdered psyllium husk, not whole husks, which need different quantities."
+  ],
+  "origin": {
+    "family": "Focaccia",
+    "place": "Genoa, Liguria",
+    "region": "Southern Europe",
+    "lat": 44.41,
+    "lon": 8.93,
+    "era": "ancient",
+    "history": "Focaccia takes its name from the Latin panis focacius, bread baked on the hearth (focus), and flat hearth breads were common in the Roman world. Liguria, and Genoa in particular, is now the home of the classic oily, dimpled focaccia eaten at breakfast and through the day."
+  }
+}

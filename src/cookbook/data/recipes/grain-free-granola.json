@@ -1,0 +1,87 @@
+{
+  "id": "grain-free-granola",
+  "title": "Grain-free granola",
+  "category": "breakfast",
+  "summary": "Clusters of toasted nuts, seeds and coconut bound with egg white and baked low so they crisp without burning.",
+  "servings": 12,
+  "serving_size": "⅓ cup",
+  "time": {
+    "prep_min": 10,
+    "cook_min": 30,
+    "rest_min": 30
+  },
+  "ingredients": [
+    {
+      "item": "pecans",
+      "cup": 1,
+      "note": "roughly chopped"
+    },
+    {
+      "item": "almonds",
+      "cup": 1,
+      "note": "roughly chopped"
+    },
+    {
+      "item": "coconut_shredded",
+      "cup": 1
+    },
+    {
+      "item": "pumpkin_seeds",
+      "cup": 0.5
+    },
+    {
+      "item": "sunflower_seeds",
+      "cup": 0.5
+    },
+    {
+      "item": "flaxseed_meal",
+      "tbsp": 2
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 3
+    },
+    {
+      "item": "cinnamon",
+      "tsp": 1.5
+    },
+    {
+      "item": "salt",
+      "tsp": 0.5
+    },
+    {
+      "item": "egg_white",
+      "each": 1
+    },
+    {
+      "item": "coconut_oil",
+      "tbsp": 3,
+      "note": "melted"
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    }
+  ],
+  "steps": [
+    "Heat the oven to 150 °C (300 °F) and line a large baking sheet with parchment.",
+    "Mix the nuts, coconut, seeds, flaxseed meal, erythritol, cinnamon and salt in a large bowl.",
+    "Whisk the egg white until frothy, then whisk in the coconut oil and vanilla. Pour over the dry mix and stir until everything is coated.",
+    "Spread in an even layer about 1 cm (½ in) thick and press down firmly with a spatula.",
+    "Bake 25–30 minutes, rotating the pan halfway, until golden. Coconut darkens fast at the end, so check from 20 minutes.",
+    "Let it cool completely on the pan without stirring — it crisps as it cools — then break into clusters. Store airtight up to 2 weeks."
+  ],
+  "swaps": [],
+  "tips": [
+    "Serve with almond milk or coconut yogurt and a few berries."
+  ],
+  "origin": {
+    "family": "Granola",
+    "place": "Dansville, New York",
+    "region": "North America",
+    "lat": 42.56,
+    "lon": -77.7,
+    "era": "1860s",
+    "history": "Granola began in American health reform. In 1863 James Caleb Jackson, who ran a sanatorium in Dansville, New York, made \"granula\" from baked whole-grain flour broken into pieces. John Harvey Kellogg later sold a similar product under the name granola, and the toasted oat-and-nut mix familiar today became popular in the 1960s."
+  }
+}

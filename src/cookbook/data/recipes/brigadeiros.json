@@ -1,0 +1,75 @@
+{
+  "id": "brigadeiros",
+  "title": "Brigadeiros",
+  "category": "candy",
+  "summary": "Brazil's party sweet: a fudgy chocolate caramel rolled into balls, made here from cream reduced with allulose instead of condensed milk.",
+  "servings": 10,
+  "serving_size": "2 brigadeiros",
+  "time": {
+    "prep_min": 25,
+    "cook_min": 30,
+    "rest_min": 60
+  },
+  "ingredients": [
+    {
+      "item": "heavy_cream",
+      "cup": 1.5
+    },
+    {
+      "item": "allulose",
+      "cup": 0.5
+    },
+    {
+      "item": "butter",
+      "tbsp": 2
+    },
+    {
+      "item": "cocoa_powder",
+      "tbsp": 3
+    },
+    {
+      "item": "salt",
+      "tsp": 0.0625
+    },
+    {
+      "item": "vanilla",
+      "tsp": 0.5
+    },
+    {
+      "item": "unsweetened_chocolate",
+      "g": 30,
+      "note": "finely grated, for rolling"
+    },
+    {
+      "item": "powdered_erythritol",
+      "tbsp": 1,
+      "note": "for rolling"
+    }
+  ],
+  "steps": [
+    "Simmer the cream and allulose in a heavy saucepan, stirring often, until reduced to about 3/4 cup and the colour of light caramel, 20–25 minutes. This stands in for sweetened condensed milk.",
+    "Whisk in the butter, cocoa and salt and keep cooking over low heat, stirring constantly, until the mixture is thick enough that a spatula drawn across the base leaves a trail that closes slowly, 5–8 minutes.",
+    "Stir in the vanilla, scrape into a buttered dish, cover and refrigerate 1 hour.",
+    "Mix the grated chocolate with the powdered erythritol. With buttered hands, roll the mixture into 20 small balls and roll each in the chocolate. Set in small paper cases. Keep chilled."
+  ],
+  "swaps": [
+    {
+      "from": "heavy_cream",
+      "to": "coconut_cream"
+    },
+    {
+      "from": "butter",
+      "to": "coconut_oil"
+    }
+  ],
+  "dairy_free_notes": "Reduced coconut cream makes a convincing condensed-milk substitute but gives softer brigadeiros with a coconut note; chill them longer before rolling.",
+  "origin": {
+    "family": "Brigadeiro",
+    "place": "Rio de Janeiro",
+    "region": "Latin America & Caribbean",
+    "lat": -22.91,
+    "lon": -43.17,
+    "era": "1940s",
+    "history": "The brigadeiro appeared in Brazil in the 1940s, when sweetened condensed milk had become a staple. Its name is commonly linked to Brigadeiro (Brigadier) Eduardo Gomes, a presidential candidate in 1945, whose supporters are said to have sold the sweets to raise funds; the story is widely repeated but not firmly documented."
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "olive-oil-cake",
+  "title": "Italian olive-oil cake",
+  "category": "cakes",
+  "summary": "A moist, golden single-layer cake made with fruity olive oil and orange zest, dairy-free as written.",
+  "servings": 10,
+  "serving_size": "1 slice",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 40,
+    "rest_min": 30
+  },
+  "ingredients": [
+    {
+      "item": "egg",
+      "each": 4,
+      "note": "at room temperature"
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.67
+    },
+    {
+      "item": "orange_zest",
+      "tbsp": 1
+    },
+    {
+      "item": "lemon_zest",
+      "tsp": 1
+    },
+    {
+      "item": "olive_oil",
+      "cup": 0.5,
+      "note": "extra-virgin, fruity rather than peppery"
+    },
+    {
+      "item": "almond_milk",
+      "cup": 0.33
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "almond_flour",
+      "cup": 2
+    },
+    {
+      "item": "coconut_flour",
+      "tbsp": 2
+    },
+    {
+      "item": "baking_powder",
+      "tsp": 2
+    },
+    {
+      "item": "salt",
+      "tsp": 0.5
+    },
+    {
+      "item": "powdered_erythritol",
+      "tbsp": 1,
+      "note": "for dusting"
+    }
+  ],
+  "steps": [
+    "Heat the oven to 175 °C (350 °F). Oil a 23 cm (9 in) round pan and line the base with parchment.",
+    "Whisk the eggs, erythritol and zests with an electric mixer for 3–4 minutes, until thick and pale.",
+    "With the mixer on low, pour in the olive oil in a thin stream, then the almond milk and vanilla.",
+    "Whisk the almond flour, coconut flour, baking powder and salt together and fold them in until just combined.",
+    "Pour into the pan and bake 35–40 minutes, until golden and a skewer comes out clean.",
+    "Cool 15 minutes in the pan, then turn out onto a rack. Dust with powdered erythritol before serving."
+  ],
+  "tips": [
+    "The oil's flavour comes through, so taste it first: a harsh oil makes a bitter cake."
+  ],
+  "origin": {
+    "family": "Oil cake",
+    "place": "Italy",
+    "region": "Southern Europe",
+    "lat": 42.5,
+    "lon": 12.5,
+    "era": "by the 1900s",
+    "history": "In the olive-growing regions of Italy, olive oil has long stood in for butter in home baking, and simple oil-based cakes flavoured with citrus are made from Liguria to Sicily. There is no single recorded origin; the cake is a family of regional home recipes rather than a named invention. This version is dairy-free as written."
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": "tres-leches-cake",
+  "title": "Tres leches cake",
+  "category": "cakes",
+  "summary": "A light almond sponge soaked through with three plant milks and topped with whipped coconut cream and a dusting of cinnamon.",
+  "servings": 12,
+  "serving_size": "1 square",
+  "time": {
+    "prep_min": 30,
+    "cook_min": 30,
+    "rest_min": 360
+  },
+  "ingredients": [
+    {
+      "group": "Sponge"
+    },
+    {
+      "item": "egg",
+      "each": 5,
+      "note": "separated, at room temperature"
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.5
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1.5
+    },
+    {
+      "item": "almond_milk",
+      "cup": 0.25
+    },
+    {
+      "item": "almond_flour",
+      "cup": 1.5
+    },
+    {
+      "item": "coconut_flour",
+      "tbsp": 2
+    },
+    {
+      "item": "baking_powder",
+      "tsp": 2
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    },
+    {
+      "item": "cream_of_tartar",
+      "tsp": 0.25
+    },
+    {
+      "group": "Three milks"
+    },
+    {
+      "item": "almond_milk",
+      "cup": 1
+    },
+    {
+      "item": "coconut_milk",
+      "cup": 1
+    },
+    {
+      "item": "coconut_cream",
+      "cup": 0.5
+    },
+    {
+      "item": "allulose",
+      "cup": 0.33
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "group": "Topping"
+    },
+    {
+      "item": "coconut_cream",
+      "cup": 1.25,
+      "note": "chilled overnight, firm part only"
+    },
+    {
+      "item": "powdered_erythritol",
+      "tbsp": 3
+    },
+    {
+      "item": "cinnamon",
+      "tsp": 0.5
+    }
+  ],
+  "steps": [
+    "Heat the oven to 175 °C (350 °F). Grease a 23 × 33 cm (9 × 13 in) baking dish; glass or ceramic is fine.",
+    "Whisk the yolks with half the erythritol until thick and pale, then whisk in the vanilla and almond milk.",
+    "Whisk the almond flour, coconut flour, baking powder and salt together and fold into the yolks.",
+    "Whisk the whites with the cream of tartar to soft peaks, add the rest of the erythritol and whisk to firm peaks. Fold into the batter in three additions.",
+    "Spread in the dish and bake 25–30 minutes, until golden and springy. Cool for 15 minutes in the dish.",
+    "Warm the three milks with the allulose and vanilla just until the allulose dissolves; let it cool to lukewarm.",
+    "Prick the cake all over with a fork, right to the bottom. Pour the milk mixture over slowly in three or four rounds, letting each soak in.",
+    "Cover and refrigerate at least 6 hours, or overnight, so the milk is fully absorbed.",
+    "Whip the coconut cream with the powdered erythritol until thick, spread over the cake and dust with cinnamon. Serve cold, in squares."
+  ],
+  "tips": [
+    "Allulose is used in the soak because it dissolves fully and does not crystallise in the fridge.",
+    "The cake will look flooded at first; it absorbs the milk overnight."
+  ],
+  "origin": {
+    "family": "Soaked sponge cake",
+    "place": "Mexico",
+    "region": "Latin America & Caribbean",
+    "lat": 19.43,
+    "lon": -99.13,
+    "era": "1900s",
+    "history": "Sponge cakes soaked in sweet liquid have a long European history, but tres leches as known today is a twentieth-century dish of Mexico and Central America. Its origin is disputed: Mexico and Nicaragua both claim it, and its spread is widely linked to canned evaporated and condensed milk sold in the region, possibly through recipes printed on the cans. This version replaces the dairy milks with almond and coconut milks, so it is dairy-free as written."
+  }
+}

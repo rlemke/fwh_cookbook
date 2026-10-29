@@ -1,0 +1,99 @@
+{
+  "id": "butter-tarts",
+  "title": "Butter tarts",
+  "category": "pies",
+  "summary": "Small almond-pastry shells filled with a runny, caramel-like butter filling and a few toasted pecans.",
+  "servings": 12,
+  "serving_size": "1 tart",
+  "time": {
+    "prep_min": 35,
+    "cook_min": 20,
+    "rest_min": 30
+  },
+  "ingredients": [
+    {
+      "group": "Pastry"
+    },
+    {
+      "item": "almond_flour",
+      "cup": 2
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 1
+    },
+    {
+      "item": "xanthan_gum",
+      "tsp": 0.5
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    },
+    {
+      "item": "butter",
+      "tbsp": 5,
+      "note": "cold, cubed"
+    },
+    {
+      "item": "egg",
+      "each": 1
+    },
+    {
+      "group": "Filling"
+    },
+    {
+      "item": "allulose",
+      "cup": 0.5
+    },
+    {
+      "item": "butter",
+      "tbsp": 3,
+      "note": "melted"
+    },
+    {
+      "item": "egg",
+      "each": 1
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "pecans",
+      "cup": 0.33,
+      "note": "toasted, chopped"
+    }
+  ],
+  "steps": [
+    "Pulse the almond flour, erythritol, xanthan gum and salt in a food processor. Add the butter and egg and pulse until the dough forms a ball. Chill 15 minutes.",
+    "Heat the oven to 165 °C (325 °F). Divide the dough into 12 pieces and press each into a cup of a standard 12-cup muffin tin, up the sides to about 2 cm (3/4 in) high.",
+    "Bake the shells 8 minutes, until just set.",
+    "Whisk the allulose, melted butter, egg, vanilla and salt until smooth. Sprinkle the pecans into the shells and pour the filling over them, about two-thirds full.",
+    "Bake 12–15 minutes, until the filling bubbles and the pastry is golden; the centres should still be slightly runny. Cool 30 minutes in the tin before lifting out with a thin knife."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter"
+    }
+  ],
+  "dairy_free_notes": "Dairy-free butter gives a slightly less toffee-like filling, and the shells are a little more crumbly; let them cool fully in the tin.",
+  "tips": [
+    "Allulose darkens quickly; the lower 165 °C oven keeps the filling from scorching before the pastry is done.",
+    "Whether butter tarts should hold raisins is a long-running Canadian argument; pecans are the low-carb side of it."
+  ],
+  "origin": {
+    "family": "Butter tart",
+    "place": "Barrie, Ontario",
+    "region": "North America",
+    "lat": 44.39,
+    "lon": -79.69,
+    "era": "1900",
+    "history": "Butter tarts are one of the few desserts widely thought of as Canadian. The earliest known printed recipe is usually traced to a 1900 community cookbook from Barrie, Ontario, though home cooks were likely making them before then. They are related to other syrup-and-butter pastries such as the Scottish ecclefechan tart and the American pecan pie."
+  }
+}

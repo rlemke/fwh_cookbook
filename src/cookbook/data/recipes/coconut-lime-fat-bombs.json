@@ -1,0 +1,70 @@
+{
+  "id": "coconut-lime-fat-bombs",
+  "title": "Coconut-lime fat bombs",
+  "category": "fat-bombs",
+  "summary": "Bright, chewy little rounds of shredded coconut, coconut cream and fresh lime, set firm in the fridge.",
+  "servings": 14,
+  "serving_size": "1 fat bomb",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 0,
+    "rest_min": 60
+  },
+  "ingredients": [
+    {
+      "item": "coconut_shredded",
+      "cup": 1
+    },
+    {
+      "item": "coconut_oil",
+      "cup": 0.33,
+      "note": "softened, not melted"
+    },
+    {
+      "item": "coconut_cream",
+      "tbsp": 3,
+      "note": "the thick part from the top of the can"
+    },
+    {
+      "item": "powdered_erythritol",
+      "tbsp": 3
+    },
+    {
+      "item": "lime_juice",
+      "tbsp": 2,
+      "note": "plus the finely grated zest of 1 lime, if you have it"
+    },
+    {
+      "item": "vanilla",
+      "tsp": 0.5
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "coconut_shredded",
+      "tbsp": 2,
+      "note": "for rolling"
+    }
+  ],
+  "steps": [
+    "Put the cup of shredded coconut in a food processor and run it for 1–2 minutes, scraping down once, until it turns fine and slightly oily.",
+    "Add the coconut oil, coconut cream, powdered erythritol, lime juice and zest, vanilla and salt and pulse until the mixture holds together when pinched.",
+    "Taste and add a little more lime if you like it sharper.",
+    "Chill the bowl for 15 minutes if the mixture is too soft to shape, then roll into 14 balls, about 1 tablespoon each.",
+    "Roll the balls in the remaining shredded coconut, set them on a lined plate and refrigerate for at least 45 minutes until firm."
+  ],
+  "tips": [
+    "These keep a week in the fridge and soften quickly at room temperature, so serve them straight from the cold."
+  ],
+  "origin": {
+    "family": "Fat bomb",
+    "place": "United States",
+    "region": "North America",
+    "lat": 39.83,
+    "lon": -98.58,
+    "era": "2010s",
+    "history": "This is a modern low-carb recipe rather than a traditional dish. Fat bombs took shape in the 2010s among American ketogenic-diet home cooks, who leaned heavily on coconut because it is high in fat and low in sugar. The coconut-and-lime pairing echoes tropical sweets and drinks, but this form of it is new."
+  }
+}

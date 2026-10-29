@@ -1,0 +1,70 @@
+{
+  "id": "mesoamerican-spiced-hot-chocolate",
+  "title": "Mesoamerican-style spiced hot chocolate",
+  "category": "drinks",
+  "summary": "Dark, frothy, barely sweet chocolate made with water and almond milk and warmed with allspice, vanilla and cinnamon.",
+  "servings": 2,
+  "serving_size": "1 mug",
+  "time": {
+    "prep_min": 5,
+    "cook_min": 8,
+    "rest_min": 0
+  },
+  "ingredients": [
+    {
+      "item": "water",
+      "cup": 1
+    },
+    {
+      "item": "almond_milk",
+      "cup": 1
+    },
+    {
+      "item": "unsweetened_chocolate",
+      "g": 30,
+      "note": "finely chopped"
+    },
+    {
+      "item": "cocoa_powder",
+      "tbsp": 1
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 2
+    },
+    {
+      "item": "allspice",
+      "tsp": 0.125
+    },
+    {
+      "item": "cinnamon",
+      "tsp": 0.5
+    },
+    {
+      "item": "vanilla",
+      "tsp": 0.5
+    },
+    {
+      "item": "salt",
+      "tsp": 0.03125
+    }
+  ],
+  "steps": [
+    "Heat the water and almond milk in a small pan until steaming but not boiling.",
+    "Add the chocolate, cocoa, erythritol, allspice and cinnamon and whisk over low heat until the chocolate has melted and the mixture is smooth, about 3 minutes.",
+    "Take off the heat and stir in the vanilla and salt. Taste and add a pinch of chilli powder if you like the heat of the older drinks.",
+    "Whisk hard, or blend for 20 seconds, until a thick foam forms on top, then pour into mugs with plenty of foam."
+  ],
+  "tips": [
+    "The Maya and Aztecs raised foam by pouring the drink from a height between two vessels; a stick blender does the same job."
+  ],
+  "origin": {
+    "family": "Cacao drink",
+    "place": "Maya lowlands, Mesoamerica",
+    "region": "Latin America & Caribbean",
+    "lat": 17.22,
+    "lon": -89.62,
+    "era": "ancient",
+    "history": "Cacao was drunk in Mesoamerica for well over two thousand years, and chemical traces of it have been found in ancient Maya vessels. The Maya and later the Aztecs prepared it as a frothy, often bitter drink, flavoured with chilli, vanilla, flowers and other spices rather than sugar, and it carried ritual and social weight. Cinnamon and sugar were added only after the Spanish brought the drink to Europe; this version keeps it barely sweet."
+  }
+}

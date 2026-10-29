@@ -1,0 +1,102 @@
+{
+  "id": "japanese-cotton-cheesecake",
+  "title": "Japanese cotton cheesecake",
+  "category": "cheesecakes",
+  "summary": "A tall, airy soufflé-style cheesecake lightened with whipped egg whites and baked gently in a water bath.",
+  "servings": 10,
+  "serving_size": "1 slice",
+  "time": {
+    "prep_min": 35,
+    "cook_min": 75,
+    "rest_min": 180
+  },
+  "ingredients": [
+    {
+      "item": "cream_cheese",
+      "g": 250,
+      "note": "at room temperature"
+    },
+    {
+      "item": "butter",
+      "tbsp": 3
+    },
+    {
+      "item": "whole_milk",
+      "cup": 0.33
+    },
+    {
+      "item": "egg_yolk",
+      "each": 5
+    },
+    {
+      "item": "lemon_juice",
+      "tbsp": 1
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "coconut_flour",
+      "tbsp": 2
+    },
+    {
+      "item": "almond_flour",
+      "tbsp": 3
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "egg_white",
+      "each": 5,
+      "note": "cold"
+    },
+    {
+      "item": "cream_of_tartar",
+      "tsp": 0.5
+    },
+    {
+      "item": "powdered_erythritol",
+      "cup": 0.5
+    }
+  ],
+  "steps": [
+    "Heat the oven to 160 °C (320 °F). Line the base and sides of an 18 cm (7 in) round pan with parchment, with the side collar rising 5 cm (2 in) above the rim. If it is a springform, wrap the outside in two layers of foil.",
+    "Melt the cream cheese, butter and milk together in a bowl over simmering water, whisking until smooth. Take off the heat and let it cool for 5 minutes.",
+    "Whisk in the yolks one at a time, then the lemon juice and vanilla. Sift in the coconut flour, almond flour and salt and whisk until smooth; strain the mixture if it has lumps.",
+    "Whisk the egg whites with the cream of tartar until foamy, then add the powdered erythritol a spoonful at a time and whisk to soft, droopy peaks, not stiff ones; over-whipped whites crack the cake.",
+    "Fold a third of the whites into the cheese base with a whisk, then fold in the rest gently with a spatula.",
+    "Pour into the pan, tap it twice on the counter to release large bubbles, and set it in a roasting tin. Pour in hot water to come 2.5 cm (1 in) up the side.",
+    "Bake 20 minutes at 160 °C (320 °F), then lower to 140 °C (285 °F) and bake 50–55 minutes more, until risen, golden and springy.",
+    "Turn the oven off and leave the cake inside with the door slightly open for 30 minutes so it does not collapse. Cool, then chill at least 3 hours."
+  ],
+  "swaps": [
+    {
+      "from": "cream_cheese",
+      "to": "vegan_cream_cheese"
+    },
+    {
+      "from": "butter",
+      "to": "vegan_butter"
+    },
+    {
+      "from": "whole_milk",
+      "to": "almond_milk"
+    }
+  ],
+  "dairy_free_notes": "The dairy-free version rises nearly as well but shrinks more as it cools and is less tangy; it is best eaten the day it is made.",
+  "tips": [
+    "Low-carb flours give less support than wheat, so expect some sinking; a gentle oven and slow cooling help most."
+  ],
+  "origin": {
+    "family": "Cheesecake",
+    "place": "Japan",
+    "region": "East Asia",
+    "lat": 35.68,
+    "lon": 139.69,
+    "era": "1960s",
+    "history": "The light, soufflé-style cheesecake is a Japanese adaptation of European cheesecakes. It is often credited to a Japanese pastry chef who encountered German Käsekuchen on a trip abroad in the 1960s, though the exact story is not well documented. It became a bakery staple in Japan and later spread across East Asia, where it is known as cotton or soufflé cheesecake."
+  }
+}

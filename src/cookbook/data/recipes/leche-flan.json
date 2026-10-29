@@ -1,0 +1,80 @@
+{
+  "id": "leche-flan",
+  "title": "Leche flan",
+  "category": "custards",
+  "summary": "The Philippine yolk-rich, extra-dense caramel custard, steamed in an oval mould and finished with lemon zest in place of calamansi.",
+  "servings": 8,
+  "serving_size": "1 slice",
+  "time": {
+    "prep_min": 20,
+    "cook_min": 40,
+    "rest_min": 360
+  },
+  "ingredients": [
+    {
+      "group": "Caramel"
+    },
+    {
+      "item": "allulose",
+      "cup": 0.33
+    },
+    {
+      "item": "water",
+      "tbsp": 2
+    },
+    {
+      "group": "Custard"
+    },
+    {
+      "item": "egg_yolk",
+      "each": 10
+    },
+    {
+      "item": "heavy_cream",
+      "cup": 1
+    },
+    {
+      "item": "almond_milk",
+      "cup": 0.5
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.33
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "lemon_zest",
+      "tsp": 0.5
+    }
+  ],
+  "steps": [
+    "Cook the allulose and water in a small pan, swirling, until amber. Pour into an oval llanera or an 18–20 cm (7–8 in) round pan and tilt to coat.",
+    "Stir the yolks gently with a spoon, without whisking in air. Stir in the cream, almond milk, erythritol, vanilla and lemon zest until the erythritol dissolves.",
+    "Strain twice onto the caramel and cover the mould tightly with foil.",
+    "Steam over gently simmering water, lid on, for 30–40 minutes, until a knife comes out clean and the centre is just set. Keep the heat low: rapid boiling makes holes.",
+    "Cool, then refrigerate at least 6 hours. Run a knife round the edge and invert onto a plate."
+  ],
+  "swaps": [
+    {
+      "from": "heavy_cream",
+      "to": "coconut_cream"
+    }
+  ],
+  "dairy_free_notes": "Coconut cream makes a very dense, slightly coconut-flavoured flan, which is close in spirit to the coconut flans of the region.",
+  "tips": [
+    "Save the 10 whites for a meringue or an angel-food-style cake.",
+    "Straining twice is what gives the smooth, bubble-free texture leche flan is known for."
+  ],
+  "origin": {
+    "family": "Flan",
+    "place": "Manila, Philippines",
+    "region": "Southeast Asia",
+    "lat": 14.6,
+    "lon": 120.98,
+    "era": "Spanish colonial era",
+    "history": "Leche flan descends from the Spanish flan brought to the Philippines during more than three centuries of Spanish rule. Filipino cooks made it denser and richer, with many yolks and, later, canned condensed and evaporated milk. A widely repeated story links its yolk-heavy recipe to egg whites used in building mortar, but that remains unproven."
+  }
+}

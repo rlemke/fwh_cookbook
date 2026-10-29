@@ -1,0 +1,114 @@
+{
+  "id": "french-silk-pie",
+  "title": "French silk chocolate pie",
+  "category": "pies",
+  "summary": "A light, airy chocolate filling, beaten until it is smooth as silk, in a baked crust under softly whipped cream.",
+  "servings": 10,
+  "serving_size": "1 slice",
+  "time": {
+    "prep_min": 35,
+    "cook_min": 12,
+    "rest_min": 240
+  },
+  "ingredients": [
+    {
+      "group": "Crust"
+    },
+    {
+      "item": "almond_flour",
+      "cup": 1.5
+    },
+    {
+      "item": "butter",
+      "tbsp": 4,
+      "note": "melted"
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 2
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "group": "Filling"
+    },
+    {
+      "item": "unsweetened_chocolate",
+      "g": 85,
+      "note": "melted and cooled"
+    },
+    {
+      "item": "butter",
+      "cup": 0.75,
+      "note": "softened"
+    },
+    {
+      "item": "powdered_erythritol",
+      "cup": 0.75
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "egg",
+      "each": 3,
+      "note": "pasteurized, at room temperature"
+    },
+    {
+      "group": "Topping"
+    },
+    {
+      "item": "heavy_cream",
+      "cup": 1
+    },
+    {
+      "item": "powdered_erythritol",
+      "tbsp": 2
+    },
+    {
+      "item": "dark_chocolate_85",
+      "g": 15,
+      "note": "shaved"
+    }
+  ],
+  "steps": [
+    "Heat the oven to 175 °C (350 °F). Press the crust into a 23 cm (9 in) pie plate and bake 10–12 minutes, until golden. Cool completely.",
+    "Beat the softened butter and powdered erythritol with an electric mixer for 3 minutes, until pale and fluffy. Beat in the cooled melted chocolate, vanilla and salt.",
+    "Add the eggs one at a time, beating 4–5 minutes on medium-high after each, until the filling is light and no longer grainy. This long beating is what gives the silky texture.",
+    "Spread the filling in the cold crust and refrigerate at least 4 hours, until firm.",
+    "Just before serving, whip the cream with the powdered erythritol to soft peaks, spread it over the pie and scatter the shaved chocolate on top."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter",
+      "note": "use a firm stick-style one"
+    },
+    {
+      "from": "heavy_cream",
+      "to": "coconut_cream",
+      "note": "chill the can overnight and whip only the solid part"
+    }
+  ],
+  "dairy_free_notes": "With dairy-free butter the filling is slightly softer and tastes more of chocolate than of butter; keep it cold until serving.",
+  "tips": [
+    "The eggs are not cooked, so use pasteurized eggs.",
+    "If the filling looks curdled, the chocolate was too warm or the butter too cold; keep beating and it usually comes together."
+  ],
+  "origin": {
+    "family": "Chocolate cream pie",
+    "place": "Maryland, United States",
+    "region": "North America",
+    "lat": 39.03,
+    "lon": -77.08,
+    "era": "1951",
+    "history": "Despite the name, this is an American pie rather than a French one. It is usually credited to a Maryland home baker's entry in the 1951 Pillsbury Bake-Off, which made it widely known. The original relied on raw eggs beaten into butter and chocolate, which is why modern versions call for pasteurized eggs."
+  }
+}

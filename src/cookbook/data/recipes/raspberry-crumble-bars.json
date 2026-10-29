@@ -1,0 +1,100 @@
+{
+  "id": "raspberry-crumble-bars",
+  "title": "Raspberry crumble bars",
+  "category": "bars",
+  "summary": "Fresh raspberries baked between an almond shortbread base and a cinnamon nut crumble, dairy-free as written.",
+  "servings": 16,
+  "serving_size": "1 square",
+  "time": {
+    "prep_min": 20,
+    "cook_min": 40,
+    "rest_min": 90
+  },
+  "ingredients": [
+    {
+      "group": "Base and crumble"
+    },
+    {
+      "item": "almond_flour",
+      "cup": 2
+    },
+    {
+      "item": "coconut_flour",
+      "tbsp": 2
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.33
+    },
+    {
+      "item": "baking_powder",
+      "tsp": 0.5
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    },
+    {
+      "item": "coconut_oil",
+      "cup": 0.33,
+      "note": "softened"
+    },
+    {
+      "item": "egg",
+      "each": 1
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "almonds",
+      "cup": 0.25,
+      "note": "sliced, for the crumble"
+    },
+    {
+      "item": "cinnamon",
+      "tsp": 0.5
+    },
+    {
+      "group": "Filling"
+    },
+    {
+      "item": "raspberries",
+      "g": 250
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 2
+    },
+    {
+      "item": "lemon_juice",
+      "tsp": 2
+    },
+    {
+      "item": "chia_seeds",
+      "tbsp": 1
+    }
+  ],
+  "steps": [
+    "Heat the oven to 175 °C (350 °F). Line a 20 cm (8 in) square pan with parchment.",
+    "Mix the almond flour, coconut flour, erythritol, baking powder and salt. Rub in the coconut oil, then mix in the egg and vanilla to a crumbly dough.",
+    "Press two-thirds of the dough into the pan and bake 12 minutes.",
+    "Mix the remaining dough with the sliced almonds and cinnamon, pinching it into clumps.",
+    "Toss the raspberries with the erythritol, lemon juice and chia seeds and spread over the warm base. Scatter the crumble on top.",
+    "Bake 25–30 minutes, until the crumble is golden and the fruit bubbles at the edges.",
+    "Cool completely, then chill 1 hour so the filling sets before cutting into 16 squares."
+  ],
+  "tips": [
+    "Frozen raspberries work; don't thaw them, and add 5 minutes to the bake."
+  ],
+  "origin": {
+    "family": "Crumble",
+    "place": "United Kingdom",
+    "region": "Northern Europe",
+    "lat": 51.51,
+    "lon": -0.13,
+    "era": "1940s",
+    "history": "The fruit crumble became popular in Britain during the Second World War, when rationing made a rubbed-in topping a thrifty alternative to pastry. Bar versions, with a pressed shortbread base and a crumble on top, are a later idea that suits a square pan and a lunchbox."
+  }
+}

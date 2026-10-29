@@ -1,0 +1,74 @@
+{
+  "id": "raspberry-cheesecake-fat-bombs",
+  "title": "Raspberry cheesecake fat bombs",
+  "category": "fat-bombs",
+  "summary": "Creamy cream-cheese bites rippled with a quick raspberry mash, frozen until just firm.",
+  "servings": 16,
+  "serving_size": "1 fat bomb",
+  "time": {
+    "prep_min": 20,
+    "cook_min": 0,
+    "rest_min": 90
+  },
+  "ingredients": [
+    {
+      "item": "raspberries",
+      "g": 60,
+      "note": "fresh or thawed frozen"
+    },
+    {
+      "item": "powdered_erythritol",
+      "tbsp": 4,
+      "note": "divided"
+    },
+    {
+      "item": "cream_cheese",
+      "g": 225,
+      "note": "softened"
+    },
+    {
+      "item": "coconut_oil",
+      "cup": 0.25,
+      "note": "softened"
+    },
+    {
+      "item": "lemon_juice",
+      "tsp": 1
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "salt",
+      "tsp": 0.0625
+    }
+  ],
+  "steps": [
+    "Mash the raspberries with 1 tablespoon of the powdered erythritol in a small bowl until saucy. Push through a sieve if you dislike the seeds.",
+    "Beat the cream cheese and coconut oil with an electric mixer until smooth and fluffy, then beat in the remaining powdered erythritol, the lemon juice, vanilla and salt.",
+    "Spoon the cream-cheese mixture into 16 silicone mini-muffin cups, filling each about three-quarters full.",
+    "Drop half a teaspoon of the raspberry mash on each and swirl it in with a toothpick; do not overmix or the colour turns muddy.",
+    "Freeze for 1½ hours, until firm. Unmould and keep in a sealed container in the freezer; let them stand 5 minutes before eating."
+  ],
+  "swaps": [
+    {
+      "from": "cream_cheese",
+      "to": "vegan_cream_cheese",
+      "note": "use a firm, block-style product"
+    }
+  ],
+  "dairy_free_notes": "A cashew- or almond-based cream cheese works but freezes harder and tastes nuttier; give the bites 10 minutes out of the freezer before eating.",
+  "tips": [
+    "Room-temperature cream cheese and coconut oil are the key to a smooth mixture; cold coconut oil leaves hard flecks."
+  ],
+  "origin": {
+    "family": "Fat bomb",
+    "place": "United States",
+    "region": "North America",
+    "lat": 39.83,
+    "lon": -98.58,
+    "era": "2010s",
+    "history": "Fat bombs are modern, not traditional: they were popularised by American ketogenic and low-carb home cooks in the 2010s. This flavour borrows from cheesecake, whose own lineage runs back through European curd tarts to ancient Greek and Roman cheese cakes, but the frozen, sugar-free bite is a recent idea."
+  }
+}

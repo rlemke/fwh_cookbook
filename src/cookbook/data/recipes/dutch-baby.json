@@ -1,0 +1,87 @@
+{
+  "id": "dutch-baby",
+  "title": "Dutch baby",
+  "category": "breakfast",
+  "summary": "A big oven pancake that puffs in a hot skillet and settles into a custardy centre, served with lemon and powdered sweetener.",
+  "servings": 4,
+  "serving_size": "1 wedge",
+  "time": {
+    "prep_min": 10,
+    "cook_min": 20,
+    "rest_min": 0
+  },
+  "ingredients": [
+    {
+      "item": "egg",
+      "each": 4
+    },
+    {
+      "item": "whole_milk",
+      "cup": 0.5
+    },
+    {
+      "item": "almond_flour",
+      "cup": 0.33
+    },
+    {
+      "item": "coconut_flour",
+      "tbsp": 1
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 1
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "butter",
+      "tbsp": 3
+    },
+    {
+      "item": "lemon_juice",
+      "tbsp": 1,
+      "note": "to serve"
+    },
+    {
+      "item": "powdered_erythritol",
+      "tbsp": 1,
+      "note": "to serve"
+    }
+  ],
+  "steps": [
+    "Put a 25 cm (10 in) cast-iron or ovenproof skillet in the oven and heat to 220 °C (425 °F).",
+    "Blend the eggs, milk, almond flour, coconut flour, erythritol, vanilla and salt until smooth and frothy, about 1 minute.",
+    "Take the hot skillet out, add the butter and swirl until melted and foaming. Pour in the batter at once.",
+    "Bake 15–18 minutes without opening the door, until puffed and well browned at the edge.",
+    "Squeeze lemon juice over, dust with powdered erythritol and cut into wedges straight away; it sinks as it cools."
+  ],
+  "swaps": [
+    {
+      "from": "whole_milk",
+      "to": "almond_milk"
+    },
+    {
+      "from": "butter",
+      "to": "vegan_butter"
+    }
+  ],
+  "dairy_free_notes": "Without gluten it rises less than a wheat Dutch baby — expect puffed edges and a flatter, custardy middle. The dairy-free version browns a little less.",
+  "tips": [
+    "A very hot pan matters more than anything; do not skip preheating it."
+  ],
+  "origin": {
+    "family": "Dutch baby",
+    "place": "Seattle",
+    "region": "North America",
+    "lat": 47.61,
+    "lon": -122.33,
+    "era": "early 1900s",
+    "history": "The Dutch baby is an American dish adapted from German oven pancakes; \"Dutch\" is generally taken as a corruption of Deutsch. It is often credited to a Seattle family café in the early 1900s, where the name is said to have been coined."
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "masala-chai",
+  "title": "Masala chai",
+  "category": "drinks",
+  "summary": "Strong black tea simmered with ginger, cardamom, cinnamon, cloves and pepper, then finished with milk.",
+  "servings": 2,
+  "serving_size": "1 cup",
+  "time": {
+    "prep_min": 5,
+    "cook_min": 10,
+    "rest_min": 0
+  },
+  "ingredients": [
+    {
+      "item": "water",
+      "cup": 1.25,
+      "note": "with 2 tsp loose Assam tea or 2 black tea bags"
+    },
+    {
+      "item": "ginger_ground",
+      "tsp": 0.5,
+      "note": "or a 2 cm (¾ in) piece of fresh ginger, sliced"
+    },
+    {
+      "item": "cardamom",
+      "tsp": 0.25
+    },
+    {
+      "item": "cinnamon",
+      "tsp": 0.25
+    },
+    {
+      "item": "cloves",
+      "tsp": 0.0625
+    },
+    {
+      "item": "black_pepper",
+      "tsp": 0.0625
+    },
+    {
+      "item": "whole_milk",
+      "cup": 1
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 1.5
+    }
+  ],
+  "steps": [
+    "Bring the water to a boil in a small pan with the ginger, cardamom, cinnamon, cloves and pepper. Simmer 3 minutes.",
+    "Add the tea and simmer 2 minutes more, until the liquid is dark.",
+    "Pour in the milk and erythritol and bring back just to a boil, watching closely because it rises fast. Lower the heat and simmer 1–2 minutes.",
+    "Strain into cups and serve hot."
+  ],
+  "swaps": [
+    {
+      "from": "whole_milk",
+      "to": "almond_milk",
+      "note": "or coconut milk thinned half-and-half with water for a richer cup"
+    }
+  ],
+  "dairy_free_notes": "Almond milk makes a thinner, less creamy chai and can separate if boiled hard; add it last and only bring it to a gentle simmer.",
+  "tips": [
+    "Whole spices (cardamom pods, a cinnamon stick, cloves) crushed lightly give a clearer flavour than ground; strain them out the same way."
+  ],
+  "origin": {
+    "family": "Chai",
+    "place": "India",
+    "region": "South Asia",
+    "lat": 22.57,
+    "lon": 88.36,
+    "era": "1900s",
+    "history": "Spiced drinks and herbal brews have a long history in India, but tea drinking spread widely there only in the twentieth century, after the British established plantations in Assam and the tea industry promoted the drink at home. Indian vendors made it their own by boiling tea with milk, sugar and spices, creating the masala chai now sold at stalls across the country. The marker sits at Kolkata, close to the Assam and Darjeeling tea districts."
+  }
+}

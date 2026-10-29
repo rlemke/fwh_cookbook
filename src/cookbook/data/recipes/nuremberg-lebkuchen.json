@@ -1,0 +1,115 @@
+{
+  "id": "nuremberg-lebkuchen",
+  "title": "Nuremberg-style Lebkuchen",
+  "category": "cookies",
+  "summary": "Soft, flourless nut-and-spice Christmas cookies in the Elisen style, glazed with dark chocolate.",
+  "servings": 16,
+  "serving_size": "1 cookie",
+  "time": {
+    "prep_min": 25,
+    "cook_min": 18,
+    "rest_min": 60
+  },
+  "ingredients": [
+    {
+      "group": "Dough"
+    },
+    {
+      "item": "egg",
+      "each": 2
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.5
+    },
+    {
+      "item": "allulose",
+      "tbsp": 2
+    },
+    {
+      "item": "almond_flour",
+      "cup": 1
+    },
+    {
+      "item": "hazelnut_flour",
+      "cup": 1
+    },
+    {
+      "item": "orange_zest",
+      "tbsp": 1
+    },
+    {
+      "item": "lemon_zest",
+      "tsp": 1
+    },
+    {
+      "item": "cinnamon",
+      "tsp": 2
+    },
+    {
+      "item": "cloves",
+      "tsp": 0.25
+    },
+    {
+      "item": "allspice",
+      "tsp": 0.25
+    },
+    {
+      "item": "cardamom",
+      "tsp": 0.25
+    },
+    {
+      "item": "nutmeg",
+      "tsp": 0.25
+    },
+    {
+      "item": "ginger_ground",
+      "tsp": 0.25
+    },
+    {
+      "item": "baking_powder",
+      "tsp": 0.5
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "almonds",
+      "g": 32,
+      "note": "16 whole blanched almonds, for the tops; optional"
+    },
+    {
+      "group": "Chocolate glaze"
+    },
+    {
+      "item": "dark_chocolate_85",
+      "g": 60
+    },
+    {
+      "item": "coconut_oil",
+      "tsp": 2
+    }
+  ],
+  "steps": [
+    "Beat the eggs with the erythritol and allulose for 5 minutes, until thick and pale.",
+    "Fold in the almond and hazelnut flours, zests, spices, baking powder and salt. The mixture will be soft. Cover and leave 1 hour so the nuts absorb the moisture and the spices bloom.",
+    "Heat the oven to 160 °C (325 °F) and line two baking sheets with parchment.",
+    "With wet hands, shape 16 mounds about 6 cm (2½ in) across and 1.5 cm (½ in) high. Press an almond into any you are not glazing.",
+    "Bake 15–18 minutes, until the edges are firm and the tops just coloured; the centres stay soft. Cool completely.",
+    "Melt the chocolate with the coconut oil and brush or spoon it over the cooled cookies. Leave to set."
+  ],
+  "tips": [
+    "Traditional Elisenlebkuchen are baked on thin wafers called Oblaten, which contain starch; parchment does the job here.",
+    "Stored airtight for a few days, they soften and the spice deepens."
+  ],
+  "origin": {
+    "family": "Lebkuchen",
+    "place": "Nuremberg",
+    "region": "Western Europe",
+    "lat": 49.45,
+    "lon": 11.08,
+    "era": "medieval",
+    "history": "Honey-and-spice cakes were made in German monasteries in the Middle Ages, and Nuremberg, a hub of the spice trade, became famous for them; the city's Lebkuchen bakers are recorded from the late medieval period. The richest kind, Elisenlebkuchen, is made almost entirely of nuts with little or no flour."
+  }
+}

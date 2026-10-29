@@ -1,0 +1,74 @@
+{
+  "id": "pots-de-creme",
+  "title": "Chocolate pots de crème",
+  "category": "custards",
+  "summary": "Small, dense chocolate custards baked in a water bath; richer and smoother than a mousse.",
+  "servings": 6,
+  "serving_size": "1 pot",
+  "time": {
+    "prep_min": 20,
+    "cook_min": 35,
+    "rest_min": 240
+  },
+  "ingredients": [
+    {
+      "item": "heavy_cream",
+      "cup": 1.5
+    },
+    {
+      "item": "almond_milk",
+      "cup": 0.5
+    },
+    {
+      "item": "unsweetened_chocolate",
+      "g": 70,
+      "note": "finely chopped"
+    },
+    {
+      "item": "egg_yolk",
+      "each": 5
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.33
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "espresso_powder",
+      "tsp": 0.25
+    }
+  ],
+  "steps": [
+    "Heat the oven to 150 °C (300 °F). Set six small ramekins or pots in a roasting tin.",
+    "Heat the cream and almond milk until steaming, pour over the chocolate and leave 2 minutes, then stir until smooth.",
+    "Whisk the yolks, erythritol, vanilla, salt and espresso powder. Slowly whisk in the chocolate cream and strain into a jug.",
+    "Pour into the pots and add hot water to the tin to come halfway up. Cover the tin loosely with foil.",
+    "Bake 30–35 minutes, until set at the edge with a slight wobble in the centre. Cool, then refrigerate at least 4 hours."
+  ],
+  "swaps": [
+    {
+      "from": "heavy_cream",
+      "to": "coconut_cream"
+    }
+  ],
+  "dairy_free_notes": "Coconut cream makes an equally dense custard; the chocolate covers most of the coconut flavour.",
+  "tips": [
+    "Unsweetened chocolate keeps the carbs low; taste the warm chocolate cream and add a few drops of stevia if you like it sweeter."
+  ],
+  "origin": {
+    "family": "Baked custard",
+    "place": "France",
+    "region": "Western Europe",
+    "lat": 48.86,
+    "lon": 2.35,
+    "era": "1700s",
+    "history": "Pots de crème are named for the small lidded cups they were baked and served in. French porcelain makers were producing sets of these custard cups by the 1700s, a sign of how fashionable the little custards were at table. Vanilla, coffee and chocolate are the classic flavours."
+  }
+}

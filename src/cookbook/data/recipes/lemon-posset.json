@@ -1,0 +1,58 @@
+{
+  "id": "lemon-posset",
+  "title": "Lemon posset",
+  "category": "mousses",
+  "summary": "Three ingredients: cream boiled with sweetener, then set by nothing more than lemon juice into something silky and sharp.",
+  "servings": 6,
+  "serving_size": "1 small ramekin",
+  "time": {
+    "prep_min": 10,
+    "cook_min": 10,
+    "rest_min": 300
+  },
+  "ingredients": [
+    {
+      "item": "heavy_cream",
+      "cup": 2
+    },
+    {
+      "item": "allulose",
+      "cup": 0.5
+    },
+    {
+      "item": "lemon_zest",
+      "tbsp": 1
+    },
+    {
+      "item": "lemon_juice",
+      "cup": 0.33,
+      "note": "from about 2 lemons"
+    }
+  ],
+  "steps": [
+    "Put the cream, allulose and zest in a wide saucepan and bring slowly to the boil, stirring until the allulose dissolves.",
+    "Let it boil gently for 3 minutes, watching that it does not rise over the rim. This reduction is what gives the posset its body.",
+    "Take the pan off the heat and stir in the lemon juice. Leave it to stand for 10 minutes.",
+    "Strain through a fine sieve into a jug to remove the zest, then pour into six small ramekins or glasses.",
+    "Cool, then refrigerate uncovered for at least 5 hours, until set."
+  ],
+  "swaps": [
+    {
+      "from": "heavy_cream",
+      "to": "coconut_cream"
+    }
+  ],
+  "dairy_free_notes": "Coconut cream does not thicken with acid the way dairy cream does, so it relies on chilling to set and will be softer and spoonable rather than firm; simmer it a little longer and chill overnight.",
+  "tips": [
+    "Allulose rather than erythritol keeps the posset smooth: erythritol tends to recrystallise in a cold cream."
+  ],
+  "origin": {
+    "family": "Posset",
+    "place": "England",
+    "region": "Northern Europe",
+    "lat": 52.5,
+    "lon": -1.5,
+    "era": "medieval",
+    "history": "In medieval and Tudor England a posset was a hot drink of milk or cream curdled with wine or ale, often spiced and taken as a remedy. The modern lemon posset, a set cream thickened by citrus juice, is a much later descendant that became a popular British dessert in the twentieth century."
+  }
+}

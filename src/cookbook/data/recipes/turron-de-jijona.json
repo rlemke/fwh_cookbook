@@ -1,0 +1,63 @@
+{
+  "id": "turron-de-jijona",
+  "title": "Soft almond turrón (Jijona style)",
+  "category": "candy",
+  "summary": "The soft, crumbly kind of Spanish turrón: roasted almonds ground to a paste with sweetener, lemon and cinnamon, pressed into a bar.",
+  "servings": 16,
+  "serving_size": "1 slice",
+  "time": {
+    "prep_min": 25,
+    "cook_min": 15,
+    "rest_min": 720
+  },
+  "ingredients": [
+    {
+      "item": "almonds",
+      "g": 250,
+      "note": "blanched"
+    },
+    {
+      "item": "allulose",
+      "cup": 0.5
+    },
+    {
+      "item": "water",
+      "tbsp": 2
+    },
+    {
+      "item": "egg_white",
+      "each": 1
+    },
+    {
+      "item": "lemon_zest",
+      "tsp": 1
+    },
+    {
+      "item": "cinnamon",
+      "tsp": 0.5
+    },
+    {
+      "item": "salt",
+      "tsp": 0.0625
+    }
+  ],
+  "steps": [
+    "Heat the oven to 165 °C (325 °F). Roast the almonds on a tray for 10–12 minutes, until golden through. Cool.",
+    "Grind the almonds in a food processor until they pass the crumb stage and become a thick, oily paste, 3–5 minutes, scraping down often.",
+    "Warm the allulose and water in a small pan until it bubbles and reaches 115 °C (240 °F). Do not let it darken.",
+    "With the processor running, add the egg white, then pour in the hot syrup, then the zest, cinnamon and salt. Process until evenly combined.",
+    "Line a 20 x 10 cm (8 x 4 in) loaf tin with parchment, press the paste in firmly and level it. Cover and leave at room temperature for 12 hours to firm, then slice."
+  ],
+  "tips": [
+    "Toast the almonds well: their roasted flavour is the whole character of turrón de Jijona."
+  ],
+  "origin": {
+    "family": "Turrón",
+    "place": "Jijona (Xixona)",
+    "region": "Southern Europe",
+    "lat": 38.54,
+    "lon": -0.5,
+    "era": "1500s",
+    "history": "Turrón, an almond and honey confection, has been made around Jijona and Alicante in eastern Spain for centuries and is documented there from the sixteenth century; its roots are often traced to the sweets of Moorish Spain. Jijona gives its name to the soft, ground-almond kind, while the hard kind with whole almonds is associated with Alicante. This version replaces the honey with allulose."
+  }
+}

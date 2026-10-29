@@ -1,0 +1,65 @@
+{
+  "id": "chocolate-truffles",
+  "title": "Chocolate truffles",
+  "category": "candy",
+  "summary": "A soft coconut-cream ganache rolled into rough balls and tossed in cocoa, dairy-free as written.",
+  "servings": 12,
+  "serving_size": "2 truffles",
+  "time": {
+    "prep_min": 30,
+    "cook_min": 5,
+    "rest_min": 180
+  },
+  "ingredients": [
+    {
+      "item": "unsweetened_chocolate",
+      "g": 115,
+      "note": "finely chopped"
+    },
+    {
+      "item": "sf_chocolate_chips",
+      "g": 60
+    },
+    {
+      "item": "coconut_cream",
+      "cup": 0.5
+    },
+    {
+      "item": "powdered_erythritol",
+      "cup": 0.33
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "salt",
+      "tsp": 0.0625
+    },
+    {
+      "item": "cocoa_powder",
+      "tbsp": 3,
+      "note": "for rolling"
+    }
+  ],
+  "steps": [
+    "Put both chocolates in a heatproof bowl.",
+    "Heat the coconut cream with the powdered erythritol until it just simmers, whisking to dissolve. Pour it over the chocolate and leave for 2 minutes.",
+    "Stir slowly from the centre outwards until smooth and glossy, then stir in the vanilla and salt.",
+    "Cover and refrigerate about 2 hours, until firm enough to scoop.",
+    "Scoop heaped teaspoons, roll quickly between cool palms, and drop into the cocoa to coat. Refrigerate in a covered box; bring to cool room temperature for 10 minutes before eating."
+  ],
+  "tips": [
+    "If the ganache splits and looks oily, whisk in a teaspoon of warm water.",
+    "The rough, cocoa-dusted shape is the point: it is what gives truffles their name."
+  ],
+  "origin": {
+    "family": "Chocolate truffle",
+    "place": "Chambéry",
+    "region": "Western Europe",
+    "lat": 45.57,
+    "lon": 5.92,
+    "era": "late 1800s",
+    "history": "Chocolate truffles are named for their resemblance to the truffle fungus: knobbly, irregular and dusted in cocoa. They are often said to have been created by a confectioner in Chambéry in the 1890s, though the story is traditional rather than documented; by the twentieth century ganache truffles were a standard of French confectionery."
+  }
+}

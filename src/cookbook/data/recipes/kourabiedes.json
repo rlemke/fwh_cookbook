@@ -1,0 +1,87 @@
+{
+  "id": "kourabiedes",
+  "title": "Kourabiedes",
+  "category": "cookies",
+  "summary": "Tender Greek butter-almond cookies scented with orange blossom and buried in a snowfall of powdered sweetener.",
+  "servings": 20,
+  "serving_size": "1 cookie",
+  "time": {
+    "prep_min": 20,
+    "cook_min": 18,
+    "rest_min": 30
+  },
+  "ingredients": [
+    {
+      "item": "almonds",
+      "cup": 0.5,
+      "note": "blanched, toasted and chopped"
+    },
+    {
+      "item": "butter",
+      "cup": 0.5,
+      "note": "softened"
+    },
+    {
+      "item": "powdered_erythritol",
+      "cup": 0.25
+    },
+    {
+      "item": "egg_yolk",
+      "each": 1
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "orange_blossom_water",
+      "tsp": 1,
+      "note": "or rose water"
+    },
+    {
+      "item": "almond_flour",
+      "cup": 1.75
+    },
+    {
+      "item": "baking_powder",
+      "tsp": 0.5
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "powdered_erythritol",
+      "cup": 0.5,
+      "note": "for coating"
+    }
+  ],
+  "steps": [
+    "Toast the blanched almonds in a dry pan until golden, cool and chop finely.",
+    "Beat the butter with the ¼ cup powdered erythritol for 5 minutes, until very pale; the long beating gives kourabiedes their tender, melting texture.",
+    "Beat in the egg yolk, vanilla and orange blossom water. Stir in the almond flour, baking powder, salt and chopped almonds. Chill 30 minutes.",
+    "Heat the oven to 165 °C (325 °F) and line a baking sheet with parchment. Shape the dough into 20 small crescents or balls.",
+    "Bake 15–18 minutes, until just golden on the bottom but pale on top.",
+    "While still warm, sprinkle a little orange blossom water over them if you like, then dredge thickly in the remaining powdered erythritol. Cool completely and dredge again."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter",
+      "note": "use a firm stick-style one"
+    }
+  ],
+  "dairy_free_notes": "Dairy-free butter makes a slightly softer cookie; chill the shaped cookies 15 minutes before baking so they keep their crescents.",
+  "tips": [
+    "They are fragile while warm; move them only once cool."
+  ],
+  "origin": {
+    "family": "Shortbread",
+    "place": "Greece",
+    "region": "Southern Europe",
+    "lat": 37.98,
+    "lon": 23.73,
+    "era": "Ottoman era",
+    "history": "Kourabiedes share their name and lineage with the kurabiye of Turkey and the qurabiya of Persia and the Arab world, rich butter cookies that spread across the Ottoman lands. In Greece they became a Christmas and celebration cookie, made with toasted almonds and buried in icing sugar."
+  }
+}

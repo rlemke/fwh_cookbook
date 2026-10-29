@@ -1,0 +1,70 @@
+{
+  "id": "almond-flour-pie-crust",
+  "title": "Almond-flour sweet pie crust",
+  "category": "basics",
+  "summary": "A short, buttery press-in crust in the spirit of French pâte sucrée, made with almond flour and blind-baked for tarts and pies.",
+  "servings": 8,
+  "serving_size": "1/8 of the crust",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 15,
+    "rest_min": 30
+  },
+  "ingredients": [
+    {
+      "item": "almond_flour",
+      "cup": 2
+    },
+    {
+      "item": "powdered_erythritol",
+      "tbsp": 3
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    },
+    {
+      "item": "butter",
+      "tbsp": 4,
+      "note": "melted and slightly cooled"
+    },
+    {
+      "item": "egg_yolk",
+      "each": 1
+    },
+    {
+      "item": "vanilla",
+      "tsp": 0.5
+    }
+  ],
+  "steps": [
+    "Heat the oven to 175 °C (350 °F). Have ready a 23 cm (9 in) pie dish or tart pan with a removable base.",
+    "Whisk the almond flour, powdered erythritol and salt in a bowl, breaking up any lumps.",
+    "Add the melted butter, egg yolk and vanilla and stir until the mixture clumps together like damp sand that holds when squeezed.",
+    "Tip it into the pan and press it evenly over the base and up the sides with your fingers, then smooth it with the bottom of a flat glass. Aim for about 5 mm (1/4 in) thick, a little thicker where the base meets the sides.",
+    "Prick the base all over with a fork and chill for 30 minutes so the butter firms and the sides hold their shape.",
+    "Bake 12–15 minutes, until the edges are light golden. If the rim browns before the base is done, cover it with a strip of foil.",
+    "Cool completely in the pan before filling. For a filling that bakes again, bake the crust only 8–10 minutes and shield the rim during the second bake."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter",
+      "note": "use a firm stick-style spread"
+    }
+  ],
+  "dairy_free_notes": "Dairy-free butter gives a slightly softer, less browned crust; chill it the full 30 minutes before baking so the sides do not slump.",
+  "tips": [
+    "Almond flour browns much faster than wheat pastry, so watch the last few minutes closely.",
+    "The crust is fragile while warm and firms as it cools; do not unmould it hot."
+  ],
+  "origin": {
+    "family": "Sweet shortcrust (pâte sucrée)",
+    "place": "Paris",
+    "region": "Western Europe",
+    "lat": 48.86,
+    "lon": 2.35,
+    "era": "1800s",
+    "history": "Pâte sucrée, a sweet shortcrust enriched with sugar and egg, is one of the basic doughs of French pâtisserie and was part of the professional repertoire of Paris pastry shops by the 1800s. It gives the crisp, biscuit-like shell used for fruit and custard tarts. This almond-flour version keeps the idea of a rich, sweet, short crust but is pressed in rather than rolled, because almond flour has no gluten to hold a rolled sheet together."
+  }
+}

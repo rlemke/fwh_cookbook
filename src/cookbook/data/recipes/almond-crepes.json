@@ -1,0 +1,71 @@
+{
+  "id": "almond-crepes",
+  "title": "Crêpes",
+  "category": "breakfast",
+  "summary": "Thin, flexible egg-based crêpes held together with a little psyllium, for folding around sweet or savoury fillings.",
+  "servings": 4,
+  "serving_size": "2 crêpes",
+  "time": {
+    "prep_min": 10,
+    "cook_min": 20,
+    "rest_min": 10
+  },
+  "ingredients": [
+    {
+      "item": "egg",
+      "each": 4
+    },
+    {
+      "item": "almond_milk",
+      "cup": 0.5
+    },
+    {
+      "item": "almond_flour",
+      "cup": 0.25
+    },
+    {
+      "item": "coconut_flour",
+      "tbsp": 1
+    },
+    {
+      "item": "psyllium_husk",
+      "tsp": 1
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "butter",
+      "tbsp": 2,
+      "note": "melted, plus extra for the pan"
+    }
+  ],
+  "steps": [
+    "Blend all the ingredients until completely smooth, about 30 seconds.",
+    "Let the batter rest 10 minutes so the psyllium and coconut flour hydrate; it should be like thin cream. Add a spoonful of water if it is thicker.",
+    "Heat a 20 cm (8 in) non-stick pan over medium heat and brush with butter.",
+    "Pour in 3 tablespoons of batter and swirl at once to coat the base thinly.",
+    "Cook about 1 minute, until the edge lifts and the underside is lightly golden. Loosen with a thin spatula, flip and cook 20–30 seconds more.",
+    "Stack on a plate and repeat, stirring the batter each time."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter"
+    }
+  ],
+  "dairy_free_notes": "Dairy-free butter gives slightly paler crêpes but the texture is the same.",
+  "tips": [
+    "Fill with whipped cream and a few berries, or with ham and spinach for a savoury version."
+  ],
+  "origin": {
+    "family": "Crêpe",
+    "place": "Quimper, Brittany",
+    "region": "Western Europe",
+    "lat": 48.0,
+    "lon": -4.1,
+    "era": "medieval",
+    "history": "Brittany is the home of the crêpe. Buckwheat, which grows on poor soil, spread there in the late Middle Ages, and thin buckwheat galettes became a staple; sweeter wheat crêpes followed as white flour became affordable. Crêperies carried the dish across France and beyond."
+  }
+}

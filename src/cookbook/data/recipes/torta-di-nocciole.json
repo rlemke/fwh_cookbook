@@ -1,0 +1,88 @@
+{
+  "id": "torta-di-nocciole",
+  "title": "Piedmontese hazelnut cake (torta di nocciole)",
+  "category": "cakes",
+  "summary": "A plain, fragrant single-layer cake made almost entirely of toasted ground hazelnuts, eggs and a little butter.",
+  "servings": 10,
+  "serving_size": "1 slice",
+  "time": {
+    "prep_min": 20,
+    "cook_min": 35,
+    "rest_min": 30
+  },
+  "ingredients": [
+    {
+      "item": "hazelnut_flour",
+      "cup": 2,
+      "note": "or toasted hazelnuts ground fine"
+    },
+    {
+      "item": "baking_powder",
+      "tsp": 1.5
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    },
+    {
+      "item": "egg",
+      "each": 4,
+      "note": "separated, at room temperature"
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.5
+    },
+    {
+      "item": "butter",
+      "cup": 0.33,
+      "note": "melted and cooled"
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "almond_milk",
+      "tbsp": 3
+    },
+    {
+      "item": "hazelnuts",
+      "g": 30,
+      "note": "roughly chopped, for the top"
+    },
+    {
+      "item": "powdered_erythritol",
+      "tbsp": 1,
+      "note": "for dusting"
+    }
+  ],
+  "steps": [
+    "Heat the oven to 170 °C (340 °F). Grease a 23 cm (9 in) round pan and line the base with parchment.",
+    "If using hazelnut flour, toast it in a dry pan over medium heat, stirring, until it smells nutty, about 4 minutes; tip it out to cool. Whisk in the baking powder and salt.",
+    "Whisk the yolks with half the erythritol until pale and thick, then whisk in the melted butter, vanilla and almond milk. Stir in the hazelnut mixture.",
+    "Whisk the whites to soft peaks, add the rest of the erythritol and whisk until firm. Fold into the hazelnut batter in three additions.",
+    "Spread in the pan, scatter the chopped hazelnuts over and bake 30–35 minutes, until a skewer comes out clean.",
+    "Cool in the pan 15 minutes, then turn out and cool on a rack. Dust with powdered erythritol to serve."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "coconut_oil",
+      "note": "melted; or a mild olive oil"
+    }
+  ],
+  "dairy_free_notes": "Made with coconut oil or olive oil the cake is just as moist; olive oil keeps it softer in the fridge, where coconut oil firms up.",
+  "tips": [
+    "Toasting the nuts is what gives the cake its flavour; do not skip it."
+  ],
+  "origin": {
+    "family": "Nut cake",
+    "place": "Langhe, Piedmont",
+    "region": "Southern Europe",
+    "lat": 44.62,
+    "lon": 8.03,
+    "era": "by the 1900s",
+    "history": "The Langhe hills of southern Piedmont are known for the Tonda Gentile hazelnut, and a simple cake of ground hazelnuts is a long-standing farmhouse dessert there; its exact date of origin is not recorded. The same nuts later underpinned Piedmont's gianduja chocolate and the region's hazelnut confectionery industry."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "new-york-cheesecake",
+  "title": "New York cheesecake",
+  "category": "cheesecakes",
+  "summary": "Dense, tall and tangy, baked low and slow on an almond-flour crust so the top stays smooth.",
+  "servings": 12,
+  "serving_size": "1 slice",
+  "time": {"prep_min": 30, "cook_min": 75, "rest_min": 480},
+  "ingredients": [
+    {"group": "Crust"},
+    {"item": "almond_flour", "cup": 1.5},
+    {"item": "butter", "tbsp": 5, "note": "melted"},
+    {"item": "erythritol", "tbsp": 2},
+    {"item": "salt", "tsp": 0.125},
+    {"group": "Filling"},
+    {"item": "cream_cheese", "g": 900, "note": "at room temperature"},
+    {"item": "erythritol", "cup": 0.75},
+    {"item": "sour_cream", "cup": 0.5},
+    {"item": "egg", "each": 4},
+    {"item": "lemon_zest", "tsp": 1},
+    {"item": "lemon_juice", "tbsp": 1},
+    {"item": "vanilla", "tsp": 2}
+  ],
+  "steps": [
+    "Heat the oven to 160 °C (325 °F). Line the base of a 23 cm (9 in) springform pan with parchment.",
+    "Stir the crust ingredients together, press firmly into the pan and bake 10 minutes. Let it cool while you make the filling.",
+    "Beat the cream cheese and erythritol on low speed until completely smooth, scraping the bowl twice. Low speed keeps air out, which is what cracks the top.",
+    "Beat in the sour cream, then the eggs one at a time, then the zest, juice and vanilla, stopping as soon as each is mixed in.",
+    "Pour onto the crust. Wrap the outside of the pan in foil and set it in a roasting tin; pour in hot water to come halfway up the pan.",
+    "Bake 70–75 minutes, until the edge is set and the centre still wobbles. Turn the oven off, prop the door open and leave the cake inside for an hour.",
+    "Run a knife round the edge, cool to room temperature, then refrigerate at least 8 hours before slicing."
+  ],
+  "swaps": [
+    {"from": "butter", "to": "vegan_butter"},
+    {"from": "cream_cheese", "to": "vegan_cream_cheese"},
+    {"from": "sour_cream", "to": "coconut_yogurt"}
+  ],
+  "dairy_free_notes": "Use a firm, block-style dairy-free cream cheese, not a tub spread, and chill overnight: the dairy-free version sets softer.",
+  "tips": ["Erythritol can recrystallise in the fridge; a powdered sweetener or allulose avoids the slight crunch."],
+  "origin": {
+    "family": "Cheesecake",
+    "place": "New York City",
+    "region": "North America",
+    "lat": 40.71,
+    "lon": -74.01,
+    "era": "early 1900s",
+    "history": "Cheese-and-honey cakes were baked in ancient Greece and Rome, and curd tarts spread across medieval Europe. The New York style followed the arrival of cream cheese, first sold in New York State in the 1870s; by the early twentieth century the city's delicatessens were known for a tall, dense cake made almost entirely of it."
+  }
+}

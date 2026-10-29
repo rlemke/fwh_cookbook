@@ -1,0 +1,132 @@
+{% extends "base.html" %}
+{% from "macros.html" import dairy_badge %}
+{% block head %}
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
+{% endblock %}
+{% block style %}
+#map { height: 480px; border-radius: 8px; border: 1px solid var(--line); margin: 8px 0 4px; }
+@media (max-width: 600px) { #map { height: 360px; } }
+.filters { display: flex; flex-wrap: wrap; gap: 10px 18px; align-items: center; background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 12px 14px; margin: 12px 0 18px; font-size: .9rem; }
+.filters input[type=search] { flex: 1 1 220px; padding: 6px 10px; border: 1px solid var(--line); border-radius: 6px; background: var(--bg); color: var(--ink); font-size: .95rem; }
+.filters select { padding: 5px; border: 1px solid var(--line); border-radius: 6px; background: var(--bg); color: var(--ink); }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 14px; }
+.card { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 12px 14px; text-decoration: none; color: var(--ink); display: block; }
+.card:hover { border-color: var(--accent); }
+.card h3 { margin: 0 0 4px; font-size: 1.05rem; }
+.card .meta { font-size: .8rem; color: var(--muted); }
+.card[hidden] { display: none; }
+.stats { display: flex; flex-wrap: wrap; gap: 10px 28px; margin: 12px 0 20px; font-family: system-ui, sans-serif; }
+.stats b { display: block; font-size: 1.6rem; color: var(--accent); }
+.regions button { font: inherit; font-size: .8rem; border: 1px solid var(--line); background: var(--chip); color: var(--ink); border-radius: 999px; padding: 2px 10px; margin: 2px 4px 2px 0; cursor: pointer; }
+.regions button.on { background: var(--accent); color: #fff; border-color: var(--accent); }
+.leaflet-popup-content { font-family: system-ui, sans-serif; font-size: .85rem; }
+.leaflet-popup-content ul { padding-left: 16px; margin: 4px 0; }
+#count { color: var(--muted); }
+{% endblock %}
+{% block body %}
+<h1>{{ title }}</h1>
+<p class="lede">{{ subtitle }}.</p>
+<div class="stats">
+  <div><b>{{ stats.recipes }}</b>recipes</div>
+  <div><b>{{ stats.desserts }}</b>desserts</div>
+  <div><b>{{ stats.dairy_free }}</b>dairy-free as written</div>
+  <div><b>{{ stats.dairy_option }}</b>with a dairy-free version</div>
+  <div><b>{{ stats.median_net_dessert }} g</b>median net carbs, desserts</div>
+  <div><b>{{ stats.places }}</b>places of origin</div>
+</div>
+<p class="note">Every recipe is built on established low-carb baking ratios, and its nutrition is <a href="about.html#nutrition">computed from USDA data</a>, not estimated. None of these recipes has been kitchen-tested, so treat them as a careful starting point, especially the dairy-free versions.</p>
+
+<h2 id="origins">Where these dishes come from</h2>
+<p>Every recipe is placed where its <em>kind</em> of dish took shape: cheesecake in New York, Sachertorte in Vienna, haupia in Hawaii. Click a marker to see its recipes, or pick a region to filter the map and the list below. Origins are often disputed, and each recipe page says so where they are.</p>
+<div class="regions sans" id="regions"><button class="on" data-r="">All regions</button>{% for r in region_names %}<button data-r="{{ r }}">{{ r }}</button>{% endfor %}</div>
+<div id="map" role="region" aria-label="Map of where each dish comes from"></div>
+<p class="small">{{ stats.places }} places in {{ stats.regions }} regions. Modern low-carb inventions are placed where they first appeared.</p>
+
+<h2 id="recipes">Recipes</h2>
+<div class="filters" id="filters">
+  <input type="search" id="q" placeholder="Search: chocolate, lemon, Vienna…" aria-label="Search recipes">
+  <label>Chapter <select id="cat"><option value="">All</option>{% for k, n in categories %}<option value="{{ k }}">{{ n }}</option>{% endfor %}</select></label>
+  <label>Net carbs <select id="net"><option value="">Any</option><option value="3">≤ 3 g</option><option value="5">≤ 5 g</option><option value="8">≤ 8 g</option></select></label>
+  <label><input type="checkbox" id="df"> Dairy-free as written</label>
+  <label><input type="checkbox" id="nf"> Nut-free</label>
+  <label><input type="checkbox" id="ef"> Egg-free</label>
+  <label><input type="checkbox" id="cf"> Coconut-free</label>
+  <span id="count"></span>
+</div>
+<div class="grid" id="grid">
+{% for c in chapters %}{% for v in c.recipes %}
+  <a class="card" href="recipes/{{ v.id }}.html" data-id="{{ v.id }}">
+    <h3>{{ v.title }}</h3>
+    <div class="meta">{{ c.name }} · {{ v.origin.place }}</div>
+    <div class="meta">{{ dairy_badge(v) }} <span class="badge net">{{ v.per.net_carbs_g }} g net</span> {{ v.per.kcal }} kcal</div>
+  </a>
+{% endfor %}{% endfor %}
+</div>
+
+<h2>Chapters</h2>
+<ul class="sans">
+{% for c in chapters %}<li><a href="book.html#ch-{{ c.key }}">{{ c.name }}</a> — {{ c.recipes|length }} recipes</li>{% endfor %}
+</ul>
+{% endblock %}
+{% block script %}
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" crossorigin=""></script>
+<script id="cards" type="application/json">{{ cards|tojson_compact }}</script>
+<script id="places" type="application/json">{{ places|tojson_compact }}</script>
+<script>
+(function () {
+  var cards = JSON.parse(document.getElementById('cards').textContent);
+  var places = JSON.parse(document.getElementById('places').textContent);
+  var byId = {}; cards.forEach(function (c) { byId[c.id] = c; });
+  var region = '';
+  var els = {}; document.querySelectorAll('#grid .card').forEach(function (a) { els[a.dataset.id] = a; });
+  var f = { q: document.getElementById('q'), cat: document.getElementById('cat'), net: document.getElementById('net'),
+            df: document.getElementById('df'), nf: document.getElementById('nf'), ef: document.getElementById('ef'), cf: document.getElementById('cf') };
+  function keep(c) {
+    var q = f.q.value.trim().toLowerCase();
+    if (q && (c.t + ' ' + c.f + ' ' + c.p + ' ' + c.r).toLowerCase().indexOf(q) < 0) return false;
+    if (f.cat.value && c.c !== f.cat.value) return false;
+    if (f.net.value && Math.min(c.n, c.nd) > parseFloat(f.net.value)) return false;
+    if (f.df.checked && !c.d) return false;
+    if (f.nf.checked && (c.x.indexOf('tree nuts') >= 0 || c.x.indexOf('peanuts') >= 0)) return false;
+    if (f.ef.checked && c.x.indexOf('eggs') >= 0) return false;
+    if (f.cf.checked && c.x.indexOf('coconut') >= 0) return false;
+    if (region && c.r !== region) return false;
+    return true;
+  }
+  var markers = [];
+  function apply() {
+    var n = 0;
+    cards.forEach(function (c) { var ok = keep(c); els[c.id].hidden = !ok; if (ok) n++; });
+    document.getElementById('count').textContent = n + ' of ' + cards.length;
+    markers.forEach(function (m) {
+      var any = m.p.items.some(function (i) { return keep(byId[i.id]); });
+      m.m.setStyle({ opacity: any ? 1 : 0.15, fillOpacity: any ? 0.8 : 0.1 });
+    });
+  }
+  Object.keys(f).forEach(function (k) { f[k].addEventListener('input', apply); f[k].addEventListener('change', apply); });
+  document.getElementById('regions').addEventListener('click', function (e) {
+    var b = e.target.closest('button'); if (!b) return;
+    region = b.dataset.r;
+    document.querySelectorAll('#regions button').forEach(function (x) { x.classList.toggle('on', x === b); });
+    apply();
+  });
+  if (window.L) {
+    var map = L.map('map', { worldCopyJump: true, scrollWheelZoom: false }).setView([30, 10], 2);
+    L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 9, attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    }).addTo(map);
+    var esc = function (s) { return String(s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); };
+    var focus = new URLSearchParams(location.search).get('focus');
+    places.forEach(function (p) {
+      var html = '<strong>' + esc(p.place) + '</strong><br><span style="color:#888">' + esc(p.region) + '</span><ul>' +
+        p.items.map(function (i) { return '<li><a href="recipes/' + esc(i.id) + '.html">' + esc(i.t) + '</a> <span style="color:#888">' + esc(i.f) + ', ' + esc(i.e) + '</span></li>'; }).join('') + '</ul>';
+      var m = L.circleMarker([p.lat, p.lon], { radius: 5 + Math.min(8, 2 * p.items.length), color: '#a4452c', weight: 2, fillColor: '#e48a6c', fillOpacity: 0.8 })
+        .bindPopup(html).addTo(map);
+      markers.push({ m: m, p: p });
+      if (focus && p.items.some(function (i) { return i.id === focus; })) { map.setView([p.lat, p.lon], 5); m.openPopup(); }
+    });
+  }
+  apply();
+})();
+</script>
+{% endblock %}

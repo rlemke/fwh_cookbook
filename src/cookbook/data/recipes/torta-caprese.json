@@ -1,0 +1,86 @@
+{
+  "id": "torta-caprese",
+  "title": "Torta caprese",
+  "category": "cakes",
+  "summary": "A flourless chocolate and almond cake from Capri with a crisp top and a soft, almost fudgy middle.",
+  "servings": 12,
+  "serving_size": "1 slice",
+  "time": {
+    "prep_min": 25,
+    "cook_min": 40,
+    "rest_min": 60
+  },
+  "ingredients": [
+    {
+      "item": "unsweetened_chocolate",
+      "g": 140,
+      "note": "chopped"
+    },
+    {
+      "item": "butter",
+      "cup": 0.67,
+      "note": "cubed"
+    },
+    {
+      "item": "almonds",
+      "g": 200,
+      "note": "blanched, toasted and finely ground"
+    },
+    {
+      "item": "cocoa_powder",
+      "tbsp": 2
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    },
+    {
+      "item": "egg",
+      "each": 5,
+      "note": "separated, at room temperature"
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.75
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "powdered_erythritol",
+      "tbsp": 1,
+      "note": "for dusting"
+    }
+  ],
+  "steps": [
+    "Heat the oven to 170 °C (340 °F). Grease a 23 cm (9 in) springform pan and line the base with parchment.",
+    "Melt the chocolate and butter together over barely simmering water, stir until smooth and let it cool until just warm.",
+    "Mix the ground almonds, cocoa and salt.",
+    "Whisk the yolks with half the erythritol until pale and thick, then stir in the chocolate and vanilla, followed by the almond mixture.",
+    "Whisk the whites to soft peaks, add the remaining erythritol and whisk to firm peaks. Fold them into the chocolate base in three additions; the first will be hard work, the last should be gentle.",
+    "Scrape into the pan and bake 35–40 minutes, until the top is crisp and cracked and a skewer in the centre comes out with moist crumbs.",
+    "Cool completely in the pan; the cake sinks slightly as it cools. Unmould and dust with powdered erythritol."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "coconut_oil",
+      "ratio": 0.85,
+      "note": "refined coconut oil has no coconut taste; use a little less because it is all fat"
+    }
+  ],
+  "dairy_free_notes": "With coconut oil the cake is a touch firmer and more truffle-like once cold; serve it at room temperature.",
+  "tips": [
+    "Grinding toasted almonds yourself gives the authentic coarse texture; almond flour also works but makes a finer, softer cake."
+  ],
+  "origin": {
+    "family": "Chocolate cake",
+    "place": "Capri",
+    "region": "Southern Europe",
+    "lat": 40.55,
+    "lon": 14.24,
+    "era": "1900s",
+    "history": "Torta caprese is named after the island of Capri in the Bay of Naples. A popular story says a baker forgot to add the flour to an almond and chocolate cake and the result was a success; the tale is a legend and the cake's exact origin is not documented. It is naturally flourless and is widely eaten around Naples and the Amalfi Coast."
+  }
+}

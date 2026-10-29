@@ -1,0 +1,113 @@
+{
+  "id": "malva-pudding",
+  "title": "Malva pudding",
+  "category": "custards",
+  "summary": "A light, spongy baked pudding that soaks up a hot buttery cream sauce as it comes out of the oven, served warm.",
+  "servings": 9,
+  "serving_size": "1 square",
+  "time": {
+    "prep_min": 20,
+    "cook_min": 35,
+    "rest_min": 15
+  },
+  "ingredients": [
+    {
+      "group": "Pudding"
+    },
+    {
+      "item": "almond_flour",
+      "cup": 1.5
+    },
+    {
+      "item": "baking_powder",
+      "tsp": 1.5
+    },
+    {
+      "item": "baking_soda",
+      "tsp": 0.5
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    },
+    {
+      "item": "egg",
+      "each": 2
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.33
+    },
+    {
+      "item": "butter",
+      "tbsp": 2,
+      "note": "melted"
+    },
+    {
+      "item": "almond_milk",
+      "cup": 0.5
+    },
+    {
+      "item": "lemon_juice",
+      "tsp": 1
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "orange_zest",
+      "tsp": 1
+    },
+    {
+      "group": "Sauce"
+    },
+    {
+      "item": "heavy_cream",
+      "cup": 0.5
+    },
+    {
+      "item": "butter",
+      "tbsp": 4
+    },
+    {
+      "item": "allulose",
+      "cup": 0.33
+    },
+    {
+      "item": "water",
+      "cup": 0.25
+    }
+  ],
+  "steps": [
+    "Heat the oven to 175 °C (350 °F). Grease a 20 cm (8 in) square baking dish.",
+    "Whisk the almond flour, baking powder, baking soda and salt.",
+    "Beat the eggs and erythritol until pale and thick, about 3 minutes. Beat in the melted butter, almond milk, lemon juice, vanilla and orange zest, then fold in the dry ingredients.",
+    "Pour into the dish and bake 25–30 minutes, until well risen, golden and a skewer comes out clean.",
+    "In the last 5 minutes, heat the cream, butter, allulose and water in a saucepan until the butter melts and it just simmers.",
+    "Prick the hot pudding all over with a skewer and pour the hot sauce slowly over it. Leave 15 minutes to soak before serving warm."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter"
+    },
+    {
+      "from": "heavy_cream",
+      "to": "coconut_cream"
+    }
+  ],
+  "dairy_free_notes": "With coconut cream and dairy-free butter the sauce soaks in just as well; the flavour is a little less buttery.",
+  "tips": [
+    "Traditional malva pudding has apricot jam in the batter; the orange zest gives a fruity note without the sugar."
+  ],
+  "origin": {
+    "family": "Baked sponge pudding",
+    "place": "Cape Town, South Africa",
+    "region": "Sub-Saharan Africa",
+    "lat": -33.92,
+    "lon": 18.42,
+    "era": "1900s",
+    "history": "Malva pudding is an Afrikaans dessert associated with the Cape and its Dutch-descended cooking. Its exact origin and the meaning of the name are not firmly recorded. It became one of South Africa's best-known desserts in the later 1900s and is now served across the country."
+  }
+}

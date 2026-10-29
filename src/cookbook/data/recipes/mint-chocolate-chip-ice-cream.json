@@ -1,0 +1,76 @@
+{
+  "id": "mint-chocolate-chip-ice-cream",
+  "title": "Mint chocolate chip ice cream",
+  "category": "frozen",
+  "summary": "A dairy-free coconut base steeped with fresh mint, sharpened with peppermint and streaked with fine chocolate flecks.",
+  "servings": 8,
+  "serving_size": "1/2 cup",
+  "time": {
+    "prep_min": 20,
+    "cook_min": 15,
+    "rest_min": 480
+  },
+  "ingredients": [
+    {
+      "item": "coconut_cream",
+      "cup": 1.5
+    },
+    {
+      "item": "coconut_milk",
+      "cup": 1
+    },
+    {
+      "item": "mint",
+      "cup": 1,
+      "note": "loosely packed leaves"
+    },
+    {
+      "item": "egg_yolk",
+      "each": 4
+    },
+    {
+      "item": "allulose",
+      "cup": 0.67
+    },
+    {
+      "item": "salt",
+      "tsp": 0.0625
+    },
+    {
+      "item": "peppermint_extract",
+      "tsp": 0.5
+    },
+    {
+      "item": "unsweetened_chocolate",
+      "g": 30
+    },
+    {
+      "item": "sf_chocolate_chips",
+      "g": 30
+    },
+    {
+      "item": "coconut_oil",
+      "tsp": 2
+    }
+  ],
+  "steps": [
+    "Bring the coconut cream and coconut milk to a simmer, add the mint, take off the heat, cover and steep 30 minutes. Strain, pressing the leaves, and return the liquid to the pan.",
+    "Reheat until steaming. Whisk the yolks, allulose and salt, slowly whisk in the hot coconut, then return to the pan and stir over low heat until it reaches 80 °C (176 °F) and coats a spatula.",
+    "Strain, stir in the peppermint extract, and chill at least 4 hours.",
+    "Melt both chocolates with the coconut oil and let it cool until barely warm but still fluid.",
+    "Churn the base. In the last minute of churning, drizzle the chocolate in a thin stream into the machine; it freezes into crisp flecks. Freeze 3–4 hours before serving."
+  ],
+  "tips": [
+    "Steeping fresh mint gives a grassier, rounder flavour than extract alone; the extract adds the cool finish.",
+    "Fresh-mint ice cream is pale cream, not green; that is the honest colour."
+  ],
+  "origin": {
+    "family": "Mint chocolate chip ice cream",
+    "place": "England",
+    "region": "Northern Europe",
+    "lat": 52.5,
+    "lon": -1.5,
+    "era": "1970s",
+    "history": "Mint-flavoured ices are old, but mint chocolate chip as a named flavour is often credited to a British culinary student's entry in a 1973 competition to create a dish for the wedding of Princess Anne. It became one of the most popular ice-cream flavours in Britain and North America."
+  }
+}

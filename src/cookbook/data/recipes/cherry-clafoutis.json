@@ -1,0 +1,94 @@
+{
+  "id": "cherry-clafoutis",
+  "title": "Cherry clafoutis",
+  "category": "fruit",
+  "summary": "Sweet cherries baked in a puffed, custardy almond batter, served warm with a dusting of powdered sweetener.",
+  "servings": 8,
+  "serving_size": "1 wedge",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 40,
+    "rest_min": 15
+  },
+  "ingredients": [
+    {
+      "item": "butter",
+      "tbsp": 1,
+      "note": "for the dish"
+    },
+    {
+      "item": "cherries",
+      "g": 200,
+      "note": "pitted"
+    },
+    {
+      "item": "egg",
+      "each": 3
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.33
+    },
+    {
+      "item": "almond_flour",
+      "cup": 0.5
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "heavy_cream",
+      "cup": 0.5
+    },
+    {
+      "item": "almond_milk",
+      "cup": 0.5
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "almond_extract",
+      "tsp": 0.25
+    },
+    {
+      "item": "powdered_erythritol",
+      "tbsp": 1,
+      "note": "for dusting"
+    }
+  ],
+  "steps": [
+    "Heat the oven to 180 °C (350 °F). Butter a 23 cm (9 in) pie dish or shallow baking dish and spread the cherries over the base.",
+    "Whisk the eggs and erythritol until frothy, then whisk in the almond flour and salt until smooth.",
+    "Whisk in the cream, almond milk, vanilla and almond extract. The batter will be thin, like a crêpe batter.",
+    "Pour the batter gently over the cherries.",
+    "Bake 35–40 minutes, until puffed, golden at the edges and just set in the centre; a knife inserted midway should come out clean.",
+    "Cool 15 minutes; it sinks as it cools, which is normal. Dust with powdered erythritol and serve warm."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "coconut_oil"
+    },
+    {
+      "from": "heavy_cream",
+      "to": "coconut_cream"
+    }
+  ],
+  "dairy_free_notes": "With coconut cream the custard is slightly denser and has a mild coconut note; the almond extract helps cover it.",
+  "tips": [
+    "In Limousin the cherries are traditionally left unpitted, which adds a faint almond flavour from the stones; warn your guests if you do this.",
+    "Cherries are high in sugar for a fruit, so keep to the weight given."
+  ],
+  "origin": {
+    "family": "Clafoutis",
+    "place": "Limousin, France",
+    "region": "Western Europe",
+    "lat": 45.83,
+    "lon": 1.26,
+    "era": "1800s",
+    "history": "Clafoutis is a country dessert from the Limousin region of central France, made by pouring a thick pancake-like batter over black cherries and baking it. It spread to the rest of France in the nineteenth century. Strictly, only the cherry version is called clafoutis; made with other fruit, the French usually call it a flaugnarde."
+  }
+}

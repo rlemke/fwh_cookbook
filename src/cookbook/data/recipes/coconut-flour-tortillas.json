@@ -1,0 +1,61 @@
+{
+  "id": "coconut-flour-tortillas",
+  "title": "Coconut-flour tortillas",
+  "category": "breads",
+  "summary": "Pliable, grain-free tortillas from coconut flour and psyllium, cooked in a dry skillet for tacos or wraps.",
+  "servings": 8,
+  "serving_size": "1 tortilla",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 15,
+    "rest_min": 10
+  },
+  "ingredients": [
+    {
+      "item": "coconut_flour",
+      "cup": 0.5
+    },
+    {
+      "item": "psyllium_husk",
+      "tbsp": 2
+    },
+    {
+      "item": "salt",
+      "tsp": 0.5
+    },
+    {
+      "item": "baking_powder",
+      "tsp": 0.5
+    },
+    {
+      "item": "water",
+      "cup": 1,
+      "note": "hot"
+    },
+    {
+      "item": "olive_oil",
+      "tbsp": 2
+    }
+  ],
+  "steps": [
+    "Whisk the coconut flour, psyllium, salt and baking powder.",
+    "Add the hot water and olive oil and stir, then knead for a minute into a smooth, slightly tacky dough. Rest 10 minutes.",
+    "Divide into 8 balls. Roll each between two sheets of parchment into a thin round about 15 cm (6 in) across; a tortilla press also works.",
+    "Heat a dry cast-iron or non-stick pan over medium-high heat. Cook each tortilla 1–1½ minutes per side, until spotted brown.",
+    "Stack under a clean towel as they come off the pan; the steam keeps them soft."
+  ],
+  "swaps": [],
+  "tips": [
+    "If the dough cracks when rolled, knead in another tablespoon of hot water.",
+    "Coconut flour varies in how much water it absorbs; adjust by the spoonful."
+  ],
+  "origin": {
+    "family": "Tortilla",
+    "place": "Valley of Mexico",
+    "region": "Latin America & Caribbean",
+    "lat": 19.43,
+    "lon": -99.13,
+    "era": "ancient",
+    "history": "Tortillas are an ancient Mesoamerican food, made from maize cooked with lime (nixtamalised) and ground into masa, then cooked on a clay griddle called a comal. Wheat-flour tortillas came later, after the Spanish brought wheat. This version is a modern low-carb stand-in that uses neither."
+  }
+}

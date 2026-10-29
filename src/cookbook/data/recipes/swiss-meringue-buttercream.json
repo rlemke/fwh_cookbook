@@ -1,0 +1,69 @@
+{
+  "id": "swiss-meringue-buttercream",
+  "title": "Swiss meringue buttercream",
+  "category": "basics",
+  "summary": "A silky, stable buttercream made by warming egg whites with sweetener over a water bath, whipping them to a meringue and beating in butter.",
+  "servings": 16,
+  "serving_size": "1/4 cup",
+  "time": {
+    "prep_min": 30,
+    "cook_min": 8,
+    "rest_min": 0
+  },
+  "ingredients": [
+    {
+      "item": "egg_white",
+      "each": 4
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.5
+    },
+    {
+      "item": "allulose",
+      "cup": 0.25
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "butter",
+      "cup": 1.5,
+      "note": "softened but cool, cut into tablespoons"
+    },
+    {
+      "item": "vanilla",
+      "tsp": 2
+    }
+  ],
+  "steps": [
+    "Set a heatproof mixer bowl over a pan of barely simmering water, without the bowl touching the water. Make sure the bowl is completely free of grease.",
+    "Whisk the egg whites, erythritol, allulose and salt in the bowl until the mixture reaches 71 °C (160 °F) on a thermometer and feels smooth, not grainy, when rubbed between your fingers, about 5–8 minutes.",
+    "Move the bowl to the mixer and whip on high speed until the meringue is thick, glossy and the bowl feels cool, about 8–10 minutes.",
+    "Switch to medium speed and add the butter one piece at a time, waiting until each is mixed in.",
+    "If it looks curdled, keep beating: it comes together. If it stays soupy, chill the bowl 10 minutes and beat again; if it stays lumpy and cold, warm the side of the bowl briefly.",
+    "Beat in the vanilla. Use at once, or refrigerate up to a week and re-beat at room temperature before using."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter",
+      "note": "firm stick style, not a tub spread"
+    }
+  ],
+  "dairy_free_notes": "Dairy-free butter makes a softer buttercream that loosens quickly in a warm room; chill the frosted cake to set it and pipe only in a cool kitchen.",
+  "tips": [
+    "The allulose helps stop the erythritol from recrystallising into a gritty texture after chilling.",
+    "Butter that is too warm gives a soupy buttercream; it should dent with a finger but not look shiny."
+  ],
+  "origin": {
+    "family": "Buttercream",
+    "place": "Switzerland",
+    "region": "Western Europe",
+    "lat": 46.8,
+    "lon": 8.23,
+    "era": "1900s",
+    "history": "Meringue appears in French and English recipes by the 1600s and 1700s; the claim that it is named after the Swiss town of Meiringen is popular but unproven. Pastry cooks call a meringue whose whites and sugar are warmed together over a water bath 'Swiss', as a classification rather than a documented birthplace. Beating butter into it gives a stable buttercream that became a standard of twentieth-century cake decorating."
+  }
+}

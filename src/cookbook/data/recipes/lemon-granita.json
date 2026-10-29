@@ -1,0 +1,50 @@
+{
+  "id": "lemon-granita",
+  "title": "Lemon granita",
+  "category": "frozen",
+  "summary": "Sicilian-style lemon ice, scraped into fine crystals as it freezes: no machine, sharp and very refreshing.",
+  "servings": 6,
+  "serving_size": "1/2 cup",
+  "time": {
+    "prep_min": 10,
+    "cook_min": 5,
+    "rest_min": 240
+  },
+  "ingredients": [
+    {
+      "item": "water",
+      "cup": 2
+    },
+    {
+      "item": "allulose",
+      "cup": 0.5
+    },
+    {
+      "item": "lemon_zest",
+      "tbsp": 1
+    },
+    {
+      "item": "lemon_juice",
+      "cup": 0.67
+    }
+  ],
+  "steps": [
+    "Warm 1 cup of the water with the allulose and zest, stirring until dissolved. Take off the heat and leave 10 minutes.",
+    "Strain, then stir in the remaining water and the lemon juice. Pour into a metal baking dish about 20 x 30 cm (8 x 12 in).",
+    "Freeze for 45 minutes, then rake the icy edges into the middle with a fork.",
+    "Repeat every 30 minutes for about 3 hours, until the whole dish is fine, fluffy crystals.",
+    "Serve straight away in chilled glasses, or cover and keep frozen and rake again before serving."
+  ],
+  "tips": [
+    "Allulose gives softer crystals than erythritol, which freezes into hard shards."
+  ],
+  "origin": {
+    "family": "Granita",
+    "place": "Catania",
+    "region": "Southern Europe",
+    "lat": 37.5,
+    "lon": 15.09,
+    "era": "1800s",
+    "history": "Sicilians long harvested snow from Mount Etna and other peaks, stored it in pits, and served it shaved with fruit syrups; a link to the sherbets of the island's Arab period is often suggested but is traditional rather than documented. The granita made by freezing and stirring a flavoured syrup, now eaten across Sicily, was established by the nineteenth century."
+  }
+}

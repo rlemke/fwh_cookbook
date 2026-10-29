@@ -1,0 +1,60 @@
+{
+  "id": "chocolate-sauce",
+  "title": "Chocolate sauce",
+  "category": "basics",
+  "summary": "A pourable cocoa sauce made with coconut milk and allulose, dairy-free as written, that stays fluid in the fridge.",
+  "servings": 10,
+  "serving_size": "2 tbsp",
+  "time": {
+    "prep_min": 5,
+    "cook_min": 6,
+    "rest_min": 0
+  },
+  "ingredients": [
+    {
+      "item": "coconut_milk",
+      "cup": 0.75
+    },
+    {
+      "item": "allulose",
+      "cup": 0.33
+    },
+    {
+      "item": "cocoa_powder",
+      "cup": 0.33,
+      "note": "sifted"
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "coconut_oil",
+      "tbsp": 1
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    }
+  ],
+  "steps": [
+    "Whisk the coconut milk, allulose, cocoa and salt in a small saucepan until no dry cocoa remains.",
+    "Bring to a gentle simmer over medium-low heat, whisking, and cook 3–4 minutes until it coats the back of a spoon. Keep the heat low: allulose scorches easily.",
+    "Off the heat, whisk in the coconut oil and vanilla until glossy.",
+    "Serve warm over ice cream or fruit. Refrigerate up to 1 week; it thickens when cold, so warm it briefly or thin with a spoonful of water."
+  ],
+  "swaps": [],
+  "tips": [
+    "Dutch-process cocoa gives a darker, milder sauce; natural cocoa a fruitier, sharper one.",
+    "Allulose is used because it stays dissolved; sauces made with erythritol turn crunchy in the fridge."
+  ],
+  "origin": {
+    "family": "Chocolate sauce",
+    "place": "United States",
+    "region": "North America",
+    "lat": 39.83,
+    "lon": -98.58,
+    "era": "early 1900s",
+    "history": "Sweet chocolate sauces for puddings and ices appear in European and American cookbooks by the 1800s. In the United States they became a fixture of the soda fountain in the late 1800s and early 1900s, poured over ice cream sundaes, whose own birthplace is disputed among several American towns. This version replaces sugar and dairy with allulose and coconut milk."
+  }
+}

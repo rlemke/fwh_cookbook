@@ -1,0 +1,63 @@
+{
+  "id": "lemon-syllabub",
+  "title": "Lemon syllabub",
+  "category": "mousses",
+  "summary": "Cream whipped with lemon and a little nutmeg until it barely holds a trail: an old English dessert that takes ten minutes.",
+  "servings": 6,
+  "serving_size": "1 small glass",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 0,
+    "rest_min": 120
+  },
+  "ingredients": [
+    {
+      "item": "lemon_zest",
+      "tsp": 2
+    },
+    {
+      "item": "lemon_juice",
+      "tbsp": 3
+    },
+    {
+      "item": "powdered_erythritol",
+      "cup": 0.25
+    },
+    {
+      "item": "heavy_cream",
+      "cup": 1.5,
+      "note": "cold"
+    },
+    {
+      "item": "nutmeg",
+      "tsp": 0.125,
+      "note": "freshly grated if you have it, plus a little to finish"
+    }
+  ],
+  "steps": [
+    "Stir the lemon zest, lemon juice and powdered erythritol together in a large bowl and leave for 15 minutes so the zest flavours the juice.",
+    "Pour in the cold cream and add the nutmeg.",
+    "Whisk slowly, by hand or on low speed, until the cream thickens enough to hold soft folds. Stop before it is stiff: the acid makes it thicken suddenly, and it goes grainy if pushed further.",
+    "Spoon into small glasses, grate a little more nutmeg over, and chill for 1–2 hours before serving."
+  ],
+  "swaps": [
+    {
+      "from": "heavy_cream",
+      "to": "coconut_cream",
+      "note": "chill the can overnight and use only the solid part"
+    }
+  ],
+  "dairy_free_notes": "Coconut cream gives a thicker, denser syllabub with a coconut note and does not separate on standing the way dairy syllabub can.",
+  "tips": [
+    "Traditional syllabubs were made with sweet wine or sherry; it is left out here to keep the carbs down, so add a splash of dry sherry only if that suits you."
+  ],
+  "origin": {
+    "family": "Syllabub",
+    "place": "England",
+    "region": "Northern Europe",
+    "lat": 52.5,
+    "lon": -1.5,
+    "era": "1500s",
+    "history": "Syllabub was popular in England from the sixteenth century onward. Early versions were frothy drinks of cream or milk mixed with wine or cider; over the following two centuries cooks began whipping it into a thicker cream that could be eaten with a spoon, and by the 1700s this 'everlasting' syllabub was a fashionable dessert."
+  }
+}

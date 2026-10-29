@@ -1,0 +1,65 @@
+{
+  "id": "chocolate-almond-fat-bombs",
+  "title": "Chocolate-almond fat bombs",
+  "category": "fat-bombs",
+  "summary": "Small frozen bites of almond butter, coconut oil and cocoa with a little chopped almond for crunch.",
+  "servings": 16,
+  "serving_size": "1 fat bomb",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 5,
+    "rest_min": 60
+  },
+  "ingredients": [
+    {
+      "item": "coconut_oil",
+      "cup": 0.5
+    },
+    {
+      "item": "almond_butter",
+      "cup": 0.5,
+      "note": "well stirred"
+    },
+    {
+      "item": "cocoa_powder",
+      "tbsp": 3
+    },
+    {
+      "item": "powdered_erythritol",
+      "tbsp": 3
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "almonds",
+      "tbsp": 3,
+      "note": "toasted and finely chopped"
+    }
+  ],
+  "steps": [
+    "Set 16 silicone mini-muffin cups or candy moulds on a small tray that fits in your freezer.",
+    "Melt the coconut oil and almond butter together in a small pan over low heat, stirring, just until fluid. Do not let it get hot.",
+    "Take the pan off the heat and whisk in the cocoa, powdered erythritol, vanilla and salt until no lumps of cocoa remain.",
+    "Divide among the moulds, about 1 tablespoon each, and scatter the chopped almonds over the tops.",
+    "Freeze for at least 1 hour, until hard, then pop them out and store in a sealed container."
+  ],
+  "tips": [
+    "Coconut oil melts at about 24 °C (76 °F), so keep these in the freezer or fridge and eat them cold.",
+    "Stir the mixture once more just before pouring; the cocoa settles as it stands."
+  ],
+  "origin": {
+    "family": "Fat bomb",
+    "place": "United States",
+    "region": "North America",
+    "lat": 39.83,
+    "lon": -98.58,
+    "era": "2010s",
+    "history": "Fat bombs are a modern invention, not a traditional sweet. They grew out of the ketogenic and low-carb diet communities in the United States in the 2010s, where home cooks shared recipes for small, sugar-free, high-fat snacks built on coconut oil, nut butters and cocoa. This flavour borrows from the much older pairing of chocolate and almond."
+  }
+}

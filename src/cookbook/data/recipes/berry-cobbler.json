@@ -1,0 +1,119 @@
+{
+  "id": "berry-cobbler",
+  "title": "Berry cobbler",
+  "category": "fruit",
+  "summary": "Juicy baked berries topped with spoonfuls of soft almond-flour biscuit dough that bake into a cobbled crust.",
+  "servings": 8,
+  "serving_size": "1 bowl",
+  "time": {
+    "prep_min": 20,
+    "cook_min": 35,
+    "rest_min": 10
+  },
+  "ingredients": [
+    {
+      "group": "Fruit"
+    },
+    {
+      "item": "blackberries",
+      "g": 300
+    },
+    {
+      "item": "raspberries",
+      "g": 200
+    },
+    {
+      "item": "blueberries",
+      "g": 50
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 3
+    },
+    {
+      "item": "lemon_juice",
+      "tbsp": 1
+    },
+    {
+      "item": "xanthan_gum",
+      "tsp": 0.25
+    },
+    {
+      "group": "Biscuit topping"
+    },
+    {
+      "item": "almond_flour",
+      "cup": 1
+    },
+    {
+      "item": "coconut_flour",
+      "tbsp": 2
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 3
+    },
+    {
+      "item": "baking_powder",
+      "tsp": 1.5
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "egg",
+      "each": 1
+    },
+    {
+      "item": "butter",
+      "tbsp": 4,
+      "note": "melted"
+    },
+    {
+      "item": "heavy_cream",
+      "cup": 0.25
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "cinnamon",
+      "tsp": 0.25,
+      "note": "mixed with 1 tsp erythritol for the top (optional)"
+    }
+  ],
+  "steps": [
+    "Heat the oven to 180 °C (350 °F). Use a 20 cm (8 in) square or 23 cm (9 in) round baking dish.",
+    "Toss the berries with the erythritol and lemon juice in the dish, then sprinkle over the xanthan gum and toss again.",
+    "Whisk the almond flour, coconut flour, erythritol, baking powder and salt in a bowl. In another bowl whisk the egg, melted butter, cream and vanilla.",
+    "Stir the wet ingredients into the dry until just combined. Let the dough stand 3 minutes; the coconut flour will thicken it to a soft, scoopable batter.",
+    "Drop the dough over the fruit in 8 rough spoonfuls, leaving gaps for the juice to bubble through, and sprinkle with the cinnamon mixture.",
+    "Bake 30–35 minutes, until the topping is golden and firm in the centre and the fruit is bubbling. Rest 10 minutes before serving."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "coconut_oil",
+      "note": "melted"
+    },
+    {
+      "from": "heavy_cream",
+      "to": "coconut_cream"
+    }
+  ],
+  "dairy_free_notes": "With coconut oil and coconut cream the topping is a touch more tender and tastes faintly of coconut; it browns about the same.",
+  "tips": [
+    "Blueberries carry the most sugar of the three berries, so they are kept to a handful for colour."
+  ],
+  "origin": {
+    "family": "Cobbler",
+    "place": "Eastern United States",
+    "region": "North America",
+    "lat": 38.0,
+    "lon": -78.0,
+    "era": "1800s",
+    "history": "Cobblers are generally traced to British settlers in the American colonies, who adapted steamed puddings and pies by covering stewed fruit with a rough biscuit or scone dough. The name is usually explained by the topping's cobblestone look. By the nineteenth century cobblers, and cousins such as grunts, slumps and buckles, were common across the United States."
+  }
+}

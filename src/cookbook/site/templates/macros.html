@@ -1,0 +1,77 @@
+{% macro dairy_badge(v) -%}
+{% if v.dairy == 'dairy-free' %}<span class="badge df">Dairy-free</span>{% else %}<span class="badge opt">Dairy-free option</span>{% endif %}
+{%- endmacro %}
+
+{% macro facts_table(r) -%}
+<table class="facts">
+  <thead><tr><th>Per serving</th><th class="num">As written</th>{% if r.dairy != 'dairy-free' %}<th class="num">Dairy-free</th>{% endif %}</tr></thead>
+  <tbody>
+  {% for key, label, unit in [('net_carbs_g', 'Net carbs', 'g'), ('carbs_g', 'Total carbohydrate', 'g'), ('fiber_g', 'Fibre', 'g'), ('polyol_g', 'Sugar alcohols & allulose', 'g'), ('sugars_g', 'Sugars', 'g'), ('fat_g', 'Fat', 'g'), ('protein_g', 'Protein', 'g'), ('kcal', 'Energy', 'kcal')] %}
+    <tr{% if key == 'net_carbs_g' %} style="font-weight:600"{% endif %}><td>{{ label }}</td><td class="num">{{ r.per[key] }} {{ unit }}</td>{% if r.dairy != 'dairy-free' %}<td class="num">{{ r.per_df[key] }} {{ unit }}</td>{% endif %}</tr>
+  {% endfor %}
+  </tbody>
+</table>
+{%- endmacro %}
+
+{% macro ingredients(r) -%}
+{% for g in r.groups %}
+  {% if g.name %}<h3>{{ g.name }}</h3>{% endif %}
+  <ul class="ing">
+  {% for l in g.lines %}<li><span class="m">{{ l.measure }}</span> {{ l.text }}</li>{% endfor %}
+  </ul>
+{% endfor %}
+{%- endmacro %}
+
+{% macro times(r) -%}
+{% set parts = [] %}
+{% if r.time.prep_min %}{% set _ = parts.append('prep ' ~ (r.time.prep_min|minutes)) %}{% endif %}
+{% if r.time.cook_min %}{% set _ = parts.append('cook ' ~ (r.time.cook_min|minutes)) %}{% endif %}
+{% if r.time.rest_min %}{% set _ = parts.append('rest ' ~ (r.time.rest_min|minutes)) %}{% endif %}
+{{ parts|join(' · ') }}
+{%- endmacro %}
+
+{% macro dairy_free_block(r) -%}
+{% if r.dairy != 'dairy-free' %}
+<section class="dfree">
+  <h2>Dairy-free version</h2>
+  <ul>
+  {% for s in r.swaps %}<li>Use <strong>{{ s.to }}</strong> instead of {{ s.from }}{% if s.ratio != 1.0 %} ({{ '%g'|format(s.ratio) }} × the amount){% endif %}{% if s.note %} — {{ s.note }}{% endif %}.</li>{% endfor %}
+  </ul>
+  {% if r.dairy_free_notes %}<p>{{ r.dairy_free_notes }}</p>{% endif %}
+</section>
+{% else %}
+<p class="sans"><span class="badge df">Dairy-free as written</span></p>
+{% endif %}
+{%- endmacro %}
+
+{% macro recipe_body(r, root) -%}
+<p class="lede">{{ r.summary }}</p>
+<p class="sans">
+  {{ dairy_badge(r) }} <span class="badge net">{{ r.per.net_carbs_g }} g net carbs</span>
+  <span class="chip">Serves {{ r.servings }}{% if r.serving_size %} · {{ r.serving_size }}{% endif %}</span>
+  {% if r.total_min %}<span class="chip">{{ times(r) }}</span>{% endif %}
+</p>
+<div class="two">
+  <div>
+    <h2>Ingredients</h2>
+    {{ ingredients(r) }}
+  </div>
+  <div>
+    <h2>Nutrition</h2>
+    {{ facts_table(r) }}
+    <p class="small">Contains: {{ r.contains|join(', ') if r.contains else 'none of the common allergen groups' }}{% if r.dairy != 'dairy-free' %}. Dairy-free version contains: {{ r.contains_df|join(', ') if r.contains_df else 'none of them' }}{% endif %}.</p>
+    {% if r.label_items %}<p class="small">From typical product labels, which vary by brand: {{ r.label_items|join(', ') }}.</p>{% endif %}
+    {% for n in r.label_notes %}<p class="small">⚠️ {{ n|capitalize }}.</p>{% endfor %}
+  </div>
+</div>
+<h2>Method</h2>
+<ol class="steps">{% for s in r.steps %}<li>{{ s }}</li>{% endfor %}</ol>
+{{ dairy_free_block(r) }}
+{% if r.tips %}<h2>Tips</h2><ul>{% for t in r.tips %}<li>{{ t }}</li>{% endfor %}</ul>{% endif %}
+<aside class="origin">
+  <h2>Where it comes from</h2>
+  <p class="sans"><strong>{{ r.origin.family }}</strong> · {{ r.origin.place }} · {{ r.origin.region }} · {{ r.origin.era }}</p>
+  <p>{{ r.origin.history }}</p>
+  <p class="sans noprint"><a href="{{ root }}index.html?focus={{ r.id }}#map">See it on the map</a></p>
+</aside>
+{%- endmacro %}

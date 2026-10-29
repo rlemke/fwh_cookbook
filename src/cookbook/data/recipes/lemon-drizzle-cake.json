@@ -1,0 +1,103 @@
+{
+  "id": "lemon-drizzle-cake",
+  "title": "Lemon drizzle cake",
+  "category": "cakes",
+  "summary": "A tender lemon loaf soaked while warm with a sharp lemon syrup that dries to a thin, crackly crust.",
+  "servings": 10,
+  "serving_size": "1 slice",
+  "time": {
+    "prep_min": 20,
+    "cook_min": 45,
+    "rest_min": 30
+  },
+  "ingredients": [
+    {
+      "group": "Loaf"
+    },
+    {
+      "item": "butter",
+      "cup": 0.5,
+      "note": "softened"
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.5
+    },
+    {
+      "item": "egg",
+      "each": 4,
+      "note": "at room temperature"
+    },
+    {
+      "item": "lemon_zest",
+      "tbsp": 2,
+      "note": "from about 2 lemons"
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "almond_flour",
+      "cup": 2
+    },
+    {
+      "item": "coconut_flour",
+      "tbsp": 2
+    },
+    {
+      "item": "baking_powder",
+      "tsp": 2
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    },
+    {
+      "item": "sour_cream",
+      "cup": 0.25
+    },
+    {
+      "group": "Drizzle"
+    },
+    {
+      "item": "lemon_juice",
+      "tbsp": 3
+    },
+    {
+      "item": "powdered_erythritol",
+      "cup": 0.33
+    }
+  ],
+  "steps": [
+    "Heat the oven to 170 °C (340 °F). Grease a 23 × 13 cm (9 × 5 in) loaf pan and line it with a parchment sling.",
+    "Beat the butter, erythritol and lemon zest until light and fluffy. Beat in the eggs one at a time, then the vanilla.",
+    "Whisk the almond flour, coconut flour, baking powder and salt together, fold half into the batter, then the sour cream, then the rest.",
+    "Scrape into the pan and bake 40–45 minutes, until a skewer comes out clean. Cover loosely with foil after 25 minutes if the top is browning fast.",
+    "While the loaf bakes, stir the lemon juice and powdered erythritol together; the sweetener will not fully dissolve, which is what gives the crunchy top.",
+    "As soon as the loaf comes out, prick it all over with a skewer and spoon the drizzle slowly over it. Leave in the pan until completely cool, then lift out."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter"
+    },
+    {
+      "from": "sour_cream",
+      "to": "coconut_yogurt"
+    }
+  ],
+  "dairy_free_notes": "With dairy-free butter and coconut yogurt the loaf is slightly moister and less rich; it slices best the next day.",
+  "tips": [
+    "Let the loaf cool fully in the pan: warm almond cake breaks if you lift it out early."
+  ],
+  "origin": {
+    "family": "Loaf cake",
+    "place": "Britain",
+    "region": "Northern Europe",
+    "lat": 52.49,
+    "lon": -1.89,
+    "era": "late 1900s",
+    "history": "Lemon-flavoured pound cakes and seed cakes have a long history in British baking, but the drizzle cake, soaked with sharp lemon syrup straight from the oven, became a household standard in the later twentieth century. It is now one of the most popular cakes in Britain, a staple of cafés, bake sales and home kitchens."
+  }
+}

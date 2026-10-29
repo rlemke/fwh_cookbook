@@ -1,0 +1,62 @@
+{
+  "id": "sesame-brittle",
+  "title": "Sesame brittle",
+  "category": "candy",
+  "summary": "Toasted sesame seeds bound in a thin, glassy allulose caramel and snapped into shards.",
+  "servings": 12,
+  "serving_size": "1 piece",
+  "time": {
+    "prep_min": 10,
+    "cook_min": 15,
+    "rest_min": 30
+  },
+  "ingredients": [
+    {
+      "item": "sesame_seeds",
+      "cup": 1
+    },
+    {
+      "item": "allulose",
+      "cup": 0.5
+    },
+    {
+      "item": "water",
+      "tbsp": 2
+    },
+    {
+      "item": "coconut_oil",
+      "tsp": 2
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "vanilla",
+      "tsp": 0.5
+    },
+    {
+      "item": "baking_soda",
+      "tsp": 0.125
+    }
+  ],
+  "steps": [
+    "Line a baking sheet with parchment and lightly oil a second sheet of parchment.",
+    "Toast the sesame seeds in a dry pan over medium heat, stirring, until golden and fragrant, 4–5 minutes. Tip onto a plate.",
+    "In a heavy pan, heat the allulose, water, coconut oil and salt, stirring until dissolved, then cook without stirring until it reaches 150 °C (300 °F) and is light amber. Allulose browns quickly near the end, so stay with it.",
+    "Off the heat, stir in the vanilla and baking soda, then the sesame seeds, quickly and thoroughly.",
+    "Turn onto the lined sheet, cover with the oiled parchment and roll as thin as you can. Peel off the top sheet and leave to cool for 30 minutes, then break into pieces."
+  ],
+  "tips": [
+    "Allulose brittle is not as hard as sugar brittle and softens in humid air; store it airtight, with parchment between layers, and eat within a few days."
+  ],
+  "origin": {
+    "family": "Sesame brittle",
+    "place": "Levant (eastern Mediterranean)",
+    "region": "Middle East & North Africa",
+    "lat": 33.51,
+    "lon": 36.29,
+    "era": "ancient",
+    "history": "Sesame seeds bound with honey are among the oldest confections of the eastern Mediterranean and the Middle East, and the Greek pasteli is mentioned in ancient sources. Related sesame sweets are still made from Greece and Turkey through the Levant to Iran and India."
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "cloud-bread",
+  "title": "Cloud bread",
+  "category": "breads",
+  "summary": "Feather-light rounds of whipped egg white and cream cheese — a modern low-carb invention for sandwiches.",
+  "servings": 6,
+  "serving_size": "1 round",
+  "time": {
+    "prep_min": 10,
+    "cook_min": 30,
+    "rest_min": 10
+  },
+  "ingredients": [
+    {
+      "item": "egg",
+      "each": 3,
+      "note": "separated"
+    },
+    {
+      "item": "cream_of_tartar",
+      "tsp": 0.25
+    },
+    {
+      "item": "cream_cheese",
+      "g": 45,
+      "note": "softened"
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "baking_powder",
+      "tsp": 0.25
+    }
+  ],
+  "steps": [
+    "Heat the oven to 150 °C (300 °F) and line a baking sheet with parchment.",
+    "Whip the egg whites with the cream of tartar to stiff, glossy peaks.",
+    "In another bowl, beat the yolks, cream cheese, salt and baking powder until smooth.",
+    "Fold a third of the whites into the yolk mixture to lighten it, then fold in the rest gently, keeping as much air as you can.",
+    "Spoon into 6 rounds about 1.5 cm (½ in) thick on the sheet.",
+    "Bake 25–30 minutes, until golden and firm to a light touch. Cool on the sheet; they firm and become flexible as they rest."
+  ],
+  "swaps": [
+    {
+      "from": "cream_cheese",
+      "to": "vegan_cream_cheese"
+    }
+  ],
+  "dairy_free_notes": "Dairy-free cream cheese makes a looser yolk mixture, so the rounds spread more and bake flatter; fold very gently and bake a few minutes longer.",
+  "tips": [
+    "Store in a bag with the rounds separated by parchment; they turn soft and bread-like overnight."
+  ],
+  "origin": {
+    "family": "Cloud bread",
+    "place": "United States",
+    "region": "North America",
+    "lat": 39.83,
+    "lon": -98.58,
+    "era": "2000s",
+    "history": "Cloud bread is a modern invention of low-carb home cooks, circulating in the United States from the 2000s and later popular on social media. It imitates soft sandwich bread using whipped egg whites for lift; there is no traditional dish behind it."
+  }
+}

@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+{% from "macros.html" import recipe_body %}
+{% block title %}{{ r.title }} — {{ title }}{% endblock %}
+{% block description %}{{ r.summary }} {{ r.per.net_carbs_g }} g net carbs per serving; {{ r.dairy }}.{% endblock %}
+{% block body %}
+<p class="small noprint"><a href="../index.html#recipes">Recipes</a> › <a href="../book.html#ch-{{ r.category }}">{{ r.chapter }}</a></p>
+<h1>{{ r.title }}</h1>
+{{ recipe_body(r, root) }}
+<p class="sans noprint">
+  {% if prev %}← <a href="{{ prev.id }}.html">{{ prev.title }}</a>{% endif %}
+  {% if prev and next %} · {% endif %}
+  {% if next %}<a href="{{ next.id }}.html">{{ next.title }}</a> →{% endif %}
+</p>
+{% endblock %}

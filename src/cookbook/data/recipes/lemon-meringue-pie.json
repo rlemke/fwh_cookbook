@@ -1,0 +1,116 @@
+{
+  "id": "lemon-meringue-pie",
+  "title": "Lemon meringue pie",
+  "category": "pies",
+  "summary": "A tart, buttery lemon curd filling with a little gelatin for clean slices, under a tall meringue browned in the oven.",
+  "servings": 10,
+  "serving_size": "1 slice",
+  "time": {
+    "prep_min": 40,
+    "cook_min": 30,
+    "rest_min": 240
+  },
+  "ingredients": [
+    {
+      "group": "Crust"
+    },
+    {
+      "item": "almond_flour",
+      "cup": 1.5
+    },
+    {
+      "item": "coconut_oil",
+      "tbsp": 4,
+      "note": "melted"
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 2
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "group": "Lemon filling"
+    },
+    {
+      "item": "water",
+      "tbsp": 3
+    },
+    {
+      "item": "gelatin",
+      "tsp": 1
+    },
+    {
+      "item": "egg_yolk",
+      "each": 5
+    },
+    {
+      "item": "powdered_erythritol",
+      "cup": 0.5
+    },
+    {
+      "item": "lemon_juice",
+      "cup": 0.5
+    },
+    {
+      "item": "lemon_zest",
+      "tbsp": 1
+    },
+    {
+      "item": "butter",
+      "tbsp": 4,
+      "note": "cubed"
+    },
+    {
+      "group": "Meringue"
+    },
+    {
+      "item": "egg_white",
+      "each": 4,
+      "note": "at room temperature"
+    },
+    {
+      "item": "cream_of_tartar",
+      "tsp": 0.25
+    },
+    {
+      "item": "powdered_erythritol",
+      "cup": 0.5
+    },
+    {
+      "item": "vanilla",
+      "tsp": 0.5
+    }
+  ],
+  "steps": [
+    "Heat the oven to 175 °C (350 °F). Press the crust into a 23 cm (9 in) pie plate and bake 10–12 minutes. Leave the oven on.",
+    "Sprinkle the gelatin over the water and let it soften for 5 minutes.",
+    "In a heavy saucepan whisk the yolks, powdered erythritol, lemon juice and zest. Cook over low heat, whisking constantly, until thick enough to coat a spoon, about 8 minutes; do not let it boil.",
+    "Off the heat, whisk in the softened gelatin until it dissolves, then the butter a few cubes at a time. Pour into the crust.",
+    "Beat the egg whites with the cream of tartar to soft peaks. Add the powdered erythritol a spoonful at a time and beat to stiff, glossy peaks; beat in the vanilla.",
+    "Spread the meringue over the warm filling, sealing it right to the crust so it does not shrink. Swirl into peaks and bake 12–15 minutes, until the tips are golden.",
+    "Cool for an hour at room temperature, then refrigerate at least 3 hours before slicing with a wet knife."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter"
+    }
+  ],
+  "dairy_free_notes": "The crust is already dairy-free; with dairy-free butter the curd is a little less rich but sets just as well thanks to the gelatin.",
+  "tips": [
+    "Erythritol meringue browns less than sugar meringue; a few seconds under the grill or a kitchen torch gives more colour.",
+    "Spread the meringue on warm filling: it cooks from below too and is less likely to weep."
+  ],
+  "origin": {
+    "family": "Lemon meringue pie",
+    "place": "Philadelphia",
+    "region": "North America",
+    "lat": 39.95,
+    "lon": -75.17,
+    "era": "early 1800s",
+    "history": "Lemon custards and lemon puddings in pastry were made in Britain and Europe for centuries, and meringue became common in European kitchens during the 1700s. The meringue-topped lemon pie familiar in America is often credited to the Philadelphia baker and cooking teacher Elizabeth Goodfellow in the early 1800s, though that attribution comes from later accounts."
+  }
+}

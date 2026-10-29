@@ -1,0 +1,58 @@
+{
+  "id": "berry-chia-jam",
+  "title": "Berry chia jam",
+  "category": "basics",
+  "summary": "A quick, spoonable jam of cooked berries set with chia seeds instead of a long boil with sugar and pectin.",
+  "servings": 24,
+  "serving_size": "1 tbsp",
+  "time": {
+    "prep_min": 5,
+    "cook_min": 8,
+    "rest_min": 30
+  },
+  "ingredients": [
+    {
+      "item": "raspberries",
+      "g": 250,
+      "note": "fresh or frozen"
+    },
+    {
+      "item": "strawberries",
+      "g": 150,
+      "note": "hulled and chopped"
+    },
+    {
+      "item": "allulose",
+      "tbsp": 3
+    },
+    {
+      "item": "lemon_juice",
+      "tbsp": 1
+    },
+    {
+      "item": "chia_seeds",
+      "tbsp": 3
+    }
+  ],
+  "steps": [
+    "Put the raspberries and strawberries in a small saucepan over medium heat and cook, stirring, until they release their juice and break down, 5–8 minutes. Mash with a fork for a smoother jam.",
+    "Stir in the allulose and lemon juice and taste; add a little more sweetener if you like.",
+    "Take the pan off the heat and stir in the chia seeds.",
+    "Let it stand 30 minutes, stirring once or twice, until thickened. It firms more once chilled.",
+    "Spoon into a clean jar and refrigerate up to 1 week, or freeze in portions."
+  ],
+  "swaps": [],
+  "tips": [
+    "This is not shelf-stable: without sugar it must be kept cold.",
+    "Blueberries or blackberries work too; for a smooth jam, blend before adding the chia."
+  ],
+  "origin": {
+    "family": "Fruit jam",
+    "place": "United States",
+    "region": "North America",
+    "lat": 39.83,
+    "lon": -98.58,
+    "era": "2010s",
+    "history": "This is a modern recipe that imitates traditional fruit jam, which in Europe was preserved by cooking fruit with large amounts of sugar or honey. Chia seeds, long eaten in Mexico and Central America, absorb liquid and turn to gel, and health-food cooks in the 2010s began using them to set quick refrigerator jams with little or no sugar."
+  }
+}

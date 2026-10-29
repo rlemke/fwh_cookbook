@@ -1,0 +1,100 @@
+{
+  "id": "berry-crumble",
+  "title": "Berry crumble",
+  "category": "fruit",
+  "summary": "Mixed raspberries, blackberries and strawberries baked under a buttery almond-and-pecan crumb.",
+  "servings": 8,
+  "serving_size": "1 bowl",
+  "time": {
+    "prep_min": 20,
+    "cook_min": 35,
+    "rest_min": 10
+  },
+  "ingredients": [
+    {
+      "group": "Fruit"
+    },
+    {
+      "item": "raspberries",
+      "g": 250
+    },
+    {
+      "item": "blackberries",
+      "g": 200
+    },
+    {
+      "item": "strawberries",
+      "g": 150,
+      "note": "hulled and halved"
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 3
+    },
+    {
+      "item": "lemon_juice",
+      "tbsp": 1
+    },
+    {
+      "item": "xanthan_gum",
+      "tsp": 0.25
+    },
+    {
+      "group": "Crumble"
+    },
+    {
+      "item": "almond_flour",
+      "cup": 1
+    },
+    {
+      "item": "pecans",
+      "cup": 0.5,
+      "note": "finely chopped"
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.25
+    },
+    {
+      "item": "cinnamon",
+      "tsp": 1
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "butter",
+      "tbsp": 4,
+      "note": "cold, cut into small cubes"
+    }
+  ],
+  "steps": [
+    "Heat the oven to 175 °C (350 °F). Have ready a 20 cm (8 in) square baking dish or a 1.5-litre (1½-quart) gratin dish.",
+    "Toss the berries with the erythritol and lemon juice in the dish. Sprinkle the xanthan gum evenly over the fruit and toss again so it does not clump.",
+    "For the crumble, mix the almond flour, pecans, erythritol, cinnamon and salt in a bowl. Rub in the cold butter with your fingertips until the mixture forms damp clumps.",
+    "Scatter the crumble loosely over the fruit; do not press it down.",
+    "Bake 30–35 minutes, until the fruit bubbles at the edges and the top is golden. Almond flour browns quickly, so cover loosely with foil if it darkens before the fruit is bubbling.",
+    "Rest 10 minutes before serving so the juices thicken."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter",
+      "note": "use cold stick-style; coconut oil also works but makes a sandier crumb"
+    }
+  ],
+  "dairy_free_notes": "Dairy-free stick butter gives almost the same crumb; it browns a little less, so bake until the fruit bubbles rather than by colour.",
+  "tips": [
+    "Frozen berries work; do not thaw them, and add 5–10 minutes to the baking time."
+  ],
+  "origin": {
+    "family": "Fruit crumble",
+    "place": "Britain",
+    "region": "Northern Europe",
+    "lat": 52.36,
+    "lon": -1.17,
+    "era": "1900s",
+    "history": "The crumble is a twentieth-century British pudding: stewed or raw fruit baked under a rubbed-in mixture of flour, fat and sugar. It is often linked to the Second World War, when rationing made a crumble topping a thriftier choice than pastry, though exactly when it first appeared is not well documented. It has remained a staple of British home cooking."
+  }
+}

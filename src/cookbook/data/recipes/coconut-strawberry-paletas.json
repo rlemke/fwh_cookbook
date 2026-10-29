@@ -1,0 +1,59 @@
+{
+  "id": "coconut-strawberry-paletas",
+  "title": "Coconut-strawberry paletas",
+  "category": "frozen",
+  "summary": "Mexican-style ice pops of creamy coconut milk with chunks of strawberry and a squeeze of lime.",
+  "servings": 8,
+  "serving_size": "1 ice pop",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 0,
+    "rest_min": 360
+  },
+  "ingredients": [
+    {
+      "item": "coconut_milk",
+      "g": 400,
+      "note": "one can, shaken"
+    },
+    {
+      "item": "allulose",
+      "cup": 0.33
+    },
+    {
+      "item": "lime_juice",
+      "tbsp": 1
+    },
+    {
+      "item": "vanilla",
+      "tsp": 0.5
+    },
+    {
+      "item": "salt",
+      "tsp": 0.0625
+    },
+    {
+      "item": "strawberries",
+      "g": 200,
+      "note": "hulled and finely diced"
+    }
+  ],
+  "steps": [
+    "Warm a quarter of the coconut milk with the allulose just until dissolved. Stir it back into the rest with the lime juice, vanilla and salt.",
+    "Divide the strawberries among eight ice-pop moulds, then pour in the coconut mixture, leaving a little room at the top.",
+    "Freeze 1 hour, insert the sticks, and freeze at least 5 hours more.",
+    "Run the moulds briefly under warm water to release."
+  ],
+  "tips": [
+    "Mash half the berries and keep half in pieces for streaks of colour as well as bites of fruit."
+  ],
+  "origin": {
+    "family": "Paletas",
+    "place": "Tocumbo, Michoacán",
+    "region": "Latin America & Caribbean",
+    "lat": 19.7,
+    "lon": -102.53,
+    "era": "1940s",
+    "history": "Paletas, Mexican ice pops made from fresh fruit or cream, spread across Mexico from the mid-twentieth century through small shops called paleterías. The small town of Tocumbo in Michoacán is closely associated with them, as many of the country's paleterías were founded by families from there."
+  }
+}

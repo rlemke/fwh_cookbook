@@ -1,0 +1,79 @@
+{
+  "id": "cantucci",
+  "title": "Almond biscotti (cantucci)",
+  "category": "cookies",
+  "summary": "Twice-baked Tuscan almond biscotti with whole almonds and a hint of orange, made without butter as in Prato.",
+  "servings": 24,
+  "serving_size": "1 biscotto",
+  "time": {
+    "prep_min": 20,
+    "cook_min": 45,
+    "rest_min": 20
+  },
+  "ingredients": [
+    {
+      "item": "almond_flour",
+      "cup": 2
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.5
+    },
+    {
+      "item": "xanthan_gum",
+      "tsp": 0.5
+    },
+    {
+      "item": "baking_powder",
+      "tsp": 1
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    },
+    {
+      "item": "anise",
+      "tsp": 0.5,
+      "note": "lightly crushed; optional"
+    },
+    {
+      "item": "egg",
+      "each": 2
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "orange_zest",
+      "tsp": 1
+    },
+    {
+      "item": "almonds",
+      "cup": 0.75,
+      "note": "whole, skin on"
+    }
+  ],
+  "steps": [
+    "Heat the oven to 165 °C (325 °F) and line a baking sheet with parchment.",
+    "Whisk the almond flour, erythritol, xanthan gum, baking powder, salt and anise together.",
+    "Beat the eggs with the vanilla and orange zest, then stir into the dry ingredients to make a stiff, sticky dough. Mix in the whole almonds.",
+    "With wet hands, shape the dough into a log about 30 cm (12 in) long and 7 cm (3 in) wide, and flatten the top slightly.",
+    "Bake 25 minutes, until firm and golden. Cool for 20 minutes; almond-flour logs crumble if sliced hot.",
+    "Lower the oven to 150 °C (300 °F). With a serrated knife, cut the log on the diagonal into 24 slices about 1.5 cm (½ in) thick.",
+    "Lay the slices flat and bake 10 minutes, turn them and bake 8–10 minutes more, until dry. They crisp further as they cool."
+  ],
+  "tips": [
+    "Saw gently with the knife rather than pressing down, and the whole almonds will cut cleanly.",
+    "In Tuscany they are dipped in sweet wine; coffee works too."
+  ],
+  "origin": {
+    "family": "Biscotti",
+    "place": "Prato",
+    "region": "Southern Europe",
+    "lat": 43.88,
+    "lon": 11.1,
+    "era": "1800s",
+    "history": "Twice-baked biscuits kept well and were made in Italy for centuries; 'biscotto' itself means twice-cooked. The almond version known as cantucci or biscotti di Prato is tied to the Tuscan town of Prato, where a bakery made them famous in the nineteenth century. The traditional dough uses eggs, sugar, flour and almonds, with no butter or oil."
+  }
+}

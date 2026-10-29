@@ -1,0 +1,114 @@
+{
+  "id": "no-bake-lemon-cheesecake",
+  "title": "No-bake lemon cheesecake",
+  "category": "cheesecakes",
+  "summary": "A cool, sharp lemon cheesecake set with gelatin on a press-in almond crust, with no oven needed for the filling.",
+  "servings": 10,
+  "serving_size": "1 slice",
+  "time": {
+    "prep_min": 30,
+    "cook_min": 10,
+    "rest_min": 360
+  },
+  "ingredients": [
+    {
+      "group": "Crust"
+    },
+    {
+      "item": "almond_flour",
+      "cup": 1.25
+    },
+    {
+      "item": "butter",
+      "tbsp": 4,
+      "note": "melted"
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 2
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "group": "Filling"
+    },
+    {
+      "item": "water",
+      "cup": 0.25,
+      "note": "cold"
+    },
+    {
+      "item": "gelatin",
+      "tsp": 2.5
+    },
+    {
+      "item": "lemon_juice",
+      "cup": 0.33
+    },
+    {
+      "item": "cream_cheese",
+      "g": 450,
+      "note": "at room temperature"
+    },
+    {
+      "item": "powdered_erythritol",
+      "cup": 0.67
+    },
+    {
+      "item": "lemon_zest",
+      "tbsp": 1.5
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "heavy_cream",
+      "cup": 1,
+      "note": "cold"
+    }
+  ],
+  "steps": [
+    "Heat the oven to 175 °C (350 °F). Line the base of a 20 cm (8 in) springform pan with parchment.",
+    "Mix the crust ingredients, press firmly into the pan and bake 8–10 minutes until lightly golden. Cool completely. (Skip the baking for a fully no-bake cake; the crust will be softer.)",
+    "Sprinkle the gelatin over the cold water and leave 5 minutes to bloom. Warm the lemon juice until hot but not boiling, take off the heat and stir in the bloomed gelatin until fully dissolved. Let it cool to lukewarm.",
+    "Beat the cream cheese, powdered erythritol, zest and vanilla until smooth, then beat in the lemon-gelatin mixture in a slow stream.",
+    "Whip the cream to soft peaks and fold it into the cheese mixture.",
+    "Spread over the crust, smooth the top, cover and refrigerate at least 6 hours, until set firm.",
+    "Run a hot knife round the edge before releasing the pan."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "coconut_oil",
+      "ratio": 0.85,
+      "note": "melted"
+    },
+    {
+      "from": "cream_cheese",
+      "to": "vegan_cream_cheese",
+      "note": "block-style"
+    },
+    {
+      "from": "heavy_cream",
+      "to": "coconut_cream",
+      "note": "chilled, firm part only"
+    }
+  ],
+  "dairy_free_notes": "Because gelatin does the setting, the dairy-free version sets almost as firmly; it tastes faintly of coconut, which suits the lemon.",
+  "tips": [
+    "Make sure the gelatin mixture is lukewarm, not cold, when it goes in, or it sets in strings.",
+    "Use powdered sweetener here: granules do not dissolve in an unbaked filling."
+  ],
+  "origin": {
+    "family": "Cheesecake",
+    "place": "United States",
+    "region": "North America",
+    "lat": 39.83,
+    "lon": -98.58,
+    "era": "mid-1900s",
+    "history": "Unbaked cheesecakes set with gelatin, sometimes called refrigerator or icebox cheesecakes, spread in the twentieth century once home refrigerators and packaged powdered gelatin became common in the United States and Britain. They became a staple of home entertaining, especially in summer; no single origin is recorded."
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "chocolate-ganache",
+  "title": "Chocolate ganache",
+  "category": "basics",
+  "summary": "Unsweetened chocolate melted into hot cream sweetened with allulose: pour it warm as a glaze, or chill and whip it as a frosting.",
+  "servings": 14,
+  "serving_size": "2 tbsp",
+  "time": {
+    "prep_min": 5,
+    "cook_min": 5,
+    "rest_min": 30
+  },
+  "ingredients": [
+    {
+      "item": "unsweetened_chocolate",
+      "g": 170,
+      "note": "finely chopped"
+    },
+    {
+      "item": "heavy_cream",
+      "cup": 0.75
+    },
+    {
+      "item": "allulose",
+      "cup": 0.33
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    }
+  ],
+  "steps": [
+    "Put the chopped chocolate in a heatproof bowl.",
+    "Heat the cream and allulose in a small pan, stirring, until the allulose dissolves and the cream just begins to steam at the edges. Do not let it boil hard.",
+    "Pour the hot cream over the chocolate, add the salt, and leave it alone for 3 minutes.",
+    "Stir from the centre outwards with a spatula in small circles until the mixture comes together smooth and glossy. Stir in the vanilla.",
+    "For a glaze, use it while warm and pourable. For a spreadable frosting, leave it at room temperature 30–60 minutes until thick. For a whipped frosting, chill until cold but not hard, then beat until lighter in colour."
+  ],
+  "swaps": [
+    {
+      "from": "heavy_cream",
+      "to": "coconut_cream"
+    }
+  ],
+  "dairy_free_notes": "Coconut cream gives a ganache that sets slightly firmer in the fridge and tastes lightly of coconut; let it warm a little before spreading.",
+  "tips": [
+    "If it looks greasy or split, whisk in a tablespoon of warm cream at a time until it comes back together.",
+    "Unsweetened chocolate is quite bitter; taste and add a little more allulose dissolved in a spoonful of warm cream if you want it sweeter."
+  ],
+  "origin": {
+    "family": "Ganache",
+    "place": "Paris",
+    "region": "Western Europe",
+    "lat": 48.86,
+    "lon": 2.35,
+    "era": "1800s",
+    "history": "Ganache, an emulsion of chocolate and cream, belongs to French confectionery of the 1800s. Its exact origin is uncertain: a well-known story about an apprentice spilling hot cream into chocolate is legend, and both French and Swiss confectioners have been credited. By the twentieth century it was the standard filling for truffles and a basic glaze in pastry kitchens."
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "chia-pudding",
+  "title": "Vanilla-cinnamon chia pudding",
+  "category": "custards",
+  "summary": "Chia seeds soaked overnight in coconut and almond milk until they set into a thick, spoonable pudding; dairy-free as written.",
+  "servings": 4,
+  "serving_size": "1 jar",
+  "time": {
+    "prep_min": 10,
+    "cook_min": 0,
+    "rest_min": 240
+  },
+  "ingredients": [
+    {
+      "item": "chia_seeds",
+      "cup": 0.5
+    },
+    {
+      "item": "coconut_milk",
+      "cup": 1
+    },
+    {
+      "item": "almond_milk",
+      "cup": 1
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 2
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "cinnamon",
+      "tsp": 0.5
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "group": "To serve"
+    },
+    {
+      "item": "raspberries",
+      "g": 60
+    }
+  ],
+  "steps": [
+    "Whisk the coconut milk, almond milk, erythritol, vanilla, cinnamon and salt in a bowl.",
+    "Whisk in the chia seeds, wait 5 minutes, then whisk again to break up the clumps that form.",
+    "Divide among four jars, cover and refrigerate at least 4 hours or overnight.",
+    "Stir before serving and top each jar with a few raspberries."
+  ],
+  "swaps": [],
+  "tips": [
+    "For a smooth, custard-like texture, blend the pudding after it has set.",
+    "It keeps 4 days in the fridge, so it is easy to make ahead for breakfasts."
+  ],
+  "origin": {
+    "family": "Chia drink and pudding",
+    "place": "Central Mexico",
+    "region": "Latin America & Caribbean",
+    "lat": 19.43,
+    "lon": -99.13,
+    "era": "ancient (modern pudding form, 2000s)",
+    "history": "Chia is native to Mexico and Central America and was a major crop of Mesoamerica; Aztec records list it among the goods paid as tribute. It was eaten as a grain and stirred into drinks, as in the chia fresca still made today. The soaked, pudding-style dish is a modern invention that spread with health-food cooking in the 2000s."
+  }
+}

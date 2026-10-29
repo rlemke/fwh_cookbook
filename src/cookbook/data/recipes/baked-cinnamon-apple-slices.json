@@ -1,0 +1,77 @@
+{
+  "id": "baked-cinnamon-apple-slices",
+  "title": "Baked cinnamon apple slices",
+  "category": "fruit",
+  "summary": "Thin apple slices baked soft with butter, cinnamon and a few toasted pecans; a small, warm serving.",
+  "servings": 8,
+  "serving_size": "a quarter of an apple (about 5 slices)",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 25,
+    "rest_min": 5
+  },
+  "ingredients": [
+    {
+      "item": "apple",
+      "each": 2,
+      "note": "a firm, tart variety, cored and cut into 20 slices each"
+    },
+    {
+      "item": "lemon_juice",
+      "tbsp": 1
+    },
+    {
+      "item": "butter",
+      "tbsp": 2,
+      "note": "melted"
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 2
+    },
+    {
+      "item": "cinnamon",
+      "tsp": 1.5
+    },
+    {
+      "item": "nutmeg",
+      "tsp": 0.125
+    },
+    {
+      "item": "salt",
+      "tsp": 0.0625
+    },
+    {
+      "item": "pecans",
+      "cup": 0.33,
+      "note": "chopped"
+    }
+  ],
+  "steps": [
+    "Heat the oven to 190 °C (375 °F). Line a baking sheet with parchment.",
+    "Toss the apple slices with the lemon juice, then with the melted butter, erythritol, cinnamon, nutmeg and salt.",
+    "Spread the slices in a single layer, overlapping slightly, and scatter the pecans over them.",
+    "Bake 20–25 minutes, turning the tray once, until the apples are tender and lightly caramelised at the edges and the pecans are toasted.",
+    "Rest 5 minutes, then divide among 8 small plates."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "coconut_oil",
+      "note": "melted"
+    }
+  ],
+  "dairy_free_notes": "Coconut oil works well here and adds a faint sweetness; the slices brown about the same.",
+  "tips": [
+    "Apples are high in sugar, so the portion is deliberately small; serve with a spoonful of unsweetened coconut yogurt to make it go further."
+  ],
+  "origin": {
+    "family": "Baked apples",
+    "place": "England",
+    "region": "Northern Europe",
+    "lat": 52.36,
+    "lon": -1.17,
+    "era": "medieval",
+    "history": "Apples baked or roasted with spices are among the oldest desserts of northern Europe and appear in English cookery from the Middle Ages onward, when they were often cooked in the embers or in a cooling bread oven. Cinnamon, imported at great cost, was a mark of a wealthy table. Baked apples later became an everyday family pudding in Britain and North America."
+  }
+}

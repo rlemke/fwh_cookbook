@@ -1,0 +1,143 @@
+{
+  "id": "black-forest-cake",
+  "title": "Black Forest cake",
+  "category": "cakes",
+  "summary": "Layers of light cocoa sponge soaked with cherry juice, filled with whipped cream and cherries, and finished with chocolate shavings.",
+  "servings": 12,
+  "serving_size": "1 slice",
+  "time": {
+    "prep_min": 50,
+    "cook_min": 25,
+    "rest_min": 240
+  },
+  "ingredients": [
+    {
+      "group": "Cocoa sponge"
+    },
+    {
+      "item": "egg",
+      "each": 6,
+      "note": "separated, at room temperature"
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.67
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "butter",
+      "tbsp": 4,
+      "note": "melted and cooled"
+    },
+    {
+      "item": "almond_flour",
+      "cup": 1.25
+    },
+    {
+      "item": "cocoa_powder",
+      "cup": 0.33
+    },
+    {
+      "item": "baking_powder",
+      "tsp": 1.5
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    },
+    {
+      "group": "Cherries"
+    },
+    {
+      "item": "cherries",
+      "g": 200,
+      "note": "fresh or frozen, halved"
+    },
+    {
+      "item": "water",
+      "cup": 0.25
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 2
+    },
+    {
+      "item": "almond_extract",
+      "tsp": 0.25,
+      "note": "in place of kirsch"
+    },
+    {
+      "group": "Cream"
+    },
+    {
+      "item": "heavy_cream",
+      "cup": 2.5,
+      "note": "very cold"
+    },
+    {
+      "item": "powdered_erythritol",
+      "cup": 0.33
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "gelatin",
+      "tsp": 1,
+      "note": "to stabilise the cream"
+    },
+    {
+      "item": "water",
+      "tbsp": 2
+    },
+    {
+      "group": "Finish"
+    },
+    {
+      "item": "unsweetened_chocolate",
+      "g": 30,
+      "note": "shaved with a vegetable peeler"
+    }
+  ],
+  "steps": [
+    "Heat the oven to 175 °C (350 °F). Line the bases of two 20 cm (8 in) round pans with parchment and grease the sides.",
+    "Whisk the egg yolks with half the erythritol and the vanilla until thick and pale, then whisk in the melted butter.",
+    "Whisk the almond flour, cocoa, baking powder and salt together and fold them into the yolks. The batter will be stiff.",
+    "Whisk the egg whites to soft peaks, add the remaining erythritol gradually and whisk until firm. Fold into the cocoa batter in three additions.",
+    "Divide between the pans and bake 22–25 minutes, until the tops spring back. Cool 10 minutes in the pans, then turn out and cool completely.",
+    "Simmer the cherries, water and erythritol for 5 minutes, then stir in the almond extract. Drain, keeping the juice, and let both cool.",
+    "Sprinkle the gelatin over the 2 tbsp cold water and leave 5 minutes, then warm it gently until just liquid (about 10 seconds in the microwave) and let it cool slightly. Whip the cream with the powdered erythritol and vanilla to soft peaks, then drizzle in the gelatin while whipping and continue to firm peaks.",
+    "Brush the cut side of each sponge generously with the cherry juice. Set one layer on a plate, spread with a third of the cream and scatter with most of the cherries.",
+    "Top with the second layer and cover the top and sides with the rest of the cream. Decorate with the remaining cherries and the chocolate shavings.",
+    "Refrigerate at least 4 hours so the sponge softens and the cream sets before slicing."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "coconut_oil",
+      "note": "melted"
+    },
+    {
+      "from": "heavy_cream",
+      "to": "coconut_cream",
+      "note": "chill the cans overnight and use only the firm cream"
+    }
+  ],
+  "dairy_free_notes": "Whipped coconut cream holds well with the gelatin but is softer than dairy cream and tastes of coconut; keep the cake cold and serve it straight from the fridge.",
+  "tips": [
+    "If you have it and do not mind the trace carbs, a tablespoon of real kirsch in the cherry juice is the authentic flavour."
+  ],
+  "origin": {
+    "family": "Layer cake",
+    "place": "Black Forest",
+    "region": "Western Europe",
+    "lat": 48.0,
+    "lon": 8.2,
+    "era": "1900s",
+    "history": "The cake takes its name from the cherry-growing Black Forest region of south-west Germany and its cherry brandy, kirschwasser. Its exact origin is disputed: it is often credited to a confectioner working in Bad Godesberg in the 1910s, while others place it in Tübingen or in the Black Forest itself. It was well known across Germany by the 1930s and became one of the country's most famous cakes after the Second World War."
+  }
+}

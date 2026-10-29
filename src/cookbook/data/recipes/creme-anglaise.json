@@ -1,0 +1,72 @@
+{
+  "id": "creme-anglaise",
+  "title": "Crème anglaise",
+  "category": "basics",
+  "summary": "A pourable vanilla custard sauce of milk, cream and egg yolks, cooked gently until it coats a spoon.",
+  "servings": 8,
+  "serving_size": "1/4 cup",
+  "time": {
+    "prep_min": 10,
+    "cook_min": 12,
+    "rest_min": 60
+  },
+  "ingredients": [
+    {
+      "item": "whole_milk",
+      "cup": 1
+    },
+    {
+      "item": "heavy_cream",
+      "cup": 1
+    },
+    {
+      "item": "egg_yolk",
+      "each": 5
+    },
+    {
+      "item": "allulose",
+      "cup": 0.33
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "vanilla",
+      "tsp": 2
+    }
+  ],
+  "steps": [
+    "Set a bowl inside a larger bowl of ice water and put a fine sieve over it.",
+    "Heat the milk and cream in a saucepan until steaming and small bubbles appear at the edge.",
+    "Meanwhile whisk the egg yolks, allulose and salt in a bowl until smooth and slightly paler.",
+    "Pour about a third of the hot milk into the yolks in a thin stream, whisking, then pour everything back into the pan.",
+    "Cook over low heat, stirring constantly with a spatula, until the sauce thickens enough to coat the spatula and a finger drawn through it leaves a clean line, 80–82 °C (176–180 °F). Never let it boil.",
+    "Immediately strain it into the chilled bowl, stir in the vanilla, and stir now and then as it cools. Refrigerate, covered, up to 3 days. Serve cold or barely warm."
+  ],
+  "swaps": [
+    {
+      "from": "whole_milk",
+      "to": "coconut_milk"
+    },
+    {
+      "from": "heavy_cream",
+      "to": "coconut_milk",
+      "note": "use coconut milk for both, not coconut cream, or the sauce is too heavy"
+    }
+  ],
+  "dairy_free_notes": "Made with coconut milk the sauce is slightly thicker and tastes of coconut; it pairs best with tropical fruit and chocolate.",
+  "tips": [
+    "If it starts to curdle, pull it off the heat at once and blend it smooth while still warm.",
+    "Churned in an ice cream maker, the same custard becomes a vanilla ice cream base."
+  ],
+  "origin": {
+    "family": "Custard sauce",
+    "place": "Paris",
+    "region": "Western Europe",
+    "lat": 48.86,
+    "lon": 2.35,
+    "era": "1800s",
+    "history": "Crème anglaise means 'English cream', a name usually explained as a nod to the English fondness for pouring custard. Sweetened milk thickened with egg yolks was made in both countries for centuries, and the sauce was a fixture of classical French cookery by the 1800s. It is also the base of many custards and ice creams."
+  }
+}

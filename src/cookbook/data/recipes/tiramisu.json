@@ -1,0 +1,122 @@
+{
+  "id": "tiramisu",
+  "title": "Tiramisù",
+  "category": "mousses",
+  "summary": "Layers of coffee-soaked almond sponge and a cooked mascarpone cream, finished with a heavy dusting of cocoa.",
+  "servings": 9,
+  "serving_size": "1 square",
+  "time": {
+    "prep_min": 45,
+    "cook_min": 20,
+    "rest_min": 480
+  },
+  "ingredients": [
+    {
+      "group": "Almond sponge"
+    },
+    {
+      "item": "egg",
+      "each": 4,
+      "note": "separated"
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.33
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "almond_flour",
+      "cup": 1
+    },
+    {
+      "item": "baking_powder",
+      "tsp": 1
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "group": "Coffee soak"
+    },
+    {
+      "item": "coffee",
+      "cup": 0.75,
+      "note": "cooled"
+    },
+    {
+      "item": "rum_extract",
+      "tsp": 1
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 1
+    },
+    {
+      "group": "Mascarpone cream"
+    },
+    {
+      "item": "egg_yolk",
+      "each": 3
+    },
+    {
+      "item": "powdered_erythritol",
+      "cup": 0.5
+    },
+    {
+      "item": "mascarpone",
+      "g": 450,
+      "note": "cold"
+    },
+    {
+      "item": "heavy_cream",
+      "cup": 1,
+      "note": "cold"
+    },
+    {
+      "group": "To finish"
+    },
+    {
+      "item": "cocoa_powder",
+      "tbsp": 2
+    }
+  ],
+  "steps": [
+    "Heat the oven to 175 °C (350 °F) and line a 23 x 33 cm (9 x 13 in) baking pan with parchment.",
+    "Beat the 4 yolks with half the erythritol and the vanilla until pale and thick. In a clean bowl, whip the whites to soft peaks, add the remaining erythritol and whip until firm.",
+    "Whisk the almond flour, baking powder and salt together, fold into the yolks, then fold in the whites in three additions. Spread evenly in the pan and bake 15–18 minutes, until golden and springy. Cool completely, then cut into two pieces that each fit a 20 cm (8 in) square dish.",
+    "Stir the coffee, rum extract and 1 tbsp erythritol together.",
+    "For the cream, whisk the 3 yolks and powdered erythritol in a heatproof bowl over simmering water until the mixture is thick, pale and reads 71 °C (160 °F), about 5 minutes. Cool to room temperature.",
+    "Beat the mascarpone just until smooth, then fold in the cooled yolk mixture. In another bowl whip the cream to soft peaks and fold it in. Do not overbeat mascarpone, which turns grainy.",
+    "Lay one sponge in the dish, brush it generously with half the coffee, and spread over half the cream. Repeat with the second sponge, the rest of the coffee and the rest of the cream.",
+    "Cover and refrigerate at least 8 hours. Sift the cocoa over just before serving."
+  ],
+  "swaps": [
+    {
+      "from": "mascarpone",
+      "to": "vegan_cream_cheese",
+      "note": "use a firm block style"
+    },
+    {
+      "from": "heavy_cream",
+      "to": "coconut_cream",
+      "note": "chill the can overnight and whip only the solid part"
+    }
+  ],
+  "dairy_free_notes": "The dairy-free cream is tangier and a little denser than mascarpone; it sets well after an overnight chill but cuts less cleanly on the first day.",
+  "tips": [
+    "The almond sponge drinks coffee faster than ladyfingers, so brush rather than dip it."
+  ],
+  "origin": {
+    "family": "Tiramisù",
+    "place": "Treviso",
+    "region": "Southern Europe",
+    "lat": 45.67,
+    "lon": 12.24,
+    "era": "1960s–1970s",
+    "history": "Tiramisù is a recent dessert, and where it was invented is disputed. Treviso in the Veneto, and a restaurant there in particular, is the claim most often repeated, dating it to the late 1960s or early 1970s; Friuli, to the north-east, points to earlier layered coffee-and-cream desserts in its mountain towns. Neither claim has been settled, but the dish spread rapidly through Italy in the 1980s and then abroad."
+  }
+}

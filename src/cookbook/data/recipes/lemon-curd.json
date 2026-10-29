@@ -1,0 +1,74 @@
+{
+  "id": "lemon-curd",
+  "title": "Lemon curd",
+  "category": "basics",
+  "summary": "A sharp, silky lemon curd thickened with egg yolks and finished with butter, sweetened with allulose so it stays smooth in the fridge.",
+  "servings": 12,
+  "serving_size": "2 tbsp",
+  "time": {
+    "prep_min": 10,
+    "cook_min": 10,
+    "rest_min": 120
+  },
+  "ingredients": [
+    {
+      "item": "lemon_zest",
+      "tbsp": 1,
+      "note": "from about 2 lemons"
+    },
+    {
+      "item": "lemon_juice",
+      "cup": 0.5
+    },
+    {
+      "item": "allulose",
+      "cup": 0.5
+    },
+    {
+      "item": "egg",
+      "each": 2
+    },
+    {
+      "item": "egg_yolk",
+      "each": 2
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "butter",
+      "tbsp": 6,
+      "note": "cold, cut into cubes"
+    }
+  ],
+  "steps": [
+    "Whisk the zest, lemon juice, allulose, eggs, yolks and salt in a heavy saucepan (not aluminium, which reacts with the acid) until smooth.",
+    "Cook over low heat, stirring constantly with a spatula and scraping the bottom and corners, until it thickens enough to coat the spatula and reaches 77–80 °C (170–175 °F), about 6–10 minutes. Do not let it boil or the eggs will curdle.",
+    "Take it off the heat and stir in the butter a few cubes at a time until melted and glossy.",
+    "Press it through a fine sieve into a jar to remove the zest and any cooked egg.",
+    "Press plastic wrap onto the surface and refrigerate at least 2 hours; it thickens further as it chills. Keeps about 1 week refrigerated."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "coconut_oil",
+      "ratio": 0.8,
+      "note": "refined, for a neutral flavour"
+    }
+  ],
+  "dairy_free_notes": "With coconut oil the curd sets firmer when cold and has a slightly less creamy finish; let it stand 10 minutes at room temperature before spreading.",
+  "tips": [
+    "Erythritol crystallises in a chilled curd; allulose stays smooth.",
+    "A double boiler makes the cooking slower but almost impossible to curdle."
+  ],
+  "origin": {
+    "family": "Lemon curd",
+    "place": "England",
+    "region": "Northern Europe",
+    "lat": 52.36,
+    "lon": -1.17,
+    "era": "1800s",
+    "history": "Fruit curds, also called 'lemon cheese', became popular in England in the 1800s as a spread for bread, scones and tarts. Earlier English recipes for creams and puddings made with lemon juice and eggs point the way, but the butter-enriched curd kept in jars is the nineteenth-century form. It remains a teatime staple in Britain."
+  }
+}

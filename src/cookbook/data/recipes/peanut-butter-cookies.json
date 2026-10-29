@@ -1,0 +1,60 @@
+{
+  "id": "peanut-butter-cookies",
+  "title": "Peanut butter cookies",
+  "category": "cookies",
+  "summary": "Flourless peanut butter cookies with the classic fork crosshatch, dairy-free as written and ready in twenty minutes.",
+  "servings": 16,
+  "serving_size": "1 cookie",
+  "time": {
+    "prep_min": 10,
+    "cook_min": 11,
+    "rest_min": 15
+  },
+  "ingredients": [
+    {
+      "item": "peanut_butter",
+      "cup": 1,
+      "note": "well stirred"
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.5
+    },
+    {
+      "item": "egg",
+      "each": 1
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "baking_soda",
+      "tsp": 0.5
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25,
+      "note": "skip if your peanut butter is salted"
+    }
+  ],
+  "steps": [
+    "Heat the oven to 175 °C (350 °F) and line a baking sheet with parchment.",
+    "Stir all the ingredients together until thick and smooth.",
+    "Roll into 16 balls and set 5 cm (2 in) apart. Press each flat with a fork, then press again at right angles to make a crosshatch.",
+    "Bake 10–12 minutes, until the edges are just golden. The cookies are very soft when hot: leave them on the sheet for 15 minutes before moving."
+  ],
+  "tips": [
+    "Use a no-stir-style peanut butter with only peanuts and salt; a very oily natural one makes the cookies spread.",
+    "Dip the fork in erythritol between cookies so it doesn't stick."
+  ],
+  "origin": {
+    "family": "Peanut butter cookie",
+    "place": "United States",
+    "region": "North America",
+    "lat": 39.83,
+    "lon": -98.58,
+    "era": "early 1900s",
+    "history": "Peanut butter became a common American food around the turn of the twentieth century, and peanut butter cookies were printed in US cookbooks in the early 1900s. By the 1930s the fork-pressed crosshatch, which flattens the stiff dough so it bakes evenly, had become the standard way to shape them."
+  }
+}

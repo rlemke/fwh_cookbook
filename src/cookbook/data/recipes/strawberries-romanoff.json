@@ -1,0 +1,85 @@
+{
+  "id": "strawberries-romanoff",
+  "title": "Strawberries Romanoff",
+  "category": "fruit",
+  "summary": "Strawberries steeped in orange juice and zest, folded through a tangy sweetened cream.",
+  "servings": 6,
+  "serving_size": "1 glass",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 0,
+    "rest_min": 60
+  },
+  "ingredients": [
+    {
+      "group": "Strawberries"
+    },
+    {
+      "item": "strawberries",
+      "g": 450,
+      "note": "hulled and halved or quartered"
+    },
+    {
+      "item": "orange_juice",
+      "tbsp": 2
+    },
+    {
+      "item": "orange_zest",
+      "tsp": 1
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 2
+    },
+    {
+      "group": "Cream"
+    },
+    {
+      "item": "heavy_cream",
+      "cup": 0.5,
+      "note": "cold"
+    },
+    {
+      "item": "sour_cream",
+      "cup": 0.25
+    },
+    {
+      "item": "powdered_erythritol",
+      "tbsp": 2
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    }
+  ],
+  "steps": [
+    "Toss the strawberries with the orange juice, zest and erythritol. Cover and refrigerate for 1 hour, stirring once, so they release their juice.",
+    "Whip the cream with the powdered erythritol and vanilla to soft peaks, then fold in the sour cream.",
+    "Set aside a few berries for the top. Fold the rest, with a spoonful of their juice, gently through the cream so it streaks pink.",
+    "Spoon into 6 glasses, top with the reserved berries and serve within an hour."
+  ],
+  "swaps": [
+    {
+      "from": "heavy_cream",
+      "to": "coconut_cream",
+      "note": "the solid part of a well-chilled can"
+    },
+    {
+      "from": "sour_cream",
+      "to": "coconut_yogurt"
+    }
+  ],
+  "dairy_free_notes": "Coconut cream and coconut yogurt make a looser, softer cream with a clear coconut flavour; fold it together just before serving.",
+  "tips": [
+    "The classic recipe adds an orange liqueur to the berries; a teaspoon per serving is traditional but adds sugar."
+  ],
+  "origin": {
+    "family": "Strawberries Romanoff",
+    "place": "Paris, France",
+    "region": "Western Europe",
+    "lat": 48.86,
+    "lon": 2.35,
+    "era": "1800s",
+    "history": "The dish is named for the Romanov dynasty of Russia and is often credited to French chefs of the nineteenth century who cooked for Russian aristocrats, though no single inventor is firmly documented. It became widely known in the United States in the mid-twentieth century, when it was associated with fashionable restaurants. The map marker reflects its usual attribution to French cookery."
+  }
+}

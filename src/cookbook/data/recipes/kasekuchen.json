@@ -1,0 +1,118 @@
+{
+  "id": "kasekuchen",
+  "title": "German Käsekuchen",
+  "category": "cheesecakes",
+  "summary": "A tall, lightly tangy German curd-cheese cake on a short almond crust, made here with a cream cheese and yogurt blend in place of quark.",
+  "servings": 12,
+  "serving_size": "1 slice",
+  "time": {
+    "prep_min": 30,
+    "cook_min": 70,
+    "rest_min": 240
+  },
+  "ingredients": [
+    {
+      "group": "Crust"
+    },
+    {
+      "item": "almond_flour",
+      "cup": 1.25
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 2
+    },
+    {
+      "item": "butter",
+      "tbsp": 4,
+      "note": "cold, cubed"
+    },
+    {
+      "item": "egg_yolk",
+      "each": 1
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "group": "Filling"
+    },
+    {
+      "item": "greek_yogurt",
+      "g": 500,
+      "note": "strained overnight in a sieve lined with a cloth"
+    },
+    {
+      "item": "cream_cheese",
+      "g": 250,
+      "note": "at room temperature"
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.67
+    },
+    {
+      "item": "egg",
+      "each": 4,
+      "note": "separated"
+    },
+    {
+      "item": "butter",
+      "tbsp": 4,
+      "note": "melted and cooled"
+    },
+    {
+      "item": "lemon_zest",
+      "tbsp": 1
+    },
+    {
+      "item": "lemon_juice",
+      "tbsp": 1
+    },
+    {
+      "item": "vanilla",
+      "tsp": 2
+    },
+    {
+      "item": "coconut_flour",
+      "tbsp": 2
+    }
+  ],
+  "steps": [
+    "Heat the oven to 175 °C (350 °F). Line the base of a 23 cm (9 in) springform pan with parchment.",
+    "Rub the butter into the almond flour, erythritol and salt, then mix in the yolk to make a soft dough. Press it over the base and 2 cm (¾ in) up the sides. Bake 10 minutes and let cool. Lower the oven to 160 °C (325 °F).",
+    "Beat the strained yogurt, cream cheese and erythritol until smooth. Beat in the yolks, melted butter, zest, juice and vanilla, then sift in the coconut flour and mix until smooth.",
+    "Whisk the whites to soft peaks and fold them into the cheese mixture.",
+    "Pour into the crust and bake 60–70 minutes, until golden and just set, with a slight wobble in the centre. If the top rises and threatens to crack, run a knife round the edge after 15 minutes.",
+    "Turn off the oven and leave the cake inside with the door ajar for 30 minutes, then cool completely and chill at least 4 hours."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter"
+    },
+    {
+      "from": "greek_yogurt",
+      "to": "coconut_yogurt",
+      "note": "a thick, strained-style one"
+    },
+    {
+      "from": "cream_cheese",
+      "to": "vegan_cream_cheese"
+    }
+  ],
+  "dairy_free_notes": "The dairy-free version is softer and sweeter-tasting, with less of quark's tang; add an extra tablespoon of lemon juice and chill it overnight.",
+  "tips": [
+    "If you can find quark, use 750 g of it, well drained, in place of the yogurt and cream cheese."
+  ],
+  "origin": {
+    "family": "Cheesecake",
+    "place": "Germany",
+    "region": "Western Europe",
+    "lat": 51.17,
+    "lon": 10.45,
+    "era": "medieval",
+    "history": "Tarts of fresh curd cheese were baked in German-speaking lands by the late Middle Ages, and Käsekuchen made with quark remains one of the most common cakes in German bakeries. It is lighter and tangier than an American cream-cheese cake, and is usually baked on a shortcrust base, sometimes with raisins or as a no-crust variant."
+  }
+}

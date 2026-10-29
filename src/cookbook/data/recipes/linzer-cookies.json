@@ -1,0 +1,108 @@
+{
+  "id": "linzer-cookies",
+  "title": "Linzer cookies",
+  "category": "cookies",
+  "summary": "Hazelnut-almond sandwich cookies with a window of quick raspberry chia jam, dusted with powdered sweetener.",
+  "servings": 14,
+  "serving_size": "1 sandwich cookie",
+  "time": {
+    "prep_min": 40,
+    "cook_min": 12,
+    "rest_min": 60
+  },
+  "ingredients": [
+    {
+      "group": "Raspberry jam"
+    },
+    {
+      "item": "raspberries",
+      "g": 125
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 2
+    },
+    {
+      "item": "lemon_juice",
+      "tsp": 1
+    },
+    {
+      "item": "chia_seeds",
+      "tbsp": 1
+    },
+    {
+      "group": "Dough"
+    },
+    {
+      "item": "butter",
+      "cup": 0.5,
+      "note": "softened"
+    },
+    {
+      "item": "powdered_erythritol",
+      "cup": 0.33
+    },
+    {
+      "item": "egg_yolk",
+      "each": 1
+    },
+    {
+      "item": "lemon_zest",
+      "tsp": 1
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "hazelnut_flour",
+      "cup": 1
+    },
+    {
+      "item": "almond_flour",
+      "cup": 1
+    },
+    {
+      "item": "cinnamon",
+      "tsp": 0.5
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "powdered_erythritol",
+      "tbsp": 2,
+      "note": "for dusting"
+    }
+  ],
+  "steps": [
+    "For the jam, simmer the raspberries, erythritol and lemon juice for 5 minutes, mashing the fruit. Stir in the chia seeds and cool; it thickens as it stands.",
+    "Beat the butter and ⅓ cup powdered erythritol until smooth, then beat in the egg yolk, lemon zest and vanilla. Stir in the hazelnut flour, almond flour, cinnamon and salt.",
+    "Divide the dough in two, flatten into discs, wrap and chill 1 hour.",
+    "Heat the oven to 165 °C (325 °F) and line two baking sheets with parchment.",
+    "Roll each disc between parchment to 3 mm (⅛ in) thick and cut 28 rounds with a 6 cm (2½ in) cutter. Cut a small window from the centre of half of them. Re-chill if the dough softens.",
+    "Bake 10–12 minutes, until the edges just colour. Cool completely on the sheets.",
+    "Dust the window cookies with powdered erythritol. Spread about 1 teaspoon of jam on each solid cookie and top with a window cookie."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter",
+      "note": "use a firm stick-style one"
+    }
+  ],
+  "dairy_free_notes": "The dairy-free dough is softer and tears more easily; roll it straight from the fridge and chill the cut rounds for 10 minutes before baking.",
+  "tips": [
+    "Assemble on the day you serve them; the jam softens the cookies overnight."
+  ],
+  "origin": {
+    "family": "Linzer",
+    "place": "Linz",
+    "region": "Western Europe",
+    "lat": 48.31,
+    "lon": 14.29,
+    "era": "1600s",
+    "history": "The Linzer torte, a nut pastry filled with jam under a lattice, is named after the Austrian city of Linz and is among the oldest named cakes in Europe; a recipe for it survives from the seventeenth century. The sandwich cookies with a jam window are a later, smaller version of the same pastry, and are now a Christmas staple in Austria and beyond."
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "almond-basbousa",
+  "title": "Almond basbousa",
+  "category": "cakes",
+  "summary": "A semolina-free take on the Egyptian syrup cake, made with almond flour and coconut, soaked in a lemon and orange-blossom syrup.",
+  "servings": 16,
+  "serving_size": "1 diamond",
+  "time": {
+    "prep_min": 20,
+    "cook_min": 35,
+    "rest_min": 60
+  },
+  "ingredients": [
+    {
+      "group": "Syrup"
+    },
+    {
+      "item": "allulose",
+      "cup": 0.5
+    },
+    {
+      "item": "water",
+      "cup": 0.5
+    },
+    {
+      "item": "lemon_juice",
+      "tsp": 2
+    },
+    {
+      "item": "orange_blossom_water",
+      "tsp": 1
+    },
+    {
+      "group": "Cake"
+    },
+    {
+      "item": "almond_flour",
+      "cup": 2
+    },
+    {
+      "item": "coconut_shredded",
+      "cup": 0.5
+    },
+    {
+      "item": "baking_powder",
+      "tsp": 1.5
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.33
+    },
+    {
+      "item": "egg",
+      "each": 3
+    },
+    {
+      "item": "coconut_yogurt",
+      "cup": 0.75
+    },
+    {
+      "item": "coconut_oil",
+      "cup": 0.25,
+      "note": "melted"
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "almonds",
+      "g": 16,
+      "note": "blanched halves, one per piece"
+    }
+  ],
+  "steps": [
+    "Make the syrup first so it can cool: simmer the allulose and water for 3 minutes, take off the heat and stir in the lemon juice and orange blossom water. Let it cool completely.",
+    "Heat the oven to 165 °C (325 °F). Grease a 20 × 20 cm (8 × 8 in) pan.",
+    "Whisk the almond flour, coconut, baking powder, salt and erythritol together. In another bowl whisk the eggs, coconut yogurt, melted coconut oil and vanilla.",
+    "Stir the wet ingredients into the dry until evenly mixed; the batter will be thick. Spread it in the pan and smooth the top.",
+    "Score the top into 16 diamonds with a knife dipped in water and press an almond half into the centre of each.",
+    "Bake 30–35 minutes, until deep golden and firm in the middle.",
+    "Re-cut along the scored lines as soon as it comes out, then pour the cool syrup evenly over the hot cake. Leave at least an hour to soak before serving."
+  ],
+  "tips": [
+    "Cool syrup on hot cake (or the reverse) is the rule; both hot makes it soggy.",
+    "Allulose browns faster than sugar, so the oven runs lower than for a sugar basbousa."
+  ],
+  "origin": {
+    "family": "Syrup cake",
+    "place": "Egypt",
+    "region": "Middle East & North Africa",
+    "lat": 30.04,
+    "lon": 31.24,
+    "era": "by the 1900s",
+    "history": "Basbousa is a semolina cake soaked in syrup, eaten across Egypt and the eastern Mediterranean under several names, including revani in Turkey and Greece and namoura in Lebanon. It belongs to the region's long tradition of syrup-soaked sweets, and its exact origin is not recorded. This low-carb version is a modern adaptation that replaces the semolina with almond flour and coconut and is dairy-free as written."
+  }
+}

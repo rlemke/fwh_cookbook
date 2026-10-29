@@ -1,0 +1,112 @@
+{
+  "id": "nanaimo-bars",
+  "title": "Nanaimo bars",
+  "category": "bars",
+  "summary": "Three no-bake layers: a chocolate-coconut-nut base, a vanilla buttercream middle and a thin chocolate top.",
+  "servings": 16,
+  "serving_size": "1 square",
+  "time": {
+    "prep_min": 35,
+    "cook_min": 5,
+    "rest_min": 180
+  },
+  "ingredients": [
+    {
+      "group": "Base"
+    },
+    {
+      "item": "butter",
+      "cup": 0.33
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.25
+    },
+    {
+      "item": "cocoa_powder",
+      "cup": 0.25
+    },
+    {
+      "item": "egg",
+      "each": 1,
+      "note": "beaten"
+    },
+    {
+      "item": "almond_flour",
+      "cup": 0.75
+    },
+    {
+      "item": "coconut_shredded",
+      "cup": 0.5
+    },
+    {
+      "item": "walnuts",
+      "cup": 0.33,
+      "note": "finely chopped"
+    },
+    {
+      "group": "Filling"
+    },
+    {
+      "item": "butter",
+      "cup": 0.25,
+      "note": "softened"
+    },
+    {
+      "item": "heavy_cream",
+      "tbsp": 2
+    },
+    {
+      "item": "powdered_erythritol",
+      "cup": 0.75
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "group": "Topping"
+    },
+    {
+      "item": "dark_chocolate_85",
+      "g": 90,
+      "note": "chopped"
+    },
+    {
+      "item": "butter",
+      "tbsp": 1
+    }
+  ],
+  "steps": [
+    "Line a 20 cm (8 in) square pan with parchment.",
+    "For the base, melt the butter with the erythritol and cocoa over low heat. Take it off the heat and whisk in the egg, then return to very low heat and stir 1–2 minutes until it thickens slightly. Stir in the almond flour, coconut and walnuts.",
+    "Press firmly into the pan and chill 30 minutes.",
+    "For the filling, beat the butter, cream, powdered erythritol and vanilla until smooth and fluffy. Spread over the base and chill 30 minutes, until firm.",
+    "Melt the chocolate with the butter, cool until barely warm, and spread thinly over the filling.",
+    "Chill at least 2 hours. Let stand 10 minutes, then cut with a hot knife into 16 squares."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter",
+      "note": "use a firm stick-style one"
+    },
+    {
+      "from": "heavy_cream",
+      "to": "coconut_cream"
+    }
+  ],
+  "dairy_free_notes": "The dairy-free filling is softer and melts faster at room temperature; keep the bars chilled until just before serving.",
+  "tips": [
+    "The original middle layer uses custard powder, which is cornstarch; vanilla and a little extra cream stand in for it."
+  ],
+  "origin": {
+    "family": "Nanaimo bar",
+    "place": "Nanaimo, British Columbia",
+    "region": "North America",
+    "lat": 49.17,
+    "lon": -123.94,
+    "era": "1950s",
+    "history": "Nanaimo bars are named after the city of Nanaimo on Vancouver Island. Recipes under that name appeared in local community cookbooks in the 1950s, though similar no-bake layered bars were printed elsewhere earlier under other names. They are now regarded as a Canadian national treat."
+  }
+}

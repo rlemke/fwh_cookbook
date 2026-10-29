@@ -1,0 +1,89 @@
+{
+  "id": "green-shakshuka",
+  "title": "Green shakshuka",
+  "category": "breakfast",
+  "summary": "Eggs poached in a skillet of softened onion, zucchini and spinach — a green take on the North African tomato dish.",
+  "servings": 3,
+  "serving_size": "2 eggs",
+  "time": {
+    "prep_min": 10,
+    "cook_min": 25,
+    "rest_min": 0
+  },
+  "ingredients": [
+    {
+      "item": "olive_oil",
+      "tbsp": 2
+    },
+    {
+      "item": "onion",
+      "each": 0.33,
+      "note": "finely chopped"
+    },
+    {
+      "item": "garlic",
+      "each": 2,
+      "note": "sliced"
+    },
+    {
+      "item": "zucchini",
+      "each": 1,
+      "note": "diced"
+    },
+    {
+      "item": "spinach",
+      "g": 200
+    },
+    {
+      "item": "salt",
+      "tsp": 0.5
+    },
+    {
+      "item": "black_pepper",
+      "tsp": 0.25
+    },
+    {
+      "item": "lemon_juice",
+      "tbsp": 1
+    },
+    {
+      "item": "egg",
+      "each": 6
+    },
+    {
+      "item": "mint",
+      "tbsp": 1,
+      "note": "chopped"
+    },
+    {
+      "item": "basil",
+      "tbsp": 2,
+      "note": "torn"
+    },
+    {
+      "item": "coconut_yogurt",
+      "tbsp": 3,
+      "note": "to serve"
+    }
+  ],
+  "steps": [
+    "Heat the olive oil in a 25 cm (10 in) skillet over medium heat. Cook the onion 5–6 minutes until soft.",
+    "Add the garlic and zucchini and cook 5 minutes, stirring, until the zucchini is tender.",
+    "Add the spinach a handful at a time, letting each wilt. Season with the salt and pepper and stir in the lemon juice.",
+    "Make 6 hollows in the greens and crack an egg into each. Cover and cook over low heat 6–8 minutes, until the whites are set and the yolks still soft.",
+    "Scatter with mint and basil and serve with spoonfuls of coconut yogurt."
+  ],
+  "swaps": [],
+  "tips": [
+    "Squeeze excess liquid from the spinach if using frozen, or the pan will be watery."
+  ],
+  "origin": {
+    "family": "Shakshuka",
+    "place": "Tunis",
+    "region": "Middle East & North Africa",
+    "lat": 36.81,
+    "lon": 10.18,
+    "era": "by the 1900s",
+    "history": "Shakshuka — eggs cooked in a spiced sauce, usually of tomatoes and peppers — is a dish of the Maghreb, most often credited to Tunisia. Tunisian and Libyan Jewish communities carried it to Israel, where it became a breakfast staple. Green versions built on leafy vegetables are a modern variation."
+  }
+}

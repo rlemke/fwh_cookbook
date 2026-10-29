@@ -1,0 +1,88 @@
+{
+  "id": "spanish-flan",
+  "title": "Spanish flan",
+  "category": "custards",
+  "summary": "A silky egg custard flavoured with lemon zest and baked over an allulose caramel that turns to sauce when it is unmoulded.",
+  "servings": 8,
+  "serving_size": "1 slice",
+  "time": {
+    "prep_min": 25,
+    "cook_min": 60,
+    "rest_min": 360
+  },
+  "ingredients": [
+    {
+      "group": "Caramel"
+    },
+    {
+      "item": "allulose",
+      "cup": 0.33
+    },
+    {
+      "item": "water",
+      "tbsp": 2
+    },
+    {
+      "group": "Custard"
+    },
+    {
+      "item": "heavy_cream",
+      "cup": 1
+    },
+    {
+      "item": "almond_milk",
+      "cup": 1
+    },
+    {
+      "item": "lemon_zest",
+      "tsp": 1
+    },
+    {
+      "item": "egg",
+      "each": 4
+    },
+    {
+      "item": "egg_yolk",
+      "each": 2
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.33
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    }
+  ],
+  "steps": [
+    "Heat the oven to 160 °C (325 °F). Have ready a 20 cm (8 in) round cake pan or flan mould and a larger roasting tin.",
+    "Cook the allulose and water in a small pan over medium heat, swirling, until it turns amber, 5–7 minutes. Pour at once into the pan and tilt to coat the base.",
+    "Warm the cream, almond milk and lemon zest until steaming. Leave 10 minutes to infuse.",
+    "Whisk the eggs, yolks, erythritol, vanilla and salt without beating in air. Slowly whisk in the warm milk, then strain onto the caramel.",
+    "Set the pan in the roasting tin and add hot water to come halfway up. Bake 50–60 minutes, until set at the edge and just wobbly in the centre.",
+    "Cool, then refrigerate at least 6 hours. Run a thin knife around the edge, invert onto a plate with a rim, and let the caramel run down."
+  ],
+  "swaps": [
+    {
+      "from": "heavy_cream",
+      "to": "coconut_cream"
+    }
+  ],
+  "dairy_free_notes": "Coconut cream gives a flan just as firm and a touch denser, with a mild coconut flavour that suits the caramel.",
+  "tips": [
+    "Allulose caramel goes from amber to burnt quickly and never gets as hard as sugar caramel; pour it as soon as it colours."
+  ],
+  "origin": {
+    "family": "Flan",
+    "place": "Spain",
+    "region": "Southern Europe",
+    "lat": 40.42,
+    "lon": -3.7,
+    "era": "ancient (Roman roots)",
+    "history": "The Romans made sweet and savoury custards of eggs and milk. In Spain the custard came to be baked over caramel and turned out of its mould, becoming the flan served across the country. Spanish colonists carried it to Latin America and the Philippines, where local versions developed."
+  }
+}

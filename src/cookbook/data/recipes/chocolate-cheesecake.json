@@ -1,0 +1,125 @@
+{
+  "id": "chocolate-cheesecake",
+  "title": "Chocolate cheesecake",
+  "category": "cheesecakes",
+  "summary": "A dense, dark chocolate cheesecake on a cocoa-almond crust, baked slowly in a water bath.",
+  "servings": 16,
+  "serving_size": "1 thin slice",
+  "time": {
+    "prep_min": 30,
+    "cook_min": 75,
+    "rest_min": 480
+  },
+  "ingredients": [
+    {
+      "group": "Crust"
+    },
+    {
+      "item": "almond_flour",
+      "cup": 1.25
+    },
+    {
+      "item": "cocoa_powder",
+      "tbsp": 3
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 3
+    },
+    {
+      "item": "butter",
+      "tbsp": 5,
+      "note": "melted"
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "group": "Filling"
+    },
+    {
+      "item": "unsweetened_chocolate",
+      "g": 115,
+      "note": "chopped"
+    },
+    {
+      "item": "cream_cheese",
+      "g": 900,
+      "note": "at room temperature"
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.75
+    },
+    {
+      "item": "powdered_erythritol",
+      "cup": 0.25
+    },
+    {
+      "item": "dutch_cocoa",
+      "tbsp": 3
+    },
+    {
+      "item": "sour_cream",
+      "cup": 0.5
+    },
+    {
+      "item": "egg",
+      "each": 4
+    },
+    {
+      "item": "vanilla",
+      "tsp": 2
+    },
+    {
+      "item": "espresso_powder",
+      "tsp": 1
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    }
+  ],
+  "steps": [
+    "Heat the oven to 160 °C (325 °F). Line the base of a 23 cm (9 in) springform pan with parchment.",
+    "Mix the crust ingredients, press firmly into the pan and bake 10 minutes. Let it cool.",
+    "Melt the chocolate gently over barely simmering water and let it cool until just warm.",
+    "Beat the cream cheese, both sweeteners and the cocoa on low speed until completely smooth. Beat in the warm chocolate, then the sour cream.",
+    "Add the eggs one at a time, then the vanilla, espresso powder and salt, mixing on low only until combined.",
+    "Pour onto the crust, wrap the outside of the pan in foil and set it in a roasting tin. Pour in hot water to come halfway up the side.",
+    "Bake 65–75 minutes, until the edge is set and the centre wobbles slightly. Turn off the oven and leave the cake inside with the door ajar for an hour.",
+    "Cool, then refrigerate at least 8 hours before slicing."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "coconut_oil",
+      "ratio": 0.85,
+      "note": "melted"
+    },
+    {
+      "from": "cream_cheese",
+      "to": "vegan_cream_cheese",
+      "note": "block-style"
+    },
+    {
+      "from": "sour_cream",
+      "to": "coconut_yogurt"
+    }
+  ],
+  "dairy_free_notes": "Chocolate hides the coconut and cashew flavours well, and the melted chocolate helps the dairy-free version set firmer than most.",
+  "tips": [
+    "Cut it into thin slices with a hot, dry knife; it is very rich.",
+    "Make sure the chocolate is only warm when added; hot chocolate scrambles the eggs, cold chocolate seizes into flecks."
+  ],
+  "origin": {
+    "family": "Cheesecake",
+    "place": "New York City",
+    "region": "North America",
+    "lat": 40.71,
+    "lon": -74.01,
+    "era": "1900s",
+    "history": "Chocolate cheesecake is a twentieth-century American variation on the cream-cheese cheesecake that grew up around New York delicatessens. There is no single recorded inventor; flavoured cheesecakes became common in American bakeries and restaurants through the second half of the century."
+  }
+}

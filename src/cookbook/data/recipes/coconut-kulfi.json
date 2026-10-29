@@ -1,0 +1,69 @@
+{
+  "id": "coconut-kulfi",
+  "title": "Coconut kulfi",
+  "category": "frozen",
+  "summary": "A dairy-free kulfi: coconut milk slowly reduced with cardamom and saffron, frozen dense and unchurned with pistachios.",
+  "servings": 8,
+  "serving_size": "1 small mould",
+  "time": {
+    "prep_min": 10,
+    "cook_min": 40,
+    "rest_min": 360
+  },
+  "ingredients": [
+    {
+      "item": "coconut_milk",
+      "g": 800,
+      "note": "two cans, shaken"
+    },
+    {
+      "item": "coconut_cream",
+      "cup": 0.5
+    },
+    {
+      "item": "allulose",
+      "cup": 0.5
+    },
+    {
+      "item": "saffron",
+      "tsp": 0.25
+    },
+    {
+      "item": "cardamom",
+      "tsp": 0.75
+    },
+    {
+      "item": "salt",
+      "tsp": 0.0625
+    },
+    {
+      "item": "pistachios",
+      "cup": 0.33,
+      "note": "chopped"
+    },
+    {
+      "item": "rose_water",
+      "tsp": 0.5,
+      "note": "optional"
+    }
+  ],
+  "steps": [
+    "Pour the coconut milk and coconut cream into a wide, heavy pan and bring to a simmer.",
+    "Simmer over low heat, stirring often and scraping the sides and base, until reduced by about a third, 30–40 minutes.",
+    "Stir in the allulose, saffron, cardamom and salt and simmer 5 minutes more. Take off the heat and stir in most of the pistachios and the rose water, if using.",
+    "Cool to room temperature, then pour into kulfi moulds, small paper cups or ice-lolly moulds. Sprinkle the remaining pistachios on top.",
+    "Freeze at least 6 hours. To unmould, dip briefly in warm water."
+  ],
+  "tips": [
+    "Kulfi is not churned, so it is meant to be dense; scraping the pan as it reduces gives the faint caramel note of the traditional milk version."
+  ],
+  "origin": {
+    "family": "Kulfi",
+    "place": "Delhi",
+    "region": "South Asia",
+    "lat": 28.61,
+    "lon": 77.21,
+    "era": "1500s",
+    "history": "Kulfi is usually traced to the Mughal era in northern India, when milk was boiled down until thick, flavoured with nuts and saffron, and frozen in sealed metal cones packed in ice and salt. It remains a street and festival sweet across the Indian subcontinent. Traditional kulfi is made from dairy milk; this version uses coconut milk instead."
+  }
+}

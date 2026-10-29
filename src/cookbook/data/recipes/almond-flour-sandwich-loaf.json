@@ -1,0 +1,78 @@
+{
+  "id": "almond-flour-sandwich-loaf",
+  "title": "Almond-flour sandwich loaf",
+  "category": "breads",
+  "summary": "A sliceable, sturdy sandwich loaf from almond flour and psyllium that toasts well.",
+  "servings": 14,
+  "serving_size": "1 slice",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 70,
+    "rest_min": 60
+  },
+  "ingredients": [
+    {
+      "item": "almond_flour",
+      "cup": 2.5
+    },
+    {
+      "item": "psyllium_husk",
+      "cup": 0.5
+    },
+    {
+      "item": "coconut_flour",
+      "tbsp": 2
+    },
+    {
+      "item": "baking_powder",
+      "tsp": 3
+    },
+    {
+      "item": "salt",
+      "tsp": 1.5
+    },
+    {
+      "item": "egg_white",
+      "each": 5
+    },
+    {
+      "item": "egg",
+      "each": 1
+    },
+    {
+      "item": "lemon_juice",
+      "tbsp": 1
+    },
+    {
+      "item": "olive_oil",
+      "tbsp": 2
+    },
+    {
+      "item": "water",
+      "cup": 1.5,
+      "note": "boiling"
+    }
+  ],
+  "steps": [
+    "Heat the oven to 175 °C (350 °F) and line a 23 × 13 cm (9 × 5 in) loaf pan with parchment.",
+    "Whisk the almond flour, psyllium, coconut flour, baking powder and salt in a large bowl.",
+    "Add the egg whites, egg, lemon juice and olive oil and stir briefly, then pour in the boiling water and mix vigorously until it forms a smooth, thick dough.",
+    "With wet hands, shape into a log and press into the pan, smoothing the top. Score a line down the middle.",
+    "Bake 65–75 minutes, until deep golden and hollow-sounding when tapped underneath. If the top browns early, cover loosely with foil.",
+    "Cool completely in the pan, at least 1 hour, before slicing; cut warm, the crumb is gummy."
+  ],
+  "swaps": [],
+  "tips": [
+    "Psyllium gives this dough a bread-like chew; brands differ, and some darken the crumb purple-grey — it is harmless.",
+    "Slice the whole loaf and freeze it; toast slices straight from frozen."
+  ],
+  "origin": {
+    "family": "Sandwich loaf",
+    "place": "Chillicothe, Missouri",
+    "region": "North America",
+    "lat": 39.8,
+    "lon": -93.55,
+    "era": "1928",
+    "history": "The tall, square-sided pan loaf became the standard sandwich bread with industrial baking. Pre-sliced bread was first sold commercially in 1928 by a bakery in Chillicothe, Missouri, using Otto Rohwedder's slicing machine. This grain-free loaf is a modern low-carb imitation of that everyday bread."
+  }
+}

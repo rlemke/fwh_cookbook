@@ -1,0 +1,79 @@
+{
+  "id": "southern-style-cornbread",
+  "title": "Southern-style \"cornbread\" (no corn)",
+  "category": "breads",
+  "summary": "An unsweetened skillet bread with a crisp, buttery crust, in the Southern style — made without any corn.",
+  "servings": 9,
+  "serving_size": "1 wedge",
+  "time": {
+    "prep_min": 10,
+    "cook_min": 25,
+    "rest_min": 10
+  },
+  "ingredients": [
+    {
+      "item": "butter",
+      "tbsp": 4,
+      "note": "divided"
+    },
+    {
+      "item": "almond_flour",
+      "cup": 1.5
+    },
+    {
+      "item": "coconut_flour",
+      "tbsp": 3
+    },
+    {
+      "item": "baking_powder",
+      "tsp": 2
+    },
+    {
+      "item": "baking_soda",
+      "tsp": 0.25
+    },
+    {
+      "item": "salt",
+      "tsp": 0.75
+    },
+    {
+      "item": "egg",
+      "each": 3
+    },
+    {
+      "item": "almond_milk",
+      "cup": 0.5
+    },
+    {
+      "item": "lemon_juice",
+      "tbsp": 1
+    }
+  ],
+  "steps": [
+    "Put 1 tablespoon of the butter in a 25 cm (10 in) cast-iron skillet and heat it in the oven as it heats to 200 °C (400 °F).",
+    "Melt the remaining butter. Stir the lemon juice into the almond milk and leave 5 minutes.",
+    "Whisk the almond flour, coconut flour, baking powder, baking soda and salt.",
+    "Beat the eggs, soured almond milk and melted butter, then stir into the dry ingredients. Rest 2 minutes so the coconut flour thickens the batter.",
+    "Take out the hot skillet, swirl the butter to coat and pour in the batter; it should sizzle.",
+    "Bake 20–25 minutes, until golden and a skewer comes out clean. Cool 10 minutes, then cut into 9 wedges."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter"
+    }
+  ],
+  "dairy_free_notes": "With dairy-free butter the crust is crisp but less nutty; a spoonful of bacon fat in the skillet, if you eat it, adds the traditional flavour.",
+  "tips": [
+    "Honestly, it tastes like a savoury muffin rather than corn; serve it where cornbread would go — with chili, greens or soup."
+  ],
+  "origin": {
+    "family": "Cornbread",
+    "place": "Charleston, South Carolina",
+    "region": "North America",
+    "lat": 32.78,
+    "lon": -79.93,
+    "era": "1700s",
+    "history": "Cornbread comes from Native American maize cooking, which European settlers adopted in North America. In the American South it became an everyday bread: usually unsweetened, made with buttermilk and baked in a hot, greased cast-iron skillet for a crisp crust. This version keeps the method but contains no corn."
+  }
+}

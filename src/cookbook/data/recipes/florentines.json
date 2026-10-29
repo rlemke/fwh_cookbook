@@ -1,0 +1,83 @@
+{
+  "id": "florentines",
+  "title": "Florentines",
+  "category": "cookies",
+  "summary": "Lacy almond caramel cookies with orange zest, their flat undersides coated in dark chocolate.",
+  "servings": 16,
+  "serving_size": "1 florentine",
+  "time": {
+    "prep_min": 20,
+    "cook_min": 12,
+    "rest_min": 30
+  },
+  "ingredients": [
+    {
+      "item": "butter",
+      "tbsp": 3
+    },
+    {
+      "item": "allulose",
+      "cup": 0.33
+    },
+    {
+      "item": "heavy_cream",
+      "tbsp": 3
+    },
+    {
+      "item": "almonds",
+      "cup": 1,
+      "note": "sliced or slivered"
+    },
+    {
+      "item": "almond_flour",
+      "tbsp": 2
+    },
+    {
+      "item": "orange_zest",
+      "tbsp": 1
+    },
+    {
+      "item": "vanilla",
+      "tsp": 0.5
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "dark_chocolate_85",
+      "g": 60
+    }
+  ],
+  "steps": [
+    "Heat the oven to 165 °C (325 °F); allulose browns quickly, so this is lower than a sugar recipe. Line two baking sheets with parchment.",
+    "Melt the butter with the allulose and cream in a small pan and simmer 2 minutes, stirring, until it thickens slightly.",
+    "Off the heat, stir in the almonds, almond flour, orange zest, vanilla and salt.",
+    "Drop level tablespoons onto the sheets, 8 per sheet and well apart, and flatten each into a thin round.",
+    "Bake 9–12 minutes, watching closely, until lacy and golden-brown at the edges. Cool on the sheet until firm, then lift off.",
+    "Melt the chocolate, spread it over the flat undersides and drag a fork through to make waves. Set chocolate side up."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter"
+    },
+    {
+      "from": "heavy_cream",
+      "to": "coconut_cream"
+    }
+  ],
+  "dairy_free_notes": "Coconut cream caramel is a little softer and faintly coconut-flavoured; bake a minute longer so the florentines crisp.",
+  "tips": [
+    "Erythritol won't make a caramel that binds; this one needs allulose."
+  ],
+  "origin": {
+    "family": "Florentine",
+    "place": "Florence",
+    "region": "Southern Europe",
+    "lat": 43.77,
+    "lon": 11.26,
+    "era": "by the 1800s",
+    "history": "Despite the name, the origin of florentines is disputed. Many food historians credit French or Austrian pastry kitchens rather than Florence, and the stories tying them to Florentine nobility are not documented. What is clear is that the almond-and-caramel lace biscuit with a chocolate back was a European confectioners' classic by the nineteenth century."
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "sesame-bagels",
+  "title": "Sesame bagels",
+  "category": "breads",
+  "summary": "Chewy, ring-shaped rolls from a psyllium almond dough, briefly boiled and baked with a sesame crust.",
+  "servings": 6,
+  "serving_size": "1 bagel",
+  "time": {
+    "prep_min": 20,
+    "cook_min": 50,
+    "rest_min": 10
+  },
+  "ingredients": [
+    {
+      "item": "almond_flour",
+      "cup": 1.25
+    },
+    {
+      "item": "psyllium_husk",
+      "tbsp": 5
+    },
+    {
+      "item": "baking_powder",
+      "tsp": 2
+    },
+    {
+      "item": "salt",
+      "tsp": 1
+    },
+    {
+      "item": "egg_white",
+      "each": 3
+    },
+    {
+      "item": "lemon_juice",
+      "tsp": 2
+    },
+    {
+      "item": "water",
+      "cup": 1,
+      "note": "boiling"
+    },
+    {
+      "item": "egg",
+      "each": 1,
+      "note": "beaten, for brushing"
+    },
+    {
+      "item": "sesame_seeds",
+      "tbsp": 2
+    }
+  ],
+  "steps": [
+    "Heat the oven to 175 °C (350 °F) and line a baking sheet with parchment. Bring a wide pan of water to a gentle simmer.",
+    "Whisk the almond flour, psyllium, baking powder and salt. Add the egg whites and lemon juice, then the boiling water, and mix quickly into a dough. Rest 10 minutes.",
+    "With wet hands, divide into 6 and roll each into a ball. Push a finger through the middle and widen the hole to about 3 cm (1¼ in); it closes up in the oven.",
+    "Lower the bagels into the simmering water two at a time for 30 seconds, then lift out with a slotted spoon onto the sheet.",
+    "Brush with beaten egg and sprinkle generously with sesame seeds.",
+    "Bake 45–50 minutes, until well browned and hollow-sounding when tapped underneath. Cool on a rack before slicing."
+  ],
+  "swaps": [],
+  "tips": [
+    "Psyllium gives this dough a bread-like chew; brands differ, and some darken the crumb purple-grey — it is harmless.",
+    "The short simmer sets the surface and helps a shiny crust; skip it if the dough feels too soft to handle."
+  ],
+  "origin": {
+    "family": "Bagel",
+    "place": "Kraków",
+    "region": "Central & Eastern Europe",
+    "lat": 50.06,
+    "lon": 19.94,
+    "era": "1600s",
+    "history": "The bagel is a Polish-Jewish bread. Records from Kraków in the early 1600s are often cited as the first written mention of bajgiel. Jewish immigrants carried the boiled-then-baked ring to North America around 1900, where it became a New York staple."
+  }
+}

@@ -1,0 +1,124 @@
+{
+  "id": "maamoul-nut-cookies",
+  "title": "Ma'amoul-style walnut and pistachio cookies",
+  "category": "cookies",
+  "summary": "Buttery almond-flour shells filled with cinnamon walnuts or rosewater pistachios, pressed in a mould or patterned with a fork.",
+  "servings": 16,
+  "serving_size": "1 cookie",
+  "time": {
+    "prep_min": 45,
+    "cook_min": 18,
+    "rest_min": 30
+  },
+  "ingredients": [
+    {
+      "group": "Dough"
+    },
+    {
+      "item": "almond_flour",
+      "cup": 2
+    },
+    {
+      "item": "coconut_flour",
+      "tbsp": 2
+    },
+    {
+      "item": "powdered_erythritol",
+      "cup": 0.25
+    },
+    {
+      "item": "xanthan_gum",
+      "tsp": 0.5
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "butter",
+      "cup": 0.33,
+      "note": "melted"
+    },
+    {
+      "item": "egg_white",
+      "each": 1
+    },
+    {
+      "item": "orange_blossom_water",
+      "tsp": 2
+    },
+    {
+      "group": "Walnut filling"
+    },
+    {
+      "item": "walnuts",
+      "cup": 0.5,
+      "note": "finely chopped"
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 1
+    },
+    {
+      "item": "cinnamon",
+      "tsp": 0.5
+    },
+    {
+      "item": "orange_blossom_water",
+      "tsp": 1
+    },
+    {
+      "group": "Pistachio filling"
+    },
+    {
+      "item": "pistachios",
+      "cup": 0.33,
+      "note": "finely chopped"
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 1
+    },
+    {
+      "item": "rose_water",
+      "tsp": 1
+    },
+    {
+      "group": "To finish"
+    },
+    {
+      "item": "powdered_erythritol",
+      "tbsp": 2
+    }
+  ],
+  "steps": [
+    "Mix the almond flour, coconut flour, powdered erythritol, xanthan gum and salt. Stir in the melted butter, egg white and orange blossom water and knead briefly to a smooth, pliable dough. Cover and rest 30 minutes.",
+    "Stir each filling together in its own bowl; they should clump when pressed.",
+    "Heat the oven to 165 °C (325 °F) and line a baking sheet with parchment.",
+    "Divide the dough into 16 balls. Flatten one in your palm to a 7 cm (3 in) round, put a heaped teaspoon of filling in the centre, and close the dough around it, pinching to seal. Use walnut filling for 8 and pistachio for 8.",
+    "Press each into a ma'amoul mould and tap out, or flatten slightly and pattern the tops with a fork or tweezers.",
+    "Bake 15–18 minutes, until the bottoms are just golden; the tops stay pale. Cool completely, then dust with powdered erythritol."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "coconut_oil",
+      "ratio": 0.85,
+      "note": "melted; traditional ma'amoul often uses ghee or a neutral fat"
+    }
+  ],
+  "dairy_free_notes": "Coconut oil makes a slightly crisper, more crumbly shell; keep the dough covered so it doesn't dry out while you fill the cookies.",
+  "tips": [
+    "If the dough cracks as you close it, patch it with a pinch from the next ball; almond dough has no gluten to stretch.",
+    "Traditional ma'amoul also come with date filling, left out here for the carbs."
+  ],
+  "origin": {
+    "family": "Ma'amoul",
+    "place": "The Levant",
+    "region": "Middle East & North Africa",
+    "lat": 33.51,
+    "lon": 36.29,
+    "era": "by the 1800s",
+    "history": "Ma'amoul are filled shortbread cookies shared across Lebanon, Syria, Palestine and Jordan, traditionally made from semolina and pressed in carved wooden moulds whose patterns signal the filling. Families bake them in large batches for Easter and for the feasts at the end of Ramadan. This version keeps the nut fillings and the shape but replaces the semolina shell."
+  }
+}

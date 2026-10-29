@@ -1,0 +1,77 @@
+{
+  "id": "panna-cotta",
+  "title": "Panna cotta",
+  "category": "custards",
+  "summary": "Vanilla cream set with just enough gelatin to hold a soft wobble, served with a spoonful of crushed raspberries.",
+  "servings": 6,
+  "serving_size": "1 glass",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 5,
+    "rest_min": 360
+  },
+  "ingredients": [
+    {
+      "item": "almond_milk",
+      "cup": 0.5
+    },
+    {
+      "item": "gelatin",
+      "tsp": 2.25
+    },
+    {
+      "item": "heavy_cream",
+      "cup": 2
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.25
+    },
+    {
+      "item": "vanilla",
+      "tsp": 2
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "group": "To serve"
+    },
+    {
+      "item": "raspberries",
+      "g": 90
+    },
+    {
+      "item": "powdered_erythritol",
+      "tsp": 2
+    }
+  ],
+  "steps": [
+    "Pour the almond milk into a small bowl, sprinkle the gelatin over it and leave 5 minutes to soften.",
+    "Heat the cream, erythritol and salt until steaming and the erythritol dissolves; do not boil.",
+    "Off the heat, stir in the softened gelatin until it melts completely, then the vanilla.",
+    "Cool to room temperature, stirring now and then so the vanilla does not settle, then pour into six small glasses or lightly oiled moulds.",
+    "Refrigerate at least 6 hours, until set.",
+    "Crush the raspberries with the powdered erythritol and spoon over the top, or turn the moulds out onto plates first."
+  ],
+  "swaps": [
+    {
+      "from": "heavy_cream",
+      "to": "coconut_cream"
+    }
+  ],
+  "dairy_free_notes": "Coconut cream sets slightly firmer and tastes of coconut; cut the gelatin to 2 teaspoons for a softer wobble.",
+  "tips": [
+    "Erythritol can recrystallise in cold cream; powdered erythritol or allulose dissolves more completely."
+  ],
+  "origin": {
+    "family": "Panna cotta",
+    "place": "Piedmont, Italy",
+    "region": "Southern Europe",
+    "lat": 45.07,
+    "lon": 7.69,
+    "era": "1900s",
+    "history": "Panna cotta, 'cooked cream', is usually described as a traditional dessert of Piedmont in northern Italy. Despite that reputation, it is hard to find in Italian cookbooks before the second half of the 1900s, and its earlier history is not well documented. It became an international restaurant favourite from the 1990s."
+  }
+}

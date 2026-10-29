@@ -1,0 +1,114 @@
+{
+  "id": "bakewell-tart",
+  "title": "Bakewell tart",
+  "category": "pies",
+  "summary": "Almond pastry spread with a quick raspberry-chia jam and baked under a moist almond frangipane and toasted flaked almonds.",
+  "servings": 10,
+  "serving_size": "1 slice",
+  "time": {
+    "prep_min": 40,
+    "cook_min": 40,
+    "rest_min": 60
+  },
+  "ingredients": [
+    {
+      "group": "Pastry"
+    },
+    {
+      "item": "almond_flour",
+      "cup": 1.5
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 2
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "butter",
+      "tbsp": 4,
+      "note": "cold, cubed"
+    },
+    {
+      "item": "egg_yolk",
+      "each": 1
+    },
+    {
+      "group": "Raspberry jam"
+    },
+    {
+      "item": "raspberries",
+      "cup": 1
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 2
+    },
+    {
+      "item": "chia_seeds",
+      "tbsp": 1
+    },
+    {
+      "group": "Frangipane"
+    },
+    {
+      "item": "butter",
+      "cup": 0.5,
+      "note": "softened"
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.5
+    },
+    {
+      "item": "egg",
+      "each": 2
+    },
+    {
+      "item": "almond_flour",
+      "cup": 1
+    },
+    {
+      "item": "almond_extract",
+      "tsp": 0.5
+    },
+    {
+      "item": "baking_powder",
+      "tsp": 0.5
+    },
+    {
+      "item": "almonds",
+      "tbsp": 3,
+      "note": "flaked"
+    }
+  ],
+  "steps": [
+    "Pulse the pastry ingredients in a food processor until the dough clumps. Press it into a 23 cm (9 in) tart tin with a removable base and chill 20 minutes.",
+    "Simmer the raspberries and erythritol, mashing, for 5 minutes. Stir in the chia seeds and cool; the jam thickens as it stands.",
+    "Heat the oven to 175 °C (350 °F). Bake the pastry 10 minutes, until just firm, and cool for 10 minutes.",
+    "Beat the butter and erythritol until fluffy, then the eggs one at a time. Fold in the almond flour, almond extract and baking powder.",
+    "Spread the jam over the pastry, then spoon the frangipane over it and smooth gently to the edges. Scatter the flaked almonds on top.",
+    "Bake 25–30 minutes, until golden and springy in the centre; lay foil over it if it browns too fast. Cool at least an hour before slicing."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter"
+    }
+  ],
+  "dairy_free_notes": "Dairy-free butter makes a slightly denser frangipane with a softer crust; it tastes very close to the original.",
+  "tips": [
+    "Spread the jam thinly and keep it away from the very edge, or it bubbles up through the frangipane."
+  ],
+  "origin": {
+    "family": "Bakewell tart",
+    "place": "Bakewell, Derbyshire",
+    "region": "Northern Europe",
+    "lat": 53.21,
+    "lon": -1.68,
+    "era": "1800s",
+    "history": "The town of Bakewell is known first for the Bakewell pudding, a jam-and-egg custard in pastry recorded in the 1800s. A popular story says it began as a cook's mistake at a local inn, but that tale is legend rather than record. The tart, with a firmer almond sponge over the jam, developed later from the pudding and became the familiar British teatime version in the 1900s."
+  }
+}

@@ -1,0 +1,61 @@
+/** A low-carb cookbook, desserts first, with a dairy-free way to make every
+  * recipe — and a map of where each kind of dish comes from.
+  *
+  * Recipes are data shipped with the package. The one external input is USDA
+  * FoodData Central's SR Legacy release (public domain), fetched with the
+  * built-in `fw.http.Fetch`; Build computes each recipe's nutrition per
+  * serving, as written and dairy-free, from it. */
+namespace cookbook.data {
+    use fw.http
+
+    /** The files the nutrition is computed from. */
+    event facet Sources() => (sources: Json, count: Int, user_agent: String)
+        with Effect(kind = "pure") with Cost(tier = "free")
+
+    /** Fetch one file, reusing the stored copy while upstream says it is current. */
+    facet FetchOne(source: Json, user_agent: String) => (path: String)
+        andThen {
+            got = fw.http.Fetch(
+                url = $.source.url,
+                dest = $.source.dest,
+                max_age_hours = $.source.max_age_hours,
+                user_agent = $.user_agent
+            )
+            yield FetchOne(path = got.path)
+        }
+
+    /** Fetch every source. Paths come back in the same order as `sources`. */
+    facet FetchAll(sources: Json, user_agent: String) => (paths: Json)
+        andThen foreach s in $.sources limit 3 {
+            one = FetchOne(source = $.s, user_agent = $.user_agent)
+            yield FetchAll(paths += one.path)
+        }
+}
+
+namespace cookbook.site {
+
+    /** Validate every recipe, compute its nutrition, and render the index with
+      * the origins map, one page per recipe, the whole book on one printable
+      * page, and the method page. An invalid recipe fails the step. */
+    event facet Build(sources: Json, paths: Json) => (
+        output_dir: String,
+        files: Int,
+        bytes: Long,
+        recipes: Int,
+        stats: Json
+    ) with Effect(kind = "io") with Cost(tier = "cheap") with Timeout(minutes = 10)
+}
+
+namespace cookbook.workflows {
+    use cookbook.data
+    use cookbook.site
+
+    /** Fetch the nutrition data and rebuild the book (not published; see
+      * cookbook.publish.PublishBook). */
+    workflow Build() => (output_dir: String, recipes: Int, stats: Json) andThen {
+        plan = Sources()
+        fetched = FetchAll(sources = plan.sources, user_agent = plan.user_agent)
+        site = cookbook.site.Build(sources = plan.sources, paths = fetched.paths)
+        yield Build(output_dir = site.output_dir, recipes = site.recipes, stats = site.stats)
+    }
+}

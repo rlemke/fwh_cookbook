@@ -1,0 +1,111 @@
+{
+  "id": "lamingtons",
+  "title": "Lamingtons",
+  "category": "cakes",
+  "summary": "Squares of light almond sponge dipped in a thin chocolate coating and rolled in unsweetened coconut.",
+  "servings": 16,
+  "serving_size": "1 square",
+  "time": {
+    "prep_min": 45,
+    "cook_min": 25,
+    "rest_min": 120
+  },
+  "ingredients": [
+    {
+      "group": "Sponge"
+    },
+    {
+      "item": "butter",
+      "cup": 0.33,
+      "note": "softened"
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.5
+    },
+    {
+      "item": "egg",
+      "each": 4,
+      "note": "at room temperature"
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1.5
+    },
+    {
+      "item": "almond_flour",
+      "cup": 1.75
+    },
+    {
+      "item": "coconut_flour",
+      "tbsp": 3
+    },
+    {
+      "item": "baking_powder",
+      "tsp": 2
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    },
+    {
+      "item": "almond_milk",
+      "cup": 0.25
+    },
+    {
+      "group": "Chocolate coating"
+    },
+    {
+      "item": "powdered_erythritol",
+      "cup": 0.75
+    },
+    {
+      "item": "cocoa_powder",
+      "cup": 0.33
+    },
+    {
+      "item": "butter",
+      "tbsp": 2
+    },
+    {
+      "item": "almond_milk",
+      "cup": 0.5
+    },
+    {
+      "group": "To coat"
+    },
+    {
+      "item": "coconut_shredded",
+      "cup": 2
+    }
+  ],
+  "steps": [
+    "Heat the oven to 175 °C (350 °F). Grease a 20 × 20 cm (8 × 8 in) pan and line it with a parchment sling.",
+    "Beat the butter and erythritol until light. Beat in the eggs one at a time, then the vanilla.",
+    "Whisk the almond flour, coconut flour, baking powder and salt together and fold in alternately with the almond milk.",
+    "Spread in the pan and bake 22–25 minutes, until golden and springy. Cool completely, then wrap and freeze for 1 hour; a firm, cold sponge is much easier to dip.",
+    "For the coating, warm the powdered erythritol, cocoa, butter and almond milk in a small pan, whisking until smooth and glossy. Keep it just warm.",
+    "Trim the edges and cut the cake into 16 squares. Put the coconut in a shallow dish.",
+    "Using two forks, dip each square quickly into the chocolate, let the excess drip off, then roll it in coconut. Set on a rack.",
+    "Leave for an hour to set. Store in an airtight box."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter"
+    }
+  ],
+  "dairy_free_notes": "Dairy-free butter works in both the sponge and the coating with little difference; the coating is slightly thinner, so you may want a second quick dip.",
+  "tips": [
+    "Work quickly when dipping: almond sponge soaks up the coating and can fall apart if it sits in it."
+  ],
+  "origin": {
+    "family": "Sponge cake",
+    "place": "Queensland",
+    "region": "Oceania",
+    "lat": -27.47,
+    "lon": 153.03,
+    "era": "around 1900",
+    "history": "Lamingtons are named after Lord Lamington, Governor of Queensland from 1896 to 1901, and the earliest recipes appear in Australian publications in the early 1900s. Who first made them is disputed: the most common story credits a cook at Government House in Brisbane, and New Zealand has also laid claim to the cake. They became a national favourite and a classic fundraising bake in Australia."
+  }
+}

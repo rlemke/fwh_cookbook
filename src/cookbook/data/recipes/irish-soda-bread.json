@@ -1,0 +1,79 @@
+{
+  "id": "irish-soda-bread",
+  "title": "Irish soda bread",
+  "category": "breads",
+  "summary": "A rustic, cross-cut round raised with baking soda and soured almond milk, best warm with butter.",
+  "servings": 10,
+  "serving_size": "1 slice",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 45,
+    "rest_min": 30
+  },
+  "ingredients": [
+    {
+      "item": "almond_flour",
+      "cup": 2.5
+    },
+    {
+      "item": "coconut_flour",
+      "tbsp": 3
+    },
+    {
+      "item": "psyllium_husk",
+      "tbsp": 2
+    },
+    {
+      "item": "baking_soda",
+      "tsp": 1
+    },
+    {
+      "item": "salt",
+      "tsp": 0.75
+    },
+    {
+      "item": "almond_milk",
+      "cup": 0.5
+    },
+    {
+      "item": "lemon_juice",
+      "tbsp": 1
+    },
+    {
+      "item": "egg",
+      "each": 2
+    },
+    {
+      "item": "butter",
+      "tbsp": 3,
+      "note": "melted"
+    }
+  ],
+  "steps": [
+    "Heat the oven to 175 °C (350 °F) and line a baking sheet with parchment.",
+    "Stir the lemon juice into the almond milk and leave 5 minutes; it stands in for buttermilk, and the acid is what activates the baking soda.",
+    "Whisk the almond flour, coconut flour, psyllium, baking soda and salt.",
+    "Beat the eggs and melted butter into the soured milk, add to the dry ingredients and mix to a soft dough. Bake promptly — the soda starts working as soon as it is wet.",
+    "Shape into a round about 5 cm (2 in) high on the sheet and cut a deep cross in the top.",
+    "Bake 40–45 minutes, until deep golden and hollow-sounding underneath. Cool at least 30 minutes before slicing."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter"
+    }
+  ],
+  "dairy_free_notes": "Dairy-free butter makes almost no difference here; the bread is already made with almond milk.",
+  "tips": [
+    "Measure the baking soda exactly — too much tastes soapy in a bread with no wheat to mask it."
+  ],
+  "origin": {
+    "family": "Soda bread",
+    "place": "Ireland",
+    "region": "Northern Europe",
+    "lat": 53.41,
+    "lon": -8.24,
+    "era": "1800s",
+    "history": "Soda bread spread in Ireland in the 1800s, after bicarbonate of soda became available. Irish soft wheat made poor yeast bread, but mixed with buttermilk and soda it rose well and could be baked quickly in a pot over the fire. The cross cut in the top helps the round bake through."
+  }
+}

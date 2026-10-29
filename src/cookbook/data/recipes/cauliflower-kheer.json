@@ -1,0 +1,92 @@
+{
+  "id": "cauliflower-kheer",
+  "title": "Cauliflower kheer",
+  "category": "custards",
+  "summary": "Finely riced cauliflower stands in for rice in a slow-simmered milk pudding perfumed with cardamom and saffron and topped with pistachios.",
+  "servings": 6,
+  "serving_size": "1 bowl",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 40,
+    "rest_min": 60
+  },
+  "ingredients": [
+    {
+      "item": "cauliflower",
+      "cup": 1.5,
+      "note": "riced very finely"
+    },
+    {
+      "item": "almond_milk",
+      "cup": 3
+    },
+    {
+      "item": "heavy_cream",
+      "cup": 0.5
+    },
+    {
+      "item": "saffron",
+      "tsp": 0.125
+    },
+    {
+      "item": "cardamom",
+      "tsp": 0.5
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.25
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "xanthan_gum",
+      "tsp": 0.25
+    },
+    {
+      "item": "rose_water",
+      "tsp": 0.5,
+      "note": "optional"
+    },
+    {
+      "group": "To serve"
+    },
+    {
+      "item": "pistachios",
+      "tbsp": 2,
+      "note": "chopped"
+    },
+    {
+      "item": "almonds",
+      "tbsp": 2,
+      "note": "slivered"
+    }
+  ],
+  "steps": [
+    "Steam or microwave the riced cauliflower for 3 minutes, then squeeze it dry in a clean towel. This removes most of the cabbagey flavour.",
+    "Bring the almond milk, cream and saffron to a simmer in a heavy pan. Add the cauliflower and simmer gently, stirring often, for 30–35 minutes, until reduced by about a third and the cauliflower is very soft.",
+    "Stir in the cardamom, erythritol and salt. Sprinkle in the xanthan gum while whisking and simmer 2 minutes more to thicken.",
+    "Take off the heat and stir in the rose water if using. Serve warm, or chill for an hour or more; it thickens as it cools.",
+    "Top with the pistachios and almonds."
+  ],
+  "swaps": [
+    {
+      "from": "heavy_cream",
+      "to": "coconut_cream"
+    }
+  ],
+  "dairy_free_notes": "Coconut cream makes a richer, slightly coconut-scented kheer, close to South Indian coconut-milk payasam.",
+  "tips": [
+    "Rice the cauliflower as fine as couscous; larger pieces stay crunchy and never feel like rice."
+  ],
+  "origin": {
+    "family": "Rice pudding (kheer)",
+    "place": "India",
+    "region": "South Asia",
+    "lat": 20.59,
+    "lon": 78.96,
+    "era": "ancient",
+    "history": "Rice simmered in milk and sweetened is one of the oldest sweets of the Indian subcontinent, known in the north as kheer and in the south as payasam, where it is a classic temple offering. Cardamom, saffron and nuts are traditional flavourings. Using cauliflower in place of rice is a modern low-carb adaptation, not a traditional dish."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "coconut-flour-pie-crust",
+  "title": "Nut-free coconut-flour pie crust",
+  "category": "basics",
+  "summary": "A nut-free press-in pie shell built on coconut flour, with eggs to bind it because coconut flour soaks up so much liquid.",
+  "servings": 8,
+  "serving_size": "1/8 of the crust",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 14,
+    "rest_min": 10
+  },
+  "ingredients": [
+    {
+      "item": "coconut_flour",
+      "cup": 0.75
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 2
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    },
+    {
+      "item": "butter",
+      "tbsp": 6,
+      "note": "melted"
+    },
+    {
+      "item": "egg",
+      "each": 2,
+      "note": "at room temperature"
+    },
+    {
+      "item": "vanilla",
+      "tsp": 0.5
+    }
+  ],
+  "steps": [
+    "Heat the oven to 175 °C (350 °F). Grease a 23 cm (9 in) pie dish.",
+    "Whisk the coconut flour, erythritol and salt together.",
+    "Beat the eggs with the melted butter and vanilla, then stir them into the dry mix to make a soft dough.",
+    "Let the dough stand 10 minutes. Coconut flour keeps absorbing liquid, and the dough firms up into something that presses cleanly instead of sticking.",
+    "Press the dough evenly over the base and up the sides of the dish, about 5 mm (1/4 in) thick. Wet fingers help if it sticks.",
+    "Prick the base all over and bake 12–14 minutes, until firm and just golden at the rim.",
+    "Cool before filling. For a filling that bakes in the shell, pre-bake only 8 minutes."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "coconut_oil",
+      "note": "melted; keeps the crust nut-free, unlike many dairy-free butters"
+    }
+  ],
+  "dairy_free_notes": "Coconut oil makes a firmer, crisper shell when cold and a slightly greasier one when warm; it also deepens the coconut flavour.",
+  "tips": [
+    "Do not add more coconut flour if the dough looks wet at first; give it the full 10 minutes to thicken.",
+    "Check the label of any dairy-free butter if you need the crust truly nut-free: many are made with cashew or almond."
+  ],
+  "origin": {
+    "family": "Pie crust",
+    "place": "United States",
+    "region": "North America",
+    "lat": 39.83,
+    "lon": -98.58,
+    "era": "2000s",
+    "history": "This is a modern recipe. Coconut flour, the dried and ground pulp left after pressing coconut milk, was taken up widely by gluten-free, paleo and low-carb home bakers in the United States in the 2000s. Press-in shells like this one imitate a traditional pie crust for people who avoid both wheat and nuts."
+  }
+}

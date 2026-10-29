@@ -1,0 +1,70 @@
+{
+  "id": "zabaglione",
+  "title": "Zabaglione (wine-free)",
+  "category": "custards",
+  "summary": "Egg yolks whisked over simmering water into a warm, airy foam, spooned over a few berries; this version swaps the Marsala for rum extract and lemon.",
+  "servings": 4,
+  "serving_size": "1 glass",
+  "time": {
+    "prep_min": 10,
+    "cook_min": 10,
+    "rest_min": 0
+  },
+  "ingredients": [
+    {
+      "item": "egg_yolk",
+      "each": 4
+    },
+    {
+      "item": "powdered_erythritol",
+      "tbsp": 3
+    },
+    {
+      "item": "water",
+      "tbsp": 4
+    },
+    {
+      "item": "lemon_juice",
+      "tsp": 1
+    },
+    {
+      "item": "rum_extract",
+      "tsp": 0.5
+    },
+    {
+      "item": "vanilla",
+      "tsp": 0.5
+    },
+    {
+      "group": "To serve"
+    },
+    {
+      "item": "raspberries",
+      "g": 60
+    },
+    {
+      "item": "blueberries",
+      "g": 40
+    }
+  ],
+  "steps": [
+    "Divide the berries among four glasses.",
+    "Bring a few centimetres of water to a bare simmer in a saucepan. In a heatproof bowl that sits above, not in, the water, whisk the yolks and powdered erythritol until pale.",
+    "Add the water, lemon juice, rum extract and vanilla. Set the bowl over the pan and whisk constantly for 6–8 minutes, until the mixture triples in volume and holds a ribbon; it should reach about 70 °C (160 °F).",
+    "Spoon the warm foam over the berries and serve at once."
+  ],
+  "swaps": [],
+  "tips": [
+    "If the bowl gets too hot the yolks scramble at the edges; lift it off the heat for a few seconds while you keep whisking.",
+    "A splash of strong brewed coffee in place of half the water makes a good variation."
+  ],
+  "origin": {
+    "family": "Zabaglione",
+    "place": "Turin, Italy",
+    "region": "Southern Europe",
+    "lat": 45.07,
+    "lon": 7.69,
+    "era": "by the 1800s",
+    "history": "Zabaglione is a foam of egg yolks, sugar and sweet wine, usually Marsala, whisked over heat. Several Italian cities claim it, and the best-known stories, which credit Turin or a Renaissance court, are legends rather than documented history. It is related to the French sabayon, which is the same technique."
+  }
+}

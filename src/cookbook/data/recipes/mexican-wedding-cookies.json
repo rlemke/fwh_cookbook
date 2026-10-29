@@ -1,0 +1,78 @@
+{
+  "id": "mexican-wedding-cookies",
+  "title": "Mexican wedding cookies (polvorones)",
+  "category": "cookies",
+  "summary": "Crumbly pecan butter balls rolled twice in powdered sweetener, so tender they dissolve on the tongue.",
+  "servings": 24,
+  "serving_size": "1 cookie",
+  "time": {
+    "prep_min": 20,
+    "cook_min": 16,
+    "rest_min": 30
+  },
+  "ingredients": [
+    {
+      "item": "pecans",
+      "cup": 0.75,
+      "note": "toasted and finely ground"
+    },
+    {
+      "item": "butter",
+      "cup": 0.5,
+      "note": "softened"
+    },
+    {
+      "item": "powdered_erythritol",
+      "cup": 0.25
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "cinnamon",
+      "tsp": 0.25,
+      "note": "optional"
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "almond_flour",
+      "cup": 1.5
+    },
+    {
+      "item": "powdered_erythritol",
+      "cup": 0.5,
+      "note": "for coating"
+    }
+  ],
+  "steps": [
+    "Toast the pecans in a dry pan until fragrant, cool and pulse until fine; stop before they turn into paste.",
+    "Beat the butter, ¼ cup powdered erythritol, vanilla, cinnamon and salt until fluffy. Stir in the ground pecans and almond flour. Chill 30 minutes.",
+    "Heat the oven to 165 °C (325 °F) and line a baking sheet with parchment. Roll the dough into 24 balls and set 3 cm (1 in) apart.",
+    "Bake 14–16 minutes, until the bottoms are lightly golden.",
+    "Cool 5 minutes, then roll gently in the powdered erythritol. Cool completely and roll again."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter",
+      "note": "use a firm stick-style one"
+    }
+  ],
+  "dairy_free_notes": "Dairy-free butter makes them a little more fragile; let them cool longer before the first roll in sweetener.",
+  "tips": [
+    "Powdered erythritol can taste cooling on its own; a blend with allulose or monk fruit softens that."
+  ],
+  "origin": {
+    "family": "Polvorón",
+    "place": "Mexico",
+    "region": "Latin America & Caribbean",
+    "lat": 19.43,
+    "lon": -99.13,
+    "era": "colonial era",
+    "history": "Polvorones, crumbly shortbreads whose name comes from the Spanish word for dust, are an old Andalusian sweet that came to Mexico with Spanish colonisation. Mexican bakers made them with local pecans, and the powdered-sugar balls became fixtures at weddings and holidays. Similar cookies exist across Europe and the Middle East, which is why the same recipe also goes by names such as Russian tea cakes and snowballs."
+  }
+}

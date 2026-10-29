@@ -1,0 +1,105 @@
+{
+  "id": "lemon-poppy-seed-muffins",
+  "title": "Lemon poppy-seed muffins",
+  "category": "breakfast",
+  "summary": "Bright, tangy almond-flour muffins flecked with poppy seeds and brushed with a lemon glaze.",
+  "servings": 12,
+  "serving_size": "1 muffin",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 22,
+    "rest_min": 15
+  },
+  "ingredients": [
+    {
+      "item": "almond_flour",
+      "cup": 2.5
+    },
+    {
+      "item": "coconut_flour",
+      "tbsp": 2
+    },
+    {
+      "item": "baking_powder",
+      "tsp": 2
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.5
+    },
+    {
+      "item": "poppy_seeds",
+      "tbsp": 1.5
+    },
+    {
+      "item": "egg",
+      "each": 3
+    },
+    {
+      "item": "butter",
+      "cup": 0.25,
+      "note": "melted"
+    },
+    {
+      "item": "sour_cream",
+      "cup": 0.33
+    },
+    {
+      "item": "lemon_zest",
+      "tbsp": 1
+    },
+    {
+      "item": "lemon_juice",
+      "tbsp": 2
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "group": "Glaze"
+    },
+    {
+      "item": "powdered_erythritol",
+      "cup": 0.25
+    },
+    {
+      "item": "lemon_juice",
+      "tbsp": 1
+    }
+  ],
+  "steps": [
+    "Heat the oven to 175 °C (350 °F) and line a 12-cup muffin tin with paper cases.",
+    "Whisk the almond flour, coconut flour, baking powder, salt, erythritol and poppy seeds.",
+    "Whisk the eggs, melted butter, sour cream, lemon zest, lemon juice and vanilla, then stir into the dry ingredients until just combined.",
+    "Divide between the cases and bake 20–22 minutes, until golden and springy.",
+    "Stir the powdered erythritol and lemon juice into a thin glaze and brush over the muffins while they are still warm. Cool 15 minutes in the tin."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter"
+    },
+    {
+      "from": "sour_cream",
+      "to": "coconut_yogurt"
+    }
+  ],
+  "dairy_free_notes": "Coconut yogurt keeps them moist but slightly less tangy; add an extra teaspoon of lemon zest.",
+  "tips": [
+    "Rub the zest into the erythritol first to release more lemon oil."
+  ],
+  "origin": {
+    "family": "Muffin",
+    "place": "United States",
+    "region": "North America",
+    "lat": 39.83,
+    "lon": -98.58,
+    "era": "late 1900s",
+    "history": "Poppy seed is an old ingredient in Central and Eastern European baking. Paired with lemon in an American-style quick-bread muffin, it became a familiar bakery and coffee-shop flavour in the United States by the late 1900s."
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "vietnamese-iced-coffee",
+  "title": "Vietnamese iced coffee",
+  "category": "drinks",
+  "summary": "Very strong coffee poured over a quick sugar-free coconut 'condensed milk' and plenty of ice.",
+  "servings": 2,
+  "serving_size": "1 glass",
+  "time": {
+    "prep_min": 5,
+    "cook_min": 20,
+    "rest_min": 0
+  },
+  "ingredients": [
+    {
+      "group": "Sugar-free coconut condensed milk"
+    },
+    {
+      "item": "coconut_milk",
+      "cup": 0.5
+    },
+    {
+      "item": "allulose",
+      "tbsp": 3
+    },
+    {
+      "item": "salt",
+      "tsp": 0.03125
+    },
+    {
+      "group": "Coffee"
+    },
+    {
+      "item": "coffee",
+      "cup": 1,
+      "note": "very strong, ideally dark-roast brewed in a phin filter"
+    }
+  ],
+  "steps": [
+    "Simmer the coconut milk, allulose and salt in a small pan over low heat, stirring often, for 15–20 minutes, until reduced by about half and thick enough to coat a spoon. Allulose browns easily, so keep the heat low. Cool.",
+    "Brew the coffee strong; a traditional phin filter set over the glass takes about 5 minutes.",
+    "Put 2 tablespoons of the condensed coconut milk in each glass, pour in the hot coffee and stir well.",
+    "Fill the glasses with ice, stir again and serve."
+  ],
+  "tips": [
+    "The condensed coconut milk keeps a week in the fridge; warm it slightly to loosen before using."
+  ],
+  "origin": {
+    "family": "Cà phê sữa đá",
+    "place": "Vietnam",
+    "region": "Southeast Asia",
+    "lat": 10.82,
+    "lon": 106.63,
+    "era": "1900s",
+    "history": "Coffee was introduced to Vietnam by the French in the nineteenth century, and Vietnam is now one of the world's largest coffee producers. Because fresh milk was scarce in the tropical heat, sweetened condensed milk became the usual partner, and the slow-drip phin filter the usual method. Served over ice, it became cà phê sữa đá, a street-café staple. This version swaps the sugary condensed milk for a reduced coconut milk."
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "id": "speculoos",
+  "title": "Speculoos",
+  "category": "cookies",
+  "summary": "Thin, crisp spiced biscuits from the Low Countries, rolled and cut or pressed into a wooden mould.",
+  "servings": 24,
+  "serving_size": "1 biscuit",
+  "time": {
+    "prep_min": 20,
+    "cook_min": 14,
+    "rest_min": 60
+  },
+  "ingredients": [
+    {
+      "item": "butter",
+      "cup": 0.5,
+      "note": "softened"
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.5
+    },
+    {
+      "item": "allulose",
+      "tbsp": 1,
+      "note": "for the caramel colour"
+    },
+    {
+      "item": "egg",
+      "each": 1
+    },
+    {
+      "item": "almond_flour",
+      "cup": 2
+    },
+    {
+      "item": "coconut_flour",
+      "tbsp": 2
+    },
+    {
+      "item": "cinnamon",
+      "tsp": 2
+    },
+    {
+      "item": "nutmeg",
+      "tsp": 0.5
+    },
+    {
+      "item": "cloves",
+      "tsp": 0.25
+    },
+    {
+      "item": "ginger_ground",
+      "tsp": 0.5
+    },
+    {
+      "item": "cardamom",
+      "tsp": 0.25
+    },
+    {
+      "item": "baking_soda",
+      "tsp": 0.5
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    }
+  ],
+  "steps": [
+    "Beat the butter, erythritol and allulose until creamy, then beat in the egg.",
+    "Whisk the almond flour, coconut flour, spices, baking soda and salt together and mix into the butter to a firm dough.",
+    "Flatten into a disc, wrap and chill at least 1 hour; the spices deepen if you leave it overnight.",
+    "Heat the oven to 160 °C (325 °F) and line two baking sheets with parchment.",
+    "Roll the dough between two sheets of parchment to 3 mm (⅛ in) thick. Cut into rectangles, or press into a speculoos mould dusted with almond flour and turn out. Transfer to the sheets.",
+    "Bake 12–14 minutes, until deep golden at the edges. Cool on the sheet; they crisp as they cool."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter",
+      "note": "use a firm stick-style one"
+    }
+  ],
+  "dairy_free_notes": "Dairy-free butter gives a softer dough; keep it cold and work quickly when rolling and cutting.",
+  "tips": [
+    "If the dough cracks while rolling, let it sit for 5 minutes at room temperature."
+  ],
+  "origin": {
+    "family": "Spiced biscuit",
+    "place": "Belgium and the Netherlands",
+    "region": "Western Europe",
+    "lat": 50.85,
+    "lon": 4.35,
+    "era": "by the 1700s",
+    "history": "Speculoos (speculaas in Dutch) are spiced shortcrust biscuits traditionally pressed into carved wooden moulds and baked for the feast of Saint Nicholas in early December. The warm spices reflect the spice trade that ran through the Low Countries' ports, and both Belgium and the Netherlands claim the biscuit as their own."
+  }
+}

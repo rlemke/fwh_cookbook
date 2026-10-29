@@ -1,0 +1,89 @@
+{
+  "id": "italian-ricotta-cheesecake",
+  "title": "Italian ricotta cheesecake",
+  "category": "cheesecakes",
+  "summary": "A lighter, slightly grainy crustless cheesecake of ricotta flavoured with lemon and orange zest.",
+  "servings": 12,
+  "serving_size": "1 slice",
+  "time": {
+    "prep_min": 20,
+    "cook_min": 60,
+    "rest_min": 240
+  },
+  "ingredients": [
+    {
+      "item": "ricotta",
+      "g": 900,
+      "note": "drained in a sieve for 1 hour"
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.67
+    },
+    {
+      "item": "egg",
+      "each": 5
+    },
+    {
+      "item": "lemon_zest",
+      "tbsp": 1
+    },
+    {
+      "item": "orange_zest",
+      "tsp": 2
+    },
+    {
+      "item": "vanilla",
+      "tsp": 2
+    },
+    {
+      "item": "coconut_flour",
+      "tbsp": 1
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    },
+    {
+      "item": "butter",
+      "tsp": 1,
+      "note": "for the pan"
+    },
+    {
+      "item": "almond_flour",
+      "tbsp": 2,
+      "note": "for the pan"
+    }
+  ],
+  "steps": [
+    "Heat the oven to 170 °C (340 °F). Butter a 23 cm (9 in) springform pan and dust it with the almond flour.",
+    "Beat the drained ricotta and erythritol until as smooth as you can get it, about 2 minutes.",
+    "Beat in the eggs one at a time, then the zests and vanilla. Sift in the coconut flour and salt and mix just until combined.",
+    "Pour into the pan and bake 55–60 minutes, until golden at the edges and set with a slight wobble in the middle.",
+    "Turn off the oven and leave the cake inside with the door ajar for 30 minutes, then cool fully and chill at least 4 hours."
+  ],
+  "swaps": [
+    {
+      "from": "ricotta",
+      "to": "vegan_cream_cheese",
+      "note": "add 2 tbsp almond milk to loosen it"
+    },
+    {
+      "from": "butter",
+      "to": "olive_oil"
+    }
+  ],
+  "dairy_free_notes": "With dairy-free cream cheese the cake is smoother and denser, closer to a New York style than to the grainy ricotta original.",
+  "tips": [
+    "Draining the ricotta is essential; wet ricotta gives a soggy, weeping cake."
+  ],
+  "origin": {
+    "family": "Cheesecake",
+    "place": "Rome",
+    "region": "Southern Europe",
+    "lat": 41.9,
+    "lon": 12.5,
+    "era": "ancient",
+    "history": "Cakes of fresh cheese were made in ancient Rome; Cato the Elder's farming treatise of the second century BC gives recipes such as libum and placenta that combine cheese with flour and honey. Ricotta-based baked desserts remain common across Italy, especially around Easter, and the ricotta cheesecake is their modern, cake-shaped form."
+  }
+}

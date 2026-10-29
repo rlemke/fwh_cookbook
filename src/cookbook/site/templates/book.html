@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% from "macros.html" import recipe_body %}
+{% block title %}The whole book — {{ title }}{% endblock %}
+{% block style %}
+.toc { columns: 2 260px; font-family: system-ui, sans-serif; font-size: .9rem; }
+.toc h3 { break-after: avoid; }
+article.recipe { border-top: 2px solid var(--line); margin-top: 40px; }
+@media print {
+  article.recipe, section.chapter { break-before: page; }
+  .two { grid-template-columns: 1fr 1fr; }
+}
+{% endblock %}
+{% block body %}
+<h1>{{ title }}</h1>
+<p class="lede">{{ subtitle }}. {{ stats.recipes }} recipes in {{ chapters|length }} chapters.</p>
+<p class="note noprint">This page holds the whole book. To keep a copy, use your browser's <strong>Print → Save as PDF</strong>: each recipe starts on a new page, and the site's menus are left out.</p>
+<p class="note">None of these recipes has been kitchen-tested. Ratios follow established low-carb practice and nutrition is computed from USDA FoodData Central; see <a href="about.html">Method &amp; guides</a>.</p>
+<h2>Contents</h2>
+<div class="toc">
+{% for c in chapters %}
+  <h3><a href="#ch-{{ c.key }}">{{ c.name }}</a></h3>
+  <ul>{% for v in c.recipes %}<li><a href="#{{ v.id }}">{{ v.title }}</a> — {{ v.per.net_carbs_g }} g</li>{% endfor %}</ul>
+{% endfor %}
+</div>
+{% for c in chapters %}
+<section class="chapter" id="ch-{{ c.key }}">
+  <h1>{{ c.name }}</h1>
+  {% for v in c.recipes %}
+  <article class="recipe" id="{{ v.id }}">
+    <h2 style="font-size:1.7rem">{{ v.title }}</h2>
+    {{ recipe_body(v, root) }}
+  </article>
+  {% endfor %}
+</section>
+{% endfor %}
+{% endblock %}

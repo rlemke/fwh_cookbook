@@ -1,0 +1,71 @@
+{
+  "id": "mocha-fat-bombs",
+  "title": "Mocha fat bombs",
+  "category": "fat-bombs",
+  "summary": "Dark, coffee-strong chocolate squares made with cocoa butter so they hold their shape a little longer out of the cold.",
+  "servings": 12,
+  "serving_size": "1 fat bomb",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 5,
+    "rest_min": 60
+  },
+  "ingredients": [
+    {
+      "item": "cocoa_butter",
+      "g": 40,
+      "note": "chopped"
+    },
+    {
+      "item": "coconut_oil",
+      "cup": 0.33
+    },
+    {
+      "item": "almond_butter",
+      "cup": 0.25
+    },
+    {
+      "item": "cocoa_powder",
+      "tbsp": 3
+    },
+    {
+      "item": "espresso_powder",
+      "tsp": 2
+    },
+    {
+      "item": "powdered_erythritol",
+      "tbsp": 3
+    },
+    {
+      "item": "coconut_cream",
+      "tbsp": 2
+    },
+    {
+      "item": "vanilla",
+      "tsp": 0.5
+    },
+    {
+      "item": "salt",
+      "tsp": 0.0625
+    }
+  ],
+  "steps": [
+    "Melt the cocoa butter in a heatproof bowl over a pan of barely simmering water, then add the coconut oil and almond butter and stir until smooth.",
+    "Take the bowl off the heat. Whisk in the cocoa, espresso powder and powdered erythritol until the espresso has dissolved.",
+    "Whisk in the coconut cream, vanilla and salt. The mixture will thicken slightly.",
+    "Pour into 12 silicone moulds or a small loaf tin lined with parchment, about 10 × 15 cm (4 × 6 in).",
+    "Freeze for 1 hour until hard. If you used a tin, lift out and cut into 12 squares with a warm knife."
+  ],
+  "tips": [
+    "Cocoa butter sets firmer than coconut oil; if you have none, use the same weight of extra coconut oil and keep the bombs frozen."
+  ],
+  "origin": {
+    "family": "Fat bomb",
+    "place": "United States",
+    "region": "North America",
+    "lat": 39.83,
+    "lon": -98.58,
+    "era": "2010s",
+    "history": "Like other fat bombs, this is a modern low-carb creation from American ketogenic-diet home cooks of the 2010s. The mocha flavour, coffee with chocolate, takes its name from the Yemeni port of Mocha, once a major coffee-trading centre, but the sweet itself has no traditional ancestor."
+  }
+}

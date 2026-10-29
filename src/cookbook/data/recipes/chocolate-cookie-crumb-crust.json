@@ -1,0 +1,68 @@
+{
+  "id": "chocolate-cookie-crumb-crust",
+  "title": "Chocolate cookie crumb crust",
+  "category": "basics",
+  "summary": "A dark cocoa and almond-flour press-in crust that stands in for the crushed chocolate-wafer crusts of American icebox pies.",
+  "servings": 8,
+  "serving_size": "1/8 of the crust",
+  "time": {
+    "prep_min": 10,
+    "cook_min": 12,
+    "rest_min": 30
+  },
+  "ingredients": [
+    {
+      "item": "almond_flour",
+      "cup": 1.5
+    },
+    {
+      "item": "cocoa_powder",
+      "cup": 0.25
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.25
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    },
+    {
+      "item": "butter",
+      "tbsp": 5,
+      "note": "melted"
+    },
+    {
+      "item": "vanilla",
+      "tsp": 0.5
+    }
+  ],
+  "steps": [
+    "Heat the oven to 175 °C (350 °F). Have ready a 23 cm (9 in) pie dish or springform pan.",
+    "Whisk the almond flour, cocoa, erythritol and salt together, pressing out any lumps of cocoa.",
+    "Pour in the melted butter and vanilla and mix until evenly moistened and dark all the way through.",
+    "Press firmly over the base and up the sides of the pan (or over the base only, for a cheesecake). A flat-bottomed glass gives a compact, even layer.",
+    "Bake 10–12 minutes. It will still feel soft; it crisps as it cools. Cocoa hides browning, so go by time and smell, and take it out if it smells scorched.",
+    "Cool to room temperature, then chill at least 30 minutes before adding a no-bake filling."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "coconut_oil",
+      "note": "melted; or use vegan_butter"
+    }
+  ],
+  "dairy_free_notes": "With coconut oil the crust is crisper straight from the fridge but softens quickly at room temperature, so serve chilled fillings cold.",
+  "tips": [
+    "For a crumb you can sprinkle on top, bake a little of the mixture loose on a tray and break it up once cool."
+  ],
+  "origin": {
+    "family": "Crumb crust",
+    "place": "United States",
+    "region": "North America",
+    "lat": 39.83,
+    "lon": -98.58,
+    "era": "early 1900s",
+    "history": "Pie shells made from crushed crackers or cookies bound with butter became common in American home baking in the first half of the 1900s, prized because they need little or no baking. Chocolate wafer crumbs became the usual base for cream and icebox pies. This version has no cookies to crush, so it bakes a cocoa and almond-flour mixture that ends up with a similar crumbly, dark crust."
+  }
+}

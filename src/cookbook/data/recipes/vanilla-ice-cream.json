@@ -1,0 +1,69 @@
+{
+  "id": "vanilla-ice-cream",
+  "title": "Vanilla ice cream",
+  "category": "frozen",
+  "summary": "A rich French-style custard ice cream; allulose keeps it soft enough to scoop straight from the freezer.",
+  "servings": 8,
+  "serving_size": "1/2 cup",
+  "time": {
+    "prep_min": 20,
+    "cook_min": 15,
+    "rest_min": 480
+  },
+  "ingredients": [
+    {
+      "item": "heavy_cream",
+      "cup": 2
+    },
+    {
+      "item": "whole_milk",
+      "cup": 1
+    },
+    {
+      "item": "egg_yolk",
+      "each": 5
+    },
+    {
+      "item": "allulose",
+      "cup": 0.67
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "vanilla",
+      "tsp": 3
+    }
+  ],
+  "steps": [
+    "Heat the cream and milk in a saucepan until steaming, with small bubbles at the edge.",
+    "Whisk the yolks, allulose and salt in a bowl until smooth. Pour in the hot cream slowly, whisking all the time.",
+    "Return to the pan and cook over low heat, stirring constantly with a spatula, until the custard coats the spatula and reads 80 °C (176 °F). Do not let it boil.",
+    "Strain into a clean bowl, stir in the vanilla, and cool over iced water. Cover and refrigerate at least 4 hours, or overnight, until very cold.",
+    "Churn in an ice-cream maker according to its instructions, then pack into a container and freeze for 3–4 hours before serving."
+  ],
+  "swaps": [
+    {
+      "from": "heavy_cream",
+      "to": "coconut_cream"
+    },
+    {
+      "from": "whole_milk",
+      "to": "coconut_milk"
+    }
+  ],
+  "dairy_free_notes": "A coconut base churns well and scoops easily but tastes of coconut and freezes a little harder; let it stand 10 minutes before scooping.",
+  "tips": [
+    "Allulose lowers the freezing point much as sugar does; erythritol freezes rock hard and recrystallises, so do not substitute it here."
+  ],
+  "origin": {
+    "family": "Ice cream",
+    "place": "Paris",
+    "region": "Western Europe",
+    "lat": 48.86,
+    "lon": 2.35,
+    "era": "1700s",
+    "history": "Frozen sweetened creams were served at European courts from the seventeenth century, made by stirring a pot set in ice and salt. Custard bases thickened with egg yolk, the style now called French, were common in French and English recipe books by the 1700s and remain the classic method for vanilla ice cream."
+  }
+}

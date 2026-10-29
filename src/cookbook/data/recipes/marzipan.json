@@ -1,0 +1,59 @@
+{
+  "id": "marzipan",
+  "title": "Marzipan",
+  "category": "candy",
+  "summary": "A smooth almond paste scented with rose water and bitter almond, for shaping into little fruits or dipping in chocolate.",
+  "servings": 16,
+  "serving_size": "1 piece (about 20 g)",
+  "time": {
+    "prep_min": 20,
+    "cook_min": 0,
+    "rest_min": 60
+  },
+  "ingredients": [
+    {
+      "item": "almond_flour",
+      "g": 200
+    },
+    {
+      "item": "powdered_erythritol",
+      "g": 100
+    },
+    {
+      "item": "egg_white",
+      "each": 1,
+      "note": "pasteurised"
+    },
+    {
+      "item": "almond_extract",
+      "tsp": 0.5
+    },
+    {
+      "item": "rose_water",
+      "tsp": 1
+    },
+    {
+      "item": "salt",
+      "tsp": 0.0625
+    }
+  ],
+  "steps": [
+    "Pulse the almond flour and powdered erythritol in a food processor until very fine, about 30 seconds; stop before it turns oily.",
+    "Add the egg white, almond extract, rose water and salt and pulse until the mixture gathers into a ball.",
+    "Turn out and knead briefly until smooth. If it is sticky, knead in a little more almond flour; if crumbly, a few drops of water.",
+    "Wrap and chill 1 hour, then shape into small balls, fruits or logs. Store airtight in the fridge."
+  ],
+  "tips": [
+    "Use a pasteurised egg white, since the marzipan is not cooked.",
+    "Commercial marzipan is half sugar, which holds its shape; this version is softer, so keep shapes small and chill them."
+  ],
+  "origin": {
+    "family": "Marzipan",
+    "place": "Toledo",
+    "region": "Southern Europe",
+    "lat": 39.86,
+    "lon": -4.02,
+    "era": "medieval",
+    "history": "Sweet pastes of almonds and sugar probably reached Europe from the Middle East in the Middle Ages. Toledo in Spain, whose convents are long famous for mazapán, and the German port of Lübeck, which became a great marzipan centre, both claim it as their own; neither claim can be settled, and the sweet was made widely around the Mediterranean early on."
+  }
+}

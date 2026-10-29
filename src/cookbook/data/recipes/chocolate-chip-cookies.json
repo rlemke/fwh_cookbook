@@ -1,0 +1,87 @@
+{
+  "id": "chocolate-chip-cookies",
+  "title": "Chocolate chip cookies",
+  "category": "cookies",
+  "summary": "Chewy-edged almond-flour cookies studded with sugar-free dark chocolate, with a short chill so they hold their shape.",
+  "servings": 18,
+  "serving_size": "1 cookie",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 11,
+    "rest_min": 30
+  },
+  "ingredients": [
+    {
+      "item": "butter",
+      "cup": 0.5,
+      "note": "softened"
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.5
+    },
+    {
+      "item": "allulose",
+      "tbsp": 2,
+      "note": "helps the cookies spread and stay chewy"
+    },
+    {
+      "item": "egg",
+      "each": 1,
+      "note": "at room temperature"
+    },
+    {
+      "item": "vanilla",
+      "tsp": 2
+    },
+    {
+      "item": "almond_flour",
+      "cup": 2.25
+    },
+    {
+      "item": "xanthan_gum",
+      "tsp": 0.25
+    },
+    {
+      "item": "baking_soda",
+      "tsp": 0.5
+    },
+    {
+      "item": "salt",
+      "tsp": 0.5
+    },
+    {
+      "item": "sf_chocolate_chips",
+      "cup": 0.5
+    }
+  ],
+  "steps": [
+    "Beat the butter, erythritol and allulose until pale and fluffy, about 2 minutes. Beat in the egg and vanilla.",
+    "Whisk the almond flour, xanthan gum, baking soda and salt together, then stir them into the butter mixture until no dry streaks remain. Fold in the chocolate chips.",
+    "Cover and chill the dough for 30 minutes; almond-flour dough is soft and spreads too thin if baked warm.",
+    "Heat the oven to 175 °C (350 °F) and line two baking sheets with parchment. Scoop 18 balls of dough, space them 5 cm (2 in) apart and flatten each slightly.",
+    "Bake 10–12 minutes, until the edges are golden but the centres still look soft.",
+    "Leave on the sheet for 10 minutes before moving; they are fragile until cool and firm up as they set."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter",
+      "note": "use a firm stick-style one"
+    }
+  ],
+  "dairy_free_notes": "Dairy-free butter gives a slightly softer, flatter cookie with less of a browned-butter flavour; chill the dough the full 30 minutes.",
+  "tips": [
+    "A pinch more salt on top just out of the oven sharpens the chocolate.",
+    "Allulose browns quickly; check the first tray at 9 minutes."
+  ],
+  "origin": {
+    "family": "Drop cookie",
+    "place": "Whitman, Massachusetts",
+    "region": "North America",
+    "lat": 42.08,
+    "lon": -70.94,
+    "era": "1930s",
+    "history": "The chocolate chip cookie is credited to Ruth Wakefield, who ran the Toll House Inn in Whitman, Massachusetts, and added chopped semi-sweet chocolate to a butter cookie in the late 1930s. Her recipe spread through newspapers and cookbooks, and chocolate makers soon began selling chips made for baking."
+  }
+}

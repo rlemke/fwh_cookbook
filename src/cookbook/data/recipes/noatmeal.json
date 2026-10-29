@@ -1,0 +1,76 @@
+{
+  "id": "noatmeal",
+  "title": "\"Noatmeal\" hot cereal",
+  "category": "breakfast",
+  "summary": "A warm, porridge-like bowl of hemp hearts, chia and flax simmered in almond milk, with cinnamon and vanilla.",
+  "servings": 2,
+  "serving_size": "1 bowl",
+  "time": {
+    "prep_min": 5,
+    "cook_min": 5,
+    "rest_min": 3
+  },
+  "ingredients": [
+    {
+      "item": "hemp_hearts",
+      "cup": 0.33
+    },
+    {
+      "item": "chia_seeds",
+      "tbsp": 1
+    },
+    {
+      "item": "flaxseed_meal",
+      "tbsp": 2
+    },
+    {
+      "item": "coconut_shredded",
+      "tbsp": 2
+    },
+    {
+      "item": "almond_milk",
+      "cup": 1
+    },
+    {
+      "item": "cinnamon",
+      "tsp": 0.5
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "erythritol",
+      "tsp": 2
+    },
+    {
+      "item": "vanilla",
+      "tsp": 0.5
+    },
+    {
+      "item": "almond_butter",
+      "tbsp": 1,
+      "note": "to serve"
+    }
+  ],
+  "steps": [
+    "Put the hemp hearts, chia, flaxseed meal, coconut, almond milk, cinnamon and salt in a small saucepan.",
+    "Bring to a simmer over medium heat, stirring, and cook 3–4 minutes until thickened.",
+    "Take off the heat, stir in the erythritol and vanilla and let stand 2–3 minutes; it keeps thickening.",
+    "Divide between two bowls and top each with a spoonful of almond butter."
+  ],
+  "swaps": [],
+  "tips": [
+    "Loosen with a splash of almond milk if it sets too thick.",
+    "Mix a double batch of the dry ingredients and keep it in a jar for quick mornings."
+  ],
+  "origin": {
+    "family": "Porridge",
+    "place": "Scotland",
+    "region": "Northern Europe",
+    "lat": 56.49,
+    "lon": -4.2,
+    "era": "medieval",
+    "history": "Grain porridges are eaten almost everywhere, but oat porridge is especially associated with Scotland, where oats grew well in the cool, wet climate and were a staple for centuries. This grain-free version imitates the texture with seeds that thicken as they absorb liquid."
+  }
+}

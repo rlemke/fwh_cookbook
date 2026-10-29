@@ -1,0 +1,72 @@
+{
+  "id": "peppermint-patties",
+  "title": "Peppermint patties",
+  "category": "candy",
+  "summary": "Cool, firm peppermint fondant discs dipped in dark chocolate; dairy-free as written.",
+  "servings": 16,
+  "serving_size": "1 patty",
+  "time": {
+    "prep_min": 40,
+    "cook_min": 5,
+    "rest_min": 90
+  },
+  "ingredients": [
+    {
+      "group": "Filling"
+    },
+    {
+      "item": "coconut_oil",
+      "cup": 0.25,
+      "note": "softened, not melted"
+    },
+    {
+      "item": "coconut_cream",
+      "tbsp": 2
+    },
+    {
+      "item": "powdered_erythritol",
+      "cup": 1
+    },
+    {
+      "item": "peppermint_extract",
+      "tsp": 1
+    },
+    {
+      "item": "salt",
+      "tsp": 0.0625
+    },
+    {
+      "group": "Coating"
+    },
+    {
+      "item": "sf_chocolate_chips",
+      "g": 120
+    },
+    {
+      "item": "unsweetened_chocolate",
+      "g": 45
+    },
+    {
+      "item": "coconut_oil",
+      "tbsp": 1
+    }
+  ],
+  "steps": [
+    "Beat the softened coconut oil and coconut cream until smooth, then beat in the powdered erythritol, peppermint and salt to make a stiff, smooth paste. Taste and add more peppermint if you like.",
+    "Roll into 16 balls, set on a parchment-lined tray and flatten each into a disc about 4 cm (1.5 in) across. Freeze 30 minutes, until very firm.",
+    "Melt both chocolates with the coconut oil over barely simmering water. Cool until just warm.",
+    "Dip each frozen disc in the chocolate with a fork, let the excess drip off, and set back on the parchment. Refrigerate until set, about 1 hour. Keep chilled: coconut oil softens above about 24 °C (76 °F)."
+  ],
+  "tips": [
+    "Check the chocolate chips are dairy-free: many sugar-free brands contain milk fat."
+  ],
+  "origin": {
+    "family": "Peppermint patty",
+    "place": "York, Pennsylvania",
+    "region": "North America",
+    "lat": 39.96,
+    "lon": -76.73,
+    "era": "1940",
+    "history": "The chocolate-covered peppermint patty is best known from the York Peppermint Pattie, first made in York, Pennsylvania, in 1940. Peppermint creams covered in chocolate were made by confectioners before then, but the firm, flat patty became the American standard."
+  }
+}

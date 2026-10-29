@@ -1,0 +1,49 @@
+{
+  "id": "coconut-whipped-cream",
+  "title": "Coconut whipped cream",
+  "category": "basics",
+  "summary": "A dairy-free whipped topping made from the solid cream of a chilled can of coconut milk, sweetened and scented with vanilla.",
+  "servings": 6,
+  "serving_size": "1/4 cup",
+  "time": {
+    "prep_min": 5,
+    "cook_min": 0,
+    "rest_min": 720
+  },
+  "ingredients": [
+    {
+      "item": "coconut_cream",
+      "g": 270,
+      "note": "the firm solids from one chilled 400 ml (13.5 oz) can"
+    },
+    {
+      "item": "powdered_erythritol",
+      "tbsp": 2
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    }
+  ],
+  "steps": [
+    "Refrigerate the unopened can at least 12 hours, upright and without shaking it, so the cream separates and sets on top.",
+    "Chill a bowl and whisk for 15 minutes. Open the can and scoop the solid cream into the bowl. Keep the watery liquid for smoothies; do not add it.",
+    "Whip on medium-high speed for 1–2 minutes until smooth and fluffy.",
+    "Add the powdered erythritol and vanilla and whip another 30 seconds, until it holds soft peaks.",
+    "Serve cold. It firms up in the fridge; whisk briefly to loosen before using."
+  ],
+  "swaps": [],
+  "tips": [
+    "Brands differ a lot: some cans never separate because of added stabilisers. Look for one with only coconut and water, or buy canned coconut cream.",
+    "In a warm kitchen, set the bowl over ice while you whip."
+  ],
+  "origin": {
+    "family": "Whipped cream",
+    "place": "United States",
+    "region": "North America",
+    "lat": 39.83,
+    "lon": -98.58,
+    "era": "2000s",
+    "history": "This is a modern dairy-free imitation of crème Chantilly. Whipping the chilled solid cream from canned coconut milk became popular with vegan, paleo and dairy-free home cooks in the 2000s and 2010s, spread largely through recipe blogs. It borrows the method and use of French whipped cream rather than any older tradition of its own."
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "id": "gingerbread-loaf",
+  "title": "Gingerbread loaf",
+  "category": "cakes",
+  "summary": "A dark, warmly spiced English-style ginger loaf, deepened with cocoa and coffee in place of treacle.",
+  "servings": 10,
+  "serving_size": "1 slice",
+  "time": {
+    "prep_min": 20,
+    "cook_min": 50,
+    "rest_min": 60
+  },
+  "ingredients": [
+    {
+      "item": "almond_flour",
+      "cup": 2
+    },
+    {
+      "item": "coconut_flour",
+      "tbsp": 2
+    },
+    {
+      "item": "ginger_ground",
+      "tsp": 2.5
+    },
+    {
+      "item": "cinnamon",
+      "tsp": 1.5
+    },
+    {
+      "item": "allspice",
+      "tsp": 0.5
+    },
+    {
+      "item": "cloves",
+      "tsp": 0.25
+    },
+    {
+      "item": "nutmeg",
+      "tsp": 0.25
+    },
+    {
+      "item": "black_pepper",
+      "tsp": 0.125
+    },
+    {
+      "item": "cocoa_powder",
+      "tsp": 2,
+      "note": "for colour"
+    },
+    {
+      "item": "baking_powder",
+      "tsp": 1.5
+    },
+    {
+      "item": "baking_soda",
+      "tsp": 0.5
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    },
+    {
+      "item": "butter",
+      "cup": 0.5,
+      "note": "melted"
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.33
+    },
+    {
+      "item": "allulose",
+      "cup": 0.25
+    },
+    {
+      "item": "egg",
+      "each": 3
+    },
+    {
+      "item": "coffee",
+      "cup": 0.25,
+      "note": "cooled"
+    },
+    {
+      "item": "sour_cream",
+      "cup": 0.25
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    }
+  ],
+  "steps": [
+    "Heat the oven to 160 °C (325 °F). Grease a 23 × 13 cm (9 × 5 in) loaf pan and line it with a parchment sling.",
+    "Whisk the almond flour, coconut flour, spices, cocoa, baking powder, baking soda and salt together.",
+    "In another bowl whisk the melted butter with the erythritol and allulose, then whisk in the eggs one at a time, followed by the coffee, sour cream and vanilla.",
+    "Stir the dry ingredients into the wet until smooth.",
+    "Scrape into the pan and bake 45–50 minutes, until a skewer comes out clean. Allulose browns quickly, so cover the top loosely with foil after 25 minutes.",
+    "Cool in the pan for 20 minutes, then lift out and cool completely. Wrap and keep for a day before slicing; like traditional gingerbread it becomes stickier and better."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "coconut_oil",
+      "ratio": 0.85,
+      "note": "melted"
+    },
+    {
+      "from": "sour_cream",
+      "to": "coconut_yogurt"
+    }
+  ],
+  "dairy_free_notes": "With coconut oil and coconut yogurt the loaf is just as moist; it firms more in the fridge, so keep it at room temperature.",
+  "tips": [
+    "The allulose is what gives a slightly sticky, treacly crumb; with erythritol alone the loaf is drier."
+  ],
+  "origin": {
+    "family": "Gingerbread",
+    "place": "England",
+    "region": "Northern Europe",
+    "lat": 51.51,
+    "lon": -0.13,
+    "era": "medieval",
+    "history": "Spiced honey breads were made in medieval Europe, and gingerbread was a popular fair food in England by the late Middle Ages. Once cheap molasses and treacle arrived from the Caribbean sugar trade, English gingerbread developed into the dark, moist, sticky loaf cake known today. This low-carb version cannot use treacle, so cocoa and coffee supply the depth of colour and bitterness."
+  }
+}

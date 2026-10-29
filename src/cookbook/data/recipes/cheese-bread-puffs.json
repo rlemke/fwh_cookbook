@@ -1,0 +1,85 @@
+{
+  "id": "cheese-bread-puffs",
+  "title": "Cheese bread puffs",
+  "category": "breads",
+  "summary": "A low-carb take on Brazilian pão de queijo: small golden puffs of almond flour, egg, cream cheese and parmesan.",
+  "servings": 12,
+  "serving_size": "1 puff",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 22,
+    "rest_min": 5
+  },
+  "ingredients": [
+    {
+      "item": "almond_flour",
+      "cup": 1
+    },
+    {
+      "item": "psyllium_husk",
+      "tbsp": 1
+    },
+    {
+      "item": "baking_powder",
+      "tsp": 1
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    },
+    {
+      "item": "cream_cheese",
+      "g": 60,
+      "note": "softened"
+    },
+    {
+      "item": "parmesan",
+      "cup": 0.5
+    },
+    {
+      "item": "egg",
+      "each": 2
+    },
+    {
+      "item": "olive_oil",
+      "tbsp": 1
+    },
+    {
+      "item": "garlic",
+      "each": 1,
+      "note": "finely grated"
+    }
+  ],
+  "steps": [
+    "Heat the oven to 190 °C (375 °F) and line a baking sheet with parchment.",
+    "Whisk the almond flour, psyllium, baking powder and salt.",
+    "Beat the cream cheese, parmesan, eggs, olive oil and garlic together, then stir in the dry ingredients to make a thick, sticky dough. Rest 5 minutes.",
+    "With wet hands, roll into 12 balls about 3 cm (1¼ in) across and space them on the sheet.",
+    "Bake 18–22 minutes, until puffed and golden. Eat warm."
+  ],
+  "swaps": [
+    {
+      "from": "cream_cheese",
+      "to": "vegan_cream_cheese"
+    },
+    {
+      "from": "parmesan",
+      "to": "almond_flour",
+      "ratio": 0.5,
+      "note": "There is no dairy-free parmesan in this book; a smaller amount of extra almond flour keeps the dough's texture."
+    }
+  ],
+  "dairy_free_notes": "The dairy-free version holds together and bakes up the same, but it is honestly a savoury almond puff, not a cheese bread — the parmesan supplies the flavour. Add a pinch more salt and garlic.",
+  "tips": [
+    "Traditional pão de queijo gets its stretch from tapioca starch, which this version leaves out; expect a soft, tender crumb instead."
+  ],
+  "origin": {
+    "family": "Pão de queijo",
+    "place": "Minas Gerais",
+    "region": "Latin America & Caribbean",
+    "lat": -18.51,
+    "lon": -44.56,
+    "era": "1700s",
+    "history": "Pão de queijo comes from Minas Gerais in Brazil, where it is made from tapioca (cassava) starch and local cured cheese, giving a crisp shell and a chewy, stretchy middle. Its roots are usually traced to the region's colonial era; it became a national snack in the twentieth century. This recipe is a low-carb take that replaces the tapioca with almond flour."
+  }
+}

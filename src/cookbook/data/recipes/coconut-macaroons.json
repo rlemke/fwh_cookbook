@@ -1,0 +1,69 @@
+{
+  "id": "coconut-macaroons",
+  "title": "Coconut macaroons",
+  "category": "cookies",
+  "summary": "Golden-tipped mounds of shredded coconut bound with whipped egg white, crisp outside and moist inside.",
+  "servings": 16,
+  "serving_size": "1 macaroon",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 20,
+    "rest_min": 15
+  },
+  "ingredients": [
+    {
+      "item": "egg_white",
+      "each": 3,
+      "note": "at room temperature"
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "cream_of_tartar",
+      "tsp": 0.125
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.5
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "almond_extract",
+      "tsp": 0.25
+    },
+    {
+      "item": "coconut_shredded",
+      "cup": 2.5
+    },
+    {
+      "item": "dark_chocolate_85",
+      "g": 40,
+      "note": "optional, for dipping"
+    }
+  ],
+  "steps": [
+    "Heat the oven to 160 °C (325 °F) and line a baking sheet with parchment.",
+    "Whisk the egg whites with the salt and cream of tartar to soft peaks. Add the erythritol a spoonful at a time and whisk to firm, glossy peaks. Whisk in the vanilla and almond extract.",
+    "Fold in the coconut until evenly coated.",
+    "Scoop 16 mounds onto the sheet, pinching each into a peak.",
+    "Bake 18–22 minutes, until the peaks and bottoms are golden. Cool on the sheet.",
+    "If you like, melt the chocolate and dip the bases, then set on parchment until firm."
+  ],
+  "tips": [
+    "Unsweetened coconut is drier than the sweetened kind; let the mixture stand 5 minutes before scooping so it binds."
+  ],
+  "origin": {
+    "family": "Macaroon",
+    "place": "United States",
+    "region": "North America",
+    "lat": 40.71,
+    "lon": -74.01,
+    "era": "late 1800s",
+    "history": "Macaroons began as almond-paste cookies in Italy and France. Once dried, shredded coconut became widely sold in the late nineteenth century, American cooks made coconut versions, and because they need no flour or leavening they became a Passover favourite in Jewish American households."
+  }
+}

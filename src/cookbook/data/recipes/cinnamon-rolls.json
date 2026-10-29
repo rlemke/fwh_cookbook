@@ -1,0 +1,129 @@
+{
+  "id": "cinnamon-rolls",
+  "title": "Cinnamon rolls",
+  "category": "breakfast",
+  "summary": "Soft spirals of psyllium-bound almond dough rolled around butter, cinnamon and sweetener, finished with a cream-cheese glaze.",
+  "servings": 8,
+  "serving_size": "1 roll",
+  "time": {
+    "prep_min": 30,
+    "cook_min": 25,
+    "rest_min": 15
+  },
+  "ingredients": [
+    {
+      "group": "Dough"
+    },
+    {
+      "item": "almond_flour",
+      "cup": 1.5
+    },
+    {
+      "item": "coconut_flour",
+      "tbsp": 2
+    },
+    {
+      "item": "psyllium_husk",
+      "tbsp": 3
+    },
+    {
+      "item": "baking_powder",
+      "tsp": 2
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 2
+    },
+    {
+      "item": "egg",
+      "each": 2
+    },
+    {
+      "item": "butter",
+      "tbsp": 2,
+      "note": "melted"
+    },
+    {
+      "item": "water",
+      "cup": 0.5,
+      "note": "warm"
+    },
+    {
+      "group": "Filling"
+    },
+    {
+      "item": "butter",
+      "tbsp": 3,
+      "note": "softened"
+    },
+    {
+      "item": "allulose",
+      "cup": 0.25
+    },
+    {
+      "item": "cinnamon",
+      "tbsp": 1
+    },
+    {
+      "item": "cardamom",
+      "tsp": 0.25
+    },
+    {
+      "group": "Glaze"
+    },
+    {
+      "item": "cream_cheese",
+      "g": 60,
+      "note": "softened"
+    },
+    {
+      "item": "powdered_erythritol",
+      "cup": 0.25
+    },
+    {
+      "item": "vanilla",
+      "tsp": 0.5
+    },
+    {
+      "item": "almond_milk",
+      "tbsp": 1
+    }
+  ],
+  "steps": [
+    "Heat the oven to 175 °C (350 °F) and grease a 20 cm (8 in) round cake pan.",
+    "For the dough, whisk the almond flour, coconut flour, psyllium, baking powder, salt and erythritol. Add the eggs, melted butter and warm water and mix to a soft dough. Let it rest 10 minutes; the psyllium firms it so it can be rolled.",
+    "Roll the dough between two sheets of parchment into a rectangle about 25 × 35 cm (10 × 14 in).",
+    "Spread with the softened butter and sprinkle with the allulose, cinnamon and cardamom.",
+    "Using the parchment to help, roll up from a long side into a firm log. Chill 5 minutes, then cut into 8 slices with a sharp knife and set them cut side up in the pan.",
+    "Bake 22–25 minutes, until golden. Allulose browns quickly, so cover loosely with foil if the tops darken before 20 minutes.",
+    "Beat the glaze ingredients until smooth and spread over the warm rolls."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter"
+    },
+    {
+      "from": "cream_cheese",
+      "to": "vegan_cream_cheese"
+    }
+  ],
+  "dairy_free_notes": "Dairy-free butter and cream cheese work well; the glaze is a little thinner, so add the almond milk a few drops at a time.",
+  "tips": [
+    "The dough cracks if rolled too thin — about 6 mm (¼ in) is right.",
+    "There is no yeast: grain-free dough has no gluten to trap gas, so baking powder does the lifting."
+  ],
+  "origin": {
+    "family": "Cinnamon roll",
+    "place": "Stockholm",
+    "region": "Northern Europe",
+    "lat": 59.33,
+    "lon": 18.07,
+    "era": "1920s",
+    "history": "The Swedish kanelbulle, a cardamom-scented yeast bun rolled with cinnamon and butter, became a staple of Swedish coffee breaks in the decades after the First World War, as butter and sugar became more affordable. Sweden marks a Cinnamon Bun Day each 4 October. The American cinnamon roll belongs to the same northern European family."
+  }
+}

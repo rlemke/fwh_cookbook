@@ -1,0 +1,114 @@
+{
+  "id": "galette-des-rois",
+  "title": "Almond frangipane tart (galette des rois-style)",
+  "category": "pies",
+  "summary": "Two rounds of almond pastry sealed around a rum-scented frangipane and scored in the classic pattern; a low-carb nod to the French Epiphany cake.",
+  "servings": 10,
+  "serving_size": "1 slice",
+  "time": {
+    "prep_min": 50,
+    "cook_min": 35,
+    "rest_min": 60
+  },
+  "ingredients": [
+    {
+      "group": "Pastry"
+    },
+    {
+      "item": "almond_flour",
+      "cup": 2.5
+    },
+    {
+      "item": "psyllium_husk",
+      "tbsp": 1
+    },
+    {
+      "item": "xanthan_gum",
+      "tsp": 0.5
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 2
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    },
+    {
+      "item": "butter",
+      "tbsp": 6,
+      "note": "cold, cubed"
+    },
+    {
+      "item": "egg",
+      "each": 1
+    },
+    {
+      "group": "Frangipane"
+    },
+    {
+      "item": "butter",
+      "cup": 0.33,
+      "note": "softened"
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.33
+    },
+    {
+      "item": "egg",
+      "each": 1
+    },
+    {
+      "item": "almond_flour",
+      "cup": 1
+    },
+    {
+      "item": "rum_extract",
+      "tsp": 0.5
+    },
+    {
+      "item": "almond_extract",
+      "tsp": 0.25
+    },
+    {
+      "group": "Glaze"
+    },
+    {
+      "item": "egg_yolk",
+      "each": 1
+    },
+    {
+      "item": "water",
+      "tsp": 1
+    }
+  ],
+  "steps": [
+    "Pulse the almond flour, psyllium, xanthan gum, erythritol and salt in a food processor. Add the butter and egg and pulse until the dough forms. Divide in two, flatten each into a disc and chill 30 minutes.",
+    "Beat the butter and erythritol for the frangipane until fluffy, then the egg, almond flour and both extracts. Chill while you roll the pastry.",
+    "Roll each disc between parchment to a 23 cm (9 in) round. Slide one round, on its parchment, onto a baking sheet.",
+    "Spread the frangipane over it, leaving a 2 cm (3/4 in) border. Hide a whole almond in it if you like. Brush the border with water, lay the second round on top and press the edges firmly to seal.",
+    "Whisk the yolk with the water and brush the top. Chill 20 minutes, brush again, then score a curved sunburst pattern lightly with a knife tip, and cut a small steam hole in the centre.",
+    "Heat the oven to 180 °C (355 °F) and bake 30–35 minutes, until deep golden. Cool at least 30 minutes; serve warm or at room temperature."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter"
+    }
+  ],
+  "dairy_free_notes": "Dairy-free butter gives a slightly crumblier pastry and a softer frangipane; chill the assembled tart well before baking.",
+  "tips": [
+    "This is a short almond pastry, not puff pastry: it will be tender and crumbly rather than flaky.",
+    "Warn guests if you hide a whole almond in place of the traditional fève."
+  ],
+  "origin": {
+    "family": "Galette des rois",
+    "place": "Paris",
+    "region": "Western Europe",
+    "lat": 48.86,
+    "lon": 2.35,
+    "era": "medieval",
+    "history": "Sharing a cake with a hidden bean at Epiphany, the finder becoming king or queen for the day, is a custom with medieval roots in France and elsewhere in Europe. In Paris and northern France the cake became a puff-pastry galette filled with frangipane, an almond cream; in the south a brioche ring is more usual. Porcelain charms called fèves later replaced the dried bean."
+  }
+}

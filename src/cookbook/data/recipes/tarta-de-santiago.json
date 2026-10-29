@@ -1,0 +1,75 @@
+{
+  "id": "tarta-de-santiago",
+  "title": "Tarta de Santiago",
+  "category": "cakes",
+  "summary": "The Galician almond cake: ground almonds, eggs and lemon zest, baked flat and dusted with the cross of St James.",
+  "servings": 10,
+  "serving_size": "1 slice",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 35,
+    "rest_min": 30
+  },
+  "ingredients": [
+    {
+      "item": "almond_flour",
+      "g": 250
+    },
+    {
+      "item": "erythritol",
+      "g": 180
+    },
+    {
+      "item": "lemon_zest",
+      "tbsp": 1
+    },
+    {
+      "item": "cinnamon",
+      "tsp": 0.25
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "egg",
+      "each": 4
+    },
+    {
+      "item": "almond_extract",
+      "tsp": 0.25,
+      "note": "optional"
+    },
+    {
+      "item": "olive_oil",
+      "tsp": 1,
+      "note": "for the pan"
+    },
+    {
+      "item": "powdered_erythritol",
+      "tbsp": 2,
+      "note": "for dusting"
+    }
+  ],
+  "steps": [
+    "Heat the oven to 175 °C (350 °F). Oil a 23 cm (9 in) round pan and line the base with parchment.",
+    "Mix the almond flour, erythritol, lemon zest, cinnamon and salt in a bowl.",
+    "In another bowl whisk the eggs for about 2 minutes, until frothy and slightly paler, then whisk in the almond extract.",
+    "Stir the almond mixture into the eggs until evenly combined; it will be a thick, spoonable batter.",
+    "Spread in the pan and bake 30–35 minutes, until golden brown and just firm in the centre. Cool completely in the pan.",
+    "Cut a cross of St James from paper, lay it in the centre of the cake, dust heavily with powdered erythritol and lift the stencil off carefully."
+  ],
+  "tips": [
+    "The cake keeps well for 3–4 days at room temperature and tastes better on day two.",
+    "Without the stencil, a plain dusting is just as traditional at home."
+  ],
+  "origin": {
+    "family": "Almond cake",
+    "place": "Santiago de Compostela",
+    "region": "Southern Europe",
+    "lat": 42.88,
+    "lon": -8.54,
+    "era": "1800s",
+    "history": "The tarta de Santiago takes its name from the pilgrimage city of Santiago de Compostela and its patron, St James. Almond cakes of this kind are recorded in Galicia by the nineteenth century, and the powdered-sugar cross of the Order of Santiago on top became the standard decoration in the twentieth. Made only of almonds, eggs and sugar, it is naturally flourless and dairy-free; it now carries protected geographical status in the EU."
+  }
+}

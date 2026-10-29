@@ -1,0 +1,60 @@
+{
+  "id": "almond-horchata",
+  "title": "Almond horchata",
+  "category": "drinks",
+  "summary": "A cold, creamy, cinnamon-scented drink made by blending soaked almonds with water and straining, in the spirit of horchata.",
+  "servings": 4,
+  "serving_size": "1 glass",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 0,
+    "rest_min": 480
+  },
+  "ingredients": [
+    {
+      "item": "almonds",
+      "cup": 0.75,
+      "note": "blanched"
+    },
+    {
+      "item": "water",
+      "cup": 4,
+      "note": "divided"
+    },
+    {
+      "item": "cinnamon",
+      "tsp": 0.75
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 3
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "salt",
+      "tsp": 0.0625
+    }
+  ],
+  "steps": [
+    "Put the almonds in a bowl with 2 cups of the water and the cinnamon. Cover and soak in the fridge overnight, or at least 8 hours.",
+    "Tip the almonds and soaking water into a blender, add the remaining water, the erythritol, vanilla and salt, and blend on high for 2 minutes, until very smooth.",
+    "Strain through a nut-milk bag or a sieve lined with a double layer of muslin, squeezing out as much liquid as you can.",
+    "Taste for sweetness, then chill. Stir and serve over ice with a dusting of cinnamon."
+  ],
+  "tips": [
+    "Most of the almond solids stay in the bag, so the drink carries far fewer carbs than the whole nuts would; the figure shown counts the whole almonds and so overstates it.",
+    "The leftover almond pulp can be dried in a low oven and used like almond meal."
+  ],
+  "origin": {
+    "family": "Horchata",
+    "place": "Valencia, Spain",
+    "region": "Southern Europe",
+    "lat": 39.47,
+    "lon": -0.38,
+    "era": "medieval",
+    "history": "This is an almond version, not a traditional horchata. The classic Spanish horchata de chufa comes from Valencia and is made from tiger nuts, the small tubers of a sedge grown there since Moorish times; Mexican horchata is made from rice, usually with cinnamon. The name is generally traced to the Latin for barley, an older base for such drinks. Almonds give a similar milky, nutty drink without the starch."
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "peanut-butter-fat-bombs",
+  "title": "Peanut butter fat bombs",
+  "category": "fat-bombs",
+  "summary": "Salty-sweet peanut butter cups set in the freezer, with a thin cap of sugar-free dark chocolate.",
+  "servings": 12,
+  "serving_size": "1 fat bomb",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 5,
+    "rest_min": 60
+  },
+  "ingredients": [
+    {
+      "group": "Peanut layer"
+    },
+    {
+      "item": "peanut_butter",
+      "cup": 0.5
+    },
+    {
+      "item": "coconut_oil",
+      "cup": 0.25
+    },
+    {
+      "item": "powdered_erythritol",
+      "tbsp": 2
+    },
+    {
+      "item": "vanilla",
+      "tsp": 0.5
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "group": "Chocolate top"
+    },
+    {
+      "item": "sf_chocolate_chips",
+      "g": 40
+    },
+    {
+      "item": "coconut_oil",
+      "tsp": 1
+    }
+  ],
+  "steps": [
+    "Line a 12-cup mini-muffin tin with paper cases, or use silicone moulds.",
+    "Warm the peanut butter and the ¼ cup coconut oil in a small pan over low heat, stirring, until smooth and pourable. Whisk in the powdered erythritol, vanilla and salt.",
+    "Spoon into the cases, filling each about two-thirds full, and freeze for 20 minutes until the surface is firm.",
+    "Melt the chocolate chips with the teaspoon of coconut oil in short bursts in the microwave or in a bowl over barely simmering water, stirring until smooth.",
+    "Spoon a thin layer of chocolate over each cup, tilting to cover the peanut layer, and freeze at least 30 minutes more."
+  ],
+  "tips": [
+    "If your peanut butter is unsalted, add a few flakes of salt on the chocolate before it sets."
+  ],
+  "origin": {
+    "family": "Fat bomb",
+    "place": "United States",
+    "region": "North America",
+    "lat": 39.83,
+    "lon": -98.58,
+    "era": "2010s",
+    "history": "Fat bombs are a modern invention of the low-carb and ketogenic diet community in the United States, spread largely through blogs and forums in the 2010s. This version imitates the American peanut butter cup, a candy that dates to the early twentieth century, but replaces the sugar with erythritol and much of the bulk with coconut oil."
+  }
+}

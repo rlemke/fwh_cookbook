@@ -1,0 +1,77 @@
+{
+  "id": "vanillekipferl",
+  "title": "Vanillekipferl",
+  "category": "cookies",
+  "summary": "Austrian almond crescents, tender and short, tossed in vanilla sweetener while still warm.",
+  "servings": 24,
+  "serving_size": "1 crescent",
+  "time": {
+    "prep_min": 30,
+    "cook_min": 14,
+    "rest_min": 60
+  },
+  "ingredients": [
+    {
+      "item": "almond_flour",
+      "cup": 1.5
+    },
+    {
+      "item": "hazelnut_flour",
+      "cup": 0.5
+    },
+    {
+      "item": "powdered_erythritol",
+      "cup": 0.25
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "butter",
+      "cup": 0.5,
+      "note": "cold, diced"
+    },
+    {
+      "item": "egg_yolk",
+      "each": 1
+    },
+    {
+      "item": "vanilla",
+      "tsp": 2
+    },
+    {
+      "item": "powdered_erythritol",
+      "cup": 0.33,
+      "note": "for coating"
+    }
+  ],
+  "steps": [
+    "Mix the almond flour, hazelnut flour, ¼ cup powdered erythritol and salt. Rub in the butter, then add the egg yolk and 1 teaspoon of the vanilla and knead quickly to a smooth dough.",
+    "Wrap and chill 1 hour.",
+    "Heat the oven to 165 °C (325 °F) and line a baking sheet with parchment.",
+    "Roll walnut-sized pieces into 8 cm (3 in) ropes, thicker in the middle, and curve each into a crescent on the sheet.",
+    "Bake 12–14 minutes, until just golden at the tips.",
+    "Rub the remaining vanilla into the coating sweetener. Cool the crescents 5 minutes, then very gently toss them in it."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter",
+      "note": "use a firm stick-style one"
+    }
+  ],
+  "dairy_free_notes": "Dairy-free butter gives a softer dough that loses its shape faster; chill the shaped crescents 15 minutes before baking.",
+  "tips": [
+    "A scraped vanilla bean in the coating is traditional and worth it."
+  ],
+  "origin": {
+    "family": "Kipferl",
+    "place": "Vienna",
+    "region": "Western Europe",
+    "lat": 48.21,
+    "lon": 16.37,
+    "era": "by the 1900s",
+    "history": "Vanillekipferl are short nut crescents baked for Christmas in Austria, Germany and the Czech lands. The crescent shape is sometimes tied to a legend about the Ottoman siege of Vienna in 1683, but there is no evidence for that story. They became a fixture of Viennese Christmas baking once vanilla grew affordable."
+  }
+}

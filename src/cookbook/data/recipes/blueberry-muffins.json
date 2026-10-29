@@ -1,0 +1,87 @@
+{
+  "id": "blueberry-muffins",
+  "title": "Blueberry muffins",
+  "category": "breakfast",
+  "summary": "Moist almond-flour muffins with a lemony crumb and a modest scatter of blueberries.",
+  "servings": 12,
+  "serving_size": "1 muffin",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 25,
+    "rest_min": 10
+  },
+  "ingredients": [
+    {
+      "item": "almond_flour",
+      "cup": 2.5
+    },
+    {
+      "item": "coconut_flour",
+      "tbsp": 2
+    },
+    {
+      "item": "baking_powder",
+      "tsp": 2
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.5
+    },
+    {
+      "item": "egg",
+      "each": 3
+    },
+    {
+      "item": "butter",
+      "cup": 0.33,
+      "note": "melted"
+    },
+    {
+      "item": "almond_milk",
+      "cup": 0.33
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "lemon_zest",
+      "tsp": 1
+    },
+    {
+      "item": "blueberries",
+      "g": 110
+    }
+  ],
+  "steps": [
+    "Heat the oven to 175 °C (350 °F) and line a 12-cup muffin tin with paper cases.",
+    "Whisk the almond flour, coconut flour, baking powder, salt and erythritol in a large bowl.",
+    "Whisk the eggs, melted butter, almond milk, vanilla and lemon zest together, then stir into the dry ingredients until just combined. The batter is thick.",
+    "Fold in the blueberries and divide between the cases.",
+    "Bake 22–25 minutes, until golden and a skewer comes out clean. Cool in the tin 10 minutes before lifting out; they are fragile while hot."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter"
+    }
+  ],
+  "dairy_free_notes": "Dairy-free butter gives a very similar muffin, slightly less rich.",
+  "tips": [
+    "Tossing the berries in a teaspoon of the dry mix helps stop them sinking.",
+    "Frozen berries work; add them still frozen and bake a few minutes longer."
+  ],
+  "origin": {
+    "family": "Muffin",
+    "place": "Boston",
+    "region": "North America",
+    "lat": 42.36,
+    "lon": -71.06,
+    "era": "1800s",
+    "history": "The American muffin is a small quick bread, made possible by the chemical leaveners — pearlash, then baking soda and baking powder — that came into use in the 1800s. Blueberry muffins are especially associated with New England, where wild blueberries grow, and Massachusetts made the blueberry muffin its official state muffin in 1986."
+  }
+}

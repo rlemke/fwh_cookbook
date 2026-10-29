@@ -1,0 +1,75 @@
+{
+  "id": "almond-flour-pancakes",
+  "title": "Almond-flour pancakes",
+  "category": "breakfast",
+  "summary": "Small, tender griddle pancakes from almond flour and eggs, best cooked over gentle heat so they set before they brown.",
+  "servings": 4,
+  "serving_size": "3 pancakes",
+  "time": {
+    "prep_min": 10,
+    "cook_min": 15,
+    "rest_min": 5
+  },
+  "ingredients": [
+    {
+      "item": "almond_flour",
+      "cup": 1
+    },
+    {
+      "item": "baking_powder",
+      "tsp": 1
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 1
+    },
+    {
+      "item": "egg",
+      "each": 3
+    },
+    {
+      "item": "almond_milk",
+      "cup": 0.25
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "butter",
+      "tbsp": 2,
+      "note": "melted, plus a little for the pan"
+    }
+  ],
+  "steps": [
+    "Whisk the almond flour, baking powder, salt and erythritol in a bowl.",
+    "Whisk the eggs, almond milk, vanilla and melted butter in a second bowl, then stir into the dry ingredients. Let the batter stand 5 minutes; it thickens slightly.",
+    "Heat a non-stick or cast-iron pan over medium-low heat and grease it lightly.",
+    "Drop 2 tablespoons of batter per pancake, spreading each to about 8 cm (3 in). Keep them small: almond-flour pancakes have no gluten and break if made large.",
+    "Cook 2–3 minutes, until the edges look dry and bubbles appear, then flip gently and cook 1–2 minutes more. Keep warm while you cook the rest."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter"
+    }
+  ],
+  "dairy_free_notes": "Dairy-free butter works the same here; use a neutral oil for greasing the pan if your spread spits.",
+  "tips": [
+    "If they brown before the middle sets, turn the heat down — almond flour scorches sooner than wheat.",
+    "A few raspberries or blueberries pressed into each pancake before flipping add little carb."
+  ],
+  "origin": {
+    "family": "Pancake",
+    "place": "Athens",
+    "region": "Southern Europe",
+    "lat": 37.98,
+    "lon": 23.73,
+    "era": "ancient",
+    "history": "Batters cooked on a hot pan or griddle are among the oldest prepared foods; ancient Greek and Roman writers describe flat cakes of flour and liquid fried and served with honey. Nearly every cuisine has its own version, from the thin crêpe to the thick American griddle cake."
+  }
+}

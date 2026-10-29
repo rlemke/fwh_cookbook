@@ -1,0 +1,75 @@
+{
+  "id": "gelato-al-cioccolato",
+  "title": "Gelato al cioccolato",
+  "category": "frozen",
+  "summary": "Dense, deeply chocolatey Italian-style gelato with more milk than cream, so the chocolate flavour comes through clean.",
+  "servings": 8,
+  "serving_size": "1/2 cup",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 10,
+    "rest_min": 420
+  },
+  "ingredients": [
+    {
+      "item": "whole_milk",
+      "cup": 2
+    },
+    {
+      "item": "heavy_cream",
+      "cup": 0.5
+    },
+    {
+      "item": "dutch_cocoa",
+      "cup": 0.33
+    },
+    {
+      "item": "allulose",
+      "cup": 0.67
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "xanthan_gum",
+      "tsp": 0.25
+    },
+    {
+      "item": "unsweetened_chocolate",
+      "g": 60,
+      "note": "finely chopped"
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    }
+  ],
+  "steps": [
+    "Whisk the cocoa, allulose, salt and xanthan gum together in a dry saucepan so the xanthan cannot clump.",
+    "Whisk in the milk and cream a little at a time to make a smooth paste and then a liquid. Heat, whisking, until it just reaches a simmer and has thickened slightly, about 5 minutes.",
+    "Take it off the heat, add the chopped chocolate and vanilla, and whisk until the chocolate has melted completely.",
+    "Cool over iced water, then refrigerate at least 4 hours until very cold.",
+    "Churn in an ice-cream maker, then freeze for 2–3 hours. Gelato is best served slightly softer than ice cream, so let it stand 5 minutes before scooping."
+  ],
+  "swaps": [
+    {
+      "from": "whole_milk",
+      "to": "coconut_milk"
+    },
+    {
+      "from": "heavy_cream",
+      "to": "coconut_cream"
+    }
+  ],
+  "dairy_free_notes": "With coconut milk the gelato is richer and a little firmer; the chocolate largely covers the coconut flavour.",
+  "origin": {
+    "family": "Gelato",
+    "place": "Naples",
+    "region": "Southern Europe",
+    "lat": 40.85,
+    "lon": 14.27,
+    "era": "1600s",
+    "history": "Iced and frozen desserts were developed in Italy during the seventeenth century, and recipes for sorbetti were printed in Naples in the 1690s. Chocolate, which reached Italy in the same century, soon became a flavour for them. Modern gelato, with its higher proportion of milk and slower churning, took shape in the nineteenth and twentieth centuries."
+  }
+}

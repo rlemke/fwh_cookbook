@@ -1,0 +1,93 @@
+{
+  "id": "snickerdoodles",
+  "title": "Snickerdoodles",
+  "category": "cookies",
+  "summary": "Soft, crackle-topped butter cookies rolled in cinnamon sweetener, with cream of tartar for their signature tang.",
+  "servings": 16,
+  "serving_size": "1 cookie",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 11,
+    "rest_min": 20
+  },
+  "ingredients": [
+    {
+      "group": "Dough"
+    },
+    {
+      "item": "butter",
+      "cup": 0.5,
+      "note": "softened"
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.5
+    },
+    {
+      "item": "egg",
+      "each": 1
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "almond_flour",
+      "cup": 2
+    },
+    {
+      "item": "coconut_flour",
+      "tbsp": 1
+    },
+    {
+      "item": "cream_of_tartar",
+      "tsp": 1
+    },
+    {
+      "item": "baking_soda",
+      "tsp": 0.5
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    },
+    {
+      "group": "Coating"
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 2
+    },
+    {
+      "item": "cinnamon",
+      "tsp": 2
+    }
+  ],
+  "steps": [
+    "Beat the butter and erythritol until fluffy, then beat in the egg and vanilla.",
+    "Whisk the almond flour, coconut flour, cream of tartar, baking soda and salt, and stir into the butter mixture to a soft dough. Chill 20 minutes.",
+    "Heat the oven to 175 °C (350 °F) and line a baking sheet with parchment. Mix the coating erythritol and cinnamon in a small bowl.",
+    "Roll the dough into 16 balls, roll each in the cinnamon mixture and set 5 cm (2 in) apart. Press each down to about 1.5 cm (½ in) thick, since almond-flour dough does not spread much.",
+    "Bake 10–12 minutes, until the tops crackle and the edges just colour. Cool on the sheet 10 minutes."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "vegan_butter",
+      "note": "use a firm stick-style one"
+    }
+  ],
+  "dairy_free_notes": "With dairy-free butter the cookies are a touch softer and flatter; flatten them a little less before baking.",
+  "tips": [
+    "Cream of tartar gives the tang; don't replace it with extra baking powder."
+  ],
+  "origin": {
+    "family": "Drop cookie",
+    "place": "New England",
+    "region": "North America",
+    "lat": 42.36,
+    "lon": -71.06,
+    "era": "1800s",
+    "history": "Snickerdoodles appear in American cookbooks in the late nineteenth century and are often associated with New England baking. The origin of the name is uncertain: it is sometimes linked to the German Schneckennudeln, a kind of cinnamon roll, but that connection is a guess rather than a documented fact."
+  }
+}

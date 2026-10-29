@@ -1,0 +1,110 @@
+{
+  "id": "pumpkin-pie",
+  "title": "Pumpkin pie",
+  "category": "pies",
+  "summary": "A smooth, warmly spiced pumpkin custard in a pressed almond crust, set firm enough to slice cleanly once chilled.",
+  "servings": 8,
+  "serving_size": "1 slice",
+  "time": {
+    "prep_min": 25,
+    "cook_min": 60,
+    "rest_min": 240
+  },
+  "ingredients": [
+    {
+      "group": "Crust"
+    },
+    {
+      "item": "almond_flour",
+      "cup": 1.5
+    },
+    {
+      "item": "butter",
+      "tbsp": 4,
+      "note": "melted"
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 2
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "group": "Filling"
+    },
+    {
+      "item": "pumpkin_puree",
+      "g": 425,
+      "note": "one 15 oz can"
+    },
+    {
+      "item": "heavy_cream",
+      "cup": 0.75
+    },
+    {
+      "item": "egg",
+      "each": 3
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.5
+    },
+    {
+      "item": "cinnamon",
+      "tsp": 1.5
+    },
+    {
+      "item": "ginger_ground",
+      "tsp": 0.5
+    },
+    {
+      "item": "nutmeg",
+      "tsp": 0.25
+    },
+    {
+      "item": "cloves",
+      "tsp": 0.125
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    }
+  ],
+  "steps": [
+    "Heat the oven to 175 °C (350 °F). Stir the crust ingredients together and press them evenly over the base and up the sides of a 23 cm (9 in) pie plate.",
+    "Bake the crust 10–12 minutes, until just golden at the rim. Let it cool while you mix the filling.",
+    "Whisk the pumpkin, cream, eggs, erythritol, spices, salt and vanilla until completely smooth.",
+    "Pour the filling into the crust. Bake 45–50 minutes, until the edge is set and the centre jiggles slightly when the plate is nudged. Cover the rim with foil if it browns too fast.",
+    "Cool on a rack for an hour, then refrigerate at least 3 hours before slicing."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "coconut_oil"
+    },
+    {
+      "from": "heavy_cream",
+      "to": "coconut_cream"
+    }
+  ],
+  "dairy_free_notes": "Coconut cream sets the filling just as firmly; a faint coconut note sits under the spices.",
+  "tips": [
+    "Blot very wet pumpkin purée with paper towel first, or the filling may weep.",
+    "A crack in the centre means it baked too long; take it out while the middle still wobbles."
+  ],
+  "origin": {
+    "family": "Pumpkin pie",
+    "place": "New England",
+    "region": "North America",
+    "lat": 42.36,
+    "lon": -71.06,
+    "era": "1700s",
+    "history": "Pumpkins and other squash are native to the Americas and were grown by Indigenous peoples long before European settlement. English cooks were already baking pumpkin into pies in the 1600s, and Amelia Simmons's 'American Cookery' (1796) printed a pumpkin custard baked in a crust much like today's. Through the 1800s the pie became firmly tied to the New England Thanksgiving table."
+  }
+}

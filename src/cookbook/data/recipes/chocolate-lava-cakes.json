@@ -1,0 +1,83 @@
+{
+  "id": "chocolate-lava-cakes",
+  "title": "Chocolate lava cakes",
+  "category": "cakes",
+  "summary": "Individual chocolate cakes baked hot and fast so the outside sets while the centre stays molten.",
+  "servings": 4,
+  "serving_size": "1 cake",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 12,
+    "rest_min": 2
+  },
+  "ingredients": [
+    {
+      "item": "butter",
+      "tbsp": 6,
+      "note": "plus a little for the ramekins"
+    },
+    {
+      "item": "unsweetened_chocolate",
+      "g": 100,
+      "note": "chopped"
+    },
+    {
+      "item": "powdered_erythritol",
+      "cup": 0.5
+    },
+    {
+      "item": "egg",
+      "each": 2
+    },
+    {
+      "item": "egg_yolk",
+      "each": 2
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "almond_flour",
+      "tbsp": 2
+    },
+    {
+      "item": "cocoa_powder",
+      "tsp": 2,
+      "note": "for the ramekins"
+    }
+  ],
+  "steps": [
+    "Heat the oven to 220 °C (425 °F). Butter four 170 ml (6 oz) ramekins and dust them with the cocoa, tapping out the excess. Set them on a baking sheet.",
+    "Melt the butter and chocolate together over barely simmering water and stir until smooth. Whisk in the powdered erythritol.",
+    "In another bowl whisk the eggs, yolks, vanilla and salt for 2 minutes until slightly thickened.",
+    "Whisk the warm chocolate into the eggs, then fold in the almond flour.",
+    "Divide among the ramekins. (They can be covered and chilled for up to a day at this point; add 2 minutes to the baking time.)",
+    "Bake 10–12 minutes, until the edges are firm and the centres still soft and slightly domed.",
+    "Rest 1–2 minutes, run a knife round each, and turn out onto plates. Serve straight away."
+  ],
+  "swaps": [
+    {
+      "from": "butter",
+      "to": "coconut_oil",
+      "ratio": 0.85
+    }
+  ],
+  "dairy_free_notes": "Coconut oil makes a slightly firmer shell and a looser centre; check the cakes a minute early.",
+  "tips": [
+    "Ovens vary a lot at this heat: bake one test cake first if you are serving guests."
+  ],
+  "origin": {
+    "family": "Chocolate cake",
+    "place": "New York City",
+    "region": "North America",
+    "lat": 40.71,
+    "lon": -74.01,
+    "era": "1980s",
+    "history": "The molten-centred chocolate cake is a restaurant creation of the 1980s, and its origin is disputed. The French chef Michel Bras developed a chocolate 'coulant' with a frozen ganache centre in the early 1980s, while the New York chef Jean-Georges Vongerichten is often credited with popularising the underbaked version in 1987. By the 1990s it was on restaurant menus across the United States."
+  }
+}
