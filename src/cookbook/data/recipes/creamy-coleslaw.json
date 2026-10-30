@@ -52,10 +52,14 @@
     {
       "item": "black_pepper",
       "tsp": 0.25
+    },
+    {
+      "item": "celery_seed",
+      "tsp": 0.5
     }
   ],
   "steps": [
-    "Whisk the mayonnaise, vinegar, mustard, erythritol, salt and pepper in a large bowl until the sweetener dissolves.",
+    "Whisk the mayonnaise, vinegar, mustard, erythritol, salt, pepper and celery seed in a large bowl until the sweetener dissolves.",
     "Add the green and red cabbage and the carrot and toss until every shred is coated.",
     "Cover and refrigerate 30 minutes to soften slightly, then toss again and taste for salt and vinegar before serving."
   ],

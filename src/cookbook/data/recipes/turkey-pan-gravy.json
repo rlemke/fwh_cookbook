@@ -12,6 +12,11 @@
   },
   "ingredients": [
     {
+      "item": "shallot",
+      "each": 1,
+      "note": "finely chopped"
+    },
+    {
       "item": "white_wine",
       "cup": 0.25,
       "note": "or more stock; plus the drippings left in the turkey roasting pan"
@@ -50,7 +55,7 @@
   ],
   "steps": [
     "Pour the drippings from the roasting pan into a heatproof jug and let the fat rise for 5 minutes. Spoon off all but about 2 tablespoons of fat and return the juices to the pan.",
-    "Set the pan over medium heat (across two burners if needed). Add the wine and scrape up the browned bits, then let it bubble until reduced by half.",
+    "Set the pan over medium heat (across two burners if needed) and soften the shallot in the fat for 2 minutes. Add the wine and scrape up the browned bits, then let it bubble until reduced by half.",
     "Add the stock, thyme and sage and simmer 5 minutes. Strain into a small saucepan if you want it smooth.",
     "With the gravy at a simmer, sprinkle the xanthan gum over the surface while whisking hard, a little at a time, so it does not clump. Simmer 1–2 minutes; it thickens as it heats. Add a few more pinches only if it is still thin — too much turns it slippery.",
     "Off the heat, whisk in the cold butter. Taste, then season with salt and pepper."

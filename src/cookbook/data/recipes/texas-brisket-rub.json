@@ -17,8 +17,9 @@
       "note": "coarsely ground (16-mesh 'butcher' grind if you can find it)"
     },
     {
-      "item": "salt",
-      "tbsp": 3
+      "item": "kosher_salt",
+      "tbsp": 6,
+      "note": "Diamond Crystal; use 3½ tbsp of Morton kosher or 3 tbsp of fine salt instead"
     },
     {
       "item": "garlic_powder",
@@ -34,7 +35,6 @@
   ],
   "swaps": [],
   "tips": [
-    "This uses fine salt. With kosher salt, use about twice the volume (Diamond Crystal) or 1.5 times (Morton) for the same saltiness.",
     "Almost all the carbohydrate is in the pepper and garlic; leave out the garlic to drop to about 1.5 g per serving."
   ],
   "origin": {

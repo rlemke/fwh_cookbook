@@ -2,7 +2,7 @@
   "id": "caesar-salad",
   "title": "Caesar salad",
   "category": "sides",
-  "summary": "Crisp romaine in an egg-yolk, lemon and garlic dressing seasoned with Worcestershire and parmesan, scattered with almond-flour crisps in place of croutons.",
+  "summary": "Crisp romaine in an egg-yolk, lemon and garlic dressing seasoned with anchovy, Worcestershire and parmesan, scattered with almond-flour crisps in place of croutons.",
   "servings": 6,
   "serving_size": "about 2 cups",
   "time": {
@@ -48,6 +48,11 @@
       "note": "grated"
     },
     {
+      "item": "anchovy",
+      "each": 4,
+      "note": "optional; leave out for a milder dressing"
+    },
+    {
       "item": "lemon_juice",
       "tbsp": 2
     },
@@ -84,7 +89,7 @@
   ],
   "steps": [
     "Heat the oven to 165 °C (325 °F) and line a baking sheet with parchment. Mix the almond flour, egg white, olive oil, garlic powder and salt into a stiff paste. Spread it thinly, about 3 mm (1/8 in), on the parchment and bake 10–12 minutes, until golden. Cool, then break into crouton-size pieces.",
-    "Whisk the egg yolk, garlic, lemon juice, Worcestershire and mustard in a bowl. Whisk in the olive oil a few drops at a time, then in a thin stream, until thick and glossy. Stir in half the parmesan and the pepper. Thin with a teaspoon of water if needed.",
+    "Mash the anchovies and garlic to a paste with the side of a knife, then whisk them in a bowl with the egg yolk, lemon juice, Worcestershire and mustard. Whisk in the olive oil a few drops at a time, then in a thin stream, until thick and glossy. Stir in half the parmesan and the pepper. Thin with a teaspoon of water if needed.",
     "Toss the romaine with the dressing until every leaf is coated. Top with the crisps and the remaining parmesan and serve at once."
   ],
   "swaps": [
@@ -96,7 +101,7 @@
   ],
   "dairy_free_notes": "Nutritional yeast gives the dressing a savoury, nutty depth but not parmesan's saltiness; add a pinch of salt and another dash of Worcestershire.",
   "tips": [
-    "Worcestershire contains anchovy, so this dressing is not fish-free; it supplies the umami that whole anchovies usually do.",
+    "Anchovies and Worcestershire both contain fish. Without the anchovies the dressing is milder, and Worcestershire still gives it some savoury depth; Cardini's original is said to have used Worcestershire alone.",
     "The crisps keep a week in an airtight jar."
   ],
   "origin": {

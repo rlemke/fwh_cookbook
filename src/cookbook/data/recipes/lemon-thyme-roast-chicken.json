@@ -25,8 +25,9 @@
       "tsp": 0.5
     },
     {
-      "item": "thyme",
-      "tsp": 2
+      "item": "fresh_thyme",
+      "tbsp": 1,
+      "note": "leaves stripped from the stems"
     },
     {
       "item": "lemon_zest",
@@ -66,7 +67,7 @@
   ],
   "swaps": [],
   "tips": [
-    "Fresh thyme is better if you have it: use about a tablespoon of leaves.",
+    "Dried thyme works too: use 2 teaspoons.",
     "Most of the onion's carbs stay in the pan; eat it or not as your count allows."
   ],
   "origin": {

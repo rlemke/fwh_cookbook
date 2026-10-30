@@ -215,5 +215,12 @@
  "white_rice":        {"name": "white rice", "usda": "Rice, white, long-grain, regular, raw, enriched", "contains": [], "conventional": true, "cup_g": 185},
  "rolled_oats":       {"name": "rolled oats", "usda": "Cereals, oats, regular and quick, not fortified, dry", "contains": [], "conventional": true, "cup_g": 81},
  "maple_syrup":       {"name": "maple syrup", "usda": "Syrups, maple", "contains": [], "conventional": true, "tbsp_g": 20},
- "water":               {"name": "water", "label": {"kcal": 0, "fat_g": 0, "protein_g": 0, "carbs_g": 0, "fiber_g": 0, "sugars_g": 0, "polyol_g": 0}, "contains": [], "cup_g": 237, "tbsp_g": 15}
+ "water":               {"name": "water", "label": {"kcal": 0, "fat_g": 0, "protein_g": 0, "carbs_g": 0, "fiber_g": 0, "sugars_g": 0, "polyol_g": 0}, "contains": [], "cup_g": 237, "tbsp_g": 15},
+ "shallot":          {"name": "shallot", "plural": "shallots", "usda": "Shallots, raw", "contains": [], "each_g": 30, "tbsp_g": 10},
+ "capers":           {"name": "capers, drained", "usda": "Capers, canned", "contains": [], "tbsp_g": 8.6},
+ "anchovy":          {"name": "anchovy fillet in oil", "plural": "anchovy fillets in oil", "usda": "Fish, anchovy, european, canned in oil, drained solids", "contains": ["fish"], "each_g": 4},
+ "celery_seed":      {"name": "celery seed", "usda": "Spices, celery seed", "contains": [], "tsp_g": 2},
+ "scotch_bonnet":    {"name": "Scotch bonnet pepper", "plural": "Scotch bonnet peppers", "usda": "Peppers, hot chili, red, raw", "usda_note": "SR Legacy lists no Scotch bonnet; a raw red hot chilli is the nearest food", "contains": [], "each_g": 10},
+ "fresh_thyme":      {"name": "fresh thyme leaves", "usda": "Thyme, fresh", "contains": [], "tsp_g": 0.8, "tbsp_g": 2.4},
+ "kosher_salt":      {"name": "kosher salt (Diamond Crystal)", "usda": "Salt, table", "usda_note": "Same food as table salt; the coarse flakes weigh less per spoon (about 2.8 g a teaspoon)", "contains": [], "tsp_g": 2.8}
 }
