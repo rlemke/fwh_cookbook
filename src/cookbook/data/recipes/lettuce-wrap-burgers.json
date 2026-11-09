@@ -62,6 +62,10 @@
     "Nest two romaine leaves per burger, spread with mustard and mayonnaise, add the patty and top with pickle, onion and tomato. Wrap the leaves up around it and eat from paper or foil."
   ],
   "swaps": [],
+  "vegan_swaps": [
+    {"from": "mayonnaise", "to": "tofu_mayo", "ratio": 1.09}
+  ],
+  "vegan_notes": "Use an egg-free mayonnaise, or simply leave it out, as it is optional. This makes the burgers egg-free, not vegan.",
   "tips": [
     "Iceberg or butter-lettuce leaves hold together better than romaine if you prefer a rounder 'bun'.",
     "Check the pickle label: some dill pickles are sweetened."

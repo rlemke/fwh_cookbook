@@ -69,6 +69,15 @@
     }
   ],
   "dairy_free_notes": "With dairy-free butter the waffles are a little less browned; cook them 30 seconds longer.",
+  "vegan_swaps": [
+    {
+      "from": "egg",
+      "to": "aquafaba",
+      "ratio": 0.9,
+      "note": "3 tbsp aquafaba per egg; there are no yolks to separate"
+    }
+  ],
+  "vegan_notes": "Stir a third of the aquafaba into the batter in place of the yolks, and whip the rest with the cream of tartar to stiff peaks (it takes longer than egg white, 5–8 minutes) before folding it in. The waffles are less rich and softer inside; cook a minute longer so they set and release from the iron.",
   "tips": [
     "They freeze well; re-crisp straight from frozen in a toaster."
   ],

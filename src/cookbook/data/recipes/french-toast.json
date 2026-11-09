@@ -93,6 +93,19 @@
     }
   ],
   "dairy_free_notes": "With dairy-free butter and coconut milk the slices brown a little less; fry them over slightly lower heat for longer.",
+  "vegan_swaps": [
+    {
+      "from": "egg",
+      "to": "flax_egg",
+      "ratio": 1.04,
+      "note": "one flax egg per egg, for the 3 in the loaf and the 2 in the custard"
+    }
+  ],
+  "vegan_notes": "Rest the flax eggs 10 minutes first. The loaf comes out denser and more fragile, so cool it completely and cut slightly thicker slices; the flax-and-coconut-milk dip coats the bread rather than soaking in, so the slices crisp less evenly and have no custardy middle.",
+  "vegan_alternative": {
+    "recipe": "almond-flour-pancakes",
+    "note": "If the flax version disappoints, the almond-flour pancakes made with flax eggs are the closest sweet, cinnamon-friendly breakfast in the book."
+  },
   "tips": [
     "Day-old slices of the almond-flour sandwich loaf work just as well and skip the first step.",
     "Top with a few berries and powdered sweetener."

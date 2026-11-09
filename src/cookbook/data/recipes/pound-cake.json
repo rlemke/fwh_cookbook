@@ -73,6 +73,10 @@
     }
   ],
   "dairy_free_notes": "Use a firm stick-style dairy-free butter; a soft tub spread will not cream and the loaf turns dense and greasy.",
+  "vegan_swaps": [
+    {"from": "egg", "to": "aquafaba", "ratio": 0.9, "note": "3 tbsp per egg"}
+  ],
+  "vegan_notes": "Whisk the aquafaba until foamy and beat it into the creamed butter a spoonful at a time, so it does not curdle. Expect a denser, moister loaf with less rise, and test it a little early; untested.",
   "tips": [
     "Erythritol can recrystallise on standing; a powdered sweetener in the batter gives a smoother crumb the next day."
   ],

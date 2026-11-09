@@ -53,6 +53,11 @@
     }
   ],
   "dairy_free_notes": "Dairy-free butter makes a softer buttercream that loosens quickly in a warm room; chill the frosted cake to set it and pipe only in a cool kitchen.",
+  "vegan_swaps": [
+    {"from": "egg_white", "to": "aquafaba", "ratio": 0.91, "note": "about 1/2 cup"}
+  ],
+  "vegan_notes": "Skip the water bath: whip the aquafaba with the salt to stiff peaks, beat in the sweeteners, then the dairy-free butter a piece at a time. It is softer and less stable than the egg version and loosens quickly in a warm room; we are less sure of it.",
+  "vegan_alternative": {"recipe": "cream-cheese-frosting", "note": "A sturdier vegan frosting if the aquafaba buttercream will not hold."},
   "tips": [
     "The allulose helps stop the erythritol from recrystallising into a gritty texture after chilling.",
     "Butter that is too warm gives a soupy buttercream; it should dent with a finger but not look shiny."

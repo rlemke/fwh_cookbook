@@ -59,6 +59,10 @@
     "Spread in the pan and bake 30–35 minutes, until golden brown and just firm in the centre. Cool completely in the pan.",
     "Cut a cross of St James from paper, lay it in the centre of the cake, dust heavily with powdered erythritol and lift the stencil off carefully."
   ],
+  "vegan_swaps": [
+    {"from": "egg", "to": "aquafaba", "ratio": 0.9, "note": "3 tbsp per egg"}
+  ],
+  "vegan_notes": "Whisk the aquafaba 3–4 minutes until thick and foamy, then stir in the almond mixture. With no flour and no baking powder, the eggs are the only binder, so the cake will be flatter, moister and more fragile; cool it fully in the pan. Untested.",
   "tips": [
     "The cake keeps well for 3–4 days at room temperature and tastes better on day two.",
     "Without the stencil, a plain dusting is just as traditional at home."

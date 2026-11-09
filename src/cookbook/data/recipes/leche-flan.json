@@ -64,6 +64,10 @@
     }
   ],
   "dairy_free_notes": "Coconut cream makes a very dense, slightly coconut-flavoured flan, which is close in spirit to the coconut flans of the region.",
+  "vegan_alternative": {
+    "recipe": "haupia",
+    "note": "Ten yolks are the whole structure of leche flan. Haupia, a firm coconut pudding set with agar, is the closest vegan dish, and fills the same place on a Filipino or Pacific table."
+  },
   "tips": [
     "Save the 10 whites for a meringue or an angel-food-style cake.",
     "Straining twice is what gives the smooth, bubble-free texture leche flan is known for."

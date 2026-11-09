@@ -78,6 +78,15 @@
     "Roll into 24 small balls, roll in erythritol and set 5 cm (2 in) apart. Flatten each to about 6 mm (¼ in).",
     "Bake 12–14 minutes, until browned at the edges. Cool on the sheet; they snap once completely cool."
   ],
+  "vegan_swaps": [
+    {
+      "from": "egg",
+      "to": "flax_egg",
+      "ratio": 1.04,
+      "note": "one flax egg per egg"
+    }
+  ],
+  "vegan_notes": "Rest the flax egg 10 minutes before beating it in. The cookies spread a little less and crack less; flatten them well and bake to the longer time so they still snap once cool.",
   "tips": [
     "For extra crispness, return the cooled cookies to a 120 °C (250 °F) oven for 10 minutes.",
     "Traditional gingersnaps use molasses; a drop of blackstrap is optional but adds sugar."

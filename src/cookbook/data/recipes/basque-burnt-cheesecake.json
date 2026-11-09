@@ -65,6 +65,10 @@
     }
   ],
   "dairy_free_notes": "The dairy-free version browns and sets well but is softer and less tangy; chill it overnight and serve it cold rather than at room temperature.",
+  "vegan_swaps": [
+    {"from": "egg", "to": "silken_tofu", "ratio": 1.26, "note": "blended completely smooth, ¼ cup per egg"}
+  ],
+  "vegan_notes": "Blend the tofu smooth and beat it in where the eggs go. It will not puff and sink, and the centre stays creamier and softer than the egg version; the allulose still browns the top. Chill overnight and serve cold; expect a looser set and treat it as untested.",
   "tips": [
     "Allulose caramelises like sugar and gives the dark top; with erythritol alone the cake stays pale.",
     "Do not use a water bath and do not wait for the centre to set; it firms as it cools."

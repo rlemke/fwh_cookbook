@@ -31,6 +31,10 @@
     {"from": "heavy_cream", "to": "coconut_cream"}
   ],
   "dairy_free_notes": "The pudding itself is dairy-free; chilled coconut cream, stirred smooth, replaces the cream and adds a light coconut note.",
+  "vegan_swaps": [
+    {"from": "gelatin", "to": "agar", "ratio": 0.25, "note": "about 1/2 tsp agar powder"}
+  ],
+  "vegan_notes": "Skip the soaking: whisk the agar into the half cup of water with the allulose and boil it 1–2 minutes, which agar needs to dissolve, before adding the fruit. It sets as it cools, even at room temperature, and gives a firmer, less wobbly set than gelatin; use a little less for a softer pudding.",
   "tips": [
     "The traditional thickener is potato or corn starch; gelatin gives a softer, wobbly set instead of a starchy one. For a looser, sauce-like texture use 1/4 tsp xanthan gum whisked in off the heat.",
     "Frozen redcurrants and raspberries work well; cook them a minute longer."

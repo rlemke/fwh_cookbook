@@ -78,6 +78,11 @@
     }
   ],
   "dairy_free_notes": "With coconut cream the custard is slightly denser and has a mild coconut note; the almond extract helps cover it.",
+  "vegan_swaps": [
+    {"from": "egg", "to": "silken_tofu", "ratio": 1.26, "note": "about 1/4 cup per egg"}
+  ],
+  "vegan_notes": "Blend the silken tofu with the erythritol, almond flour, salt, coconut cream, almond milk and flavourings until perfectly smooth, then bake 5–10 minutes longer, until set at the edges with a slight wobble in the centre. It will not puff or sink like the egg batter and sets softer and more pudding-like; it firms as it cools. We are less sure of this one.",
+  "vegan_alternative": {"recipe": "berry-crumble", "note": "If you would rather not experiment, the berry crumble is the closest warm baked fruit dessert in the book with a vegan version."},
   "tips": [
     "In Limousin the cherries are traditionally left unpitted, which adds a faint almond flavour from the stones; warn your guests if you do this.",
     "Cherries are high in sugar for a fruit, so keep to the weight given."

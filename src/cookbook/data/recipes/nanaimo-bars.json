@@ -97,6 +97,15 @@
     }
   ],
   "dairy_free_notes": "The dairy-free filling is softer and melts faster at room temperature; keep the bars chilled until just before serving.",
+  "vegan_swaps": [
+    {
+      "from": "egg",
+      "to": "flax_egg",
+      "ratio": 1.04,
+      "note": "one flax egg per egg"
+    }
+  ],
+  "vegan_notes": "Rest the flax egg 10 minutes and stir it in off the heat; it won't thicken the base as the egg does, so a minute over very low heat is enough. The base is softer and relies on chilling to hold, so press it firmly and keep the bars cold; use a dairy-free chocolate for the top.",
   "tips": [
     "The original middle layer uses custard powder, which is cornstarch; vanilla and a little extra cream stand in for it."
   ],

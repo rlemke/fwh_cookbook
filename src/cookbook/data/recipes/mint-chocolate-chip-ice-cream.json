@@ -60,6 +60,11 @@
     "Melt both chocolates with the coconut oil and let it cool until barely warm but still fluid.",
     "Churn the base. In the last minute of churning, drizzle the chocolate in a thin stream into the machine; it freezes into crisp flecks. Freeze 3–4 hours before serving."
   ],
+  "vegan_swaps": [
+    {"from": "egg_yolk", "to": "silken_tofu", "ratio": 1.8, "note": "about 1/2 cup, blended smooth"}
+  ],
+  "vegan_notes": "Blend the silken tofu with the allulose, salt and hot mint-steeped coconut until completely smooth instead of cooking a custard, then chill and churn. Expect a slightly firmer, less rich ice cream; use chocolate chips labelled dairy-free.",
+  "vegan_alternative": {"recipe": "coconut-kulfi", "note": "A dense, egg-free coconut frozen dessert for anyone who would rather not use tofu."},
   "tips": [
     "Steeping fresh mint gives a grassier, rounder flavour than extract alone; the extract adds the cool finish.",
     "Fresh-mint ice cream is pale cream, not green; that is the honest colour."

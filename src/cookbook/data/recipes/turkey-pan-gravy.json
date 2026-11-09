@@ -68,6 +68,10 @@
     }
   ],
   "dairy_free_notes": "Dairy-free butter gives the same gloss; without any butter the gravy is a little thinner and less rich but still good.",
+  "vegan_swaps": [
+    {"from": "chicken_stock", "to": "vegetable_broth", "ratio": 1}
+  ],
+  "vegan_notes": "For a vegan gravy leave out the turkey drippings: soften the shallot in a tablespoon of the dairy-free butter, then follow the recipe with vegetable broth. It is lighter and less savoury than a drippings gravy, so taste for salt.",
   "tips": [
     "An immersion blender is the easiest way to disperse xanthan gum without lumps.",
     "Drippings carry very few carbs, but skip any pan juices that have sugar from a sweet glaze."

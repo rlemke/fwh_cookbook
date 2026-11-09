@@ -76,6 +76,15 @@
     }
   ],
   "dairy_free_notes": "Whipped coconut cream is heavier than dairy cream and tastes of coconut, which suits the strawberries; fold more gently, as it deflates if overworked.",
+  "vegan_swaps": [
+    {
+      "from": "egg_white",
+      "to": "aquafaba",
+      "ratio": 0.91,
+      "note": "2 tbsp aquafaba per white"
+    }
+  ],
+  "vegan_notes": "Whip the aquafaba with the cream of tartar to stiff peaks before adding the erythritol a spoonful at a time; it takes several minutes longer than egg white. Aquafaba meringue with erythritol is more fragile and softens faster, so dry it well in the oven and fold it through at the very last moment. Broken meringue is the point here, so small failures do not show.",
   "tips": [
     "Erythritol meringue stays crisp only for a day or two and softens fast in humid weather; store it airtight and assemble at the last minute."
   ],

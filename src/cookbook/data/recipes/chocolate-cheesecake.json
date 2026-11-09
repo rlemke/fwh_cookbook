@@ -109,6 +109,10 @@
     }
   ],
   "dairy_free_notes": "Chocolate hides the coconut and cashew flavours well, and the melted chocolate helps the dairy-free version set firmer than most.",
+  "vegan_swaps": [
+    {"from": "egg", "to": "silken_tofu", "ratio": 1.26, "note": "blended completely smooth, ¼ cup per egg"}
+  ],
+  "vegan_notes": "Blend the tofu smooth and beat it in on low speed in place of the eggs. The melted chocolate does much of the setting, so this is the most dependable of the vegan cheesecakes, but it is still softer; chill it overnight. Not kitchen-tested.",
   "tips": [
     "Cut it into thin slices with a hot, dry knife; it is very rich.",
     "Make sure the chocolate is only warm when added; hot chocolate scrambles the eggs, cold chocolate seizes into flecks."

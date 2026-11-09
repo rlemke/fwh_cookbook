@@ -71,6 +71,15 @@
     }
   ],
   "dairy_free_notes": "Dairy-free butter gives a very similar muffin, slightly less rich.",
+  "vegan_swaps": [
+    {
+      "from": "egg",
+      "to": "flax_egg",
+      "ratio": 1.04,
+      "note": "one flax egg per egg"
+    }
+  ],
+  "vegan_notes": "Rest the flax eggs 10 minutes first. Expect a denser, moister, slightly flatter muffin that browns less; bake a few minutes longer and let them cool fully in the tin, as they are more fragile than the egg version.",
   "tips": [
     "Tossing the berries in a teaspoon of the dry mix helps stop them sinking.",
     "Frozen berries work; add them still frozen and bake a few minutes longer."

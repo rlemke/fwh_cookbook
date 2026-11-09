@@ -23,10 +23,13 @@ from ..recipes import (
     DESSERT_CATEGORIES,
     conventional,
     dairy_status,
+    egg_status,
     lines,
     load_recipes,
     load_traditional,
     validate,
+    validate_book,
+    vegan_status,
     version,
 )
 
@@ -45,7 +48,7 @@ REGIONS = [
     "Oceania",
 ]
 TITLE = "The Low-Carb Kitchen"
-SUBTITLE = "Desserts first — and a dairy-free way to make every recipe"
+SUBTITLE = "Desserts first — a dairy-free way to make every recipe, and an egg-free or vegan way to make the ones with eggs"
 
 
 def _script_json(v) -> Markup:
@@ -69,6 +72,8 @@ def _env() -> Environment:
 def recipe_view(r: dict, table: Table, trad: dict | None = None) -> dict:
     ing = table.ingredients
     written, df = version(r, table), version(r, table, dairy_free=True)
+    vg = version(r, table, vegan=True)
+    vstat, estat = vegan_status(r, table), egg_status(r, table)
     conv = conventional(r, table, trad if trad is not None else load_traditional())
     conv_swaps = [
         {
@@ -96,6 +101,15 @@ def recipe_view(r: dict, table: Table, trad: dict | None = None) -> dict:
         }
         for s in r.get("swaps", [])
     ]
+    vegan_swaps = [
+        {
+            "from": ing[s["from"]]["name"],
+            "to": ing[s["to"]]["name"],
+            "ratio": s.get("ratio", 1.0),
+            "note": s.get("note", ""),
+        }
+        for s in r.get("vegan_swaps", [])
+    ]
     label_items = sorted(
         {ing[ln["item"]]["name"] for ln in lines(r) if table.source[ln["item"]] == "label"}
     )
@@ -112,6 +126,13 @@ def recipe_view(r: dict, table: Table, trad: dict | None = None) -> dict:
         "dairy": dairy_status(r, table),
         "per": written.per_serving.as_dict(),
         "per_df": df.per_serving.as_dict(),
+        # A vegan column only when the vegan version differs from the
+        # dairy-free one (it swaps eggs, gelatin or stock as well).
+        "per_vg": vg.per_serving.as_dict() if r.get("vegan_swaps") else None,
+        "vegan": vstat,
+        "egg": estat,
+        "vegan_swaps": vegan_swaps,
+        "contains_vg": [ALLERGENS[a] for a in vg.contains],
         "per_conv": conv.version.per_serving.as_dict() if conv.version else None,
         "conv_swaps": conv_swaps,
         "conv_note": conv.note,
@@ -173,6 +194,8 @@ def _card(v: dict) -> dict:
         "k": v["per"]["kcal"],
         "d": v["dairy"] == "dairy-free",
         "x": v["contains_df"],
+        "v": bool(v["vegan"]),
+        "e": v["egg"] != "alternative",
         "f": v["origin"]["family"],
         "p": v["origin"]["place"],
         "r": v["origin"]["region"],
@@ -199,6 +222,7 @@ def build_site(fdc_zip: str, out_dir: str, log=None) -> dict:
     table = build_table(fdc_zip)
     recipes = load_recipes()
     errors = [e for r in recipes for e in validate(r, table)]
+    errors += [] if errors else validate_book(recipes, table)
     if errors:
         raise ValueError("invalid recipes:\n  " + "\n  ".join(errors))
     for r in recipes:
@@ -227,6 +251,11 @@ def build_site(fdc_zip: str, out_dir: str, log=None) -> dict:
         "desserts": len(desserts),
         "dairy_free": sum(1 for v in views if v["dairy"] == "dairy-free"),
         "dairy_option": sum(1 for v in views if v["dairy"] != "dairy-free"),
+        "vegan": sum(1 for v in views if v["vegan"] == "vegan"),
+        "vegan_option": sum(1 for v in views if v["vegan"] == "vegan option"),
+        "egg_recipes": sum(1 for v in views if v["egg"] != "egg-free"),
+        "egg_swapped": sum(1 for v in views if v["egg"] == "egg-free option"),
+        "egg_alternative": sum(1 for v in views if v["egg"] == "alternative"),
         "places": len(_places(views)),
         "regions": len(region_list),
         "median_net_dessert": sorted(v["per"]["net_carbs_g"] for v in desserts)[len(desserts) // 2]
@@ -236,6 +265,7 @@ def build_site(fdc_zip: str, out_dir: str, log=None) -> dict:
     }
     used = Counter(ln["item"] for r in recipes for ln in lines(r))
     used |= Counter(s["to"] for r in recipes for s in r.get("swaps", []))
+    used |= Counter(s["to"] for r in recipes for s in r.get("vegan_swaps", []))
     ingredient_rows = [
         {
             "key": k,
@@ -245,6 +275,11 @@ def build_site(fdc_zip: str, out_dir: str, log=None) -> dict:
             "uses": used[k],
             "usda": table.ingredients[k].get("usda", ""),
             "usda_note": table.ingredients[k].get("usda_note", ""),
+            "note": table.ingredients[k].get("note", ""),
+            "made_of": [
+                f"{g:g} g {table.ingredients[p]['name']}"
+                for p, g in table.ingredients[k].get("made_of", {}).items()
+            ],
         }
         for k in sorted(used, key=lambda k: table.ingredients[k]["name"])
     ]
@@ -253,7 +288,22 @@ def build_site(fdc_zip: str, out_dir: str, log=None) -> dict:
         {"from": table.ingredients[a]["name"], "to": table.ingredients[b]["name"], "uses": n}
         for (a, b), n in sorted(swap_counts.items(), key=lambda kv: (-kv[1], kv[0]))
     ]
+    vegan_counts = Counter((s["from"], s["to"]) for r in recipes for s in r.get("vegan_swaps", []))
+    vegan_swap_rows = [
+        {"from": table.ingredients[a]["name"], "to": table.ingredients[b]["name"], "uses": n}
+        for (a, b), n in sorted(vegan_counts.items(), key=lambda kv: (-kv[1], kv[0]))
+    ]
     by_id = {v["id"]: v for v in views}
+    for v in views:
+        alt = v.get("vegan_alternative")
+        if alt:
+            o = by_id[alt["recipe"]]
+            v["alt"] = {
+                "id": o["id"],
+                "title": o["title"],
+                "note": alt["note"],
+                "vegan": o["vegan"],
+            }
     menus = load_menus()
     missing = [
         (m["id"], it["recipe"])
@@ -288,6 +338,7 @@ def build_site(fdc_zip: str, out_dir: str, log=None) -> dict:
         "ingredients": ingredient_rows,
         "fields": FIELDS,
         "swap_rows": swap_rows,
+        "vegan_swap_rows": vegan_swap_rows,
     }
     out = Path(out_dir)
     pages = {

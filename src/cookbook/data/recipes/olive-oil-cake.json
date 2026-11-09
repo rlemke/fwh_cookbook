@@ -71,6 +71,10 @@
     "Pour into the pan and bake 35–40 minutes, until golden and a skewer comes out clean.",
     "Cool 15 minutes in the pan, then turn out onto a rack. Dust with powdered erythritol before serving."
   ],
+  "vegan_swaps": [
+    {"from": "egg", "to": "aquafaba", "ratio": 0.9, "note": "3 tbsp per egg"}
+  ],
+  "vegan_notes": "Whip the aquafaba with the sweetener and zests to soft peaks, then add the oil slowly on low; the oil knocks some air out. The cake rises less and has a closer, moister crumb than the whipped-egg version; untested.",
   "tips": [
     "The oil's flavour comes through, so taste it first: a harsh oil makes a bitter cake."
   ],

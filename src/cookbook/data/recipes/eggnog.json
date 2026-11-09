@@ -69,6 +69,19 @@
     }
   ],
   "dairy_free_notes": "With almond milk and coconut cream the eggnog is a little thinner and tastes of coconut; nutmeg and rum carry it well.",
+  "vegan_swaps": [
+    {
+      "from": "egg_yolk",
+      "to": "silken_tofu",
+      "ratio": 1.8,
+      "note": "about ½ cup, blended smooth"
+    }
+  ],
+  "vegan_notes": "Skip the tempering: blend the silken tofu with the erythritol and a little of the almond milk until completely smooth, then whisk it into the warmed milk, coconut cream and spices and heat only until steaming. It gives body but not the eggy custard flavour, and it is thinner than the cooked-yolk version; this is the least certain of the swaps.",
+  "vegan_alternative": {
+    "recipe": "almond-horchata",
+    "note": "A cold, sweet, cinnamon-spiced creamy drink, the nearest vegan drink in the book to a chilled eggnog."
+  },
   "tips": [
     "Erythritol can crystallise in the cold drink; allulose or a powdered sweetener stays dissolved."
   ],

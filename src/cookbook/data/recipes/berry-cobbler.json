@@ -104,6 +104,10 @@
     }
   ],
   "dairy_free_notes": "With coconut oil and coconut cream the topping is a touch more tender and tastes faintly of coconut; it browns about the same.",
+  "vegan_swaps": [
+    {"from": "egg", "to": "flax_egg", "ratio": 1.04, "note": "rested 10 minutes"}
+  ],
+  "vegan_notes": "With one flax egg the biscuit topping rises a little less and is more tender and crumbly; let the dough stand the full 3 minutes so the coconut flour firms it.",
   "tips": [
     "Blueberries carry the most sugar of the three berries, so they are kept to a handful for colour."
   ],

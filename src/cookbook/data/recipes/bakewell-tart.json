@@ -99,6 +99,21 @@
     }
   ],
   "dairy_free_notes": "Dairy-free butter makes a slightly denser frangipane with a softer crust; it tastes very close to the original.",
+  "vegan_swaps": [
+    {
+      "from": "egg_yolk",
+      "to": "flax_egg",
+      "ratio": 1.0,
+      "note": "about a third of a flax egg binds the pastry"
+    },
+    {
+      "from": "egg",
+      "to": "flax_egg",
+      "ratio": 1.04,
+      "note": "one flax egg per egg in the frangipane"
+    }
+  ],
+  "vegan_notes": "Rest the flax eggs 10 minutes before beating them in. Expect a flatter, moister frangipane that springs back less; the baking powder does most of the lifting, so bake until the centre is firm, not just golden.",
   "tips": [
     "Spread the jam thinly and keep it away from the very edge, or it bubbles up through the frangipane."
   ],

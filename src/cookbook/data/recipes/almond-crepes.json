@@ -56,6 +56,19 @@
     }
   ],
   "dairy_free_notes": "Dairy-free butter gives slightly paler crêpes but the texture is the same.",
+  "vegan_swaps": [
+    {
+      "from": "egg",
+      "to": "flax_egg",
+      "ratio": 1.04,
+      "note": "one flax egg per egg"
+    }
+  ],
+  "vegan_notes": "Four flax eggs bind but do not set the way egg does, so these crêpes are softer and tear more easily. Rest the batter the full 10 minutes, pour 4 tablespoons rather than 3 so they are a little thicker, and flip only once the edge is dry; untested, so expect a more fragile, nuttier crêpe.",
+  "vegan_alternative": {
+    "recipe": "coconut-flour-tortillas",
+    "note": "Thin, pliable psyllium wraps that are vegan as written and fold around fillings the same way, if the flax crêpes prove too fragile."
+  },
   "tips": [
     "Fill with whipped cream and a few berries, or with ham and spinach for a savoury version."
   ],

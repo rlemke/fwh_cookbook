@@ -54,6 +54,10 @@
     }
   ],
   "dairy_free_notes": "Dairy-free butter gives a slightly softer, less browned crust; chill it the full 30 minutes before baking so the sides do not slump.",
+  "vegan_swaps": [
+    {"from": "egg_yolk", "to": "flax_egg", "ratio": 1.0, "note": "about a third of a flax egg, rested 10 minutes"}
+  ],
+  "vegan_notes": "The flax binds the crumbs but adds no richness, so the shell is a little more crumbly and less golden; press it firmly and chill the full 30 minutes before baking.",
   "tips": [
     "Almond flour browns much faster than wheat pastry, so watch the last few minutes closely.",
     "The crust is fragile while warm and firms as it cools; do not unmould it hot."

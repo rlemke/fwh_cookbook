@@ -29,6 +29,10 @@
     {"from": "heavy_cream", "to": "coconut_cream", "note": "chill the can overnight and whip only the thick part"}
   ],
   "dairy_free_notes": "Whipped coconut cream holds less air than dairy cream, so the mousse is denser and the coconut flavour sits alongside the lime; the gelatin is what keeps it set.",
+  "vegan_swaps": [
+    {"from": "gelatin", "to": "agar", "ratio": 0.25, "note": "about 1/3 tsp agar powder"}
+  ],
+  "vegan_notes": "Whisk the agar into the cold water and boil it 1–2 minutes, adding a spoonful more water if it thickens too fast, then whisk it at once into the lime mixture and fold in the cream promptly: agar sets at room temperature. It sets firmer and less creamy than gelatin, and the lime juice's acid weakens the set a little, so expect something between a mousse and a soft jelly.",
   "tips": [
     "In the original, the acid in the lime juice thickens the condensed milk on its own; without condensed milk the gelatin does that job.",
     "Zest the limes before juicing them, and avoid the bitter white pith."

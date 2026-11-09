@@ -92,6 +92,10 @@
     }
   ],
   "dairy_free_notes": "Only the butter is dairy; olive oil or dairy-free butter works with no change in texture.",
+  "vegan_swaps": [
+    {"from": "egg", "to": "flax_egg", "ratio": 1.04, "note": "one flax egg per egg, rested 10 minutes"}
+  ],
+  "vegan_notes": "Flax eggs bind the almond flour well enough; the stuffing is a little looser and crumblier and browns about the same. This makes it egg-free, not vegan.",
   "tips": [
     "Bake it in a dish rather than inside the bird: it crisps better and you avoid an undercooked centre in a stuffed turkey."
   ],

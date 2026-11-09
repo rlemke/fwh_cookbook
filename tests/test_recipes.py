@@ -8,10 +8,13 @@ from cookbook.fmt import amount, line, minutes
 from cookbook.nutrition import build_table
 from cookbook.recipes import (
     conventional,
+    egg_status,
     grams,
     load_recipes,
     load_traditional,
     validate,
+    validate_book,
+    vegan_status,
     version,
 )
 from cookbook.site.build import REGIONS, build_site
@@ -206,3 +209,95 @@ def test_every_menu_names_real_recipes_and_totals_skip_alternatives(table):
             if not it.get("alt")
         )
         assert mv["totals"]["net_carbs_g"]["per"] == pytest.approx(want, abs=0.1)
+
+
+def _recipe(ingredients, **extra):
+    return {
+        "id": "t",
+        "title": "T",
+        "category": "cakes",
+        "summary": "s",
+        "servings": 1,
+        "steps": ["x"],
+        "origin": {
+            "family": "f",
+            "place": "p",
+            "region": "Oceania",
+            "lat": 0,
+            "lon": 0,
+            "era": "e",
+            "history": "h",
+        },
+        "ingredients": ingredients,
+        **extra,
+    }
+
+
+def test_egg_needs_an_egg_free_swap_or_a_vegan_alternative(table):
+    base = _recipe([{"item": "almond_flour", "g": 100}, {"item": "egg", "each": 2}])
+    assert any("no egg-free swap" in e for e in validate(base, table))
+    swapped = _recipe(
+        base["ingredients"], vegan_swaps=[{"from": "egg", "to": "flax_egg", "ratio": 1.04}]
+    )
+    assert validate(swapped, table) == []
+    assert (vegan_status(swapped, table), egg_status(swapped, table)) == (
+        "vegan option",
+        "egg-free option",
+    )
+    alt = _recipe(base["ingredients"], vegan_alternative={"recipe": "x", "note": "n"})
+    assert validate(alt, table) == []
+    assert (vegan_status(alt, table), egg_status(alt, table)) == ("", "alternative")
+    # A swap to another animal food is not vegan.
+    bad = _recipe(base["ingredients"], vegan_swaps=[{"from": "egg", "to": "gelatin"}])
+    assert any("is not vegan" in e for e in validate(bad, table))
+    # A swap may only replace what the recipe uses.
+    stray = _recipe(
+        base["ingredients"],
+        vegan_swaps=[{"from": "egg", "to": "flax_egg"}, {"from": "egg_yolk", "to": "silken_tofu"}],
+    )
+    assert any("does not use" in e for e in validate(stray, table))
+
+
+def test_vegan_version_applies_dairy_and_vegan_swaps_and_meat_stays_not_vegan(table):
+    r = _recipe(
+        [{"item": "butter", "g": 100}, {"item": "egg", "each": 1}, {"item": "gelatin", "g": 8}],
+        swaps=[{"from": "butter", "to": "vegan_butter"}],
+        vegan_swaps=[
+            {"from": "egg", "to": "flax_egg", "ratio": 1.04},
+            {"from": "gelatin", "to": "agar", "ratio": 0.25},
+        ],
+    )
+    assert validate(r, table) == []
+    want = table.facts("vegan_butter", 100) + table.facts("flax_egg", 52) + table.facts("agar", 2)
+    assert version(r, table, vegan=True).total.kcal == pytest.approx(want.kcal)
+    # The dairy-free version keeps the egg and the gelatin.
+    assert "egg" in version(r, table, dairy_free=True).contains
+    assert vegan_status(r, table) == "vegan option"
+    meat = _recipe(
+        [{"item": "ground_beef", "g": 400}, {"item": "egg", "each": 1}],
+        vegan_swaps=[{"from": "egg", "to": "flax_egg", "ratio": 1.04}],
+    )
+    assert validate(meat, table) == []
+    assert (vegan_status(meat, table), egg_status(meat, table)) == ("", "egg-free option")
+
+
+def test_made_up_ingredient_is_the_sum_of_its_parts(table):
+    want = (table.facts("flaxseed_meal", 7) + table.facts("water", 45)).scaled(100 / 52)
+    assert table.per100["flax_egg"].kcal == pytest.approx(want.kcal)
+    assert table.source["flax_egg"] == "made_of"
+
+
+def test_every_vegan_alternative_is_a_vegan_recipe(table):
+    recipes = load_recipes()
+    assert validate_book(recipes, table) == []
+    by_id = {r["id"]: r for r in recipes}
+    egg = [r for r in recipes if egg_status(r, table) != "egg-free"]
+    assert egg, "the book has recipes with eggs"
+    for r in egg:
+        alt = r.get("vegan_alternative")
+        assert r.get("vegan_swaps") or alt, r["id"]
+        if alt:
+            assert vegan_status(by_id[alt["recipe"]], table) in ("vegan", "vegan option"), r["id"]
+    # validate_book catches a non-vegan or missing target.
+    fake = _recipe([{"item": "egg", "each": 1}], vegan_alternative={"recipe": "nope", "note": "n"})
+    assert validate_book([fake], table)

@@ -59,6 +59,10 @@
     }
   ],
   "dairy_free_notes": "Coconut cream makes an equally dense custard; the chocolate covers most of the coconut flavour.",
+  "vegan_alternative": {
+    "recipe": "chocolate-mousse",
+    "note": "The yolks are what set these baked pots. The chocolate mousse made with silken tofu and aquafaba is the closest vegan dish: rich chocolate, chilled in small pots."
+  },
   "tips": [
     "Unsweetened chocolate keeps the carbs low; taste the warm chocolate cream and add a few drops of stevia if you like it sweeter."
   ],

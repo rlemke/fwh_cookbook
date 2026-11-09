@@ -54,6 +54,11 @@
     }
   ],
   "dairy_free_notes": "A coconut base churns well and scoops easily but tastes of coconut and freezes a little harder; let it stand 10 minutes before scooping.",
+  "vegan_swaps": [
+    {"from": "egg_yolk", "to": "silken_tofu", "ratio": 1.8, "note": "about 2/3 cup, blended smooth"}
+  ],
+  "vegan_notes": "Blend the silken tofu with the allulose, salt and hot coconut until completely smooth instead of cooking a custard to 80 °C, then chill and churn. Expect a slightly firmer, less rich ice cream with a faint soy note under the vanilla and coconut.",
+  "vegan_alternative": {"recipe": "coconut-kulfi", "note": "A dense, egg-free coconut frozen dessert for anyone who would rather not use tofu."},
   "tips": [
     "Allulose lowers the freezing point much as sugar does; erythritol freezes rock hard and recrystallises, so do not substitute it here."
   ],

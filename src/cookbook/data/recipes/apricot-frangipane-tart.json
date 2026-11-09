@@ -38,6 +38,11 @@
     {"from": "butter", "to": "vegan_butter"}
   ],
   "dairy_free_notes": "Use a firm stick-style dairy-free butter; a soft tub spread makes the crust crumbly and the frangipane greasy.",
+  "vegan_swaps": [
+    {"from": "egg_yolk", "to": "flax_egg", "ratio": 1.0, "note": "about a third of a flax egg binds the crust"},
+    {"from": "egg", "to": "flax_egg", "ratio": 1.04, "note": "one flax egg per egg in the frangipane"}
+  ],
+  "vegan_notes": "Rest the flax eggs 10 minutes and beat them into the creamed butter as you would the eggs. The frangipane will be denser and less puffed, with faint flax specks, and needs the full baking time to firm; this has not been tested.",
   "tips": [
     "Choose ripe but firm apricots — very soft ones collapse and release juice into the cream.",
     "Twelve thin slices keep the fruit per serving small; the apricots are the main source of net carbs."

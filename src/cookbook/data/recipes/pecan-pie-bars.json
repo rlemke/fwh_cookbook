@@ -76,6 +76,19 @@
     }
   ],
   "dairy_free_notes": "With dairy-free butter the filling sets a little softer and tastes less like toffee; a pinch more salt helps.",
+  "vegan_swaps": [
+    {
+      "from": "egg",
+      "to": "flax_egg",
+      "ratio": 1.04,
+      "note": "2 flax eggs"
+    }
+  ],
+  "vegan_notes": "Rest the flax eggs 10 minutes, then whisk them hard with the allulose and melted dairy-free butter. Without eggs the filling sets softer and stickier, more like a caramel than a custard, so bake to the longer time and chill well before cutting; we are less sure of this one.",
+  "vegan_alternative": {
+    "recipe": "magic-bars",
+    "note": "A gooey, nutty, caramel-like bar on a pressed base, the nearest vegan bar in the book to pecan pie."
+  },
   "tips": [
     "Allulose is essential here: it gives the syrupy texture of a corn-syrup filling."
   ],

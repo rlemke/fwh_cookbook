@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{% from "macros.html" import dairy_badge %}
+{% from "macros.html" import dairy_badge, vegan_badge %}
 {% block head %}
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" crossorigin="">
 {% endblock %}
@@ -31,10 +31,11 @@
   <div><b>{{ stats.desserts }}</b>desserts</div>
   <div><b>{{ stats.dairy_free }}</b>dairy-free as written</div>
   <div><b>{{ stats.dairy_option }}</b>with a dairy-free version</div>
+  <div><b>{{ stats.vegan + stats.vegan_option }}</b>vegan or with a vegan version</div>
   <div><b>{{ stats.median_net_dessert }} g</b>median net carbs, desserts</div>
   <div><b>{{ stats.places }}</b>places of origin</div>
 </div>
-<p class="note">Every recipe is built on established low-carb baking ratios, and its nutrition is <a href="about.html#nutrition">computed from USDA data</a>, not estimated. None of these recipes has been kitchen-tested, so treat them as a careful starting point, especially the dairy-free versions.</p>
+<p class="note">Every recipe is built on established low-carb baking ratios, and its nutrition is <a href="about.html#nutrition">computed from USDA data</a>, not estimated. None of these recipes has been kitchen-tested, so treat them as a careful starting point, especially the dairy-free and vegan versions. Of the {{ stats.egg_recipes }} recipes with eggs, {{ stats.egg_swapped }} have an egg-free version and {{ stats.egg_alternative }}, where the eggs are the point of the dish, point to a similar vegan recipe (<a href="about.html#vegan">how</a>).</p>
 
 <h2 id="menus">Dinner menus</h2>
 <p>Complete low-carb layouts for a gathering, with a full plate's nutrition and a plan for the day: {% for m in menus %}<a href="menus/{{ m.id }}.html">{{ m.title }}</a>{{ ', ' if not loop.last else '.' }}{% endfor %}</p>
@@ -52,7 +53,8 @@
   <label>Net carbs <select id="net"><option value="">Any</option><option value="3">≤ 3 g</option><option value="5">≤ 5 g</option><option value="8">≤ 8 g</option></select></label>
   <label><input type="checkbox" id="df"> Dairy-free as written</label>
   <label><input type="checkbox" id="nf"> Nut-free</label>
-  <label><input type="checkbox" id="ef"> Egg-free</label>
+  <label><input type="checkbox" id="vg"> Vegan (or vegan version)</label>
+  <label><input type="checkbox" id="ef"> Egg-free (or egg-free version)</label>
   <label><input type="checkbox" id="cf"> Coconut-free</label>
   <span id="count"></span>
 </div>
@@ -61,7 +63,7 @@
   <a class="card" href="recipes/{{ v.id }}.html" data-id="{{ v.id }}">
     <h3>{{ v.title }}</h3>
     <div class="meta">{{ c.name }} · {{ v.origin.place }}</div>
-    <div class="meta">{{ dairy_badge(v) }} <span class="badge net">{{ v.per.net_carbs_g }} g net</span> {{ v.per.kcal }} kcal</div>
+    <div class="meta">{{ dairy_badge(v) }} {{ vegan_badge(v) }} <span class="badge net">{{ v.per.net_carbs_g }} g net</span> {{ v.per.kcal }} kcal</div>
   </a>
 {% endfor %}{% endfor %}
 </div>
@@ -83,7 +85,7 @@
   var region = '';
   var els = {}; document.querySelectorAll('#grid .card').forEach(function (a) { els[a.dataset.id] = a; });
   var f = { q: document.getElementById('q'), cat: document.getElementById('cat'), net: document.getElementById('net'),
-            df: document.getElementById('df'), nf: document.getElementById('nf'), ef: document.getElementById('ef'), cf: document.getElementById('cf') };
+            df: document.getElementById('df'), vg: document.getElementById('vg'), nf: document.getElementById('nf'), ef: document.getElementById('ef'), cf: document.getElementById('cf') };
   function keep(c) {
     var q = f.q.value.trim().toLowerCase();
     if (q && (c.t + ' ' + c.f + ' ' + c.p + ' ' + c.r).toLowerCase().indexOf(q) < 0) return false;
@@ -91,7 +93,8 @@
     if (f.net.value && Math.min(c.n, c.nd) > parseFloat(f.net.value)) return false;
     if (f.df.checked && !c.d) return false;
     if (f.nf.checked && (c.x.indexOf('tree nuts') >= 0 || c.x.indexOf('peanuts') >= 0)) return false;
-    if (f.ef.checked && c.x.indexOf('eggs') >= 0) return false;
+    if (f.vg.checked && !c.v) return false;
+    if (f.ef.checked && !c.e) return false;
     if (f.cf.checked && c.x.indexOf('coconut') >= 0) return false;
     if (region && c.r !== region) return false;
     return true;

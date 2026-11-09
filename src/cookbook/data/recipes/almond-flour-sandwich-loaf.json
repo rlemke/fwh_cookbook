@@ -62,6 +62,21 @@
     "Cool completely in the pan, at least 1 hour, before slicing; cut warm, the crumb is gummy."
   ],
   "swaps": [],
+  "vegan_swaps": [
+    {
+      "from": "egg_white",
+      "to": "aquafaba",
+      "ratio": 0.91,
+      "note": "2 tbsp aquafaba per egg white"
+    },
+    {
+      "from": "egg",
+      "to": "flax_egg",
+      "ratio": 1.04,
+      "note": "one flax egg per egg"
+    }
+  ],
+  "vegan_notes": "Psyllium does most of the structural work, so the loaf should still hold together, but without the egg whites it rises less and the crumb is denser and moister. Whisk the aquafaba until foamy before adding it, and bake toward the long end of the time.",
   "tips": [
     "Psyllium gives this dough a bread-like chew; brands differ, and some darken the crumb purple-grey — it is harmless.",
     "Slice the whole loaf and freeze it; toast slices straight from frozen."

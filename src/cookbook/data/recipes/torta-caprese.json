@@ -71,6 +71,11 @@
     }
   ],
   "dairy_free_notes": "With coconut oil the cake is a touch firmer and more truffle-like once cold; serve it at room temperature.",
+  "vegan_swaps": [
+    {"from": "egg", "to": "aquafaba", "ratio": 0.9, "note": "3 tbsp per egg"}
+  ],
+  "vegan_notes": "There are no yolks to beat, so stir half the erythritol into the warm chocolate, then whip the aquafaba with the other half to firm peaks and fold it in. It will sink more and be fudgier, closer to a flourless truffle cake; uncertain and untested.",
+  "vegan_alternative": {"recipe": "chocolate-cheesecake", "note": "If the aquafaba version is too fragile, the vegan chocolate cheesecake is the most reliable rich chocolate dessert in the book."},
   "tips": [
     "Grinding toasted almonds yourself gives the authentic coarse texture; almond flour also works but makes a finer, softer cake."
   ],

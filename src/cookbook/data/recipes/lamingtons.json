@@ -96,6 +96,10 @@
     }
   ],
   "dairy_free_notes": "Dairy-free butter works in both the sponge and the coating with little difference; the coating is slightly thinner, so you may want a second quick dip.",
+  "vegan_swaps": [
+    {"from": "egg", "to": "aquafaba", "ratio": 0.9, "note": "3 tbsp per egg"}
+  ],
+  "vegan_notes": "Whisk the aquafaba until foamy and beat it into the creamed butter a little at a time. The sponge will be denser and more fragile than with eggs, so freezing it before dipping matters even more; untested.",
   "tips": [
     "Work quickly when dipping: almond sponge soaks up the coating and can fall apart if it sits in it."
   ],

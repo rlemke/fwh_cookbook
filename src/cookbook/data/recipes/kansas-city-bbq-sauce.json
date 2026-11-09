@@ -87,6 +87,10 @@
     "Cool and refrigerate in a clean jar for up to 2 weeks."
   ],
   "swaps": [],
+  "vegan_swaps": [
+    {"from": "worcestershire", "to": "vegan_worcestershire", "ratio": 1}
+  ],
+  "vegan_notes": "Vegan Worcestershire has no anchovy and is a little sweeter and less savoury; the difference is small in a sauce this bold.",
   "tips": [
     "The 2 tsp of molasses is there only for flavour (it is sugar, about 10 g of carbs in the whole batch); leave it out and the sauce is about 0.5 g lower per serving.",
     "Worcestershire contains anchovy (fish allergen); use 1 tbsp tamari instead if needed.",

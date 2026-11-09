@@ -128,6 +128,7 @@
     }
   ],
   "dairy_free_notes": "Whipped coconut cream holds well with the gelatin but is softer than dairy cream and tastes of coconut; keep the cake cold and serve it straight from the fridge.",
+  "vegan_alternative": {"recipe": "torta-caprese", "note": "The six-egg sponge depends on whipped eggs, and the cream on gelatin. The closest vegan dish is the vegan torta caprese, a chocolate-almond cake; serve it with coconut whipped cream and the kirsch cherries from this recipe."},
   "origin": {
     "family": "Layer cake",
     "place": "Black Forest",

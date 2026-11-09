@@ -98,6 +98,15 @@
     }
   ],
   "dairy_free_notes": "With dairy-free butter the filling is slightly softer and tastes more of chocolate than of butter; keep it cold until serving.",
+  "vegan_swaps": [
+    {
+      "from": "egg",
+      "to": "silken_tofu",
+      "ratio": 1.26,
+      "note": "about 1/4 cup silken tofu per egg, blended smooth"
+    }
+  ],
+  "vegan_notes": "Blend the tofu until completely smooth and beat it into the chocolate butter a spoonful at a time instead of the eggs. The filling is denser and more like a chocolate ganache than the airy silk, and it needs a full chill to slice; untested.",
   "tips": [
     "The eggs are not cooked, so use pasteurized eggs.",
     "If the filling looks curdled, the chocolate was too warm or the butter too cold; keep beating and it usually comes together."

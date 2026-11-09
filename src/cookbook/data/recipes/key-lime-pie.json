@@ -76,6 +76,19 @@
     "Cool for 30 minutes, then refrigerate at least 4 hours before slicing."
   ],
   "swaps": [],
+  "vegan_swaps": [
+    {
+      "from": "egg_yolk",
+      "to": "silken_tofu",
+      "ratio": 1.8,
+      "note": "about 2 tbsp silken tofu per yolk"
+    }
+  ],
+  "vegan_notes": "Blend the tofu smooth with the condensed coconut before adding the lime juice, and bake until the surface is set. The filling depends on the yolks reacting with the acid, so the tofu version will be softer and less glossy and may need a longer chill; this is a plausible but uncertain swap.",
+  "vegan_alternative": {
+    "recipe": "lemon-posset",
+    "note": "If the tofu filling does not set to your liking, the vegan lemon posset gives the same sharp citrus cream with no egg at all."
+  },
   "tips": [
     "Do not boil the coconut cream hard; a gentle simmer keeps it from splitting into oil.",
     "Persian limes are fine; the filling will just be a touch less floral than with Key limes."

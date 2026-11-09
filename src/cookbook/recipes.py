@@ -8,6 +8,12 @@ weights — a cup of almond flour is not a cup of water.
 Every recipe must be dairy-free as written or carry a swap for each dairy
 ingredient; the dairy-free version's nutrition is computed from the swaps,
 not assumed equal.
+
+Every recipe with egg must either carry an egg-free swap for each egg
+ingredient (``vegan_swaps``) or name a similar recipe that is vegan
+(``vegan_alternative``), for dishes where the egg is the point. The vegan
+version is the dairy-free swaps plus ``vegan_swaps``, which may also replace
+gelatin, stock and fish sauces; a dish with meat stays egg-free, not vegan.
 """
 
 from __future__ import annotations
@@ -59,6 +65,10 @@ ALLERGENS = {
     "fish": "fish",
     "shellfish": "shellfish",
 }
+# Contained groups that rule out vegan; meat, gelatin and the like carry
+# ``"animal": true`` in the ingredient vocabulary instead.
+NON_VEGAN = {"dairy", "egg", "fish", "shellfish"}
+VEGAN_STATUSES = ("vegan", "vegan option")
 REQUIRED = ("id", "title", "category", "summary", "servings", "ingredients", "steps", "origin")
 ORIGIN_REQUIRED = ("family", "place", "region", "lat", "lon", "era", "history")
 
@@ -104,6 +114,15 @@ def lines(recipe: dict) -> list[dict]:
     return [ln for ln in recipe["ingredients"] if "item" in ln]
 
 
+def is_animal(entry: dict) -> bool:
+    """Not vegan: meat, fish, gelatin, stock, or anything containing dairy or egg."""
+    return bool(entry.get("animal")) or bool(set(entry["contains"]) & NON_VEGAN)
+
+
+def is_egg(entry: dict) -> bool:
+    return "egg" in entry["contains"]
+
+
 def validate(recipe: dict, table: Table) -> list[str]:
     """Everything wrong with a recipe, as readable messages (empty = valid)."""
     errs = []
@@ -137,6 +156,38 @@ def validate(recipe: dict, table: Table) -> list[str]:
                 errs.append(f"{rid}: swap {side} unknown ingredient {s.get(side)}")
             elif ing[s[side]].get("conventional"):
                 errs.append(f"{rid}: swap {side} {s[side]} is not a low-carb ingredient")
+    items = {ln["item"] for ln in lines(recipe)}
+    for s in recipe.get("vegan_swaps", []):
+        frm, to = s.get("from"), s.get("to")
+        if frm not in items:
+            errs.append(f"{rid}: vegan swap from {frm}, which the recipe does not use")
+        if to not in ing:
+            errs.append(f"{rid}: vegan swap to unknown ingredient {to}")
+        elif ing[to].get("conventional"):
+            errs.append(f"{rid}: vegan swap to {to} is not a low-carb ingredient")
+        elif is_animal(ing[to]):
+            errs.append(f"{rid}: vegan swap to {to} is not vegan")
+        if frm in {d.get("from") for d in recipe.get("swaps", [])}:
+            errs.append(f"{rid}: {frm} has both a dairy-free and a vegan swap")
+    alt = recipe.get("vegan_alternative")
+    if alt is not None and (
+        not isinstance(alt, dict) or not alt.get("recipe") or not alt.get("note")
+    ):
+        errs.append(f"{rid}: vegan_alternative needs a recipe id and a note")
+    if not errs:
+        unswapped = sorted(
+            i
+            for i in items
+            if is_egg(ing[i]) and i not in {s["from"] for s in recipe.get("vegan_swaps", [])}
+        )
+        if unswapped and alt is None:
+            errs.append(
+                f"{rid}: egg ingredient(s) {', '.join(unswapped)} have no egg-free swap "
+                "and the recipe names no vegan alternative"
+            )
+        for s in recipe.get("swaps", []):
+            if is_animal(ing[s["to"]]) and "dairy" not in ing[s["to"]]["contains"]:
+                errs.append(f"{rid}: dairy-free swap to {s['to']} is not vegan")
     if not errs:
         dairy = {ln["item"] for ln in lines(recipe) if "dairy" in ing[ln["item"]]["contains"]}
         swapped = {s["from"] for s in recipe.get("swaps", [])}
@@ -157,9 +208,12 @@ class Version:
     contains: list[str]
 
 
-def version(recipe: dict, table: Table, dairy_free: bool = False) -> Version:
+def version(recipe: dict, table: Table, dairy_free: bool = False, vegan: bool = False) -> Version:
+    """As written, dairy-free (the dairy swaps), or vegan (those plus ``vegan_swaps``)."""
     ing = table.ingredients
-    swaps = {s["from"]: s for s in recipe.get("swaps", [])} if dairy_free else {}
+    swaps = {s["from"]: s for s in recipe.get("swaps", [])} if dairy_free or vegan else {}
+    if vegan:
+        swaps |= {s["from"]: s for s in recipe.get("vegan_swaps", [])}
     total = Facts()
     contains: set[str] = set()
     for ln in lines(recipe):
@@ -220,3 +274,42 @@ def dairy_status(recipe: dict, table: Table) -> str:
     ing = table.ingredients
     has = any("dairy" in ing[ln["item"]]["contains"] for ln in lines(recipe))
     return "dairy-free option" if has else "dairy-free"
+
+
+def vegan_status(recipe: dict, table: Table) -> str:
+    """'vegan' as written, 'vegan option' through its swaps, else ''."""
+    ing = table.ingredients
+    animal = {ln["item"] for ln in lines(recipe) if is_animal(ing[ln["item"]])}
+    if not animal:
+        return "vegan"
+    covered = {s["from"] for s in recipe.get("swaps", [])}
+    covered |= {s["from"] for s in recipe.get("vegan_swaps", [])}
+    return "vegan option" if animal <= covered else ""
+
+
+def egg_status(recipe: dict, table: Table) -> str:
+    """'egg-free' as written, 'egg-free option' through its swaps, else
+    'alternative' (it names a similar vegan recipe instead)."""
+    ing = table.ingredients
+    eggs = {ln["item"] for ln in lines(recipe) if is_egg(ing[ln["item"]])}
+    if not eggs:
+        return "egg-free"
+    if eggs <= {s["from"] for s in recipe.get("vegan_swaps", [])}:
+        return "egg-free option"
+    return "alternative"
+
+
+def validate_book(recipes: list[dict], table: Table) -> list[str]:
+    """Checks across recipes: every vegan alternative is a real, vegan recipe."""
+    by_id = {r["id"]: r for r in recipes}
+    errs = []
+    for r in recipes:
+        alt = r.get("vegan_alternative")
+        if not alt:
+            continue
+        other = by_id.get(alt["recipe"])
+        if other is None or other["id"] == r["id"]:
+            errs.append(f"{r['id']}: vegan alternative {alt['recipe']} is not another recipe")
+        elif vegan_status(other, table) not in VEGAN_STATUSES:
+            errs.append(f"{r['id']}: vegan alternative {alt['recipe']} is not vegan")
+    return errs

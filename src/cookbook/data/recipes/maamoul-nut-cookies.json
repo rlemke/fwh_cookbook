@@ -108,6 +108,15 @@
     }
   ],
   "dairy_free_notes": "Coconut oil makes a slightly crisper, more crumbly shell; keep the dough covered so it doesn't dry out while you fill the cookies.",
+  "vegan_swaps": [
+    {
+      "from": "egg_white",
+      "to": "aquafaba",
+      "ratio": 0.91,
+      "note": "2 tablespoons per egg white"
+    }
+  ],
+  "vegan_notes": "Use the aquafaba unwhipped, straight from the can, in place of the egg white. The dough is a little stickier and the shells slightly more crumbly; rest it the full 30 minutes and keep it covered.",
   "tips": [
     "If the dough cracks as you close it, patch it with a pinch from the next ball; almond dough has no gluten to stretch.",
     "Traditional ma'amoul also come with date filling, left out here for the carbs."

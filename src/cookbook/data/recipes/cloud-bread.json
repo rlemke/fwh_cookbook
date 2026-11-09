@@ -49,6 +49,10 @@
     }
   ],
   "dairy_free_notes": "Dairy-free cream cheese makes a looser yolk mixture, so the rounds spread more and bake flatter; fold very gently and bake a few minutes longer.",
+  "vegan_alternative": {
+    "recipe": "naan-style-flatbread",
+    "note": "Cloud bread is whipped egg held together by a little cheese, and no swap rebuilds it. The naan-style flatbread is the closest soft, sandwich-ready bread in the book, and is vegan with its coconut-yogurt and dairy-free-butter swaps."
+  },
   "tips": [
     "Store in a bag with the rounds separated by parchment; they turn soft and bread-like overnight."
   ],

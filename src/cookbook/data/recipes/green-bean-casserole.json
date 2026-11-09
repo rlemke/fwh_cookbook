@@ -102,6 +102,10 @@
     }
   ],
   "dairy_free_notes": "With coconut milk the sauce is slightly thinner and a touch sweet, and the topping crisps but browns less without parmesan; add a pinch more salt to both.",
+  "vegan_swaps": [
+    {"from": "chicken_stock", "to": "vegetable_broth", "ratio": 1}
+  ],
+  "vegan_notes": "Vegetable broth makes a lighter, slightly sweeter mushroom sauce; with the dairy-free swaps the whole dish is vegan, and an extra pinch of salt helps.",
   "tips": [
     "Xanthan gum clumps if it lands in one spot: shake it from a fine sieve while whisking.",
     "Assemble up to a day ahead and add the topping just before baking."

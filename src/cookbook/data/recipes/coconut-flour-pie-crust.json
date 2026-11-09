@@ -55,6 +55,10 @@
     }
   ],
   "dairy_free_notes": "Coconut oil makes a firmer, crisper shell when cold and a slightly greasier one when warm; it also deepens the coconut flavour.",
+  "vegan_swaps": [
+    {"from": "egg", "to": "flax_egg", "ratio": 1.04, "note": "one flax egg per egg, rested 10 minutes"}
+  ],
+  "vegan_notes": "Coconut flour leans hard on egg, so the flax shell is more crumbly and fragile; let the dough stand the full 10 minutes, press it firmly with wet fingers, and cool it completely in the dish before filling.",
   "tips": [
     "Do not add more coconut flour if the dough looks wet at first; give it the full 10 minutes to thicken.",
     "Check the label of any dairy-free butter if you need the crust truly nut-free: many are made with cashew or almond."

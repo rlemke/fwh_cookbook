@@ -99,6 +99,10 @@
     "Rest 10 minutes before slicing."
   ],
   "swaps": [],
+  "vegan_swaps": [
+    {"from": "egg", "to": "flax_egg", "ratio": 1.04, "note": "one flax egg per egg, rested 10 minutes"}
+  ],
+  "vegan_notes": "Two flax eggs bind the loaf well enough with the almond flour; it may be slightly more crumbly when sliced hot, so rest it the full 10 minutes. This makes it egg-free, not vegan.",
   "tips": [
     "Worcestershire sauce contains anchovy; use tamari for a fish-free loaf.",
     "Baking on a rack lets the fat drain and the bacon crisp; in a loaf pan it stews."

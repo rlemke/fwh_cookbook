@@ -71,6 +71,15 @@
     }
   ],
   "dairy_free_notes": "Dairy-free butter gives a slightly softer, flatter cookie with less of a browned-butter flavour; chill the dough the full 30 minutes.",
+  "vegan_swaps": [
+    {
+      "from": "egg",
+      "to": "flax_egg",
+      "ratio": 1.04,
+      "note": "one flax egg per egg"
+    }
+  ],
+  "vegan_notes": "Rest the flax egg 10 minutes before beating it in. With flax and dairy-free butter the cookie is a little flatter and more tender, with a faint nutty note; chill the dough the full 30 minutes and use dairy-free chips.",
   "tips": [
     "A pinch more salt on top just out of the oven sharpens the chocolate.",
     "Allulose browns quickly; check the first tray at 9 minutes."

@@ -94,6 +94,15 @@
     }
   ],
   "dairy_free_notes": "Coconut cream sets the filling just as firmly; a faint coconut note sits under the spices.",
+  "vegan_swaps": [
+    {
+      "from": "egg",
+      "to": "silken_tofu",
+      "ratio": 1.26,
+      "note": "about 1/4 cup silken tofu per egg"
+    }
+  ],
+  "vegan_notes": "Blend the tofu with the pumpkin until completely smooth. Silken tofu pumpkin pie is a well-known vegan version; it sets a little softer and less glossy, so bake until only the very centre wobbles and chill it overnight.",
   "tips": [
     "Blot very wet pumpkin purée with paper towel first, or the filling may weep.",
     "A crack in the centre means it baked too long; take it out while the middle still wobbles."

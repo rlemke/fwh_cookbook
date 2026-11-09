@@ -43,6 +43,15 @@
     "Turn out and knead briefly until smooth. If it is sticky, knead in a little more almond flour; if crumbly, a few drops of water.",
     "Wrap and chill 1 hour, then shape into small balls, fruits or logs. Store airtight in the fridge."
   ],
+  "vegan_swaps": [
+    {
+      "from": "egg_white",
+      "to": "aquafaba",
+      "ratio": 0.91,
+      "note": "2 tablespoons per egg white"
+    }
+  ],
+  "vegan_notes": "Use the aquafaba unwhipped; it comes from cooked chickpeas, so it needs no pasteurising. Add it a teaspoon at a time and stop as soon as the paste gathers, since too much makes it sticky; it may taste very faintly of chickpea under the almond.",
   "tips": [
     "Use a pasteurised egg white, since the marzipan is not cooked.",
     "Commercial marzipan is half sugar, which holds its shape; this version is softer, so keep shapes small and chill them."

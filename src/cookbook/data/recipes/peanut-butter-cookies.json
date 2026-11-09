@@ -44,6 +44,15 @@
     "Roll into 16 balls and set 5 cm (2 in) apart. Press each flat with a fork, then press again at right angles to make a crosshatch.",
     "Bake 10–12 minutes, until the edges are just golden. The cookies are very soft when hot: leave them on the sheet for 15 minutes before moving."
   ],
+  "vegan_swaps": [
+    {
+      "from": "egg",
+      "to": "flax_egg",
+      "ratio": 1.04,
+      "note": "one flax egg per egg"
+    }
+  ],
+  "vegan_notes": "Rest the flax egg 10 minutes before stirring it in. The dough holds well, since the peanut butter does most of the binding; the cookies are a little more crumbly, so leave them the full 15 minutes on the sheet.",
   "tips": [
     "Use a no-stir-style peanut butter with only peanuts and salt; a very oily natural one makes the cookies spread.",
     "Dip the fork in erythritol between cookies so it doesn't stick."

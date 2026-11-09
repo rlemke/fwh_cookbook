@@ -18,8 +18,11 @@ from cookbook.nutrition import build_table  # noqa: E402
 from cookbook.recipes import (  # noqa: E402
     DESSERT_CATEGORIES,
     dairy_status,
+    egg_status,
     load_recipes,
     validate,
+    validate_book,
+    vegan_status,
     version,
 )
 
@@ -39,15 +42,23 @@ def main() -> int:
             print("INVALID", *errs, sep="\n  ")
             continue
         v, df = version(r, table), version(r, table, dairy_free=True)
-        p, q = v.per_serving, df.per_serving
+        vg = version(r, table, vegan=True)
+        p, q, w = v.per_serving, df.per_serving, vg.per_serving
         limit = {"sauces": (3, 4), "mains": (10, 12), "sides": (10, 12)}.get(
             r["category"], (8, 10) if r["category"] in DESSERT_CATEGORIES else None
         )
-        flag = "  HIGH" if limit and (p.net_carbs_g > limit[0] or q.net_carbs_g > limit[1]) else ""
+        high = limit and max(q.net_carbs_g, w.net_carbs_g) > limit[1]
+        flag = "  HIGH" if limit and (p.net_carbs_g > limit[0] or high) else ""
+        vs = vegan_status(r, table)
         print(
-            f"{r['id']:<40} net {p.net_carbs_g:4.1f} g (dairy-free {q.net_carbs_g:4.1f}) "
-            f"{round(p.kcal):4d} kcal  polyol {p.polyol_g:4.1f}  [{dairy_status(r, table)}]{flag}"
+            f"{r['id']:<40} net {p.net_carbs_g:4.1f} g (dairy-free {q.net_carbs_g:4.1f}, "
+            f"vegan {w.net_carbs_g:4.1f}) {round(p.kcal):4d} kcal  polyol {p.polyol_g:4.1f}  "
+            f"[{dairy_status(r, table)}; {vs or 'not vegan'}; {egg_status(r, table)}]{flag}"
         )
+    if not a.files:
+        for e in validate_book(recs, table):
+            bad += 1
+            print("INVALID", e)
     print(f"{len(recs)} recipes, {bad} invalid", file=sys.stderr)
     return 1 if bad else 0
 

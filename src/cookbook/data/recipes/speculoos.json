@@ -82,6 +82,15 @@
     }
   ],
   "dairy_free_notes": "Dairy-free butter gives a softer dough; keep it cold and work quickly when rolling and cutting.",
+  "vegan_swaps": [
+    {
+      "from": "egg",
+      "to": "flax_egg",
+      "ratio": 1.04,
+      "note": "one flax egg per egg"
+    }
+  ],
+  "vegan_notes": "Rest the flax egg 10 minutes before beating it in. The dough is a little softer and more crumbly, so keep it cold and work quickly; the biscuits crisp as well once fully cooled.",
   "tips": [
     "If the dough cracks while rolling, let it sit for 5 minutes at room temperature."
   ],

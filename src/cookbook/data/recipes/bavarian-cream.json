@@ -67,6 +67,10 @@
     }
   ],
   "dairy_free_notes": "With almond milk and coconut cream the set is just as firm, since the gelatin does the work, but the flavour leans towards coconut and the texture is slightly denser.",
+  "vegan_alternative": {
+    "recipe": "panna-cotta",
+    "note": "The yolks enrich the custard and the gelatin's soft, melting set is the point of a bavarois; agar cannot be folded with whipped cream the same way. The vegan panna cotta is the closest: a vanilla cream set in a mould and turned out."
+  },
   "tips": [
     "Fold in the cream at the moment the custard starts to set: too early and it separates into layers, too late and it sets in lumps.",
     "Serve with a few raspberries crushed with a pinch of sweetener."

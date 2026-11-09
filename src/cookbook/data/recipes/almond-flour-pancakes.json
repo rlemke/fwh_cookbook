@@ -59,6 +59,15 @@
     }
   ],
   "dairy_free_notes": "Dairy-free butter works the same here; use a neutral oil for greasing the pan if your spread spits.",
+  "vegan_swaps": [
+    {
+      "from": "egg",
+      "to": "flax_egg",
+      "ratio": 1.04,
+      "note": "one flax egg per egg"
+    }
+  ],
+  "vegan_notes": "Mix the flax eggs and let them rest 10 minutes before whisking them with the other wet ingredients. Expect flatter, denser pancakes that are more fragile and brown sooner; keep them small and cook over low heat a minute longer per side.",
   "tips": [
     "If they brown before the middle sets, turn the heat down — almond flour scorches sooner than wheat.",
     "A few raspberries or blueberries pressed into each pancake before flipping add little carb."

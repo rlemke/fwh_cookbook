@@ -62,6 +62,7 @@
     }
   ],
   "dairy_free_notes": "Whipped coconut cream gives a firmer, slightly icier semifreddo; take it out of the freezer 10–15 minutes before slicing.",
+  "vegan_alternative": {"recipe": "coconut-kulfi", "note": "Semifreddo is built on a cooked yolk foam; kulfi is the closest no-churn, nut-topped frozen slice in the book and needs no egg."},
   "origin": {
     "family": "Semifreddo",
     "place": "Italy",

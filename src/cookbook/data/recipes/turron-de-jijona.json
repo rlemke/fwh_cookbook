@@ -48,6 +48,15 @@
     "With the processor running, add the egg white, then pour in the hot syrup, then the zest, cinnamon and salt. Process until evenly combined.",
     "Line a 20 x 10 cm (8 x 4 in) loaf tin with parchment, press the paste in firmly and level it. Cover and leave at room temperature for 12 hours to firm, then slice."
   ],
+  "vegan_swaps": [
+    {
+      "from": "egg_white",
+      "to": "aquafaba",
+      "ratio": 0.91,
+      "note": "2 tablespoons per egg white"
+    }
+  ],
+  "vegan_notes": "Add the aquafaba unwhipped where the egg white goes in. It binds the paste less firmly, so the turrón may be softer and more crumbly; press it hard into the tin and give it the full 12 hours to firm.",
   "tips": [
     "Toast the almonds well: their roasted flavour is the whole character of turrón de Jijona."
   ],

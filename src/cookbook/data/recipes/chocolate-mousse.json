@@ -65,6 +65,21 @@
     "Stir a quarter of the whites into the chocolate to lighten it, then fold in the rest in two additions with a large spatula, stopping as soon as no white streaks remain.",
     "Spoon into six small glasses and refrigerate at least 4 hours, until set."
   ],
+  "vegan_swaps": [
+    {
+      "from": "egg_white",
+      "to": "aquafaba",
+      "ratio": 0.91,
+      "note": "2 tbsp aquafaba per white"
+    },
+    {
+      "from": "egg_yolk",
+      "to": "silken_tofu",
+      "ratio": 1.8,
+      "note": "about 2 tbsp silken tofu per yolk, blended smooth"
+    }
+  ],
+  "vegan_notes": "Blend the silken tofu into the warm chocolate until glossy in place of the yolks, then whip the aquafaba with the cream of tartar to stiff peaks (it takes longer than egg white, 6–10 minutes) before adding the erythritol. The mousse is softer and can weep a little liquid after a day; serve it within 24 hours.",
   "tips": [
     "The eggs are not cooked; use very fresh eggs, or pasteurised eggs if serving anyone vulnerable.",
     "The chocolate must be warm but not hot when the yolks go in, or they will scramble; just warm to the lip is right."

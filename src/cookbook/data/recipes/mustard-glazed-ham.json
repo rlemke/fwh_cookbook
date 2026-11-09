@@ -67,6 +67,10 @@
     "Rest 20 minutes, then slice. Serve warm, or chill and slice thin for the cold table."
   ],
   "swaps": [],
+  "vegan_swaps": [
+    {"from": "egg_yolk", "to": "almond_milk", "ratio": 1.0, "note": "about 1 tbsp"}
+  ],
+  "vegan_notes": "Without the yolk the glaze is thinner, browns less and holds the almond crumbs less firmly; brush it on in two coats. This makes the ham egg-free, not vegan.",
   "tips": [
     "A ham labelled 'cook before eating' instead of 'fully cooked' must reach 63 °C (145 °F) and rest 3 minutes.",
     "Studding the fat with whole cloves is an English and American touch; the Swedish coat is mustard, egg and crumbs."

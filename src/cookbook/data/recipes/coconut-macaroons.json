@@ -54,6 +54,15 @@
     "Bake 18–22 minutes, until the peaks and bottoms are golden. Cool on the sheet.",
     "If you like, melt the chocolate and dip the bases, then set on parchment until firm."
   ],
+  "vegan_swaps": [
+    {
+      "from": "egg_white",
+      "to": "aquafaba",
+      "ratio": 0.91,
+      "note": "2 tablespoons per egg white (6 tablespoons)"
+    }
+  ],
+  "vegan_notes": "Whip the aquafaba with the salt and cream of tartar to stiff, glossy peaks (it takes longer than egg white, 5–10 minutes), then add the erythritol slowly. The macaroons hold together less firmly and brown less; let them cool fully on the sheet, and use a dairy-free chocolate for dipping.",
   "tips": [
     "Unsweetened coconut is drier than the sweetened kind; let the mixture stand 5 minutes before scooping so it binds."
   ],

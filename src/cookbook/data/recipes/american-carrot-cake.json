@@ -45,6 +45,10 @@
     {"from": "butter", "to": "vegan_butter"}
   ],
   "dairy_free_notes": "The cake itself is dairy-free; only the frosting changes. A block-style dairy-free cream cheese gives a softer, slightly less tangy frosting, so keep the cake chilled until serving.",
+  "vegan_swaps": [
+    {"from": "egg", "to": "aquafaba", "ratio": 0.9, "note": "3 tbsp per egg"}
+  ],
+  "vegan_notes": "Four eggs is too many for flax, so whisk the aquafaba with the sweeteners for 3–4 minutes until thick and foamy before adding the oil. The crumb will be denser and more fragile than with eggs, so cool it fully in the pan; the cake is untested this way.",
   "tips": [
     "Grate the carrot on the fine side of a box grater: fine shreds melt into the crumb, coarse ones leave wet pockets in a grain-free cake.",
     "150 g of carrot is deliberate — it is enough to taste and see, and keeps a slice at about 5 g net carbs. Doubling it roughly adds 1 g per slice and makes the crumb soggier."

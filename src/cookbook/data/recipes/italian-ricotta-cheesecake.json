@@ -74,6 +74,10 @@
     }
   ],
   "dairy_free_notes": "With dairy-free cream cheese the cake is smoother and denser, closer to a New York style than to the grainy ricotta original.",
+  "vegan_swaps": [
+    {"from": "egg", "to": "silken_tofu", "ratio": 1.26, "note": "blended completely smooth, ¼ cup per egg"}
+  ],
+  "vegan_notes": "Blend the tofu smooth before beating it into the dairy-free cream cheese. As with the dairy-free version, it ends up closer to a dense New York style than a light ricotta cake, and it sets softer, so chill it overnight. Untested.",
   "tips": [
     "Draining the ricotta is essential; wet ricotta gives a soggy, weeping cake."
   ],

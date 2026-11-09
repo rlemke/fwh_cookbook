@@ -88,6 +88,10 @@
     }
   ],
   "dairy_free_notes": "With dairy-free butter and coconut yogurt the loaf is slightly moister and less rich; it slices best the next day.",
+  "vegan_swaps": [
+    {"from": "egg", "to": "aquafaba", "ratio": 0.9, "note": "3 tbsp per egg"}
+  ],
+  "vegan_notes": "Whisk the aquafaba until foamy and beat it into the creamed butter a little at a time. Expect a closer, slightly gummier crumb and less rise; the drizzle helps keep it moist. Untested.",
   "tips": [
     "Let the loaf cool fully in the pan: warm almond cake breaks if you lift it out early."
   ],

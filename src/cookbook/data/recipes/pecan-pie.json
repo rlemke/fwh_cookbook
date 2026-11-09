@@ -75,6 +75,15 @@
     }
   ],
   "dairy_free_notes": "Dairy-free butter works in both crust and filling; the filling tastes slightly less of brown butter but sets the same.",
+  "vegan_swaps": [
+    {
+      "from": "egg",
+      "to": "flax_egg",
+      "ratio": 1.04,
+      "note": "one flax egg per egg"
+    }
+  ],
+  "vegan_notes": "Rest the flax eggs 10 minutes and whisk them into the butter and allulose. The filling sets softer and looks less glossy than the egg version, so cool it completely, or chill it, before slicing; untested.",
   "tips": [
     "Erythritol would recrystallise into a gritty layer here; allulose is the sweetener that behaves like syrup."
   ],

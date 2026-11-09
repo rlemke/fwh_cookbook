@@ -79,6 +79,10 @@
     "Serve straight from the plank with the dill-mustard sauce."
   ],
   "swaps": [],
+  "vegan_swaps": [
+    {"from": "mayonnaise", "to": "tofu_mayo", "ratio": 1.09}
+  ],
+  "vegan_notes": "An egg-free mayonnaise makes a slightly thinner, milder dill sauce; chill it well before serving. This makes the dish egg-free, not vegan.",
   "tips": [
     "A plank can usually be used two or three times if it is only charred at the edges; scrub it with water, not soap.",
     "Without a plank the salmon will not taste of cedar, but the sauce carries the dish."

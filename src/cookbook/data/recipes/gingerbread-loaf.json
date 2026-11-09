@@ -111,6 +111,10 @@
     }
   ],
   "dairy_free_notes": "With coconut oil and coconut yogurt the loaf is just as moist; it firms more in the fridge, so keep it at room temperature.",
+  "vegan_swaps": [
+    {"from": "egg", "to": "flax_egg", "ratio": 1.04, "note": "one flax egg per egg"}
+  ],
+  "vegan_notes": "Rest the flax eggs 10 minutes and whisk them in one at a time as for the eggs. The loaf will rise a little less and be denser, and the spices hide the flax flavour; untested.",
   "tips": [
     "The allulose is what gives a slightly sticky, treacly crumb; with erythritol alone the loaf is drier.",
     "Only 1 tablespoon of molasses goes in: it is sugar, and the limit keeps each slice low-carb. It is there for flavour, not sweetness, so do not increase it; the loaf will be paler than a full treacle gingerbread."

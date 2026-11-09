@@ -98,6 +98,10 @@
     }
   ],
   "dairy_free_notes": "Because gelatin does the setting, the dairy-free version sets almost as firmly; it tastes faintly of coconut, which suits the lemon.",
+  "vegan_swaps": [
+    {"from": "gelatin", "to": "agar", "ratio": 0.25, "note": "a scant teaspoon of agar powder"}
+  ],
+  "vegan_notes": "Whisk the agar into the cold water and boil it 1–2 minutes (acid weakens agar, so boil it in the water, not the lemon juice), then stir in the warm lemon juice. Agar sets at room temperature, so beat it into the cheese at once and fold in the cream quickly before it sets. The set is firmer and less melting than with gelatin; untested.",
   "tips": [
     "Make sure the gelatin mixture is lukewarm, not cold, when it goes in, or it sets in strings.",
     "Use powdered sweetener here: granules do not dissolve in an unbaked filling."

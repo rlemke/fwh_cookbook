@@ -99,6 +99,15 @@
     "Bake 15–18 minutes, until the edges are firm and the tops just coloured; the centres stay soft. Cool completely.",
     "Melt the chocolate with the coconut oil and brush or spoon it over the cooled cookies. Leave to set."
   ],
+  "vegan_swaps": [
+    {
+      "from": "egg",
+      "to": "aquafaba",
+      "ratio": 0.9,
+      "note": "3 tablespoons per egg (6 tablespoons)"
+    }
+  ],
+  "vegan_notes": "Whip the aquafaba to soft peaks, then beat in the erythritol and allulose until thick and glossy, in place of beating the eggs. The cookies are slightly flatter and more fragile, and the tops brown less; let them cool completely before glazing, and use a dairy-free chocolate.",
   "tips": [
     "Traditional Elisenlebkuchen are baked on thin wafers called Oblaten, which contain starch; parchment does the job here.",
     "Stored airtight for a few days, they soften and the spice deepens."

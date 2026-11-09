@@ -100,6 +100,10 @@
     }
   ],
   "dairy_free_notes": "The crust is already dairy-free; with dairy-free butter the curd is a little less rich but sets just as well thanks to the gelatin.",
+  "vegan_alternative": {
+    "recipe": "lemon-posset",
+    "note": "The curd is set by yolks and the topping is an egg-white meringue; swapping both would leave little of the pie. The vegan lemon posset keeps the sharp, set lemon cream."
+  },
   "tips": [
     "Erythritol meringue browns less than sugar meringue; a few seconds under the grill or a kitchen torch gives more colour.",
     "Spread the meringue on warm filling: it cooks from below too and is less likely to weep."

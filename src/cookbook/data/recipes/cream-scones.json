@@ -69,6 +69,15 @@
     }
   ],
   "dairy_free_notes": "Coconut cream gives a slightly denser scone with a faint coconut note; dairy-free butter should be very cold, as it softens faster than butter.",
+  "vegan_swaps": [
+    {
+      "from": "egg",
+      "to": "flax_egg",
+      "ratio": 1.04,
+      "note": "one flax egg per egg"
+    }
+  ],
+  "vegan_notes": "One flax egg binds this dough well. The scones are a little denser and brown less, so brush them with coconut cream and bake toward the long end of the time.",
   "tips": [
     "Serve with whipped cream and a spoonful of crushed berries."
   ],

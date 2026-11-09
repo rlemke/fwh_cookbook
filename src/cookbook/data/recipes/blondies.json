@@ -74,6 +74,15 @@
     }
   ],
   "dairy_free_notes": "Dairy-free butter can't be browned, so the bars lose the toffee note; add an extra ½ teaspoon of vanilla and toast the pecans well.",
+  "vegan_swaps": [
+    {
+      "from": "egg",
+      "to": "flax_egg",
+      "ratio": 1.04,
+      "note": "2 flax eggs"
+    }
+  ],
+  "vegan_notes": "Rest the flax eggs 10 minutes until gel-like before whisking them in. The bars come out denser and a little more fragile, with flecks of flax; chill them the full 30 minutes before cutting.",
   "origin": {
     "family": "Brownie",
     "place": "United States",

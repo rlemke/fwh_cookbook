@@ -63,6 +63,15 @@
     "Lower the oven to 150 °C (300 °F). With a serrated knife, cut the log on the diagonal into 24 slices about 1.5 cm (½ in) thick.",
     "Lay the slices flat and bake 10 minutes, turn them and bake 8–10 minutes more, until dry. They crisp further as they cool."
   ],
+  "vegan_swaps": [
+    {
+      "from": "egg",
+      "to": "flax_egg",
+      "ratio": 1.04,
+      "note": "2 flax eggs"
+    }
+  ],
+  "vegan_notes": "Rest the flax eggs 10 minutes before beating in the vanilla and zest. The log is more crumbly and browns less, so let it cool the full 20 minutes and slice gently; the slices are more fragile until the second bake dries them.",
   "tips": [
     "Saw gently with the knife rather than pressing down, and the whole almonds will cut cleanly.",
     "In Tuscany they are dipped in sweet wine; coffee works too."

@@ -103,6 +103,11 @@
     }
   ],
   "dairy_free_notes": "The dairy-free version is softer and sweeter-tasting, with less of quark's tang; add an extra tablespoon of lemon juice and chill it overnight.",
+  "vegan_swaps": [
+    {"from": "egg", "to": "silken_tofu", "ratio": 1.26, "note": "blended completely smooth, ¼ cup per egg"},
+    {"from": "egg_yolk", "to": "flax_egg", "ratio": 1.0, "note": "about a third of a flax egg, to bind the crust"}
+  ],
+  "vegan_notes": "Bind the crust with the flax egg. In the filling, beat the blended tofu in where the yolks go and skip the whipped-white step, so the cake is denser, closer to a New York cheesecake than a light Käsekuchen. Chill it overnight; untested.",
   "tips": [
     "If you can find quark, use 750 g of it, well drained, in place of the yogurt and cream cheese."
   ],

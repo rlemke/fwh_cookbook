@@ -54,6 +54,10 @@
     }
   ],
   "dairy_free_notes": "Coconut cream sets a little softer and tastes of coconut; add a pinch more salt and an extra yolk if you want a firmer set.",
+  "vegan_alternative": {
+    "recipe": "panna-cotta",
+    "note": "A baked custard set entirely by yolks has no credible egg-free swap. The vegan panna cotta, a vanilla cream set in ramekins with agar, is the closest dish in the book."
+  },
   "tips": [
     "Allulose caramelises fast and burns fast; keep the torch moving and stop at amber.",
     "Erythritol will not melt into a proper crust, which is why the topping uses allulose."

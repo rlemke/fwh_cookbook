@@ -68,6 +68,15 @@
     "Bake 28–32 minutes, until golden and firm. Cool 10 minutes in the pan, then cut into 8 squares."
   ],
   "swaps": [],
+  "vegan_swaps": [
+    {
+      "from": "egg_white",
+      "to": "aquafaba",
+      "ratio": 0.91,
+      "note": "2 tbsp aquafaba per egg white"
+    }
+  ],
+  "vegan_notes": "Whisk the aquafaba until foamy before adding it. Psyllium carries the structure, so the dough still forms, but expect a slightly denser, moister crumb with less rise; bake toward the long end of the time.",
   "tips": [
     "Psyllium gives this dough a bread-like chew; brands differ, and some darken the crumb purple-grey — it is harmless.",
     "Use powdered psyllium husk, not whole husks, which need different quantities."

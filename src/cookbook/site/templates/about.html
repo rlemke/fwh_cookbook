@@ -2,10 +2,10 @@
 {% block title %}Method &amp; guides — {{ title }}{% endblock %}
 {% block body %}
 <h1>Method &amp; guides</h1>
-<p class="lede">How the numbers are worked out, how to choose a sweetener, how the dairy-free versions work, and what this book cannot promise.</p>
+<p class="lede">How the numbers are worked out, how to choose a sweetener, how the dairy-free, egg-free and vegan versions work, and what this book cannot promise.</p>
 
 <h2>What has and has not been checked</h2>
-<p>The recipes follow established low-carb ratios: almond flour does not absorb like wheat flour, coconut flour absorbs about four times as much liquid, and eggs, psyllium, xanthan or gelatin supply the structure that gluten and sugar would. <strong>None has been made in a test kitchen.</strong> Expect to adjust baking times to your oven and the texture of the dairy-free versions to the brands you buy. What <em>has</em> been checked by the build itself: every ingredient is a known food with known nutrition, every amount converts to grams, every dairy ingredient has a dairy-free swap, and every dessert's carbs are computed rather than claimed.</p>
+<p>The recipes follow established low-carb ratios: almond flour does not absorb like wheat flour, coconut flour absorbs about four times as much liquid, and eggs, psyllium, xanthan or gelatin supply the structure that gluten and sugar would. <strong>None has been made in a test kitchen.</strong> Expect to adjust baking times to your oven and the texture of the dairy-free versions to the brands you buy. What <em>has</em> been checked by the build itself: every ingredient is a known food with known nutrition, every amount converts to grams, every dairy ingredient has a dairy-free swap, every recipe with eggs has an egg-free version or names a similar vegan recipe, and every dessert's carbs are computed rather than claimed.</p>
 
 <h2 id="nutrition">How the nutrition is computed</h2>
 <p>Each ingredient is matched to one food in the <a href="https://fdc.nal.usda.gov/">USDA FoodData Central</a> <em>SR Legacy</em> release (public domain), read straight from USDA's download at build time. Cups and spoons are converted to grams with each ingredient's own weight: a cup of almond flour weighs about 96 g, a cup of cream cheese about 232 g. The recipe's total is divided by its servings.</p>
@@ -31,7 +31,22 @@
 <thead><tr><th>Instead of</th><th>Use</th><th class="num">Recipes</th></tr></thead>
 <tbody>{% for s in swap_rows %}<tr><td>{{ s.from }}</td><td>{{ s.to }}</td><td class="num">{{ s.uses }}</td></tr>{% endfor %}</tbody>
 </table></div>
-<p>Dairy-free is not the same as vegan: many recipes use eggs. Check chocolate labels, because some dark and sugar-free chocolate contains milk. Dairy-free cream cheeses are usually made from cashews or almonds, so the dairy-free version of a recipe can contain nuts when the original did not; each recipe lists what both versions contain.</p>
+<p>Dairy-free is not the same as vegan; see below for eggs, gelatin and stock. Check chocolate labels, because some dark and sugar-free chocolate contains milk. Dairy-free cream cheeses are usually made from cashews or almonds, so the dairy-free version of a recipe can contain nuts when the original did not; each recipe lists what both versions contain.</p>
+
+<h2 id="vegan">Egg-free and vegan versions</h2>
+<p>{{ stats.vegan }} recipes are vegan as written and {{ stats.vegan_option }} more have a vegan version. Of the {{ stats.egg_recipes }} recipes with eggs, {{ stats.egg_swapped }} list an egg-free swap for every egg, and the other {{ stats.egg_alternative }} point to a similar recipe that is vegan. Those are dishes where the egg is the point: a soufflé, a set custard, a whisked sponge, a frittata. As with dairy, the vegan version's nutrition is computed from the swapped ingredients. Recipes with meat can be made egg-free but are not called vegan.</p>
+<p>The egg replacers each do a different job, and none does everything an egg does:</p>
+<ul>
+<li><strong>Flax or chia "eggs"</strong>: ground seed and water, left to gel. They bind cookies, brownies, muffins and dense cakes well, but give no lift, so use them where a recipe has one to three eggs.</li>
+<li><strong>Aquafaba</strong>, the liquid from a can of chickpeas, whips like egg white for meringues, macarons and mousses. It needs longer whisking and a low oven, and its nutrition varies from can to can.</li>
+<li><strong>Silken tofu</strong>, blended smooth, stands in for the eggs in cheesecakes and custard-like pies. They set softer, so chill them longer.</li>
+<li><strong>Agar</strong> replaces gelatin at about a quarter of the weight. Boil it for 1–2 minutes. It sets at room temperature and sets firmer than gelatin.</li>
+</ul>
+<p>Egg replacement is the least predictable part of this book. Expect egg-free bakes to be denser and to brown less, and treat each version as a starting point. The swaps used:</p>
+<div class="scroll"><table>
+<thead><tr><th>Instead of</th><th>Use</th><th class="num">Recipes</th></tr></thead>
+<tbody>{% for s in vegan_swap_rows %}<tr><td>{{ s.from }}</td><td>{{ s.to }}</td><td class="num">{{ s.uses }}</td></tr>{% endfor %}</tbody>
+</table></div>
 
 <h2 id="origins">How dishes are placed on the map</h2>
 <p>Each recipe is pinned to where its <em>kind</em> of dish took shape — a city where one is documented, otherwise a region — with the period it dates from. Food history is full of competing claims: where a dish is disputed (pavlova, tiramisu, brownies, crème brûlée), the recipe page says so rather than picking a winner. Low-carb inventions such as fat bombs and cloud bread are placed where they first appeared and are marked as modern.</p>
@@ -43,7 +58,7 @@
 <tbody>
 {% for i in ingredients %}
 <tr><td>{{ i.name }}</td>
-<td>{% if i.source.startswith('usda:') %}FDC {{ i.source[5:] }}<br><span class="small">{{ i.usda }}{% if i.usda_note %} ({{ i.usda_note }}){% endif %}</span>{% else %}label{% endif %}</td>
+<td>{% if i.source.startswith('usda:') %}FDC {{ i.source[5:] }}<br><span class="small">{{ i.usda }}{% if i.usda_note %} ({{ i.usda_note }}){% endif %}</span>{% elif i.source == 'made_of' %}made from {{ i.made_of|join(' + ') }}{% else %}label{% if i.note %}<br><span class="small">{{ i.note }}</span>{% endif %}{% endif %}</td>
 <td class="num">{{ i.per100.kcal }}</td><td class="num">{{ i.per100.fat_g }}</td><td class="num">{{ i.per100.protein_g }}</td><td class="num">{{ i.per100.carbs_g }}</td><td class="num">{{ i.per100.fiber_g }}</td><td class="num">{{ i.per100.polyol_g }}</td><td class="num">{{ i.per100.net_carbs_g }}</td><td class="num">{{ i.uses }}</td></tr>
 {% endfor %}
 </tbody></table></div>

@@ -72,6 +72,10 @@
     }
   ],
   "dairy_free_notes": "Without gluten it rises less than a wheat Dutch baby — expect puffed edges and a flatter, custardy middle. The dairy-free version browns a little less.",
+  "vegan_alternative": {
+    "recipe": "almond-flour-pancakes",
+    "note": "A Dutch baby rises only on its eggs, so a swap would give a flat, gummy slab. The almond-flour pancakes, made with flax eggs, fill the same sweet-breakfast place and take the same lemon and powdered sweetener."
+  },
   "tips": [
     "A very hot pan matters more than anything; do not skip preheating it."
   ],

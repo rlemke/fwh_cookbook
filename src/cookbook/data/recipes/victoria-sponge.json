@@ -106,6 +106,10 @@
     }
   ],
   "dairy_free_notes": "Dairy-free butter gives a slightly less rich crumb, and whipped coconut cream is softer, so fill the cake shortly before serving.",
+  "vegan_swaps": [
+    {"from": "egg", "to": "aquafaba", "ratio": 0.9, "note": "3 tbsp per egg"}
+  ],
+  "vegan_notes": "Whisk the aquafaba until foamy and beat it into the creamed butter a little at a time. The sponges will be lower and denser and more fragile, so cool them fully before filling; untested.",
   "tips": [
     "For the classic jam-only version, leave out the cream and use a little more jam."
   ],

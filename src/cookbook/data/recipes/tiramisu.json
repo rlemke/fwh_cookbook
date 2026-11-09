@@ -107,6 +107,10 @@
     }
   ],
   "dairy_free_notes": "The dairy-free cream is tangier and a little denser than mascarpone; it sets well after an overnight chill but cuts less cleanly on the first day.",
+  "vegan_alternative": {
+    "recipe": "chocolate-mousse",
+    "note": "The sponge is leavened by whipped eggs and the cream is built on cooked yolks. No vegan dish in the book is close; the chocolate mousse, which has coffee in it and is made with silken tofu and aquafaba, fills the same place as a rich chilled dessert."
+  },
   "tips": [
     "The almond sponge drinks coffee faster than ladyfingers, so brush rather than dip it."
   ],

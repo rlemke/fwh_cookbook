@@ -80,6 +80,15 @@
     }
   ],
   "dairy_free_notes": "Coconut oil makes a firmer, more truffle-like brownie when chilled; serve at room temperature for the fudgiest texture.",
+  "vegan_swaps": [
+    {
+      "from": "egg",
+      "to": "flax_egg",
+      "ratio": 1.04,
+      "note": "3 flax eggs"
+    }
+  ],
+  "vegan_notes": "Rest the flax eggs 10 minutes, then whisk them with the sweeteners. Flax cannot whip, so there will be no shiny, crackled top, and the brownies are denser and more fudge-like; bake toward the shorter time and chill well before cutting.",
   "tips": [
     "Cut with a hot, dry knife, wiping between cuts."
   ],

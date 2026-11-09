@@ -98,6 +98,15 @@
     }
   ],
   "dairy_free_notes": "With dairy-free butter and coconut cream the sauce is a little thinner and tastes faintly of coconut, but it still caramelises well.",
+  "vegan_swaps": [
+    {
+      "from": "egg",
+      "to": "flax_egg",
+      "ratio": 1.04,
+      "note": "one flax egg per egg"
+    }
+  ],
+  "vegan_notes": "Rest the flax eggs 10 minutes and beat them in one at a time as for the eggs. With three replaced, the sponge rises less and is denser and slightly moister; the toffee sauce soaked into it hides most of the difference.",
   "tips": [
     "The sponge reheats well: warm it with the sauce poured over, covered, at 150 °C (300 °F) for 10 minutes."
   ],

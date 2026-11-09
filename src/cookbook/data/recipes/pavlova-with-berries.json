@@ -86,6 +86,11 @@
     }
   ],
   "dairy_free_notes": "Chilled coconut cream whips softer than dairy cream and melts faster, so top the pavlova at the very last minute and serve it straight away.",
+  "vegan_swaps": [
+    {"from": "egg_white", "to": "aquafaba", "ratio": 0.91, "note": "about 1/2 cup, chilled"}
+  ],
+  "vegan_notes": "Whip the aquafaba with the cream of tartar for several minutes to stiff peaks before adding the sweetener, which takes longer than egg white. Bake low and long, about 2 hours, and cool in the oven; an erythritol aquafaba meringue is even more fragile and humidity-sensitive than the egg version, so we are not sure of it.",
+  "vegan_alternative": {"recipe": "strawberries-romanoff", "note": "Berries and sweetened cream without the meringue; the safer vegan choice."},
   "tips": [
     "Erythritol meringue is more fragile than sugar meringue and weeps in humid weather; make the shell on a dry day and fill it only when serving.",
     "The meringue shell keeps 2 days in an airtight tin at room temperature."

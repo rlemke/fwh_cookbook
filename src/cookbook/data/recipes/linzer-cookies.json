@@ -93,6 +93,15 @@
     }
   ],
   "dairy_free_notes": "The dairy-free dough is softer and tears more easily; roll it straight from the fridge and chill the cut rounds for 10 minutes before baking.",
+  "vegan_swaps": [
+    {
+      "from": "egg_yolk",
+      "to": "flax_egg",
+      "ratio": 1.0,
+      "note": "about a third of a flax egg (1 heaped tablespoon of the mixture)"
+    }
+  ],
+  "vegan_notes": "Mix one flax egg and use only about a third of it. The dough is softer and tears more easily without the yolk; roll it straight from the fridge and chill the cut rounds before baking.",
   "tips": [
     "Assemble on the day you serve them; the jam softens the cookies overnight."
   ],

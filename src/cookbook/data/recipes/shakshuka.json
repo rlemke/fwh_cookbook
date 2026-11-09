@@ -28,6 +28,11 @@
     "Scatter with parsley and serve straight from the pan."
   ],
   "swaps": [],
+  "vegan_swaps": [
+    {"from": "egg", "to": "silken_tofu", "ratio": 1.26, "note": "about 2 cups silken tofu for the 8 eggs, in large spoonfuls"}
+  ],
+  "vegan_notes": "Instead of cracking in eggs, spoon the tofu into the hollows in large pieces, salt it lightly, cover and warm through 4–5 minutes. This is warm tofu in a spiced tomato sauce, not a poached egg: soft and mild, with no runny yolk.",
+  "vegan_alternative": {"recipe": "grilled-vegetable-platter", "note": "The grilled vegetable platter shares shakshuka's peppers, olive oil and herbs and is vegan as written, but it is a side rather than a breakfast."},
   "tips": [
     "Simmering the sauce until thick matters: a watery sauce lets the whites spread and turn rubbery before the yolks are done.",
     "Canned tomatoes carry most of the carbs here; if you swap in fresh tomatoes, weigh them rather than counting by the piece.",

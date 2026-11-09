@@ -85,6 +85,15 @@
     "Bake 25–30 minutes, until the crumble is golden and the fruit bubbles at the edges.",
     "Cool completely, then chill 1 hour so the filling sets before cutting into 16 squares."
   ],
+  "vegan_swaps": [
+    {
+      "from": "egg",
+      "to": "flax_egg",
+      "ratio": 1.04,
+      "note": "one flax egg per egg"
+    }
+  ],
+  "vegan_notes": "Rest the flax egg 10 minutes before mixing it in. The base and crumble are a little more crumbly and brown less; press the base firmly and let the bars chill the full hour before cutting.",
   "tips": [
     "Frozen raspberries work; don't thaw them, and add 5 minutes to the bake."
   ],

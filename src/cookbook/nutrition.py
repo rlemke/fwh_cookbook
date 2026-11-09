@@ -125,6 +125,21 @@ def build_table(zip_path: str, ingredients: dict[str, dict] | None = None) -> Ta
         elif "label" in v:
             per100[k] = Facts(*(float(v["label"].get(f, 0.0)) for f in FIELDS))
             source[k] = "label"
-        else:
-            raise ValueError(f"ingredient {k} has neither 'usda' nor 'label'")
+        elif "made_of" not in v:
+            raise ValueError(f"ingredient {k} has neither 'usda', 'label' nor 'made_of'")
+    # A made-up ingredient (a flax egg) is its parts, per piece: the sum of
+    # their nutrition over the piece's weight.
+    for k, v in ing.items():
+        if "made_of" not in v:
+            continue
+        parts = v["made_of"]
+        bad = [p for p in parts if p not in per100]
+        if bad:
+            raise ValueError(f"ingredient {k} is made of unknown or made-up ingredients {bad}")
+        weight = float(v.get("each_g") or sum(parts.values()))
+        total = Facts()
+        for p, g in parts.items():
+            total = total + per100[p].scaled(float(g) / 100.0)
+        per100[k] = total.scaled(100.0 / weight)
+        source[k] = "made_of"
     return Table(per100=per100, source=source, ingredients=ing)

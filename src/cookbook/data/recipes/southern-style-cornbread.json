@@ -64,6 +64,15 @@
     }
   ],
   "dairy_free_notes": "With dairy-free butter the crust is crisp but less nutty; a spoonful of bacon fat in the skillet, if you eat it, adds the traditional flavour.",
+  "vegan_swaps": [
+    {
+      "from": "egg",
+      "to": "flax_egg",
+      "ratio": 1.04,
+      "note": "one flax egg per egg"
+    }
+  ],
+  "vegan_notes": "Rest the flax eggs 10 minutes first. Expect a denser, moister crumb and a crust that is still crisp from the hot skillet but browns less; bake a few minutes longer, until a skewer comes out clean. Skip the bacon fat in the skillet for a vegan cornbread.",
   "tips": [
     "Honestly, it tastes like a savoury muffin rather than corn; serve it where cornbread would go — with chili, greens or soup."
   ],

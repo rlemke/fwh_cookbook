@@ -60,6 +60,10 @@
     "Refrigerate in a jar for up to 3 weeks."
   ],
   "swaps": [],
+  "vegan_swaps": [
+    {"from": "worcestershire", "to": "vegan_worcestershire", "ratio": 1}
+  ],
+  "vegan_notes": "Vegan Worcestershire has no anchovy and tastes a little sweeter and less savoury; at a teaspoon in a cup of mustard the difference is hard to notice.",
   "tips": [
     "Worcestershire contains anchovy (fish allergen); omit it or use 1 tsp tamari.",
     "A tablespoon of melted butter is sometimes stirred in at the end; this version leaves it out so it stays dairy-free."

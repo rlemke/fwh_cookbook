@@ -83,6 +83,15 @@
     }
   ],
   "dairy_free_notes": "Dairy-free butter gives a slightly less toffee-like filling, and the shells are a little more crumbly; let them cool fully in the tin.",
+  "vegan_swaps": [
+    {
+      "from": "egg",
+      "to": "flax_egg",
+      "ratio": 1.04,
+      "note": "one flax egg per egg, in the pastry and the filling"
+    }
+  ],
+  "vegan_notes": "The flax egg binds the pastry well, but in the filling it sets less than egg: the tarts will be runnier and flecked with flax, closer to a thick syrup than a set custard. Cool them fully in the tin; this version is untested.",
   "tips": [
     "Allulose darkens quickly; the lower 165 °C oven keeps the filling from scorching before the pastry is done.",
     "Whether butter tarts should hold raisins is a long-running Canadian argument; pecans are the low-carb side of it."

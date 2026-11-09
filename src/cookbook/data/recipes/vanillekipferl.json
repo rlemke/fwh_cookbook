@@ -62,6 +62,15 @@
     }
   ],
   "dairy_free_notes": "Dairy-free butter gives a softer dough that loses its shape faster; chill the shaped crescents 15 minutes before baking.",
+  "vegan_swaps": [
+    {
+      "from": "egg_yolk",
+      "to": "flax_egg",
+      "ratio": 1.0,
+      "note": "about a third of a flax egg (1 heaped tablespoon of the mixture)"
+    }
+  ],
+  "vegan_notes": "Mix one flax egg and use only about a third of it. The dough is softer and the crescents lose their shape faster without the yolk; chill them 15 minutes before baking and toss them very gently, as they are more fragile.",
   "tips": [
     "A scraped vanilla bean in the coating is traditional and worth it."
   ],

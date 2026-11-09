@@ -78,6 +78,15 @@
     }
   ],
   "dairy_free_notes": "With dairy-free butter the cookies are a touch softer and flatter; flatten them a little less before baking.",
+  "vegan_swaps": [
+    {
+      "from": "egg",
+      "to": "flax_egg",
+      "ratio": 1.04,
+      "note": "one flax egg per egg"
+    }
+  ],
+  "vegan_notes": "Rest the flax egg 10 minutes before beating it in. The cookies are a little denser and crackle less on top, with faint flax flecks; the cream of tartar tang is unchanged.",
   "tips": [
     "Cream of tartar gives the tang; don't replace it with extra baking powder."
   ],

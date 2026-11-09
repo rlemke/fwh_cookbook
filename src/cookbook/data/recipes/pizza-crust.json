@@ -54,6 +54,15 @@
     "Add toppings and bake 6–8 minutes more, until hot and browned at the edge."
   ],
   "swaps": [],
+  "vegan_swaps": [
+    {
+      "from": "egg",
+      "to": "flax_egg",
+      "ratio": 1.04,
+      "note": "one flax egg per egg"
+    }
+  ],
+  "vegan_notes": "Psyllium holds this dough, so one flax egg is enough. The crust is slightly more fragile and browns less; pre-bake it 2–3 minutes longer before adding toppings.",
   "tips": [
     "Keep toppings light and not too wet; a grain-free crust softens under a heavy, watery sauce.",
     "Carbs shown are for the crust only — add your toppings' carbs."

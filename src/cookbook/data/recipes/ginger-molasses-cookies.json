@@ -37,6 +37,10 @@
     {"from": "butter", "to": "vegan_butter"}
   ],
   "dairy_free_notes": "A stick-style dairy-free butter works one-for-one; the cookies spread a little more, so chill the dough the full time.",
+  "vegan_swaps": [
+    {"from": "egg", "to": "flax_egg", "ratio": 1.04, "note": "one flax egg per egg"}
+  ],
+  "vegan_notes": "Rest the flax egg 10 minutes before beating it in with the molasses. The cookies are a little denser and crack less on top, with faint flax flecks; chill the dough the full time so it can be rolled.",
   "tips": [
     "Molasses is real sugar (about 15 g of carbohydrate per tablespoon), so the whole batch gets just one tablespoon — under 1 g per cookie. It is there for the dark, slightly bitter flavour that no sweetener copies; don't add more.",
     "Allulose is what keeps the centres chewy; an all-erythritol version bakes up crisp, more like a gingersnap."

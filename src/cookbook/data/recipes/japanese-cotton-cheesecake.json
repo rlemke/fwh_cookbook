@@ -87,6 +87,7 @@
     }
   ],
   "dairy_free_notes": "The dairy-free version rises nearly as well but shrinks more as it cools and is less tangy; it is best eaten the day it is made.",
+  "vegan_alternative": {"recipe": "new-york-cheesecake", "note": "The cotton texture comes from whipped egg whites set by baking; aquafaba foam does not set in the oven, so the cake would collapse. The vegan New York cheesecake is the closest vegan cheesecake, though dense rather than airy."},
   "tips": [
     "Low-carb flours give less support than wheat, so expect some sinking; a gentle oven and slow cooling help most."
   ],

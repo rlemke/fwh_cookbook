@@ -111,6 +111,10 @@
     }
   ],
   "dairy_free_notes": "The pumpkin helps the dairy-free version hold together well, but it is softer; chill it overnight and slice with a hot knife.",
+  "vegan_swaps": [
+    {"from": "egg", "to": "silken_tofu", "ratio": 1.26, "note": "blended completely smooth, ¼ cup per egg"}
+  ],
+  "vegan_notes": "Blend the tofu smooth and beat it in where the eggs go. The pumpkin helps it set, much like a vegan pumpkin pie, but it is softer than the egg version; chill overnight and slice with a hot knife. Untested.",
   "tips": [
     "Blot the pumpkin purée between paper towels if it looks wet; excess water makes the filling weep."
   ],

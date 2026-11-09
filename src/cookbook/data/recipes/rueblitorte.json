@@ -33,6 +33,12 @@
     "Stir the powdered erythritol with the lemon juice to a thick, pourable glaze and spread it over the top. Let it set before slicing."
   ],
   "swaps": [],
+  "vegan_swaps": [
+    {"from": "egg_yolk", "to": "flax_egg", "ratio": 1.0, "note": "about a third of a flax egg per yolk"},
+    {"from": "egg_white", "to": "aquafaba", "ratio": 0.91, "note": "2 tbsp per white"}
+  ],
+  "vegan_notes": "Beat the flax with the erythritol in place of the yolks, and whip the aquafaba to firm peaks before folding it in. Aquafaba does not set like egg white, so the baking powder does most of the lifting: expect a lower, denser and more fragile cake. Uncertain and untested.",
+  "vegan_alternative": {"recipe": "american-carrot-cake", "note": "The Swiss cake is lifted by whipped whites, and aquafaba foam does not set in the oven the way they do. The vegan American carrot cake is the more dependable vegan carrot-and-nut cake."},
   "tips": [
     "The cake keeps and improves for 2–3 days, well wrapped; the carrot keeps it moist.",
     "Leave out the kirsch for children or swap it for a few drops of almond extract."

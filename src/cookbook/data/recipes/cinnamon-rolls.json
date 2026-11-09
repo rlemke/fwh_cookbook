@@ -113,6 +113,15 @@
     }
   ],
   "dairy_free_notes": "Dairy-free butter and cream cheese work well; the glaze is a little thinner, so add the almond milk a few drops at a time.",
+  "vegan_swaps": [
+    {
+      "from": "egg",
+      "to": "flax_egg",
+      "ratio": 1.04,
+      "note": "one flax egg per egg"
+    }
+  ],
+  "vegan_notes": "The psyllium does most of the binding, so two flax eggs should still give a dough that rolls; let it rest the full 10 minutes, and a few minutes more if it cracks. The rolls come out slightly denser and paler.",
   "tips": [
     "The dough cracks if rolled too thin — about 6 mm (¼ in) is right.",
     "There is no yeast: grain-free dough has no gluten to trap gas, so baking powder does the lifting."

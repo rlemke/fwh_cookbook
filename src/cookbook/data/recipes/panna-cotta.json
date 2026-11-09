@@ -62,6 +62,15 @@
     }
   ],
   "dairy_free_notes": "Coconut cream sets slightly firmer and tastes of coconut; cut the gelatin to 2 teaspoons for a softer wobble.",
+  "vegan_swaps": [
+    {
+      "from": "gelatin",
+      "to": "agar",
+      "ratio": 0.25,
+      "note": "about 3/4 tsp agar powder"
+    }
+  ],
+  "vegan_notes": "Whisk the agar into the almond milk, add it to the cream and boil 1–2 minutes, stirring, so it dissolves fully. Agar sets at room temperature, so pour into the glasses straight away; it sets firmer and cleaner than gelatin, with less wobble.",
   "tips": [
     "Erythritol can recrystallise in cold cream; powdered erythritol or allulose dissolves more completely."
   ],

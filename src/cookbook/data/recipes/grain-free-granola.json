@@ -72,6 +72,15 @@
     "Let it cool completely on the pan without stirring — it crisps as it cools — then break into clusters. Store airtight up to 2 weeks."
   ],
   "swaps": [],
+  "vegan_swaps": [
+    {
+      "from": "egg_white",
+      "to": "aquafaba",
+      "ratio": 0.91,
+      "note": "2 tbsp aquafaba for the egg white"
+    }
+  ],
+  "vegan_notes": "Whisk the aquafaba until frothy, as you would the white. It binds the clusters a little less firmly, so press the mix down well and let it cool completely before breaking it up; the flaxseed meal already in the mix helps hold it.",
   "tips": [
     "Serve with almond milk or coconut yogurt and a few berries."
   ],

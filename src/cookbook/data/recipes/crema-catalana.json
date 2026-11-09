@@ -66,6 +66,10 @@
     }
   ],
   "dairy_free_notes": "Coconut cream sets a little firmer and adds a coconut note that sits alongside the lemon and cinnamon.",
+  "vegan_alternative": {
+    "recipe": "panna-cotta",
+    "note": "Six yolks are what thicken this custard, and no swap in the book reproduces that. The vegan panna cotta is the nearest chilled cream set in individual dishes; infuse its cream with lemon zest and cinnamon for the Catalan flavour."
+  },
   "tips": [
     "Unlike crème brûlée, this custard is cooked on the stove, not baked, and is traditionally flavoured with lemon and cinnamon instead of vanilla."
   ],

@@ -56,6 +56,11 @@
     }
   ],
   "dairy_free_notes": "Coconut ice cream melts faster under hot coffee and gives a creamier, coconut-flavoured pool; scoop it straight from a very cold freezer.",
+  "vegan_swaps": [
+    {"from": "egg_yolk", "to": "silken_tofu", "ratio": 1.8, "note": "about 1/4 cup, blended smooth"}
+  ],
+  "vegan_notes": "Blend the silken tofu with the allulose, salt and hot coconut cream until completely smooth instead of cooking a custard to 80 °C, then chill and churn. Expect a slightly firmer, less rich scoop that melts faster under the espresso; a faint soy note is masked by the coffee.",
+  "vegan_alternative": {"recipe": "coconut-kulfi", "note": "A dense, egg-free coconut ice that holds up well under a shot of hot espresso."},
   "origin": {
     "family": "Affogato",
     "place": "Italy",

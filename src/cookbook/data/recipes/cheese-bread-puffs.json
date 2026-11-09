@@ -70,6 +70,15 @@
     }
   ],
   "dairy_free_notes": "Nutritional yeast gives the dairy-free puffs a savoury, cheesy flavour, though milder and nuttier than parmesan, and the puffs are a little less rich. Add a pinch more salt.",
+  "vegan_swaps": [
+    {
+      "from": "egg",
+      "to": "flax_egg",
+      "ratio": 1.04,
+      "note": "one flax egg per egg"
+    }
+  ],
+  "vegan_notes": "With flax eggs and the dairy-free swaps the dough is softer, and the puffs rise less and stay denser; chill the dough 10 minutes if it is too sticky to roll. They brown less, so bake toward the long end of the time.",
   "tips": [
     "Traditional pão de queijo gets its stretch from tapioca starch, which this version leaves out; expect a soft, tender crumb instead."
   ],

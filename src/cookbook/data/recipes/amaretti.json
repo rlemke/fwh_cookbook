@@ -50,6 +50,15 @@
     "Bake 18–20 minutes, until the tops crack and the bottoms are lightly golden; the centres should stay soft.",
     "Cool completely on the sheet; they firm up as they cool."
   ],
+  "vegan_swaps": [
+    {
+      "from": "egg_white",
+      "to": "aquafaba",
+      "ratio": 0.91,
+      "note": "2 tablespoons per egg white (4 tablespoons)"
+    }
+  ],
+  "vegan_notes": "Whisk the aquafaba to soft peaks before folding it in, as you would the whites. Aquafaba sets less firmly than egg white, so the cookies spread a little more and crack less; bake them the full 20 minutes and let them cool completely on the sheet.",
   "tips": [
     "Traditional amaretti get their bitter note from apricot kernels; the almond extract stands in for it.",
     "Stored airtight, they stay chewy for about a week."

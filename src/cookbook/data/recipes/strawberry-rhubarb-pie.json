@@ -96,6 +96,15 @@
     }
   ],
   "dairy_free_notes": "Dairy-free butter makes a slightly softer pastry; keep the lattice strips well chilled so they hold their shape.",
+  "vegan_swaps": [
+    {
+      "from": "egg",
+      "to": "flax_egg",
+      "ratio": 1.04,
+      "note": "one flax egg for the pastry and one for the glaze"
+    }
+  ],
+  "vegan_notes": "The flax egg binds the pastry well alongside the psyllium. As a glaze, brush on only the thin liquid of the flax egg: the lattice browns paler and has no shine.",
   "tips": [
     "Whisking the xanthan gum into the sweetener first is the only way to keep it from forming slimy lumps.",
     "Rhubarb is the low-carb backbone here; adding more strawberries raises the carbs quickly."

@@ -98,6 +98,21 @@
     }
   ],
   "dairy_free_notes": "Dairy-free butter gives a slightly crumblier pastry and a softer frangipane; chill the assembled tart well before baking.",
+  "vegan_swaps": [
+    {
+      "from": "egg",
+      "to": "flax_egg",
+      "ratio": 1.04,
+      "note": "one flax egg per egg, in the pastry and the frangipane"
+    },
+    {
+      "from": "egg_yolk",
+      "to": "almond_milk",
+      "ratio": 1.0,
+      "note": "about a tablespoon of almond milk for brushing"
+    }
+  ],
+  "vegan_notes": "Rest the flax eggs 10 minutes before using them; the pastry will be a little more fragile, so keep it well chilled. Brushed with almond milk instead of yolk, the top browns paler and has little shine.",
   "tips": [
     "This is a short almond pastry, not puff pastry: it will be tender and crumbly rather than flaky.",
     "Warn guests if you hide a whole almond in place of the traditional fève."

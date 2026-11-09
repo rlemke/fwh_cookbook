@@ -59,6 +59,21 @@
     "Bake 45–50 minutes, until well browned and hollow-sounding when tapped underneath. Cool on a rack before slicing."
   ],
   "swaps": [],
+  "vegan_swaps": [
+    {
+      "from": "egg_white",
+      "to": "aquafaba",
+      "ratio": 0.91,
+      "note": "2 tbsp aquafaba per egg white"
+    },
+    {
+      "from": "egg",
+      "to": "almond_milk",
+      "ratio": 0.3,
+      "note": "brush with about 1 tbsp almond milk instead of beaten egg"
+    }
+  ],
+  "vegan_notes": "The dough behaves much as it does with egg whites, though the bagels rise a little less and are denser. Almond milk still holds the sesame seeds, but the crust bakes matte and paler rather than shiny.",
   "tips": [
     "Psyllium gives this dough a bread-like chew; brands differ, and some darken the crumb purple-grey — it is harmless.",
     "The short simmer sets the surface and helps a shiny crust; skip it if the dough feels too soft to handle."

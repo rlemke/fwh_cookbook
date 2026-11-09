@@ -2,11 +2,13 @@
 
 A [Facetwork](https://github.com/rlemke/facetwork) domain that builds a low-carb cookbook as a static site:
 206 recipes: 112 desserts plus main dishes, sides, and BBQ sauces, rubs and marinades. Every recipe is either dairy-free as written or gives a dairy-free swap
-for each dairy ingredient. Each dish is also placed on a world map at the place its *kind* of dish comes from.
+for each dairy ingredient. Every recipe with egg either gives an egg-free swap for each egg (flax or chia
+"eggs", aquafaba, silken tofu, egg-free mayonnaise) or, where the egg is the point of the dish, names a similar vegan
+recipe; 165 of the 206 are vegan as written or have a vegan version. Each dish is also placed on a world map at the place its *kind* of dish comes from.
 
 - **Index** (`index.html`): a map of where each dish comes from, plus every recipe with filters for chapter,
-  net carbs, dairy-free as written, and nut-, egg- and coconut-free.
-- **Recipe pages** (`recipes/<id>.html`): ingredients in US measures with grams, the method, the dairy-free version,
+  net carbs, dairy-free as written, vegan (or vegan version), egg-free (or egg-free version), nut- and coconut-free.
+- **Recipe pages** (`recipes/<id>.html`): ingredients in US measures with grams, the method, the dairy-free version, the vegan (or, with meat, egg-free) version or a vegan alternative,
   nutrition per serving as written, dairy-free, and as a rough estimate of an ordinary (not low-carb) version (`data/traditional.json`), and the dish's history.
 - **Dinner menus** (`menus.html`, `menus/<id>.html`, from `data/menus.json`): Thanksgiving, Christmas, a family
   Sunday dinner and an outdoor barbecue — the dishes by course, how many batches feed the guests, a plate-of-everything
@@ -49,6 +51,8 @@ A build fails if a recipe:
 - names an unknown ingredient, or uses a unit with no weight;
 - has a dairy ingredient without a dairy-free swap;
 - has a swap that still contains dairy;
+- has an egg ingredient with no egg-free swap (`vegan_swaps`) and names no vegan alternative (`vegan_alternative`);
+- has a vegan swap to an animal food, or a vegan alternative that is not itself vegan;
 - has an origin outside the 12 map regions.
 
 To check new recipes and see their net carbs per serving:

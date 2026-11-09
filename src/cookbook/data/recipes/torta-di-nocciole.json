@@ -73,6 +73,10 @@
     }
   ],
   "dairy_free_notes": "Made with coconut oil or olive oil the cake is just as moist; olive oil keeps it softer in the fridge, where coconut oil firms up.",
+  "vegan_swaps": [
+    {"from": "egg", "to": "aquafaba", "ratio": 0.9, "note": "3 tbsp per egg"}
+  ],
+  "vegan_notes": "Whisk a third of the aquafaba into the butter and milk where the yolks go, and whip the rest with the erythritol to firm peaks to fold in. Aquafaba foam does not set like egg white, so the baking powder does most of the lifting and the cake will be lower and denser; untested.",
   "tips": [
     "Toasting the nuts is what gives the cake its flavour; do not skip it."
   ],

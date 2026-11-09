@@ -111,6 +111,15 @@
     }
   ],
   "dairy_free_notes": "With coconut cream and dairy-free butter the sauce soaks in just as well; the flavour is a little less buttery.",
+  "vegan_swaps": [
+    {
+      "from": "egg",
+      "to": "flax_egg",
+      "ratio": 1.04,
+      "note": "one flax egg per egg"
+    }
+  ],
+  "vegan_notes": "Flax eggs cannot be beaten pale and thick, so just whisk them in with the erythritol; the baking powder and soda do the rising. The pudding rises less and is denser, but it still soaks up the sauce well.",
   "tips": [
     "Two fresh apricots cooked down stand in for the spoonful of apricot jam in a traditional batter; allulose browns fast, so keep the heat low."
   ],

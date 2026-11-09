@@ -90,6 +90,15 @@
     }
   ],
   "dairy_free_notes": "Coconut yogurt keeps them moist but slightly less tangy; add an extra teaspoon of lemon zest.",
+  "vegan_swaps": [
+    {
+      "from": "egg",
+      "to": "flax_egg",
+      "ratio": 1.04,
+      "note": "one flax egg per egg"
+    }
+  ],
+  "vegan_notes": "Rest the flax eggs 10 minutes first. Expect a denser, moister muffin with a flatter top; bake a couple of minutes longer and let them cool fully in the tin.",
   "tips": [
     "Rub the zest into the erythritol first to release more lemon oil."
   ],

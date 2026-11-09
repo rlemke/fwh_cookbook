@@ -85,6 +85,10 @@
     "Bake 30–35 minutes, until deep golden and firm in the middle.",
     "Re-cut along the scored lines as soon as it comes out, then pour the cool syrup evenly over the hot cake. Leave at least an hour to soak before serving."
   ],
+  "vegan_swaps": [
+    {"from": "egg", "to": "flax_egg", "ratio": 1.04, "note": "one flax egg per egg"}
+  ],
+  "vegan_notes": "Rest the flax eggs 10 minutes and whisk them with the yogurt and oil as you would the eggs. Expect a denser, slightly more crumbly cake that needs gentler cutting; the syrup soak covers most of the difference, but this has not been kitchen-tested.",
   "tips": [
     "Cool syrup on hot cake (or the reverse) is the rule; both hot makes it soggy.",
     "Allulose browns faster than sugar, so the oven runs lower than for a sugar basbousa."

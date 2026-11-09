@@ -64,6 +64,10 @@
     "Cover and refrigerate 30 minutes to soften slightly, then toss again and taste for salt and vinegar before serving."
   ],
   "swaps": [],
+  "vegan_swaps": [
+    {"from": "mayonnaise", "to": "tofu_mayo", "ratio": 1.09}
+  ],
+  "vegan_notes": "Choose an egg-free mayonnaise with no added sugar; it is slightly looser and milder, so the slaw may need a little more vinegar and salt.",
   "tips": [
     "Dressed slaw keeps its crunch for about a day; for longer, keep the dressing and cabbage separate."
   ],

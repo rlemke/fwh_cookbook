@@ -76,6 +76,11 @@
     "Cover and refrigerate at least 1 hour. Stir, taste for salt, and dust with paprika before serving."
   ],
   "swaps": [],
+  "vegan_swaps": [
+    {"from": "egg", "to": "firm_tofu", "ratio": 1, "note": "pressed and crumbled into small pieces"},
+    {"from": "mayonnaise", "to": "tofu_mayo", "ratio": 1.09}
+  ],
+  "vegan_notes": "Press the firm tofu for 15 minutes, crumble it and fold it in where the chopped egg would go; it gives the same soft bites but none of the egg flavour, so season the dressing a little harder. Egg-free mayonnaise is slightly looser, so cool the cauliflower completely.",
   "tips": [
     "Slightly overcooking a few of the florets gives the creamy, broken-edged texture of real potato salad."
   ],

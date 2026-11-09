@@ -69,6 +69,15 @@
     }
   ],
   "dairy_free_notes": "Dairy-free butter makes almost no difference here; the bread is already made with almond milk.",
+  "vegan_swaps": [
+    {
+      "from": "egg",
+      "to": "flax_egg",
+      "ratio": 1.04,
+      "note": "one flax egg per egg"
+    }
+  ],
+  "vegan_notes": "Two flax eggs bind well alongside the psyllium. The crumb is slightly denser and moister and the crust browns less; bake the full 45 minutes and check for the hollow sound underneath.",
   "tips": [
     "Measure the baking soda exactly — too much tastes soapy in a bread with no wheat to mask it.",
     "With caraway this becomes seed bread, a traditional Irish variation; leave it out for plain soda bread."

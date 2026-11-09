@@ -36,6 +36,10 @@
     {"from": "sour_cream", "to": "coconut_yogurt"}
   ],
   "dairy_free_notes": "Use a firm, block-style dairy-free cream cheese, not a tub spread, and chill overnight: the dairy-free version sets softer.",
+  "vegan_swaps": [
+    {"from": "egg", "to": "silken_tofu", "ratio": 1.26, "note": "blended completely smooth, ¼ cup per egg"}
+  ],
+  "vegan_notes": "Blend the tofu completely smooth and beat it in on low speed where the eggs go, then bake as written. It sets softer and is less custardy, so chill it overnight before slicing. Untested.",
   "tips": ["Erythritol can recrystallise in the fridge; a powdered sweetener or allulose avoids the slight crunch."],
   "origin": {
     "family": "Cheesecake",
