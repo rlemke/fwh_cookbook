@@ -1,0 +1,56 @@
+{
+  "id": "vegan-lemon-tart",
+  "title": "Vegan lemon tart",
+  "category": "pies",
+  "summary": "A crisp almond shortbread shell filled with a sharp, smooth coconut lemon cream set with agar; vegan as written.",
+  "servings": 10,
+  "serving_size": "1 slice",
+  "time": {
+    "prep_min": 40,
+    "cook_min": 25,
+    "rest_min": 240
+  },
+  "ingredients": [
+    {"group": "Shortbread crust"},
+    {"item": "almond_flour", "cup": 1.75},
+    {"item": "powdered_erythritol", "tbsp": 3},
+    {"item": "salt", "tsp": 0.125},
+    {"item": "vegan_butter", "tbsp": 4, "note": "cold, cubed; or 3 tbsp solid coconut oil"},
+    {"item": "flax_egg", "each": 1, "note": "made 10 minutes ahead"},
+    {"group": "Lemon cream"},
+    {"item": "coconut_milk", "cup": 1.5, "note": "full-fat, well shaken"},
+    {"item": "coconut_cream", "cup": 0.5},
+    {"item": "powdered_erythritol", "cup": 0.5},
+    {"item": "allulose", "tbsp": 2, "note": "keeps the cream from turning gritty in the fridge"},
+    {"item": "agar", "tsp": 1.75},
+    {"item": "salt", "tsp": 0.125},
+    {"item": "turmeric", "tsp": 0.125, "note": "a pinch, for colour only"},
+    {"item": "lemon_zest", "tbsp": 1, "note": "from about 2 lemons"},
+    {"item": "lemon_juice", "cup": 0.5, "note": "fresh, at room temperature"}
+  ],
+  "steps": [
+    "Make the flax egg and let it rest 10 minutes until gel-like.",
+    "Pulse the almond flour, powdered erythritol and salt in a food processor. Add the cold vegan butter and the flax egg and pulse until the dough clumps when pinched. Press it evenly into a 23 cm (9 in) tart tin with a removable base, prick the base and chill 20 minutes.",
+    "Heat the oven to 175 °C (350 °F). Bake the shell 14–18 minutes until evenly golden and firm at the edges, covering the rim with foil if it darkens first. Cool completely in the tin.",
+    "In a saucepan, whisk the agar into the cold coconut milk until no specks remain, then whisk in the coconut cream, powdered erythritol, allulose, salt, turmeric and zest.",
+    "Bring to a full boil over medium heat, whisking, and boil 2 minutes so the agar dissolves completely; the mixture will look thin.",
+    "Take the pan off the heat, wait 1 minute, then whisk in the lemon juice. Adding it after the boil keeps the acid from weakening the agar.",
+    "Strain at once through a fine sieve into the cooled shell and smooth the top. Work promptly: agar begins to set around 40 °C (104 °F).",
+    "Cool 30 minutes at room temperature, then refrigerate at least 3 hours, until the cream is set and cuts cleanly. Slice with a knife dipped in hot water."
+  ],
+  "swaps": [],
+  "tips": [
+    "Agar sets firmer and cleaner than an egg curd, so the slice is more like a soft panna cotta than a wobbly custard; for a softer cream use 1.5 tsp agar.",
+    "If the cream does not set, the agar did not boil long enough: return it to the pan, boil 2 minutes more, add a squeeze of lemon off the heat and pour again.",
+    "Taste the mixture before pouring: coconut mutes lemon more than butter and eggs do, so add more zest rather than more juice if you want it sharper."
+  ],
+  "origin": {
+    "family": "Lemon tart",
+    "place": "France",
+    "region": "Western Europe",
+    "lat": 48.86,
+    "lon": 2.35,
+    "era": "by the 1900s",
+    "history": "Lemon creams baked in pastry were made in French and English kitchens long before anyone recorded who first made them, and the tarte au citron became a fixture of French pâtisseries without a single credited inventor. The classic cream is set by eggs and enriched with butter. Egg-free versions that set coconut or plant milk with agar, a seaweed gel long used in East Asian sweets, spread with vegan baking in the 2000s and 2010s."
+  }
+}

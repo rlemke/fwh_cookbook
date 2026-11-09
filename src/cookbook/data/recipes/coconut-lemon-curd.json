@@ -1,0 +1,46 @@
+{
+  "id": "coconut-lemon-curd",
+  "title": "Coconut lemon curd",
+  "category": "basics",
+  "summary": "A sharp, spoonable lemon curd of coconut cream softly set with a little agar and blended smooth, sweetened with allulose so it stays silky in the fridge; vegan as written.",
+  "servings": 12,
+  "serving_size": "2 tbsp",
+  "time": {
+    "prep_min": 10,
+    "cook_min": 8,
+    "rest_min": 120
+  },
+  "ingredients": [
+    {"item": "coconut_cream", "cup": 1, "note": "unsweetened"},
+    {"item": "allulose", "cup": 0.5},
+    {"item": "agar", "tsp": 0.75},
+    {"item": "salt", "tsp": 0.125},
+    {"item": "turmeric", "tsp": 0.125, "note": "a pinch, for colour only"},
+    {"item": "lemon_zest", "tbsp": 1, "note": "from about 2 lemons"},
+    {"item": "lemon_juice", "cup": 0.5, "note": "fresh"},
+    {"item": "coconut_oil", "tbsp": 1, "note": "refined, for a neutral flavour"}
+  ],
+  "steps": [
+    "In a small saucepan (not aluminium, which reacts with the acid), whisk the agar into the cold coconut cream until no specks remain. Whisk in the allulose, salt, turmeric and zest.",
+    "Bring to a boil over medium heat, whisking, and boil 2 minutes so the agar fully dissolves.",
+    "Off the heat, whisk in the coconut oil, then the lemon juice. Adding the juice after the boil keeps the acid from weakening the agar.",
+    "Pour into a shallow container and refrigerate about 1 hour, until set to a soft, sliceable gel.",
+    "Scrape the gel into a blender or use a stick blender and blend 30–60 seconds until it turns smooth, glossy and spoonable, like a classic curd. Press through a sieve if you want it without zest.",
+    "Spoon into a jar, press plastic wrap onto the surface and refrigerate. Keeps about 1 week."
+  ],
+  "swaps": [],
+  "tips": [
+    "Setting and then blending is what gives agar a curd's soft, creamy body; stirred while it sets, it turns lumpy instead.",
+    "For a spreadable curd with no set at all, skip the agar and blend 0.25 tsp xanthan gum into the cooled mixture; it stays a little looser and never firms up.",
+    "Unlike an egg curd it cannot curdle, but it tastes of coconut as well as lemon; refined coconut cream brands vary, so pick a mild one."
+  ],
+  "origin": {
+    "family": "Lemon curd",
+    "place": "England",
+    "region": "Northern Europe",
+    "lat": 52.36,
+    "lon": -1.17,
+    "era": "1800s",
+    "history": "Lemon curd, once also called 'lemon cheese', became a popular English spread for bread, scones and tarts in the 1800s, made with lemon juice, sugar, eggs and butter. Egg-free curds thickened with cornflour or custard powder have long existed as economical versions. The coconut-based vegan curd set with agar or gums is a more recent development of plant-based cooking, and has no single known originator."
+  }
+}

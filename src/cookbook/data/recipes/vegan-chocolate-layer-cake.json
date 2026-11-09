@@ -1,0 +1,134 @@
+{
+  "id": "vegan-chocolate-layer-cake",
+  "title": "Vegan chocolate layer cake",
+  "category": "cakes",
+  "summary": "Two moist almond-cocoa layers, raised with baking soda and cider vinegar and bound with flax and psyllium, filled and covered with a coconut-cream chocolate ganache; vegan as written.",
+  "servings": 12,
+  "serving_size": "1 slice",
+  "time": {
+    "prep_min": 35,
+    "cook_min": 30,
+    "rest_min": 120
+  },
+  "ingredients": [
+    {
+      "group": "Chocolate layers"
+    },
+    {
+      "item": "flax_egg",
+      "each": 3,
+      "note": "mixed first and rested 10 minutes"
+    },
+    {
+      "item": "almond_milk",
+      "cup": 1,
+      "note": "at room temperature"
+    },
+    {
+      "item": "cider_vinegar",
+      "tbsp": 1
+    },
+    {
+      "item": "avocado_oil",
+      "tbsp": 6,
+      "note": "or melted dairy-free butter"
+    },
+    {
+      "item": "vanilla",
+      "tsp": 2
+    },
+    {
+      "item": "almond_flour",
+      "cup": 2.5
+    },
+    {
+      "item": "cocoa_powder",
+      "cup": 0.5
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.75
+    },
+    {
+      "item": "psyllium_husk",
+      "tbsp": 1,
+      "note": "powder, not whole husks"
+    },
+    {
+      "item": "baking_powder",
+      "tsp": 2
+    },
+    {
+      "item": "baking_soda",
+      "tsp": 1
+    },
+    {
+      "item": "espresso_powder",
+      "tsp": 1,
+      "note": "deepens the chocolate; it will not taste of coffee"
+    },
+    {
+      "item": "salt",
+      "tsp": 0.5
+    },
+    {
+      "item": "water",
+      "cup": 0.33,
+      "note": "hot"
+    },
+    {
+      "group": "Ganache"
+    },
+    {
+      "item": "coconut_cream",
+      "cup": 0.75
+    },
+    {
+      "item": "dark_chocolate_85",
+      "g": 75,
+      "note": "dairy-free, finely chopped"
+    },
+    {
+      "item": "cocoa_powder",
+      "tbsp": 2
+    },
+    {
+      "item": "allulose",
+      "tbsp": 3
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    }
+  ],
+  "steps": [
+    "Make the flax eggs and leave them 10 minutes to thicken. Stir the cider vinegar into the almond milk and leave it 5 minutes; it will curdle slightly.",
+    "Heat the oven to 175 °C (350 °F). Line the bases of two 20 cm (8 in) round pans with parchment and oil the sides.",
+    "Whisk the almond flour, cocoa, erythritol, psyllium, baking powder, baking soda, espresso powder and salt together, breaking up any lumps of almond flour or cocoa.",
+    "Whisk the flax eggs, soured almond milk, oil and vanilla together, pour them into the dry ingredients and stir until smooth. Stir in the hot water. The batter thickens within a minute or two as the psyllium swells, so divide it between the pans straight away and smooth the tops.",
+    "Bake 25–30 minutes, until the tops spring back when pressed and a skewer in the centre comes out with only a few moist crumbs. Cool 15 minutes in the pans; the layers are fragile while hot. Run a knife round the edge, turn out onto a rack and cool completely.",
+    "For the ganache, heat the coconut cream until it steams and small bubbles form at the edge, without boiling. Pour it over the chopped chocolate, cocoa, allulose and salt, leave 2 minutes, then stir from the centre until smooth and glossy. Stir in the vanilla.",
+    "Cool the ganache at room temperature, stirring now and then, for about 1 hour, or chill it 20–30 minutes, until it is thick enough to hold a soft ridge when spread, like soft butter.",
+    "Set one layer upside down on a plate and spread it with a third of the ganache. Top with the second layer, flat side up, and cover the top and sides with the rest.",
+    "Refrigerate at least 1 hour to firm the ganache, then let the cake stand 20 minutes before slicing with a knife dipped in hot water."
+  ],
+  "swaps": [],
+  "tips": [
+    "Check the chocolate label: many dark chocolates contain milk solids or butterfat. Choose a dairy-free 85% bar, or replace it with 30 g more cocoa and 2 tbsp more allulose for a darker, less glossy ganache.",
+    "Unlike the egg sponges of Black Forest cake and Sachertorte, this is a moist, close-crumbed cake, closer to a devil's food cake. It is softer than an egg cake on the day of baking and slices more cleanly after a night in the fridge.",
+    "For a Black Forest-style cake, brush each layer with kirsch, fill with whipped coconut cream and cherries cooked briefly with a little erythritol, and finish with chocolate shavings instead of ganache. For a Sacher-style torte, spread a thin layer of cooked sweetened apricot between the layers and over the top, then pour the ganache over while it is still warm and pourable, as a glaze."
+  ],
+  "origin": {
+    "family": "Layer cake",
+    "place": "Black Forest",
+    "region": "Western Europe",
+    "lat": 48.0,
+    "lon": 8.2,
+    "era": "1900s",
+    "history": "Chocolate layer cakes grew common in Europe and America in the late 1800s and early 1900s, as cocoa powder became cheap and baking powder and soda made tall, light cakes reliable; the Black Forest cake and the Viennese Sachertorte are among the best-known European examples. Eggless chocolate cakes are older than the vegan movement: the American 'wacky' or 'crazy' cake, raised with baking soda and vinegar and made with oil and water instead of eggs, butter and milk, is often linked to wartime rationing or the Depression, though its exact origin is not well documented. Modern vegan chocolate cakes largely descend from that method, with plant milks and flax or similar binders added."
+  }
+}

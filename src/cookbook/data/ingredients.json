@@ -228,5 +228,6 @@
  "aquafaba":         {"name": "aquafaba (liquid from a can of unsalted chickpeas)", "label": {"kcal": 18, "fat_g": 0.2, "protein_g": 1.2, "carbs_g": 2.9, "fiber_g": 0.6, "sugars_g": 0.3, "polyol_g": 0}, "note": "typical of published analyses of canned chickpea liquid; it varies from can to can", "contains": [], "tbsp_g": 15, "cup_g": 240},
  "tofu_mayo":        {"name": "egg-free mayonnaise (tofu-based)", "usda": "Mayonnaise, made with tofu", "contains": ["soy"], "tbsp_g": 15},
  "vegetable_broth":  {"name": "vegetable broth", "usda": "Soup, vegetable broth, ready to serve", "contains": [], "cup_g": 240},
- "vegan_worcestershire": {"name": "vegan Worcestershire sauce (no anchovy)", "label": {"kcal": 78, "fat_g": 0, "protein_g": 0, "carbs_g": 19, "fiber_g": 0, "sugars_g": 10, "polyol_g": 0}, "contains": [], "tbsp_g": 17}
+ "vegan_worcestershire": {"name": "vegan Worcestershire sauce (no anchovy)", "label": {"kcal": 78, "fat_g": 0, "protein_g": 0, "carbs_g": 19, "fiber_g": 0, "sugars_g": 10, "polyol_g": 0}, "contains": [], "tbsp_g": 17},
+ "kala_namak":       {"name": "kala namak (Indian black salt)", "usda": "Salt, table", "usda_note": "Same food as table salt for nutrition; its sulphur compounds give an egg-like smell", "contains": [], "tsp_g": 5}
 }

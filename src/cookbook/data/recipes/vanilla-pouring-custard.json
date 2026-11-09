@@ -1,0 +1,43 @@
+{
+  "id": "vanilla-pouring-custard",
+  "title": "Vanilla pouring custard",
+  "category": "basics",
+  "summary": "A pale, vanilla-scented pouring custard of almond milk and coconut cream, thickened with a whisper of xanthan so it coats a spoon; vegan as written.",
+  "servings": 8,
+  "serving_size": "1/4 cup",
+  "time": {
+    "prep_min": 5,
+    "cook_min": 8,
+    "rest_min": 0
+  },
+  "ingredients": [
+    {"item": "almond_milk", "cup": 1.5},
+    {"item": "coconut_cream", "cup": 0.5, "note": "unsweetened"},
+    {"item": "allulose", "cup": 0.25},
+    {"item": "salt", "tsp": 0.125},
+    {"item": "turmeric", "tsp": 0.0625, "note": "a tiny pinch, for colour only"},
+    {"item": "xanthan_gum", "tsp": 0.33},
+    {"item": "vanilla", "tsp": 2}
+  ],
+  "steps": [
+    "Warm the almond milk, coconut cream, allulose, salt and turmeric in a saucepan over medium heat, whisking, until steaming and just at a simmer, about 85 °C (185 °F), 4–5 minutes.",
+    "Take the pan off the heat. Sprinkle the xanthan gum over the surface a little at a time while blending with a stick blender (or whisking hard), then blend 30 seconds more so no lumps form.",
+    "Stir in the vanilla. Rest 2 minutes: it should coat the back of a spoon and hold a clean line when you run a finger through it. If it is thin, blend in another pinch of xanthan.",
+    "Serve warm, or press plastic wrap onto the surface and chill; it pours cold too. Keeps 4 days refrigerated; stir before using."
+  ],
+  "swaps": [],
+  "tips": [
+    "Xanthan thickens without heat or setting, so unlike crème anglaise this cannot curdle or overcook; too much makes it slimy, so add it by the pinch.",
+    "For a richer, more set texture, use 0.5 tsp agar instead of the xanthan: boil it with the milks for 2 minutes, chill until set, then blend smooth. It pours cold but thickens again if left still.",
+    "It has no egg yolk, so the colour comes from the turmeric and the richness from the coconut cream; it tastes cleaner and lighter than the original."
+  ],
+  "origin": {
+    "family": "Custard sauce",
+    "place": "Paris",
+    "region": "Western Europe",
+    "lat": 48.86,
+    "lon": 2.35,
+    "era": "1800s",
+    "history": "Crème anglaise, 'English cream', is usually said to be named for the English love of pouring custard; milk sauces thickened with egg yolks were made on both sides of the Channel and the sauce was standard in classical French cookery by the 1800s. Egg-free pouring custard has a long history of its own in Britain through Bird's custard powder, created around 1837, reportedly for a wife who could not eat eggs. Today's plant-milk versions thickened with gums or agar extend that idea."
+  }
+}

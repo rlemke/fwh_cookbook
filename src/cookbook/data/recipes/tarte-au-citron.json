@@ -75,8 +75,8 @@
   ],
   "dairy_free_notes": "Dairy-free butter gives a slightly lighter, more lemony cream; the pastry is a little more fragile, so chill it well before baking.",
   "vegan_alternative": {
-    "recipe": "lemon-posset",
-    "note": "The lemon cream is a curd set by eggs, with no credible swap. The vegan lemon posset is the closest sharp, set lemon cream in the book."
+    "recipe": "vegan-lemon-tart",
+    "note": "The filling is a curd set by egg. The vegan lemon tart has the same sharp lemon filling in an almond shell, set with agar instead."
   },
   "tips": [
     "Blending the butter in at 60 °C, rather than cooking it in, is what makes the cream dense and silky.",

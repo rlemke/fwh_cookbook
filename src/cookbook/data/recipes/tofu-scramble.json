@@ -1,0 +1,87 @@
+{
+  "id": "tofu-scramble",
+  "title": "Tofu scramble",
+  "category": "breakfast",
+  "summary": "Soft, golden curds of crumbled firm tofu with turmeric, nutritional yeast and kala namak for an egg-like flavour, folded with wilted spinach; vegan as written.",
+  "servings": 2,
+  "serving_size": "about 1 cup",
+  "time": {
+    "prep_min": 10,
+    "cook_min": 12,
+    "rest_min": 0
+  },
+  "ingredients": [
+    {
+      "item": "firm_tofu",
+      "g": 400,
+      "note": "one block, drained and patted dry"
+    },
+    {
+      "item": "olive_oil",
+      "tbsp": 2
+    },
+    {
+      "item": "onion",
+      "each": 0.25,
+      "note": "finely chopped"
+    },
+    {
+      "item": "garlic",
+      "each": 1,
+      "note": "minced"
+    },
+    {
+      "item": "turmeric",
+      "tsp": 0.5
+    },
+    {
+      "item": "nutritional_yeast",
+      "tbsp": 2
+    },
+    {
+      "item": "almond_milk",
+      "tbsp": 3
+    },
+    {
+      "item": "kala_namak",
+      "tsp": 0.5,
+      "note": "added at the end"
+    },
+    {
+      "item": "black_pepper",
+      "tsp": 0.25
+    },
+    {
+      "item": "spinach",
+      "g": 60
+    },
+    {
+      "item": "chives",
+      "tbsp": 1,
+      "note": "to serve"
+    }
+  ],
+  "steps": [
+    "Press the tofu between paper towels under a heavy plate for 10 minutes, then crumble it by hand into uneven pieces from pea- to thumbnail-size; irregular curds look most like scrambled egg.",
+    "Stir the turmeric and nutritional yeast into the almond milk to make a smooth yellow paste.",
+    "Heat the olive oil in a 25 cm (10 in) non-stick skillet over medium heat. Cook the onion 3–4 minutes until soft and translucent, then add the garlic for 30 seconds.",
+    "Add the tofu and cook 4–5 minutes, turning occasionally, until the moisture has steamed off and a few edges are lightly golden.",
+    "Pour in the yellow paste and fold until every curd is evenly coloured, about 1 minute. Add the spinach and fold until just wilted, 1–2 minutes; the pan should look moist but not wet.",
+    "Off the heat, sprinkle over the kala namak and pepper, fold once, taste, and serve at once scattered with chives."
+  ],
+  "swaps": [],
+  "tips": [
+    "Add the kala namak off the heat: its sulphurous, egg-like aroma fades with cooking. It is salty, so add no other salt until you have tasted.",
+    "Unlike egg, tofu does not set or go rubbery if overcooked, but it does dry out; the splash of almond milk keeps the curds soft, so add another spoonful if they look dry.",
+    "It reheats well, which scrambled eggs do not, so it can be made ahead for the week."
+  ],
+  "origin": {
+    "family": "Tofu scramble",
+    "place": "Summertown, Tennessee",
+    "region": "North America",
+    "lat": 35.43,
+    "lon": -87.29,
+    "era": "1970s",
+    "history": "Scrambled tofu was popularised in the United States by vegetarian cookbooks of the 1970s, among them those from The Farm, a commune in Summertown, Tennessee, that published widely read soy-food recipes. No single inventor is known, and similar crumbled-tofu dishes were cooked in East Asia long before. Turmeric for colour and nutritional yeast for savouriness became the standard seasonings; kala namak, an Indian sulphur salt, was adopted later to imitate the taste of egg."
+  }
+}

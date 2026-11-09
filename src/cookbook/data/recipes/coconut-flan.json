@@ -1,0 +1,52 @@
+{
+  "id": "coconut-flan",
+  "title": "Coconut flan",
+  "category": "custards",
+  "summary": "Turned-out custards of coconut and almond milk set with agar, under a dark allulose caramel that pools into a sauce; vegan as written.",
+  "servings": 6,
+  "serving_size": "1 flan",
+  "time": {
+    "prep_min": 15,
+    "cook_min": 15,
+    "rest_min": 240
+  },
+  "ingredients": [
+    {"group": "Caramel"},
+    {"item": "allulose", "cup": 0.33},
+    {"item": "water", "tbsp": 2},
+    {"group": "Custard"},
+    {"item": "coconut_milk", "cup": 1.5, "note": "full-fat, well shaken"},
+    {"item": "almond_milk", "cup": 1},
+    {"item": "erythritol", "cup": 0.25},
+    {"item": "allulose", "tbsp": 2},
+    {"item": "agar", "tsp": 1.25},
+    {"item": "salt", "tsp": 0.125},
+    {"item": "turmeric", "tsp": 0.0625, "note": "a tiny pinch, for an egg-custard colour"},
+    {"item": "lemon_zest", "tsp": 1, "note": "optional, in strips"},
+    {"item": "vanilla", "tsp": 1.5}
+  ],
+  "steps": [
+    "Set out six 150 ml (5 oz) ramekins.",
+    "Make the caramel: heat the allulose and water in a small light-coloured pan over medium heat, swirling but not stirring, until it turns deep amber, 5–7 minutes. Allulose browns faster than sugar, so watch it closely and pull it at amber, before it smells sharp. Pour it at once into the ramekins and tilt to coat the bases.",
+    "In a saucepan, whisk the agar into the cold almond milk until no specks remain. Whisk in the coconut milk, erythritol, allulose, salt, turmeric and lemon zest.",
+    "Bring to a boil over medium heat, whisking, and boil 2 minutes so the agar fully dissolves.",
+    "Off the heat, remove the zest and stir in the vanilla. Pour promptly through a sieve over the caramel in the ramekins; agar starts to set around 40 °C (104 °F).",
+    "Cool 30 minutes, then refrigerate at least 3 hours, until set and firm when the ramekin is tilted. The caramel softens into a sauce as it sits.",
+    "To serve, run a thin knife around each flan, dip the base in hot water for 10 seconds, invert onto a plate and lift off the ramekin, letting the caramel run over."
+  ],
+  "swaps": [],
+  "tips": [
+    "Erythritol will not caramelise and recrystallises cold, so the caramel must be allulose; it also stays liquid in the fridge instead of hardening.",
+    "Agar sets cleaner and slightly firmer than an egg flan and never weeps or forms bubbles, but it has no eggy richness; the coconut milk supplies the body.",
+    "For a crème brûlée-style top, skip the caramel and leave the custard in the ramekins: just before serving, sprinkle 1 tsp allulose over each set custard and torch it until amber. It browns fast and stays a little tacky rather than glass-hard."
+  ],
+  "origin": {
+    "family": "Flan",
+    "place": "Spain",
+    "region": "Southern Europe",
+    "lat": 40.42,
+    "lon": -3.7,
+    "era": "ancient (Roman roots)",
+    "history": "Custards of eggs and milk go back to Roman cooks, and in Spain the custard came to be baked over caramel and turned out of its mould as flan, which colonists carried to Latin America and the Philippines. Coconut flans are common across the Caribbean and Latin America, though most still use eggs. Fully egg-free flans set with agar are a recent vegan adaptation, drawing on agar's long use in Asian desserts."
+  }
+}

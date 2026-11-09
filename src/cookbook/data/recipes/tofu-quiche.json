@@ -1,0 +1,126 @@
+{
+  "id": "tofu-quiche",
+  "title": "Mushroom tofu quiche",
+  "category": "breakfast",
+  "summary": "A crisp almond-flour crust filled with a smooth, sliceable custard of blended silken and firm tofu, sautéed mushrooms, onion and smoked paprika; vegan as written.",
+  "servings": 6,
+  "serving_size": "1 slice",
+  "time": {
+    "prep_min": 30,
+    "cook_min": 55,
+    "rest_min": 30
+  },
+  "ingredients": [
+    {
+      "group": "Crust"
+    },
+    {
+      "item": "flax_egg",
+      "each": 1
+    },
+    {
+      "item": "almond_flour",
+      "cup": 1.5
+    },
+    {
+      "item": "coconut_flour",
+      "tbsp": 1
+    },
+    {
+      "item": "psyllium_husk",
+      "tsp": 1
+    },
+    {
+      "item": "salt",
+      "tsp": 0.25
+    },
+    {
+      "item": "vegan_butter",
+      "tbsp": 4,
+      "note": "cold, cubed"
+    },
+    {
+      "group": "Filling"
+    },
+    {
+      "item": "olive_oil",
+      "tbsp": 1
+    },
+    {
+      "item": "mushrooms",
+      "cup": 3,
+      "note": "sliced"
+    },
+    {
+      "item": "onion",
+      "each": 0.5,
+      "note": "finely chopped"
+    },
+    {
+      "item": "garlic",
+      "each": 1,
+      "note": "minced"
+    },
+    {
+      "item": "silken_tofu",
+      "g": 350
+    },
+    {
+      "item": "firm_tofu",
+      "g": 200,
+      "note": "drained and patted dry"
+    },
+    {
+      "item": "nutritional_yeast",
+      "tbsp": 3
+    },
+    {
+      "item": "almond_milk",
+      "tbsp": 3
+    },
+    {
+      "item": "turmeric",
+      "tsp": 0.25
+    },
+    {
+      "item": "paprika",
+      "tsp": 1,
+      "note": "smoked"
+    },
+    {
+      "item": "kala_namak",
+      "tsp": 0.5
+    },
+    {
+      "item": "black_pepper",
+      "tsp": 0.25
+    },
+    {
+      "item": "nutmeg",
+      "tsp": 0.125
+    }
+  ],
+  "steps": [
+    "Make the flax egg and rest it 10 minutes until gel-like. Heat the oven to 175 °C (350 °F).",
+    "Pulse the almond flour, coconut flour, psyllium, salt and vegan butter in a food processor until crumbly, add the flax egg and pulse until the dough clumps. Press evenly into a 23 cm (9 in) tart or pie pan, prick all over and bake 15–18 minutes until golden at the edge and dry to the touch.",
+    "Meanwhile heat the olive oil in a large skillet over medium-high heat and cook the mushrooms and onion 8–10 minutes, until the mushrooms have released their liquid and it has evaporated and they are browned. Add the garlic for 30 seconds and take off the heat.",
+    "Blend the silken tofu, firm tofu, nutritional yeast, almond milk, turmeric, paprika, kala namak, pepper and nutmeg until completely smooth, about 1 minute, scraping down once. It should be as thick as Greek yogurt.",
+    "Fold the mushrooms into the tofu mixture, spread it into the warm crust and smooth the top.",
+    "Bake 35–40 minutes, until the top is dry, lightly golden and slightly cracked at the edge, and the centre feels firm when pressed. Rest at least 30 minutes before slicing; it firms further as it cools."
+  ],
+  "swaps": [],
+  "tips": [
+    "Cook the mushrooms until they are dry and brown: any liquid left in them seeps into the filling and makes the crust soggy.",
+    "The tofu filling does not wobble and puff like an egg custard, so judge doneness by a dry, firm top rather than a jiggle; it slices more cleanly than quiche once cool.",
+    "Cover the crust edge with foil if it browns before the filling is done."
+  ],
+  "origin": {
+    "family": "Quiche",
+    "place": "Nancy, Lorraine",
+    "region": "Western Europe",
+    "lat": 48.69,
+    "lon": 6.18,
+    "era": "by the 1500s",
+    "history": "Quiche comes from the Lorraine region of north-eastern France, where open tarts of eggs, cream and smoked bacon were baked in a bread-dough base; the dish is often traced to the 1500s. It became fashionable in Britain and the United States after the Second World War. Tofu quiches, with blended tofu standing in for the egg and cream custard, appeared in American vegetarian and vegan cookbooks from about the 1980s, though no single first recipe is known."
+  }
+}

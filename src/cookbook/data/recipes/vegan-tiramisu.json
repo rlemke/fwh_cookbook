@@ -1,0 +1,129 @@
+{
+  "id": "vegan-tiramisu",
+  "title": "Vegan tiramisù",
+  "category": "mousses",
+  "summary": "Two thin almond sponges raised with whipped aquafaba, soaked in rum-scented espresso and layered with a coconut and cream-cheese 'mascarpone' under a dusting of cocoa; vegan as written.",
+  "servings": 9,
+  "serving_size": "1 square",
+  "time": {
+    "prep_min": 50,
+    "cook_min": 20,
+    "rest_min": 480
+  },
+  "ingredients": [
+    {
+      "group": "Almond sponge"
+    },
+    {
+      "item": "aquafaba",
+      "cup": 0.5,
+      "note": "from an unsalted can of chickpeas, at room temperature"
+    },
+    {
+      "item": "cream_of_tartar",
+      "tsp": 0.5
+    },
+    {
+      "item": "erythritol",
+      "cup": 0.33
+    },
+    {
+      "item": "almond_flour",
+      "cup": 1.5
+    },
+    {
+      "item": "baking_powder",
+      "tsp": 1.5
+    },
+    {
+      "item": "xanthan_gum",
+      "tsp": 0.25
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "almond_milk",
+      "cup": 0.25
+    },
+    {
+      "item": "avocado_oil",
+      "tbsp": 2
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "group": "Coffee soak"
+    },
+    {
+      "item": "coffee",
+      "cup": 0.75,
+      "note": "strong espresso, cooled"
+    },
+    {
+      "item": "rum_extract",
+      "tsp": 1
+    },
+    {
+      "item": "erythritol",
+      "tbsp": 1
+    },
+    {
+      "group": "Vegan mascarpone cream"
+    },
+    {
+      "item": "coconut_cream",
+      "cup": 1.25,
+      "note": "the firm part only, from cans chilled overnight"
+    },
+    {
+      "item": "vegan_cream_cheese",
+      "g": 170,
+      "note": "firm block style, cold"
+    },
+    {
+      "item": "powdered_erythritol",
+      "cup": 0.5
+    },
+    {
+      "item": "vanilla",
+      "tsp": 1
+    },
+    {
+      "group": "To finish"
+    },
+    {
+      "item": "cocoa_powder",
+      "tbsp": 2
+    }
+  ],
+  "steps": [
+    "Heat the oven to 175 °C (350 °F). Line the bases of two 20 cm (8 in) square pans, the same size as the dish you will assemble in, with parchment and oil the sides. (With one pan, bake the batter in two batches.)",
+    "Whisk the almond flour, baking powder, xanthan and salt together. In a second bowl stir the almond milk, oil and vanilla together.",
+    "In a clean, grease-free bowl, whisk the aquafaba and cream of tartar with a stand or hand mixer on high until it forms soft peaks, about 4 minutes. Add the erythritol a spoonful at a time and keep whisking until the foam is glossy and holds stiff peaks when the whisk is lifted, 6–10 minutes in all.",
+    "Stir the almond-milk mixture into the dry ingredients to make a thick paste. Stir in a quarter of the aquafaba foam to loosen it, then fold in the rest in two additions, gently, until no white streaks remain. Fat collapses aquafaba quickly, so work without delay.",
+    "Divide between the pans, spread level (each layer is about 1.5 cm deep) and bake 16–20 minutes, until golden, firm at the centre and just pulling away from the sides. Cool 10 minutes in the pans, then turn out and cool completely. Rinse and dry the pan if you will assemble in it.",
+    "Stir the coffee, rum extract and 1 tbsp erythritol together.",
+    "Beat the cold vegan cream cheese with the powdered erythritol and vanilla just until smooth. In a chilled bowl, whip the firm coconut cream to soft, holding peaks, 2–3 minutes; stop as soon as it holds its shape, or it turns grainy. Fold the coconut cream into the cream cheese.",
+    "Lay one sponge in the 20 cm (8 in) square dish and brush it evenly with half the coffee, letting each pass soak in before the next. Spread over half the cream. Repeat with the second sponge, the rest of the coffee and the rest of the cream, and smooth the top.",
+    "Cover and refrigerate at least 8 hours, until the cream is firm enough to cut. Sift the cocoa over just before serving."
+  ],
+  "swaps": [],
+  "tips": [
+    "The original's cream is built on cooked egg yolks and mascarpone; this one sets only by chilling the coconut fat, so it is softer at room temperature and tastes faintly of coconut and of the tang of the cream cheese. Serve it straight from the fridge.",
+    "Baking the sponge in the same size pan as the dish means no trimming and no gaps for the coffee to pool in. Brush the coffee on rather than pouring; the almond sponge soaks it up faster than ladyfingers, and a soggy bottom layer cannot be undone.",
+    "Some cans of coconut cream will not whip, usually ones with added stabilisers or that were not chilled long enough. Chill a spare can, and whip only the firm part, keeping the thin liquid for another use."
+  ],
+  "origin": {
+    "family": "Tiramisù",
+    "place": "Treviso",
+    "region": "Southern Europe",
+    "lat": 45.67,
+    "lon": 12.24,
+    "era": "1960s–1970s",
+    "history": "Tiramisù, coffee-soaked biscuits layered with a cream of egg yolks, sugar and mascarpone, is a recent dessert whose invention is disputed between Treviso in the Veneto and towns in neighbouring Friuli, with dates from the 1950s to the early 1970s. It spread through Italy and abroad in the 1980s. Egg-free and dairy-free versions are more recent still; they appear to have become common only after aquafaba was popularised as an egg-white substitute around 2015, alongside commercial plant-based cream cheeses."
+  }
+}

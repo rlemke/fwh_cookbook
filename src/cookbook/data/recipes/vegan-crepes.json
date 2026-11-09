@@ -1,0 +1,67 @@
+{
+  "id": "vegan-crepes",
+  "title": "Vegan crêpes",
+  "category": "breakfast",
+  "summary": "Thin, flexible egg-free crêpes held together with flaxseed and psyllium, for folding around sweet or savoury fillings; vegan as written.",
+  "servings": 4,
+  "serving_size": "2 crêpes",
+  "time": {
+    "prep_min": 5,
+    "cook_min": 25,
+    "rest_min": 15
+  },
+  "ingredients": [
+    {
+      "item": "almond_milk",
+      "cup": 1.25
+    },
+    {
+      "item": "flaxseed_meal",
+      "tbsp": 3
+    },
+    {
+      "item": "almond_flour",
+      "cup": 0.25
+    },
+    {
+      "item": "coconut_flour",
+      "tbsp": 1
+    },
+    {
+      "item": "psyllium_husk",
+      "tsp": 2
+    },
+    {
+      "item": "salt",
+      "tsp": 0.125
+    },
+    {
+      "item": "vegan_butter",
+      "tbsp": 2,
+      "note": "melted, plus extra for the pan"
+    }
+  ],
+  "steps": [
+    "Blend all the ingredients until completely smooth, about 45 seconds.",
+    "Rest the batter 15 minutes so the flax and psyllium gel; it thickens noticeably. It should flow like thin cream, so blend in water a tablespoon at a time if it is thicker.",
+    "Heat a 20 cm (8 in) non-stick pan over medium heat and brush lightly with vegan butter.",
+    "Pour in 4 tablespoons of batter and tilt and swirl at once to coat the base thinly and evenly.",
+    "Cook 1½–2 minutes, without moving it, until the surface looks matt and dry and the edge lifts and is lightly browned. Loosen all round with a thin spatula, flip and cook 30 seconds more.",
+    "Stack on a plate and repeat, stirring the batter each time and thinning it with a little water if it thickens as it stands."
+  ],
+  "swaps": [],
+  "tips": [
+    "Without egg there is nothing to set the crêpe quickly, so patience is the method: wait until the top is fully dry before flipping, or it tears. The first one is usually a test.",
+    "They are a little thicker, nuttier and speckled compared with egg crêpes, and they stay pliable when cold, so they fold and roll well for wraps.",
+    "Fill with coconut yogurt and berries, or with sautéed mushrooms and spinach for a savoury version."
+  ],
+  "origin": {
+    "family": "Crêpe",
+    "place": "Quimper, Brittany",
+    "region": "Western Europe",
+    "lat": 48.0,
+    "lon": -4.1,
+    "era": "medieval",
+    "history": "Brittany is the home of the crêpe: buckwheat spread there in the late Middle Ages, thin buckwheat galettes became a staple, and sweeter wheat crêpes followed as white flour became affordable. Traditional Breton galettes are often made with little or no egg, so egg-free crêpes are not a modern novelty. Flax- and psyllium-bound versions like this one are a recent, grain-free adaptation from low-carb and vegan home cooking."
+  }
+}
