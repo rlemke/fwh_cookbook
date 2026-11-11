@@ -65,6 +65,9 @@ python tools/check_recipes.py --fdc FoodData_Central_sr_legacy_food_csv_2018-04.
 
 - **Weights:** cups and spoons convert to grams using each ingredient's own weight, so a cup of almond flour
   counts as 96 g and a cup of cream cheese as 232 g.
+  Amounts written in grams also show an approximate household measure (`fmt.household`):
+  cups/tbsp/tsp from the same weights, a count for onions and fruit, ounces/pounds for
+  chocolate, meat, fish and anything over 4 cups; none when the line's note already gives one.
 - **Net carbs:** total carbohydrate minus fibre minus sugar alcohols and allulose. Pages always show the
   sugar-alcohol grams separately.
 - **The dairy-free column:** worked out from the swapped ingredients rather than assumed to be the same.

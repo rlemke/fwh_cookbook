@@ -301,3 +301,27 @@ def test_every_vegan_alternative_is_a_vegan_recipe(table):
     # validate_book catches a non-vegan or missing target.
     fake = _recipe([{"item": "egg", "each": 1}], vegan_alternative={"recipe": "nope", "note": "n"})
     assert validate_book([fake], table)
+
+
+def test_gram_lines_show_an_approximate_household_measure(table):
+    from cookbook.fmt import household
+
+    ing = table.ingredients
+    m, rest = line({"item": "almond_flour", "g": 200}, ing["almond_flour"])
+    assert m == "200 g" and "(about 2 cups)" in rest
+    assert household(20, ing["coconut_flour"]) == "about 3 tbsp"
+    assert household(40, ing["sf_chocolate_chips"]) == "about ¼ cup"
+    # chocolate, meat: by weight; produce: by the piece; bulk volume: by weight
+    assert household(115, ing["unsweetened_chocolate"]) == "about 4 oz"
+    assert household(900, ing["ground_beef"]) == "about 2 lb"
+    assert household(60, ing["onion"]) == "about ½ onion"
+    assert household(900, ing["spinach"]) == "about 2 lb"
+    # a note that already gives a measure is not repeated
+    assert household(340, ing["cranberries"], "one 12 oz bag") == ""
+
+
+def test_every_gram_line_formats(table):
+    for r in load_recipes():
+        for ln in r["ingredients"]:
+            if "item" in ln and "g" in ln:
+                line(ln, table.ingredients[ln["item"]])
